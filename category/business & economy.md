@@ -8,9 +8,9 @@ Business and economics refers to the strategic and financial aspects of the indu
 
 [Technology resilience](#technology-resilience)
 
-[Developing competencies](#Developing competencies)
+[Developing competencies](#developing-competencies)
 
-[Re-positioning](#Re)positioning)
+[Re-positioning](#re-positioning)
 
 [On demand production](#on-demand-production)
 
