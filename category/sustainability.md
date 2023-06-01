@@ -3,6 +3,28 @@
 
 Sustainability encompasses practices that aim to minimize the negative environmental and social impacts of the industry. It involves adopting sustainable materials, reducing waste and emissions, promoting ethical labor practices, and embracing circular economy principles. The goal is to create a more responsible and resilient fashion industry that prioritizes environmental stewardship and social well-being.
 
+[From sustainable to circular materials](#from-sustainable-to-circular-materials)
+
+[Design for disassembly](#design-for-disassembly)
+
+[Designed for multiple uses](#designed-for-multiple-uses)
+
+[More than human design](#more-than-human-design)
+
+[Collaborative consumption](#collaborative-consumption)
+
+[Enabling repairability](#enabling-repairability)
+
+[Extending life-cycles](#extending-life-cycles)
+
+[Post-use materials](#post-use-materials)
+
+[Joining closed-loop recycling](#joining-closed-loop-recycling)
+
+[Waste reduction](#waste-reduction)
+
+
+
 ## From sustainable to circular materials
 
 Sustainable to circular materials refers to the shift in the fashion industry towards using materials that not only have a low environmental impact but also contribute to a circular economy. Sustainable materials are those that are responsibly sourced, produced with minimal harm to the environment, and have a reduced carbon footprint. These materials may include organic cotton, hemp, recycled polyester, and other eco-friendly alternatives.  However, the concept of circular materials goes beyond sustainability by emphasizing the need for materials that can be recycled, reused, or biodegraded at the end of their life cycle.
