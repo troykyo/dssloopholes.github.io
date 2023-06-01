@@ -3,6 +3,26 @@
 
 Business and economics refers to the strategic and financial aspects of the industry. It involves understanding market dynamics, consumer behavior, supply chain management, branding, and profitability. Fashion brands need to navigate the competitive landscape, innovate to meet changing consumer demands, and optimize their operations to achieve sustainable growth and success in the marketplace.
 
+[Building Product-Service Ecosystems](#building-product-service-ecosystems)
+[Revenue model](#revenue-model)
+
+[Technology resilience](#technology-resilience)
+
+[Developing competencies](#Developing competencies)
+
+[Re-positioning](#Re)positioning)
+
+[On demand production](#on-demand-production)
+
+[Economic resilience](#economic-resilience)
+
+[Management: Task allocation](#management-ask-allocation)
+
+[Means of Communication](#means-of-communication)
+
+[P2P (Person to Person)](#p2p)
+
+
 ## Building Product-Service Ecosystems
 
 Building product-service ecosystems refers to the strategic integration of a diverse array of interconnected products, services, and experiences that collectively create a comprehensive and personalized offering for customers. It involves the alignment of physical products, digital platforms, services, and partnerships to deliver a seamless and cohesive customer experience.
@@ -253,7 +273,7 @@ Nike has established the Nike School of Sustainable Materials and Manufacturing 
 
 Fashion Revolution is a global movement advocating for transparency and sustainability in the fashion industry. Through its educational programs, campaigns, and resources, Fashion Revolution aims to develop competencies among consumers, students, and professionals related to ethical fashion, supply chain transparency, and responsible consumption. The movement encourages individuals to question and engage with the fashion industry, fostering a more informed and responsible approach to fashion.
 
-## Re)positioning
+## Re-positioning
 
 (Re)positioning in the fashion domain refers to the strategic process of changing or adjusting the perception, image, or market positioning of a fashion brand, product, or service within the competitive landscape. It involves redefining the target audience, value proposition, brand identity, and marketing strategies to establish a unique and differentiated position in the market.
 
@@ -513,7 +533,7 @@ Everlane is known for its transparent communication strategy. The brand provides
 
 process.
 
-## P2P (Person to Person)
+## P2P
 
 Person-to-person (P2P) refers to a type of online platform or marketplace that facilitates direct transactions between individuals, allowing them to share, sell, or rent clothing items. P2P platforms have gained popularity in recent years, providing a convenient and sustainable way for individuals to access a wide range of fashion choices while promoting circularity and reducing waste.
 
