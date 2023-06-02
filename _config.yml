@@ -21,7 +21,7 @@
 title: LOOPHOLES
 email: DSSloopholes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sustainable game for changing your business
+  Loopholes is not a typical game; it's a catalyst for change, designed to bring together professionals from different backgrounds and empower them to explore sustainable and digital solutions. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: loopholes
@@ -31,9 +31,7 @@ github_username:  loopholes
 theme: minima
 plugins:
   - jekyll-feed
-collections:
-  category:
-    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
