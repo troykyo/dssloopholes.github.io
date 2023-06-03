@@ -4,7 +4,7 @@ Digitalization refers to the integration of digital technologies and processes i
 
 ## Digitalization strategies
 
-[Virtual Sampling](http://circularloopholes.net/category/digitalization/AR%20try-on.html)
+[Virtual Sampling](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)
 
 [Tecnographic Web-Tracking](#tecnographic-web-Tracking)
 
@@ -12,7 +12,7 @@ Digitalization refers to the integration of digital technologies and processes i
 
 [Personalisation](#personalisation)
 
-[AR try-on](#ar-try-on)
+[AR try-on](http://circularloopholes.net/category/digitalization/AR%20try-on.html)
 
 [Advanced sorting technologies](#advanced-sorting-technologies)
 
