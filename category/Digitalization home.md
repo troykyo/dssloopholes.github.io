@@ -1,0 +1,25 @@
+﻿# DIGITALIZATION
+
+Digitalization refers to the integration of digital technologies and processes into various aspects of the industry, such as design, manufacturing, retail, and marketing. It involves leveraging technologies like e-commerce, virtual reality, and data analytics to enhance operational efficiency, customer experience, and innovation in the fashion value chain.
+
+## Digitalization strategies
+
+[Virtual Sampling](#virtual-sampling)
+
+[Tecnographic Web-Tracking](#tecnographic-web-Tracking)
+
+[Digital Product Passports](#digital-product-passports)
+
+[Personalisation](#personalisation)
+
+[AR try-on](#ar-try-on)
+
+[Advanced sorting technologies](#advanced-sorting-technologies)
+
+[Wear and tear](#wear-and-tear)
+
+[Digital Twin](#digital-twin)
+
+[Blockchain and Web3 Technologies](#blockchain-and-web3-technologies)
+
+[Digital Worlds](#digital-worlds)
