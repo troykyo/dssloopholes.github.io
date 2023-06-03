@@ -31,8 +31,8 @@ github_username:  loopholes
 theme: minima
 plugins:
   - jekyll-feed
-header_pages:
-  - about.md
+#header_pages:
+ # - about.md
 #  - digitalization.md
 #  - sustainability.md
 #  - stakeholder engagement.md
