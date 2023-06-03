@@ -4,7 +4,7 @@ Digitalization refers to the integration of digital technologies and processes i
 
 ## Digitalization strategies
 
-[Virtual Sampling](#virtual-sampling)
+[Virtual Sampling]([#virtual-sampling](http://circularloopholes.net/category/digitalization/AR%20try-on.html))
 
 [Tecnographic Web-Tracking](#tecnographic-web-Tracking)
 
