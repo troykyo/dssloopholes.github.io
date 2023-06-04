@@ -4,20 +4,36 @@ Stakeholder engagement involves actively involving and collaborating with variou
 
 ## Stakeholder engagement  strategies
 
-[Open Source Co-Production](#open-source-co-production)
+[Open Source to Production](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#open-source-co-production)
 
-[Co-design](#co-design)
 
-[Local Community](#local-community)
+[Co-design](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#co-design)
 
-[Strategic partnerships](#strategic-partnerships)
 
-[Fair labor practices](#fair-labor-practices)
 
-[Refreshing Roles](#refreshing-roles)
+[Local Community](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#local-community)
 
-[User as Stakeholder](#user-as-stakeholder)
 
-[Shared Governance](#shared-governance)
+[Strategic Partnership](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#strategic-partnerships)
 
-[Fluid fashion consumption](#fluid-fashion-consumption)
+
+[Refreshing Roles](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#refreshing-roles)
+
+
+[Users as Stakeholders](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#user-as-stakeholder)
+
+
+[Shared Governance](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#shared-governance)
+
+
+[Fluid Fashion Consumption](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#fluid-fashion-consumption)
+
+
+[Fair Labor Practices](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#fair-labor-practices)
+
+
+[Wear and Tear](http://circularloopholes.net/category/engagement/Wear%20and%20tear.html)
+
+
+
+
