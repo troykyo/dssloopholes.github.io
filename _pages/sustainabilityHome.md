@@ -5,22 +5,36 @@ Sustainability encompasses practices that aim to minimize the negative environme
 
 ## Sustainability strategies
 
-[From sustainable to circular materials] (#from-sustainable-to-circular-materials)
+[Design for Disassembly](http://circularloopholes.net/category/sustainabilityHome.md.html#design-for-disassembly)
 
-[Design for disassembly](#design-for-disassembly)
 
-[Designed for multiple uses](#designed-for-multiple-uses)
+[Designed for Multiple Users](http://circularloopholes.net/category/sustainabilityHome.md.html#designed-for-multiple-uses)
 
-[More than human design](#more-than-human-design)
 
-[Collaborative consumption](#collaborative-consumption)
+[More than Human design](http://circularloopholes.net/category/sustainabilityHome.md.html#more-than-human-design)
 
-[Enabling repairability](#enabling-repairability)
 
-[Extending life-cycles](#extending-life-cycles)
+[Collaborative Consumption](http://circularloopholes.net/category/sustainabilityHome.md.html#collaborative-consumption)
 
-[Post-use materials](#post-use-materials)
 
-[Joining closed-loop recycling](#joining-closed-loop-recycling)
 
-[Waste reduction](#waste-reduction)
+[Enabling Repairability](http://circularloopholes.net/category/sustainabilityHome.md.html#enabling-repairability)
+
+
+[Extending Life-cycles](http://circularloopholes.net/category/sustainabilityHome.md.html#extending-life-cycles)
+
+
+[Post Use Materials](http://circularloopholes.net/category/sustainabilityHome.md.html#post-use-materials)
+
+
+
+[Joining Closed loop recycling](http://circularloopholes.net/category/sustainabilityHome.md.html#joining-closed-loop-recycling)
+
+
+
+[Waste Reduction](http://circularloopholes.net/category/sustainabilityHome.md.html#waste-reduction)
+
+
+[Sustainable materials](http://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
+
+
