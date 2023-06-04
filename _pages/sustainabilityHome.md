@@ -1,4 +1,4 @@
-﻿
+
 # SUSTAINABILITY
 
 Sustainability encompasses practices that aim to minimize the negative environmental and social impacts of the industry. It involves adopting sustainable materials, reducing waste and emissions, promoting ethical labor practices, and embracing circular economy principles. The goal is to create a more responsible and resilient fashion industry that prioritizes environmental stewardship and social well-being.
