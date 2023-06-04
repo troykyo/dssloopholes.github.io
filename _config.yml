@@ -63,7 +63,7 @@ include:
   - _pages
 header_pages:
  #  - about.md
-  - _pages/digitalization.md
+  - _pages/Digitalization home.md
   # - sustainability.md
 # Set to `true` to show excerpts on the homepage.
 #
