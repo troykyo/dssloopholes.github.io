@@ -5,22 +5,13 @@ Business and economics refers to the strategic and financial aspects of the indu
 
 ## Business
 
-[Building Product-Service Ecosystems](#building-product-service-ecosystems)
-
-[Revenue model](#revenue-model)
-
-[Technology resilience](#technology-resilience)
-
-[Developing competencies](#developing-competencies)
-
-[Re-positioning](#re-positioning)
-
-[On demand production](#on-demand-production)
-
-[Economic resilience](#economic-resilience)
-
-[Management: Task allocation](#management-ask-allocation)
-
-[Means of Communication](#means-of-communication)
-
-[P2P (Person to Person)](#p2p)
+[Product Service Ecosystem](http://circularloopholes.net/category/business/Building%20Product-Service%20Ecosystems.html)
+[Developing Resilience](http://circularloopholes.net/category/business/Developing%20competencies.html)
+[Economic Resilience](http://circularloopholes.net/category/business/Economic%20resilience.html)
+[Management: Task Allocation](http://circularloopholes.net/category/business/Management_%20Task%20allocation.html)
+[Means of Communication](http://circularloopholes.net/category/business/Means%20of%20Communication.html)
+[On Demand Production](http://circularloopholes.net/category/business/On%20demand%20production.html)
+[Person To Person](http://circularloopholes.net/category/business/P2P%20(Person%20to%20Person).html)
+[Re-Positioning](http://circularloopholes.net/category/business/Re-positioning.html)
+[Revenue Model](http://circularloopholes.net/category/business/Revenue%20mode.html)
+[Technology Resilience](http://circularloopholes.net/category/business/Technology%20resilience.html)
