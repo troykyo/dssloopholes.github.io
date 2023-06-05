@@ -1,6 +1,6 @@
-﻿## More than human design
+﻿## More than Human Design
 
-More than human design, refers to a design approach that considers not only the needs and preferences of human users but also the broader ecological and social impact of fashion products. It takes into account the well-being of all stakeholders involved, including animals, ecosystems, and the environment.
+More than Human Design, refers to a design approach that considers not only the needs and preferences of human users but also the broader ecological and social impact of fashion products. It takes into account the well-being of all stakeholders involved, including animals, ecosystems, and the environment.
 
 This design approach acknowledges the interconnectedness of all living beings and aims to create fashion products and systems that are sustainable, ethical,inclusive, and respectful of all living beings, promoting a harmonious relationship between fashion and nature.
 
