@@ -2,7 +2,7 @@
 
 # BUSINESS
 
-Business and economics refers to the strategic and financial aspects of the industry. It involves understanding market dynamics, consumer behavior, supply chain management, branding, and profitability. Fashion brands need to navigate the competitive landscape, innovate to meet changing consumer demands, and optimize their operations to achieve sustainable growth and success in the marketplace.
+Business and Finance refers to the strategic and financial aspects of the industry. It involves understanding market dynamics, consumer behavior, supply chain management, branding, and profitability. Fashion brands need to navigate the competitive landscape, innovate to meet changing consumer demands, and optimize their operations to achieve sustainable growth and success in the marketplace.
 
 ## Business
 
