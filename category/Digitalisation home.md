@@ -1,5 +1,4 @@
 ﻿# DIGITALISATION
-
 Digitalisation refers to the integration of digital technologies and processes into various aspects of the industry, such as design, manufacturing, retail, and marketing. It involves leveraging technologies like e-commerce, virtual reality, and data analytics to enhance operational efficiency, users experience, and innovation in the fashion value chain.
 
 ## Digitalisation strategies
