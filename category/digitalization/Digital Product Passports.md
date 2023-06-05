@@ -4,27 +4,27 @@ A digital product passport refers to a comprehensive and professional documentat
 
 #### Transparency and Traceability.
 
-A digital product passport ensures transparency by making essential information readily available to consumers, retailers, and other stakeholders in the fashion industry. It includes details about the product's origin, materials, manufacturing processes, and certifications. By providing this information in a digital format, stakeholders can easily access and verify the authenticity and sustainability claims of the product. This transparency promotes trust and allows consumers to make informed choices based on their values and preferences.
+A digital product passport ensures transparency by making essential information readily available to users, retailers, and other stakeholders in the fashion industry. It includes details about the product's origin, materials, manufacturing processes, and certifications. By providing this information in a digital format, stakeholders can easily access and verify the authenticity and sustainability claims of the product. This transparency promotes trust and allows users to make informed choices based on their values and preferences.
 
 #### Sourcing and Supply Chain Visibility
 
-A digital product passport enables visibility into the sourcing and supply chain of fashion products. It documents the journey of materials from raw sourcing to the final product, capturing information about suppliers, manufacturers, and subcontractors involved. This visibility helps identify potential risks, such as labor violations or environmental impacts, and facilitates responsible sourcing practices. By understanding the complete supply chain, brands and consumers can support ethical and sustainable fashion.
+A digital product passport enables visibility into the sourcing and supply chain of fashion products. It documents the journey of materials from raw sourcing to the final product, capturing information about suppliers, manufacturers, and subcontractors involved. This visibility helps identify potential risks, such as labor violations or environmental impacts, and facilitates responsible sourcing practices. By understanding the complete supply chain, brands and users can support ethical and sustainable fashion.
 
 #### Environmental Impact Assessment
 
-The digital product passport contains data about the environmental impact of a fashion product, such as its carbon footprint, water usage, energy consumption, and waste generation. This information allows stakeholders to assess the product's sustainability credentials and make comparisons with other alternatives. It helps drive the adoption of environmentally friendly practices, encourages the use of sustainable materials, and supports efforts to reduce the industry's overall ecological footprint.
+The digital product passport contains data about the environmental impact of a fashion product, such as its carbon footprint, water usage, energy utilization, and waste generation. This information allows stakeholders to assess the product's sustainability credentials and make comparisons with other alternatives. It helps drive the adoption of environmentally friendly practices, encourages the use of sustainable materials, and supports efforts to reduce the industry's overall ecological footprint.
 
 #### Social Responsibility and Ethical Considerations
 
-In addition to environmental impact, a digital product passport can incorporate information related to social responsibility and ethical considerations. It may include details about fair labor practices, worker welfare, and compliance with social standards. By providing insights into the social aspects of production, the passport encourages brands to prioritize fair working conditions and helps consumers align their values with responsible fashion choices.
+In addition to environmental impact, a digital product passport can incorporate information related to social responsibility and ethical considerations. It may include details about fair labor practices, worker welfare, and compliance with social standards. By providing insights into the social aspects of production, the passport encourages brands to prioritize fair working conditions and helps users align their values with responsible fashion choices.
 
 #### Circular Economy Facilitation
 
 Digital product passports play a crucial role in promoting a circular economy within the fashion industry. They capture information about a product's durability, reparability, and recyclability, facilitating the implementation of circular practices. This data can inform decisions on repair, refurbishment, and end-of-life options. By enabling effective recycling and upcycling, the passport supports efforts to reduce waste and extend the lifespan of fashion products, fostering a more sustainable industry.
 
-#### Consumer Empowerment and Education
+#### User Empowerment and Education
 
-The digital product passport empowers consumers by providing them with comprehensive information about the products they purchase. It allows consumers to evaluate the sustainability and ethical attributes of a fashion item, aligning their choices with their values. The passport can also serve as an educational tool, raising awareness about the environmental and social impact of fashion consumption. It helps consumers understand the value of responsible choices and encourages a more conscious approach to fashion.
+The digital product passport empowers users by providing them with comprehensive information about the products they purchase. It allows users to evaluate the sustainability and ethical attributes of a fashion item, aligning their choices with their values. The passport can also serve as an educational tool, raising awareness about the environmental and social impact of fashion use. It helps users understand the value of responsible choices and encourages a more conscious approach to fashion.
 
 ####  Industry Collaboration and Standardization
 
@@ -46,7 +46,7 @@ Farfetch, a global luxury fashion platform, has launched a sustainability initia
 
 #### Reformation's RefScale
 
-Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables consumers to make informed decisions and supports Reformation's commitment to sustainability.
+Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables users to make informed decisions and supports Reformation's commitment to sustainability.
 
 ##### References
 
