@@ -1,6 +1,6 @@
-﻿## Economic resilience
+﻿## Economic Resilience
 
-Economic resilience refers to the ability of fashion businesses and the overall fashion industry to withstand and adapt to economic disruptions, shocks, and changing market conditions while maintaining their operations, profitability, and long-term sustainability. It involves strategies and practices that enable fashion companies to navigate uncertainties and challenges, ensuring their continued viability in the face of economic fluctuations.
+Economic Resilience refers to the ability of fashion businesses and the overall fashion industry to withstand and adapt to economic disruptions, shocks, and changing market conditions while maintaining their operations, profitability, and long-term sustainability. It involves strategies and practices that enable fashion companies to navigate uncertainties and challenges, ensuring their continued viability in the face of economic fluctuations.
 
 #### Adaptability to Changing Market Conditions
 
