@@ -11,7 +11,7 @@ Sustainability encompasses practices that aim to minimize the negative environme
 [Designed for Multiple Users](https://circularloopholes.net/category/sustainability/Design%20for%20multiple%20uses.html)
 
 
-[More than Human design](https://circularloopholes.net/category/sustainability/More%20than%20human%20design.html)
+[More than Human Design](https://circularloopholes.net/category/sustainability/More%20than%20human%20design.html)
 
 
 [Collaborative Consumption](https://circularloopholes.net/category/sustainability/Collaborative%20consumption.html)
@@ -21,19 +21,19 @@ Sustainability encompasses practices that aim to minimize the negative environme
 [Enabling Repairability](https://circularloopholes.net/category/sustainability/Enabling%20repairability.html)
 
 
-[Extending Life-cycles](https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html)
+[Extending Life-Cycles](https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html)
 
 
 [Post Use Materials](https://circularloopholes.net/category/sustainability/Post-use%20materials.html)
 
 
 
-[Joining Closed loop recycling](https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html)
+[Joining Closed Loop Recycling](https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html)
 
 
 
 [Waste Reduction](https://circularloopholes.net/category/sustainability/Waste%20reduction.html)
 
-[From circular to sustainable material](https://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
+[From Circular to Sustainable Material](https://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
 
 
