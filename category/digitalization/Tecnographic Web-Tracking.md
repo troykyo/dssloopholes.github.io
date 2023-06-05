@@ -4,7 +4,7 @@ Technographic web tracking encompasses a wide range of data sets that pertain to
 
 By utilizing technographic web-tracking, fashion brands, and retailers can gather valuable information about their target audience, enabling them to tailor their marketing strategies, personalize the shopping experience, and deliver relevant content and product recommendations. It helps in understanding customers' preferred devices, operating systems, and browsers, allowing brands to optimize their websites and applications for seamless user experiences across different platforms.
 
-Furthermore, technographic web-tracking can provide insights into consumers' engagement with fashion trends, influencers, and social media platforms. It helps brands identify popular fashion websites, blogs, or social media channels where their target audience is most active, enabling them to allocate their marketing efforts and investments effectively. This data can also be utilized to measure the effectiveness of online campaigns, track customer journeys, and identify opportunities for customer segmentation and targeting.
+Furthermore, technographic web-tracking can provide insights into users' engagement with fashion trends, influencers, and social media platforms. It helps brands identify popular fashion websites, blogs, or social media channels where their target audience is most active, enabling them to allocate their marketing efforts and investments effectively. This data can also be utilized to measure the effectiveness of online campaigns, track customer journeys, and identify opportunities for customer segmentation and targeting.
 
 ### Case studies
 
