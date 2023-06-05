@@ -2,7 +2,7 @@
 
 Stakeholder engagement involves actively involving and collaborating with various stakeholders, such as consumers, employees, suppliers, local communities, and NGOs. It focuses on establishing transparent and constructive dialogues, incorporating diverse perspectives, and addressing social and environmental concerns. By engaging stakeholders, fashion brands can foster trust, drive positive change, and align their strategies with societal expectations.
 
-## Stakeholder engagement  strategies
+## Stakeholder Engagement  strategies
 
 [Open Source to Production](https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html)
 
