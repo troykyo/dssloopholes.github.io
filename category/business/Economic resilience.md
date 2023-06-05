@@ -4,7 +4,7 @@ Economic resilience refers to the ability of fashion businesses and the overall 
 
 #### Adaptability to Changing Market Conditions
 
-Economic resilience in the fashion domain requires the ability to adapt to changing market conditions. This includes monitoring and analyzing market trends, consumer preferences, and competitive dynamics. Fashion businesses need to stay agile and flexible, adjusting their product offerings, pricing strategies, and marketing approaches to meet evolving customer demands and market trends. This adaptability helps fashion companies stay competitive and relevant in the face of economic uncertainties.
+Economic resilience in the fashion domain requires the ability to adapt to changing market conditions. This includes monitoring and analyzing market trends, user preferences, and competitive dynamics. Fashion businesses need to stay agile and flexible, adjusting their product offerings, pricing strategies, and marketing approaches to meet evolving customer demands and market trends. This adaptability helps fashion companies stay competitive and relevant in the face of economic uncertainties.
 
 #### Diversification of Product Portfolio
 
@@ -20,7 +20,7 @@ conomic resilience requires maintaining financial stability and implementing eff
 
 #### Embracing Sustainability and Ethical Practices
 
-Economic resilience in the fashion domain is closely tied to sustainability and ethical practices. Fashion businesses that prioritize sustainable sourcing, responsible manufacturing, and ethical labor practices are better positioned to navigate evolving consumer expectations and regulatory requirements. By incorporating sustainable practices, fashion companies can enhance their reputation, attract conscious consumers, and mitigate the risks associated with changing societal values and environmental concerns.
+Economic resilience in the fashion domain is closely tied to sustainability and ethical practices. Fashion businesses that prioritize sustainable sourcing, responsible manufacturing, and ethical labor practices are better positioned to navigate evolving user expectations and regulatory requirements. By incorporating sustainable practices, fashion companies can enhance their reputation, attract conscious users, and mitigate the risks associated with changing societal values and environmental concerns.
 
 #### Innovation and Technology Adoption
 
@@ -34,7 +34,7 @@ H&M is a globally recognized fashion retailer that has implemented various strat
 
 #### Nike
 
-Nike, a leading sportswear brand, has demonstrated economic resilience by adopting innovative technologies and leveraging digital platforms. The company invests in research and development to introduce performance-enhancing materials and manufacturing processes. Nike's direct-to-consumer strategy, supported by e-commerce platforms and personalized experiences, enables the company to adapt to changing consumer behaviors and market trends.
+Nike, a leading sportswear brand, has demonstrated economic resilience by adopting innovative technologies and leveraging digital platforms. The company invests in research and development to introduce performance-enhancing materials and manufacturing processes. Nike's direct-to-user strategy, supported by e-commerce platforms and personalized experiences, enables the company to adapt to changing user behaviors and market trends.
 
 #### Levi Strauss & Co.
 
