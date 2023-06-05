@@ -30,7 +30,7 @@ Technology resilience can be strengthened through collaboration and partnerships
 
 Technology resilience requires a culture of continuous learning and adaptation within fashion organizations. This involves fostering a mindset of curiosity, encouraging employees to upskill and stay updated with technology trends, and providing training and development opportunities to enhance digital literacy and technical competencies.
 
-By embracing technology resilience companies can effectively navigate digital disruptions, leverage technology for business growth, and stay competitive in the evolving fashion industry. It enables them to adapt to changing consumer behaviors, optimize operations, drive innovation, and deliver value to customers through seamless digital experiences.
+By embracing technology resilience companies can effectively navigate digital disruptions, leverage technology for business growth, and stay competitive in the evolving fashion industry. It enables them to adapt to changing user behaviors, optimize operations, drive innovation, and deliver value to customers through seamless digital experiences.
 
 ### Case studies
 
