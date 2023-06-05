@@ -14,11 +14,11 @@ Sustainability encompasses practices that aim to minimize the negative environme
 [More than Human design](https://circularloopholes.net/category/sustainability/More%20than%20human%20design.html)
 
 
-[Collaborative Consumption]()
+[Collaborative Consumption](https://circularloopholes.net/category/sustainability/Collaborative%20consumption.html)
 
 
 
-[Enabling Repairability]()
+[Enabling Repairability](https://circularloopholes.net/category/sustainability/Enabling%20repairability.html)
 
 
 [Extending Life-cycles](https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html)
@@ -33,6 +33,8 @@ Sustainability encompasses practices that aim to minimize the negative environme
 
 
 [Waste Reduction](https://circularloopholes.net/category/sustainability/Waste%20reduction.html)
+
+[From circular to sustainable material](https://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
 
 
 [Sustainable materials](http://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
