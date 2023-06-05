@@ -1,4 +1,4 @@
-﻿## Tecnographic Web-Tracking
+
 
 Technographic web tracking encompasses a wide range of data sets that pertain to technology-driven signals, enabling the identification and understanding of the technological attributes and patterns exhibited by individuals or organizations. Technographic web tracking offers profound insights into the technological preferences and practices of individuals or organizations, facilitating strategic decision-making and personalized targeting.
 
