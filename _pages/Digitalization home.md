@@ -32,3 +32,5 @@ Digitalisation refers to the integration of digital technologies and processes i
 
 
 [Virtual Sampling](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)
+
+[Wear and tear](https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html)
