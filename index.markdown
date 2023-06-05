@@ -7,7 +7,7 @@ layout: home
 ![Loopholes logo blue background](https://github.com/DSSLoopHoles/dssloopholes.github.io/assets/135152559/0a048e3e-40f2-4977-be9e-58ac5267d048)
 
 
-# About Loopholes Games
+# About LoopHoles Games
 
 Welcome to Loopholes Games, where strategy meets serious game design!
 
