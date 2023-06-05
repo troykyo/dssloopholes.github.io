@@ -25,9 +25,6 @@ Digitalisation refers to the integration of digital technologies and processes i
 [Personalisation](http://circularloopholes.net/category/digitalization/Personalisation.html)
 
 
-[Technology Resilience](http://circularloopholes.net/category/digitalization/Technology%20resilience.html)
-
-
 [Tecnographic Web-Tracking](http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html)
 
 
