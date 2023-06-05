@@ -9,7 +9,9 @@ permalink: /about/
 Welcome to Loopholes Games, where strategy meets serious game design!
 
 
-With Loopholes Games, we aim to revolutionize the way companies understand the impact of adopting new technologies in the context of circular business models. We believe that the transition towards a circular economy requires a deep understanding of the role of data and technology, and our gamified approach aims to facilitate this understanding in an engaging and educational way.
+The Loopholes toolkit is centered on a design game that supports participants to create complete customer journeys and data flows that open the gateway to future production systems, taking sustainability and the impact of different technologies into account. The game was designed to enable participants to reflect on the (current) processes of their companies and scale them into product-service Ecosystems and Ecologies. In showing that current challenges can be solved through different strategies, each game can create a different localized solution for how their companies can transition towards circularity through digitalisation.
+
+The Loopholes design game is composed by a game board, a deck of strategy cards, and this extended content website. In this page you can find further details about each of the strategies in the Loopholes card deck to gain insights on how they might be applied through relevant case studies.
 
 # The Loopholes Game Experience
 
