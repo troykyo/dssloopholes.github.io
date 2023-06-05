@@ -1,6 +1,6 @@
-﻿## On demand production
+﻿## On Demand Production
 
-On-demand in the fashion domain refers to a production model where products are manufactured or created in response to specific customer orders. Unlike traditional mass production methods, where products are made in large quantities based on anticipated demand, on-demand production focuses on producing items as they are purchased. This approach offers several benefits and opportunities within the fashion industry.
+On-Demand in the fashion domain refers to a production model where products are manufactured or created in response to specific customer orders. Unlike traditional mass production methods, where products are made in large quantities based on anticipated demand, on-demand production focuses on producing items as they are purchased. This approach offers several benefits and opportunities within the fashion industry.
 
 #### Reduction of Deadstock
 
