@@ -28,7 +28,7 @@ Fashion events, including fashion weeks, trade shows, and brand-hosted events, s
 
 #### Retail and Visual Merchandising
 
-Retail spaces serve as powerful means of communication for fashion brands. The design and layout of physical stores, as well as visual merchandising displays, communicate brand identity, style, and create immersive experiences for customers. Fashion brands use retail spaces to showcase their products, convey brand aesthetics, and engage customers through in-store experiences.
+Retail spaces serve as powerful means of communication for fashion brands. The design and layout of physical stores, as well as visual merchandising displays, communicate brand identity, style, and create immersive experiences for customers. Fashion brands use retail spaces to showcase their products, convey brand aesthetics, and engage users through in-store experiences.
 
 #### E-commerce and Digital Platforms
 
