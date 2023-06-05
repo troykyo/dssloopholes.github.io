@@ -24,7 +24,7 @@ Economic resilience in the fashion domain is closely tied to sustainability and 
 
 #### Innovation and Technology Adoption
 
-Economic resilience also involves embracing innovation and leveraging technology advancements. Fashion companies that invest in research and development, adopt innovative manufacturing techniques, and leverage digital technologies for marketing and operations are better equipped to adapt to changing economic conditions. By staying at the forefront of technological advancements, fashion businesses can improve efficiency, reduce costs, enhance customer experiences, and gain a competitive edge.
+Economic resilience also involves embracing innovation and leveraging technology advancements. Fashion companies that invest in research and development, adopt innovative manufacturing techniques, and leverage digital technologies for marketing and operations are better equipped to adapt to changing economic conditions. By staying at the forefront of technological advancements, fashion businesses can improve efficiency, reduce costs, enhance user experiences, and gain a competitive edge.
 
 ### Case studies
 
