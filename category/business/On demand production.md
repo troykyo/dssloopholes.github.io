@@ -12,7 +12,7 @@ On-demand production enables the creation of personalized and customized product
 
 #### Faster Time-to-Market
 
-On-demand production offers faster time-to-market for fashion brands. Instead of waiting for the entire production cycle to complete before launching new products, companies can begin manufacturing as soon as orders are received. This agile production model allows fashion brands to respond quickly to emerging trends and changing consumer demands. It enables them to introduce new collections or designs in a shorter timeframe, staying ahead of competitors and capturing market opportunities more effectively.
+On-demand production offers faster time-to-market for fashion brands. Instead of waiting for the entire production cycle to complete before launching new products, companies can begin manufacturing as soon as orders are received. This agile production model allows fashion brands to respond quickly to emerging trends and changing user demands. It enables them to introduce new collections or designs in a shorter timeframe, staying ahead of competitors and capturing market opportunities more effectively.
 
 #### Reduced Inventory Holding Costs
 
@@ -30,7 +30,7 @@ On-demand production can enhance the efficiency of the fashion supply chain. By 
 
 #### Unmade
 
-Unmade is a London-based fashion technology company that specializes in on-demand production and customization. They have developed a platform that allows brands to offer customizable products to their customers. Unmade's technology enables the customization of various design elements, such as color, pattern, and placement, providing a unique and personalized experience for consumers. The company has collaborated with several fashion brands, including Farfetch and Rapha, to implement on-demand production and offer customizable products.
+Unmade is a London-based fashion technology company that specializes in on-demand production and customization. They have developed a platform that allows brands to offer customizable products to their customers. Unmade's technology enables the customization of various design elements, such as color, pattern, and placement, providing a unique and personalized experience for users. The company has collaborated with several fashion brands, including Farfetch and Rapha, to implement on-demand production and offer customizable products.
 
 #### Ministry of Supply
 
