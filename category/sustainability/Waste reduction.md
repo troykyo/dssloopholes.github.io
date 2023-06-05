@@ -1,6 +1,6 @@
-﻿## Waste reduction
+﻿## Waste Reduction
 
-Waste reduction in the fashion domain refers to the implementation of strategies and practices aimed at minimizing the generation of waste throughout the entire lifecycle of fashion products. It involves conscious efforts to reduce, reuse, recycle, and repurpose materials and resources in order to minimize environmental impact and promote sustainability.
+Waste Reduction in the fashion domain refers to the implementation of strategies and practices aimed at minimizing the generation of waste throughout the entire lifecycle of fashion products. It involves conscious efforts to reduce, reuse, recycle, and repurpose materials and resources in order to minimize environmental impact and promote sustainability.
 
 Waste reduction is crucial due to its significant contribution to environmental degradation. The production of clothing involves the extraction of raw materials, energy-intensive manufacturing processes, and the disposal of unused or discarded items. This results in substantial waste generation, including textile scraps, production leftovers, unsold inventory, and post-user waste.
 
