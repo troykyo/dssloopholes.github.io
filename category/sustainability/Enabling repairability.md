@@ -1,7 +1,7 @@
 
-## Enabling repairability
+## Enabling Repairability
 
-Enabling repairability refers to the intentional design and production of fashion items that allow for easy and effective repair and maintenance. It involves incorporating durable materials, modular designs, and accessible repair services and resources to extend the life-cycle of fashion products and promote sustainable consumption patterns.
+Enabling Repairability refers to the intentional design and production of fashion items that allow for easy and effective repair and maintenance. It involves incorporating durable materials, modular designs, and accessible repair services and resources to extend the life-cycle of fashion products and promote sustainable consumption patterns.
 
 To enable repairability, fashion brands focus on several key aspects. First, they prioritize the selection of durable and high-quality materials that can withstand wear and tear. This includes using strong stitching, reinforced seams, and robust fabrics that are less prone to damage. By choosing materials with longevity in mind, brands create products that can be repaired and maintained over time.
 
