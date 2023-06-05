@@ -1,6 +1,6 @@
-﻿## Extending life-cycles
+﻿## Extending Life-Cycles
 
-Extending life cycles refers to the deliberate efforts made by brands, manufacturers, and consumers to increase the longevity and utility of fashion products. This concept challenges the prevailing culture of fast fashion and disposable consumption by emphasizing the importance of durability, repairability, and timeless design. It involves adopting strategies such as producing high-quality garments, implementing repair and maintenance services, promoting versatile styling options, and encouraging responsible ownership and consumption habits.
+Extending Life Cycles refers to the deliberate efforts made by brands, manufacturers, and consumers to increase the longevity and utility of fashion products. This concept challenges the prevailing culture of fast fashion and disposable consumption by emphasizing the importance of durability, repairability, and timeless design. It involves adopting strategies such as producing high-quality garments, implementing repair and maintenance services, promoting versatile styling options, and encouraging responsible ownership and consumption habits.
 
 Extending life-cycles involves various strategies and actions:
 
