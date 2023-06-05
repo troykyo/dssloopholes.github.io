@@ -16,7 +16,7 @@ Note: "More than human design" is a relatively new concept within the fashion in
 
 #### Fashion Revolution
 
-Fashion Revolution is a global movement that advocates for a more transparent and sustainable fashion industry. The organization promotes greater awareness of the social and environmental impacts of fashion and encourages consumers to ask the question "Who made my clothes?" Fashion Revolution encourages brands to disclose information about their supply chains and production practices and pushes for greater accountability and responsibility within the fashion industry.
+Fashion Revolution is a global movement that advocates for a more transparent and sustainable fashion industry. The organization promotes greater awareness of the social and environmental impacts of fashion and encourages users to ask the question "Who made my clothes?" Fashion Revolution encourages brands to disclose information about their supply chains and production practices and pushes for greater accountability and responsibility within the fashion industry.
 
 #### Stella McCartney
 
