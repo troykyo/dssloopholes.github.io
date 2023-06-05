@@ -7,7 +7,7 @@ Stakeholder engagement involves actively involving and collaborating with variou
 [Open Source to Production](https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html)
 
 
-[Co-design](https://circularloopholes.net/category/engagement/Co-design.html)
+[Co-Design](https://circularloopholes.net/category/engagement/Co-design.html)
 
 
 
