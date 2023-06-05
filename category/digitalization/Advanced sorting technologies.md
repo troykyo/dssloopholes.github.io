@@ -10,7 +10,7 @@ Furthermore, advanced sorting technologies integrate artificial intelligence and
 
 The benefits of advanced sorting technologies in the context of digital recycling and upcycling are significant. They enable the efficient and precise sorting of fashion products, reducing the reliance on manual labor and minimizing errors. This not only saves time but also enhances the overall quality and value of the recycled or upcycled materials.
 
-Moreover, these technologies contribute to the circular economy in the fashion industry. By facilitating the identification and separation of recyclable or upcyclable materials, they support the transition from a linear "take-make-dispose" model to a more sustainable and circular approach. Advanced sorting technologies promote resource efficiency, waste reduction, and the reuse of materials, thereby reducing the environmental impact associated with fashion production and consumption.
+Moreover, these technologies contribute to the circular economy in the fashion industry. By facilitating the identification and separation of recyclable or upcyclable materials, they support the transition from a linear "take-make-dispose" model to a more sustainable and circular approach. Advanced sorting technologies promote resource efficiency, waste reduction, and the reuse of materials, thereby reducing the environmental impact associated with fashion production and utilization.
 
 ### Case studies
 
