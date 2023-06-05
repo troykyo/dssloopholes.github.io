@@ -40,13 +40,13 @@ CRM involves managing interactions and building relationships with customers. In
 
 #### Experiential Marketing
 
-Experiential marketing focuses on creating memorable and immersive brand experiences. Fashion brands use events, pop-up stores, interactive installations, and brand activations to engage consumers on a deeper level. Experiential marketing allows brands to convey their brand story, values, and unique selling propositions through interactive and sensory experiences.
+Experiential marketing focuses on creating memorable and immersive brand experiences. Fashion brands use events, pop-up stores, interactive installations, and brand activations to engage users on a deeper level. Experiential marketing allows brands to convey their brand story, values, and unique selling propositions through interactive and sensory experiences.
 
 ### Case studies
 
 #### Nike
 
-Nike is known for its successful use of advertising campaigns to promote its athletic apparel and footwear. Their "Just Do It" campaign is an iconic example of effective advertising, utilizing print, television, and digital media to inspire consumers and communicate the brand's values of determination and empowerment.
+Nike is known for its successful use of advertising campaigns to promote its athletic apparel and footwear. Their "Just Do It" campaign is an iconic example of effective advertising, utilizing print, television, and digital media to inspire users and communicate the brand's values of determination and empowerment.
 
 #### Chanel
 
@@ -58,15 +58,15 @@ Glossier, a skincare and makeup brand, has leveraged social media marketing to b
 
 #### Burberry
 
-Burberry has excelled in digital marketing by integrating technology into its communication strategies. The brand has live-streamed its fashion shows, engaged with consumers through immersive digital experiences, and utilized social media platforms to connect with a younger demographic. Burberry's digital innovations have helped them stay at the forefront of fashion and effectively communicate their brand identity.
+Burberry has excelled in digital marketing by integrating technology into its communication strategies. The brand has live-streamed its fashion shows, engaged with users through immersive digital experiences, and utilized social media platforms to connect with a younger demographic. Burberry's digital innovations have helped them stay at the forefront of fashion and effectively communicate their brand identity.
 
 #### Adidas
 
-Adidas has successfully implemented experiential marketing to engage consumers. The brand has organized interactive pop-up stores, immersive brand experiences, and events that combine music, art, and sport. Adidas' experiential marketing initiatives have allowed them to connect with consumers on a deeper level and create memorable brand experiences.
+Adidas has successfully implemented experiential marketing to engage users. The brand has organized interactive pop-up stores, immersive brand experiences, and events that combine music, art, and sport. Adidas' experiential marketing initiatives have allowed them to connect with users on a deeper level and create memorable brand experiences.
 
 #### Everlane
 
-Everlane is known for its transparent communication strategy. The brand provides detailed information about its supply chain, pricing, and production practices on their website. Through transparency and honest communication, Everlane has built trust with consumers and positioned itself as a sustainable and ethical fashion brand.
+Everlane is known for its transparent communication strategy. The brand provides detailed information about its supply chain, pricing, and production practices on their website. Through transparency and honest communication, Everlane has built trust with users and positioned itself as a sustainable and ethical fashion brand.
 
 ##### References
 Karlsson, Annika. "Communication of sustainable fashion: To communicate sustainable fashion through the label." (2015).
