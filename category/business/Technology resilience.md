@@ -1,6 +1,6 @@
-﻿## Technology resilience
+﻿## Technology Resilience
 
-Technology resilience in the fashion domain refers to the ability of fashion businesses to adapt, recover, and thrive in the face of technological disruptions and uncertainties. It involves leveraging technology effectively to enhance operations, drive innovation, and remain competitive in a rapidly evolving digital landscape.
+Technology Resilience in the fashion domain refers to the ability of fashion businesses to adapt, recover, and thrive in the face of technological disruptions and uncertainties. It involves leveraging technology effectively to enhance operations, drive innovation, and remain competitive in a rapidly evolving digital landscape.
 
 #### Embracing Digital Transformation
 
