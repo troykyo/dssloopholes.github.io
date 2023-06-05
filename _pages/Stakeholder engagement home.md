@@ -32,7 +32,6 @@ Stakeholder engagement involves actively involving and collaborating with variou
 [Fair Labor Practices](https://circularloopholes.net/category/engagement/Fair%20labor%20practices.html)
 
 
-[Wear and Tear](https://circularloopholes.net/category/engagement/Wear%20and%20tear.html)
 
 
 
