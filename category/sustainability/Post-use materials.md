@@ -1,6 +1,6 @@
 ﻿## Post-use materials
 
-Post-use materials refers to materials that have been previously used by consumers and are no longer needed in their original form. In the fashion domain, post-use materials typically refer to textiles and clothing items that have reached the end of their life cycle and are ready for disposal or recycling.
+Post-use materials refers to materials that have been previously used by users and are no longer needed in their original form. In the fashion domain, post-use materials typically refer to textiles and clothing items that have reached the end of their life cycle and are ready for disposal or recycling.
 
 Post-use materials encompass various types of textiles and garments that have served their primary purpose and are no longer suitable for continued use. These materials can include worn-out or damaged clothing, discarded textile scraps, surplus inventory, or even products returned by customers. Instead of being discarded as waste, these materials can be redirected into recycling or upcycling processes to create new products or extend their lifespan.
 
@@ -20,7 +20,7 @@ For Days is a subscription-based clothing brand that operates on a closed-loop s
 
 #### The Renewal Workshop
 
-The Renewal Workshop is a company that specializes in renewing and restoring post-consumer clothing and textiles. They partner with apparel brands to recover damaged or unsellable garments, repair them, and reintroduce them into the market. By extending the life of these products, they help reduce waste and promote a more sustainable approach to fashion.
+The Renewal Workshop is a company that specializes in renewing and restoring post-user clothing and textiles. They partner with apparel brands to recover damaged or unsellable garments, repair them, and reintroduce them into the market. By extending the life of these products, they help reduce waste and promote a more sustainable approach to fashion.
 
 #### Closed Loop Partners
 
@@ -32,7 +32,7 @@ Yerdle Recommerce is a company that enables brands to launch their own buyback a
 
 #### Zero Waste Daniel
 
-Zero Waste Daniel is a sustainable fashion brand known for its zero-waste approach. The designer, Daniel Silverstein, creates unique and stylish garments using fabric scraps and post-consumer materials. By incorporating post-use materials into his designs, he showcases the creative possibilities of waste reduction and sustainable fashion.
+Zero Waste Daniel is a sustainable fashion brand known for its zero-waste approach. The designer, Daniel Silverstein, creates unique and stylish garments using fabric scraps and post-user materials. By incorporating post-use materials into his designs, he showcases the creative possibilities of waste reduction and sustainable fashion.
 
 #### Rapanui
 
