@@ -37,6 +37,3 @@ Sustainability encompasses practices that aim to minimize the negative environme
 [From circular to sustainable material](https://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
 
 
-[Sustainable materials](http://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
-
-
