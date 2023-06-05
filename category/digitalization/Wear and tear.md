@@ -18,7 +18,7 @@ Wear and tear data plays a crucial role in advancing sustainability and circular
 
 #### Maintenance and Aftercare
 
-Wear and tear data informs recommendations for maintenance and aftercare of fashion items. By understanding the specific areas that are subject to the most wear, companies can provide customers with guidance on how to care for and maintain their garments effectively. This may involve instructions for proper washing, storage, and repair techniques, enabling customers to proactively address wear-related issues and extend the life of their products.
+Wear and tear data informs recommendations for maintenance and aftercare of fashion items. By understanding the specific areas that are subject to the most wear, companies can provide users with guidance on how to care for and maintain their garments effectively. This may involve instructions for proper washing, storage, and repair techniques, enabling users to proactively address wear-related issues and extend the life of their products.
 
 #### Digitalization and IoT Integration
 
@@ -30,15 +30,15 @@ By harnessing knowledge and data about wear and tear, the fashion industry can m
 
 #### Patagonia's Worn Wear Program
 
-Patagonia collects data on the wear and tear of their products through their Worn Wear program. Customers can bring back their worn-out garments to Patagonia stores, where the items are assessed for repairability. The data gathered from this program helps Patagonia understand the durability of their products, identify common areas of wear and tear, and inform their design and production processes.
+Patagonia collects data on the wear and tear of their products through their Worn Wear program. users can bring back their worn-out garments to Patagonia stores, where the items are assessed for repairability. The data gathered from this program helps Patagonia understand the durability of their products, identify common areas of wear and tear, and inform their design and production processes.
 
 #### Mud Jeans' Lease a Jeans Model
 
-Mud Jeans, a Dutch denim brand, offers a lease model where customers can lease a pair of jeans instead of buying them outright. The company collects data on the wear and tear of leased jeans, which helps them analyze usage patterns and optimize their product design and manufacturing processes. The insights gained from wear and tear data contribute to producing more durable and longer-lasting denim products.
+Mud Jeans, a Dutch denim brand, offers a lease model where users can lease a pair of jeans instead of buying them outright. The company collects data on the wear and tear of leased jeans, which helps them analyze usage patterns and optimize their product design and manufacturing processes. The insights gained from wear and tear data contribute to producing more durable and longer-lasting denim products.
 
 #### Levi's Care Tag for Our Planet
 
-Levi's launched their Care Tag for Our Planet initiative, which provides customers with information on sustainable care practices for their garments. By understanding the wear and tear patterns of their products, Levi's provides care instructions that enable customers to prolong the lifespan of their clothing, reducing unnecessary waste and promoting responsible consumption.
+Levi's launched their Care Tag for Our Planet initiative, which provides users with information on sustainable care practices for their garments. By understanding the wear and tear patterns of their products, Levi's provides care instructions that enable customers to prolong the lifespan of their clothing, reducing unnecessary waste and promoting responsible consumption.
 
 #### EON Group's CircularID™ Protocol
 
