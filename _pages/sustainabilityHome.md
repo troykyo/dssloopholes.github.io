@@ -5,34 +5,34 @@ Sustainability encompasses practices that aim to minimize the negative environme
 
 ## Sustainability strategies
 
-[Design for Disassembly](http://circularloopholes.net/category/sustainabilityHome.md.html)
+[Design for Disassembly](https://circularloopholes.net/category/sustainability/Design%20for%20disassembly.html)
 
 
-[Designed for Multiple Users](http://circularloopholes.net/category/sustainabilityHome.md.html#designed-for-multiple-uses)
+[Designed for Multiple Users](https://circularloopholes.net/category/sustainability/Design%20for%20multiple%20uses.html)
 
 
-[More than Human design](http://circularloopholes.net/category/sustainabilityHome.md.html#more-than-human-design)
+[More than Human design](https://circularloopholes.net/category/sustainability/More%20than%20human%20design.html)
 
 
-[Collaborative Consumption](http://circularloopholes.net/category/sustainabilityHome.md.html#collaborative-consumption)
-
-
-
-[Enabling Repairability](http://circularloopholes.net/category/sustainabilityHome.md.html#enabling-repairability)
-
-
-[Extending Life-cycles](http://circularloopholes.net/category/sustainabilityHome.md.html#extending-life-cycles)
-
-
-[Post Use Materials](http://circularloopholes.net/category/sustainabilityHome.md.html#post-use-materials)
+[Collaborative Consumption]()
 
 
 
-[Joining Closed loop recycling](http://circularloopholes.net/category/sustainabilityHome.md.html#joining-closed-loop-recycling)
+[Enabling Repairability]()
+
+
+[Extending Life-cycles](https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html)
+
+
+[Post Use Materials](https://circularloopholes.net/category/sustainability/Post-use%20materials.html)
 
 
 
-[Waste Reduction](http://circularloopholes.net/category/sustainabilityHome.md.html#waste-reduction)
+[Joining Closed loop recycling](https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html)
+
+
+
+[Waste Reduction](https://circularloopholes.net/category/sustainability/Waste%20reduction.html)
 
 
 [Sustainable materials](http://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
