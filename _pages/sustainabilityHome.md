@@ -5,7 +5,7 @@ Sustainability encompasses practices that aim to minimize the negative environme
 
 ## Sustainability strategies
 
-[Design for Disassembly](http://circularloopholes.net/category/sustainabilityHome.md.html#design-for-disassembly)
+[Design for Disassembly](http://circularloopholes.net/category/sustainabilityHome.md.html)
 
 
 [Designed for Multiple Users](http://circularloopholes.net/category/sustainabilityHome.md.html#designed-for-multiple-uses)
