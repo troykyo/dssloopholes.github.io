@@ -21,3 +21,5 @@ Stakeholder engagement involves actively involving and collaborating with variou
 [Shared Governance](#shared-governance)
 
 [Fluid fashion consumption](#fluid-fashion-consumption)
+
+[User Feedback Loops](#User-feedback-loops)
