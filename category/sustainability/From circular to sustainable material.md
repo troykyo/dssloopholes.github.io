@@ -1,4 +1,4 @@
-﻿## From sustainable to Circular Materials
+﻿## From Sustainable to Circular Materials
 
 Sustainable to Circular Materials refers to the shift in the fashion industry towards using materials that not only have a low environmental impact but also contribute to a circular economy. Sustainable materials are those that are responsibly sourced, produced with minimal harm to the environment, and have a reduced carbon footprint. These materials may include organic cotton, hemp, recycled polyester, and other eco-friendly alternatives.  However, the concept of circular materials goes beyond sustainability by emphasizing the need for materials that can be recycled, reused, or biodegraded at the end of their life cycle.
 
