@@ -16,7 +16,7 @@ P2P platforms offer a range of services to facilitate transactions and enhance t
 
 #### Flexible Rental Periods
 
-P2P platforms often provide flexible rental periods, allowing individuals to rent clothing items for specific occasions or durations. This flexibility appeals to consumers who are looking for unique or designer pieces for special events, without the need for a long-term commitment or investment. It enables users to access high-quality fashion items that might otherwise be inaccessible or unaffordable.
+P2P platforms often provide flexible rental periods, allowing individuals to rent clothing items for specific occasions or durations. This flexibility appeals to users who are looking for unique or designer pieces for special events, without the need for a long-term commitment or investment. It enables users to access high-quality fashion items that might otherwise be inaccessible or unaffordable.
 
 #### Logistics Handling
 
@@ -28,7 +28,7 @@ P2P platforms play a significant role in promoting the circular economy within t
 
 #### Democratization of Fashion
 
-P2P platforms empower individuals to participate in the fashion ecosystem beyond being consumers. Users can become sellers, renting or selling their own clothing items and generating income from their unused or underutilized wardrobe. This democratization of fashion allows for greater diversity in styles and brands, encouraging a more inclusive and accessible fashion marketplace.
+P2P platforms empower individuals to participate in the fashion ecosystem beyond being users. Users can become sellers, renting or selling their own clothing items and generating income from their unused or underutilized wardrobe. This democratization of fashion allows for greater diversity in styles and brands, encouraging a more inclusive and accessible fashion marketplace.
 
 ### Case studies
 
@@ -38,7 +38,7 @@ Rent the Runway is a popular P2P platform that allows individuals to rent design
 
 #### Depop
 
-Depop is a P2P marketplace that combines social media and e-commerce, primarily targeting younger consumers. Users can create their own online shops to sell both new and pre-owned clothing, shoes, and accessories. Depop fosters a community-driven experience, where users can connect, follow, and purchase items from other individuals, promoting a more sustainable and unique shopping experience.
+Depop is a P2P marketplace that combines social media and e-commerce, primarily targeting younger users. Users can create their own online shops to sell both new and pre-owned clothing, shoes, and accessories. Depop fosters a community-driven experience, where users can connect, follow, and purchase items from other individuals, promoting a more sustainable and unique shopping experience.
 
 #### Poshmark
 
