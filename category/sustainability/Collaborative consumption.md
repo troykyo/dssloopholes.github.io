@@ -1,7 +1,7 @@
 
 ## Collaborative Consumption
 
-Collaborative consumption, also known as the sharing economy or peer-to-peer sharing, refers to a consumption model in which individuals or communities share resources, products, or services among themselves rather than owning them individually.
+Collaborative Consumption, also known as the sharing economy or peer-to-peer sharing, refers to a consumption model in which individuals or communities share resources, products, or services among themselves rather than owning them individually.
 
 It is a shift away from traditional ownership-based consumption towards a more collaborative and access-based approach. In the fashion domain, collaborative consumption involves sharing and exchanging clothing and accessories, allowing individuals to access a wide range of fashion items without the need for full ownership.
 
