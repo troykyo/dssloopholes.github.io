@@ -1,4 +1,4 @@
-﻿## Design for disassembly
+﻿## Design for Disassembly
 
 Design for disassembly is an approach that involves intentionally designing products in a way that allows for easy and efficient disassembly at the end of their life cycle. It focuses on creating products that can be easily taken apart, separating different components and materials for reuse, recycling, or other forms of responsible disposal.
 
