@@ -1,6 +1,6 @@
-﻿## Joining closed-loop recycling
+﻿## Joining Closed-Loop Recycling
 
-Joining closed-loop recycling in the fashion domain refers to the practice of participating in a recycling system where materials from discarded or worn-out garments are collected, processed, and reintroduced into the production of new clothing items. It involves creating a closed-loop system where the materials used in the fashion industry are continuously recycled and reused, reducing the need for virgin resources and minimizing waste.  In more detail, joining closed-loop recycling involves several steps and stakeholders:
+Joining Closed-Loop Recycling in the fashion domain refers to the practice of participating in a recycling system where materials from discarded or worn-out garments are collected, processed, and reintroduced into the production of new clothing items. It involves creating a closed-loop system where the materials used in the fashion industry are continuously recycled and reused, reducing the need for virgin resources and minimizing waste.  In more detail, joining closed-loop recycling involves several steps and stakeholders:
 
 #### Collection
 
