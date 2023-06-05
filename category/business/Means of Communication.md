@@ -32,11 +32,11 @@ Retail spaces serve as powerful means of communication for fashion brands. The d
 
 #### E-commerce and Digital Platforms
 
-The rise of e-commerce and digital platforms has transformed the means of communication in the fashion industry. Brands now have their online stores or sell through third-party e-commerce platforms. These platforms enable direct communication with customers, personalized shopping experiences, and targeted marketing campaigns based on customer data and preferences.
+The rise of e-commerce and digital platforms has transformed the means of communication in the fashion industry. Brands now have their online stores or sell through third-party e-commerce platforms. These platforms enable direct communication with users, personalized shopping experiences, and targeted marketing campaigns based on user data and preferences.
 
 #### Customer Relationship Management (CRM)
 
-CRM involves managing interactions and building relationships with customers. In the fashion domain, CRM tools and strategies are used to gather customer data, track preferences, and tailor communications accordingly. Personalized email marketing, loyalty programs, and targeted offers are examples of CRM-driven means of communication.
+CRM involves managing interactions and building relationships with users. In the fashion domain, CRM tools and strategies are used to gather customer data, track preferences, and tailor communications accordingly. Personalized email marketing, loyalty programs, and targeted offers are examples of CRM-driven means of communication.
 
 #### Experiential Marketing
 
