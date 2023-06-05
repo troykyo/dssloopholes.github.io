@@ -1,4 +1,3 @@
-﻿<![endif]-->
 
 ## Enabling repairability
 
