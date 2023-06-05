@@ -1,6 +1,6 @@
-﻿## Revenue model
+﻿## Revenue Model
 
-Revenue model refers to the strategy and approach used by fashion businesses to generate income and monetize their products or services. It involves determining how customers will pay for the value they receive, whether it's through traditional monetary transactions, subscriptions, memberships, licenses, rentals, or lease constructions.
+Revenue Model refers to the strategy and approach used by fashion businesses to generate income and monetize their products or services. It involves determining how customers will pay for the value they receive, whether it's through traditional monetary transactions, subscriptions, memberships, licenses, rentals, or lease constructions.
 
 #### Money-Over-the-Counter
 
