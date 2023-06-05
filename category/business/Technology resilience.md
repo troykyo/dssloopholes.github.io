@@ -12,15 +12,15 @@ Technology resilience also entails building an agile technology infrastructure t
 
 #### Innovation and R&D
 
-Technology resilience requires a focus on continuous innovation and research and development (R&D). Fashion companies need to stay updated with emerging technologies and trends, invest in R&D initiatives, and explore collaborations with technology partners to drive innovation in product design, manufacturing processes, supply chain management, and customer engagement.
+Technology resilience requires a focus on continuous innovation and research and development (R&D). Fashion companies need to stay updated with emerging technologies and trends, invest in R&D initiatives, and explore collaborations with technology partners to drive innovation in product design, manufacturing processes, supply chain management, and user engagement.
 
 #### Omnichannel Capabilities
 
-Technology resilience in the fashion domain involves developing omnichannel capabilities to provide a seamless and integrated customer experience across multiple channels, including physical stores, online platforms, mobile applications, and social media. This requires leveraging technologies such as mobile apps, augmented reality, virtual reality, and interactive displays to create engaging and personalized experiences for customers.
+Technology resilience in the fashion domain involves developing omnichannel capabilities to provide a seamless and integrated customer experience across multiple channels, including physical stores, online platforms, mobile applications, and social media. This requires leveraging technologies such as mobile apps, augmented reality, virtual reality, and interactive displays to create engaging and personalized experiences for the users.
 
 #### Data-driven Decision Making
 
-Technology resilience is closely linked to data-driven decision making. Fashion businesses should leverage data analytics tools and techniques to gather, analyze, and interpret data related to customer preferences, market trends, sales performance, and supply chain dynamics. By harnessing data insights, companies can make informed decisions, optimize operations, and enhance the overall customer experience.
+Technology resilience is closely linked to data-driven decision making. Fashion businesses should leverage data analytics tools and techniques to gather, analyze, and interpret data related to customer preferences, market trends, sales performance, and supply chain dynamics. By harnessing data insights, companies can make informed decisions, optimize operations, and enhance the overall user experience.
 
 #### Collaboration and Partnerships
 
@@ -30,7 +30,7 @@ Technology resilience can be strengthened through collaboration and partnerships
 
 Technology resilience requires a culture of continuous learning and adaptation within fashion organizations. This involves fostering a mindset of curiosity, encouraging employees to upskill and stay updated with technology trends, and providing training and development opportunities to enhance digital literacy and technical competencies.
 
-By embracing technology resilience companies can effectively navigate digital disruptions, leverage technology for business growth, and stay competitive in the evolving fashion industry. It enables them to adapt to changing user behaviors, optimize operations, drive innovation, and deliver value to customers through seamless digital experiences.
+By embracing technology resilience companies can effectively navigate digital disruptions, leverage technology for business growth, and stay competitive in the evolving fashion industry. It enables them to adapt to changing user behaviors, optimize operations, drive innovation, and deliver value to users through seamless digital experiences.
 
 ### Case studies
 
