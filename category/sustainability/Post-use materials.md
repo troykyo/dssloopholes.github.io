@@ -1,6 +1,6 @@
-﻿## Post-use materials
+﻿## Post-Use Materials
 
-Post-use materials refers to materials that have been previously used by users and are no longer needed in their original form. In the fashion domain, post-use materials typically refer to textiles and clothing items that have reached the end of their life cycle and are ready for disposal or recycling.
+Post-Use Materials refers to materials that have been previously used by users and are no longer needed in their original form. In the fashion domain, post-use materials typically refer to textiles and clothing items that have reached the end of their life cycle and are ready for disposal or recycling.
 
 Post-use materials encompass various types of textiles and garments that have served their primary purpose and are no longer suitable for continued use. These materials can include worn-out or damaged clothing, discarded textile scraps, surplus inventory, or even products returned by customers. Instead of being discarded as waste, these materials can be redirected into recycling or upcycling processes to create new products or extend their lifespan.
 
