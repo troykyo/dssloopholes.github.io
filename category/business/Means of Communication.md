@@ -12,7 +12,7 @@ Social media has become a powerful means of communication for fashion brands. Pl
 
 #### Public Relations (PR)
 
-Public relations play a crucial role in fashion communication. PR involves managing relationships between fashion brands and the public, including media outlets, influencers, celebrities, and consumers. PR activities include press releases, media relations, event management, influencer collaborations, and brand partnerships. PR helps fashion brands generate positive publicity, enhance brand image, and build relationships with key stakeholders.
+Public relations play a crucial role in fashion communication. PR involves managing relationships between fashion brands and the public, including media outlets, influencers, celebrities, and users. PR activities include press releases, media relations, event management, influencer collaborations, and brand partnerships. PR helps fashion brands generate positive publicity, enhance brand image, and build relationships with key stakeholders.
 
 #### Content Marketing
 
@@ -20,7 +20,7 @@ Content marketing involves creating and distributing valuable, relevant, and eng
 
 #### Influencer Marketing
 
-Influencer marketing has gained significant traction in the fashion industry. Influencers are individuals with a significant following on social media who have the ability to impact consumer decisions. Fashion brands collaborate with influencers to promote their products or brand messages to their followers. Influencer marketing helps brands tap into niche audiences, leverage credibility, and create authentic connections with consumers.
+Influencer marketing has gained significant traction in the fashion industry. Influencers are individuals with a significant following on social media who have the ability to impact user decisions. Fashion brands collaborate with influencers to promote their products or brand messages to their followers. Influencer marketing helps brands tap into niche audiences, leverage credibility, and create authentic connections with usmers.
 
 #### Events and Fashion Shows
 
