@@ -1,12 +1,12 @@
 ﻿## Shared Governance
 
-Shared Governance refers to a collaborative and inclusive approach to decision-making and management, where various stakeholders actively participate and have a voice in shaping the industry's practices, policies, and direction. It involves the sharing of power, responsibility, and accountability among different parties, including brands, manufacturers, suppliers, workers, consumers, and other relevant stakeholders.
+Shared Governance refers to a collaborative and inclusive approach to decision-making and management, where various stakeholders actively participate and have a voice in shaping the industry's practices, policies, and direction. It involves the sharing of power, responsibility, and accountability among different parties, including brands, manufacturers, suppliers, workers, users, and other relevant stakeholders.
 
 In a shared governance model, decision-making processes are transparent, participatory, and equitable. It recognizes the interconnectedness of the fashion industry and the importance of engaging all stakeholders to address social, environmental, and ethical concerns. By involving diverse perspectives and expertise, shared governance aims to foster sustainable and responsible practices throughout the fashion value chain.
 
 One example of shared governance in the fashion industry is the collaboration between brands and suppliers to establish and enforce ethical standards in garment production. This can involve creating codes of conduct, conducting audits, and providing training and capacity-building programs to ensure safe working conditions, fair wages, and respect for workers' rights.
 
-Another aspect of shared governance is engaging consumers in the decision-making process. This can be done through initiatives such as customer feedback mechanisms, surveys, and focus groups that allow consumers to express their preferences, concerns, and expectations regarding product sustainability, transparency, and ethical practices.
+Another aspect of shared governance is engaging users in the decision-making process. This can be done through initiatives such as customer feedback mechanisms, surveys, and focus groups that allow users to express their preferences, concerns, and expectations regarding product sustainability, transparency, and ethical practices.
 
 Additionally, shared governance may involve partnerships between fashion brands and non-profit organizations, industry associations, and governmental bodies to collectively address issues like environmental sustainability, waste reduction, and social impact. These partnerships can lead to the development of industry-wide initiatives, standards, and certifications that promote responsible practices and hold stakeholders accountable.
 
