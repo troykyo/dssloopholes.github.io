@@ -2,7 +2,7 @@
 
 Waste reduction in the fashion domain refers to the implementation of strategies and practices aimed at minimizing the generation of waste throughout the entire lifecycle of fashion products. It involves conscious efforts to reduce, reuse, recycle, and repurpose materials and resources in order to minimize environmental impact and promote sustainability.
 
-Waste reduction is crucial due to its significant contribution to environmental degradation. The production of clothing involves the extraction of raw materials, energy-intensive manufacturing processes, and the disposal of unused or discarded items. This results in substantial waste generation, including textile scraps, production leftovers, unsold inventory, and post-consumer waste.
+Waste reduction is crucial due to its significant contribution to environmental degradation. The production of clothing involves the extraction of raw materials, energy-intensive manufacturing processes, and the disposal of unused or discarded items. This results in substantial waste generation, including textile scraps, production leftovers, unsold inventory, and post-user waste.
 
 To address these challenges, waste reduction initiatives adopt various approaches and principles:
 
@@ -22,9 +22,9 @@ Waste reduction involves the recycling and upcycling of textile waste and discar
 
 EPR is a waste management concept where manufacturers take responsibility for the environmental impact of their products throughout their lifecycle. It involves implementing strategies such as product take-back programs, designing for disassembly, and ensuring proper end-of-life treatment to minimize waste and facilitate recycling.
 
-####  Consumer Awareness and Education
+####  User Awareness and Education
 
-Encouraging consumers to make conscious purchasing decisions and adopt sustainable fashion practices is vital for waste reduction. Brands and organizations promote awareness campaigns, provide information on responsible consumption, and educate consumers on the importance of recycling, repairing, and donating clothing to minimize waste.
+Encouraging users to make conscious purchasing decisions and adopt sustainable fashion practices is vital for waste reduction. Brands and organizations promote awareness campaigns, provide information on responsible consumption, and educate users on the importance of recycling, repairing, and donating clothing to minimize waste.
 
 ### Case studies
 
