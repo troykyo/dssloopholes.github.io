@@ -68,6 +68,10 @@ header_pages:
   - _pages/sustainabilityHome.md
   - _pages/Business home.md
   # - sustainability.md
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
