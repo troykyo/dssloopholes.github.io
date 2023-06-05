@@ -1,6 +1,6 @@
-﻿## Re-positioning
+﻿## Re-Positioning
 
-(Re)positioning in the fashion domain refers to the strategic process of changing or adjusting the perception, image, or market positioning of a fashion brand, product, or service within the competitive landscape. It involves redefining the target audience, value proposition, brand identity, and marketing strategies to establish a unique and differentiated position in the market.
+(Re)Positioning in the fashion domain refers to the strategic process of changing or adjusting the perception, image, or market positioning of a fashion brand, product, or service within the competitive landscape. It involves redefining the target audience, value proposition, brand identity, and marketing strategies to establish a unique and differentiated position in the market.
 
 #### Assessing the Competitive Landscape
 
