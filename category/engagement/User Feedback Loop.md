@@ -1,4 +1,4 @@
-﻿## User Feedback Loops
+## User Feedback Loops
 
 User feedback loops, supported by digital technologies, play a crucial role in building and strengthening the relationship between users and the products and services provided by fashion companies. A user feedback loop refers to the continuous process of gathering feedback from users, analyzing it, and using the insights to improve products, services, and overall customer experiences.
 
