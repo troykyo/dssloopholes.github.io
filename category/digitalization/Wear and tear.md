@@ -24,7 +24,7 @@ Wear and tear data informs recommendations for maintenance and aftercare of fash
 
 Wear and tear data can be collected and analyzed through sensors, smart tags, or Internet of Things (IoT) devices embedded in garments. These digitalization efforts enable real-time monitoring of product usage and condition. The data collected can be used to optimize production, track product lifecycles, offer personalized services, and support sustainable practices such as repair, resale, or recycling.
 
-By harnessing knowledge and data about wear and tear, the fashion industry can make more informed decisions, enhance product durability, optimize production processes, promote responsible product use, and facilitate the transition towards circularity, sustainability, and digitization. This holistic approach benefits both the environment and the consumers by reducing waste, extending product lifespans, and fostering more conscious consumption habits.
+By harnessing knowledge and data about wear and tear, the fashion industry can make more informed decisions, enhance product durability, optimize production processes, promote responsible product use, and facilitate the transition towards circularity, sustainability, and digitization. This holistic approach benefits both the environment and the users by reducing waste, extending product lifespans, and fostering more conscious consumption habits.
 
 ### Case studies
 
