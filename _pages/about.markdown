@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Loopholes Games
 
-Welcome to Loopholes Games, where strategy meets serious game design!
+Welcome to Loopholes games, where strategy meets serious game design!
 
 
 The Loopholes toolkit is centered on a design game that supports participants to create complete customer journeys and data flows that open the gateway to future production systems, taking sustainability and the impact of different technologies into account. The game was designed to enable participants to reflect on the (current) processes of their companies and scale them into product-service Ecosystems and Ecologies. In showing that current challenges can be solved through different strategies, each game can create a different localized solution for how their companies can transition towards circularity through digitalisation.
