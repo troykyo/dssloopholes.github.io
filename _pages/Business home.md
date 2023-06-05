@@ -8,7 +8,7 @@ Business and economics refers to the strategic and financial aspects of the indu
 [Product Service Ecosystem](http://circularloopholes.net/category/business/Building%20Product-Service%20Ecosystems.html)
 
 
-[Developing competencies](http://circularloopholes.net/category/business/Developing%20competencies.html)
+[Developing Competencies](http://circularloopholes.net/category/business/Developing%20competencies.html)
 
 
 [Economic Resilience](http://circularloopholes.net/category/business/Economic%20resilience.html)
