@@ -1,6 +1,6 @@
-﻿## Management: Task allocation
+﻿## Management: Task Allocation
 
-Management: Task allocation" in the fashion domain involves the process of assigning specific tasks and responsibilities related to creating and communicating the value proposition of a fashion brand. It is crucial for every fashion business to have the right people and keep them engaged in their jobs.
+Management: Task Allocation" in the fashion domain involves the process of assigning specific tasks and responsibilities related to creating and communicating the value proposition of a fashion brand. It is crucial for every fashion business to have the right people and keep them engaged in their jobs.
 
 #### Identifying Value Proposition Tasks
 
