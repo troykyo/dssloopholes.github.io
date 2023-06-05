@@ -61,12 +61,12 @@ minima:
 #
 include:
   - _pages
-#header_pages:
-#  - _pages/about.markdown
-#  - _pages/Digitalization home.md
-#  - _pages/Stakeholder engagement home.md
-#  - _pages/sustainabilityHome.md
-#  - _pages/Business home.md
+header_pages:
+  - _pages/about.markdown
+  - _pages/Digitalization home.md
+  - _pages/Stakeholder engagement home.md
+  - _pages/sustainabilityHome.md
+  - _pages/Business home.md
   # - sustainability.md
 # Set to `true` to show excerpts on the homepage.
 #
