@@ -4,35 +4,35 @@ Stakeholder engagement involves actively involving and collaborating with variou
 
 ## Stakeholder engagement  strategies
 
-[Open Source to Production](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#open-source-co-production)
+[Open Source to Production](https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html)
 
 
-[Co-design](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#co-design)
+[Co-design](https://circularloopholes.net/category/engagement/Co-design.html)
 
 
 
-[Local Community](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#local-community)
+[Local Community](https://circularloopholes.net/category/engagement/Local%20Community.html)
 
 
-[Strategic Partnership](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#strategic-partnerships)
+[Strategic Partnership](https://circularloopholes.net/category/engagement/Strategic%20partnerships.html)
 
 
-[Refreshing Roles](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#refreshing-roles)
+[Refreshing Roles](https://circularloopholes.net/category/engagement/Refreshing%20Roles.html)
 
 
-[Users as Stakeholders](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#user-as-stakeholder)
+[Users as Stakeholders](https://circularloopholes.net/category/engagement/User%20as%20Stakeholder.html)
 
 
-[Shared Governance](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#shared-governance)
+[Shared Governance](https://circularloopholes.net/category/engagement/Shared%20Governance.html)
 
 
-[Fluid Fashion Consumption](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#fluid-fashion-consumption)
+[Fluid Fashion Consumption](https://circularloopholes.net/category/engagement/Fluid%20fashion%20consumption.html)
 
 
-[Fair Labor Practices](http://circularloopholes.net/category/Stakeholder%20engagement%20home.html#fair-labor-practices)
+[Fair Labor Practices](https://circularloopholes.net/category/engagement/Fair%20labor%20practices.html)
 
 
-[Wear and Tear](http://circularloopholes.net/category/engagement/Wear%20and%20tear.html)
+[Wear and Tear](https://circularloopholes.net/category/engagement/Wear%20and%20tear.html)
 
 
 
