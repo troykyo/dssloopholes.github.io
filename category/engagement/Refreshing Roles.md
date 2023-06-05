@@ -26,7 +26,7 @@ Zappos, the online shoe and clothing retailer, is known for its unique approach 
 
 #### Nike
 
-Nike has implemented a "role agility" program to promote flexibility and adaptability in their workforce. They recognize that the fashion industry is constantly evolving, and roles need to be refreshed to keep up with changing trends and consumer demands. Employees are encouraged to explore different areas of expertise and take on new responsibilities to enhance their skill sets and contribute to the company's success.
+Nike has implemented a "role agility" program to promote flexibility and adaptability in their workforce. They recognize that the fashion industry is constantly evolving, and roles need to be refreshed to keep up with changing trends and User demands. Employees are encouraged to explore different areas of expertise and take on new responsibilities to enhance their skill sets and contribute to the company's success.
 
 #### Levi Strauss & Co.
 
