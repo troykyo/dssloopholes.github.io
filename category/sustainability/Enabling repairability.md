@@ -17,7 +17,7 @@ Overall, enabling repairability in the fashion domain involves a holistic approa
 
 #### iFixit
 
-Although not a fashion brand, iFixit is an online platform that promotes repairability across various consumer products, including clothing and accessories. They provide free repair guides, tools, and community forums to help individuals repair their own items. iFixit's focus on repairability aligns with the broader concept of enabling repairability in the fashion domain.
+Although not a fashion brand, iFixit is an online platform that promotes repairability across various user products, including clothing and accessories. They provide free repair guides, tools, and community forums to help individuals repair their own items. iFixit's focus on repairability aligns with the broader concept of enabling repairability in the fashion domain.
 
 #### Cotopaxi
 
