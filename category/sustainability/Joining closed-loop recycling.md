@@ -4,7 +4,7 @@ Joining closed-loop recycling in the fashion domain refers to the practice of pa
 
 #### Collection
 
-Garment brands or retailers collect used clothing items from consumers through various channels, such as in-store collection bins, take-back programs, or mail-in options. These items may include damaged garments, unsold inventory, or customer returns.  Sorting and Processing: The collected garments are sorted based on their material composition, condition, and potential for recycling. This step ensures that different materials can be appropriately processed and transformed into new products. Any non-recyclable components, such as zippers or buttons, are separated for proper disposal.
+Garment brands or retailers collect used clothing items from users through various channels, such as in-store collection bins, take-back programs, or mail-in options. These items may include damaged garments, unsold inventory, or customer returns.  Sorting and Processing: The collected garments are sorted based on their material composition, condition, and potential for recycling. This step ensures that different materials can be appropriately processed and transformed into new products. Any non-recyclable components, such as zippers or buttons, are separated for proper disposal.
 
 #### Recycling and Regeneration
 
@@ -14,9 +14,9 @@ The sorted garments are then processed through various recycling methods, such a
 
 The recycled materials are transformed into new fashion products, including clothing, accessories, or even footwear. These products may incorporate a blend of recycled materials with virgin materials, depending on the desired quality and performance.
 
-####  Consumer Awareness and Education
+####  User Awareness and Education
 
-Communicating the importance and benefits of closed-loop recycling to consumers is crucial. Brands and retailers play a vital role in raising awareness about the recycling programs they offer, educating customers about the significance of recycling, and encouraging them to participate in the closed-loop system.
+Communicating the importance and benefits of closed-loop recycling to users is crucial. Brands and retailers play a vital role in raising awareness about the recycling programs they offer, educating customers about the significance of recycling, and encouraging them to participate in the closed-loop system.
 
 By joining closed-loop recycling, fashion brands and retailers contribute to the circular economy by extending the lifespan of materials, reducing waste, and minimizing the environmental impact of the fashion industry. This approach promotes resource efficiency, reduces the demand for new raw materials, and helps address the issue of textile waste.
 
@@ -24,7 +24,7 @@ By joining closed-loop recycling, fashion brands and retailers contribute to the
 
 #### Levi's Waste<Less™
 
-Levi's introduced the Waste<Less™ collection, which incorporates recycled post-consumer waste, including plastic bottles, into their denim products. They have partnered with recycling facilities to convert plastic bottles into polyester fibers used in their jeans.
+Levi's introduced the Waste<Less™ collection, which incorporates recycled post-user waste, including plastic bottles, into their denim products. They have partnered with recycling facilities to convert plastic bottles into polyester fibers used in their jeans.
 
 #### H&M Conscious Collection
 
