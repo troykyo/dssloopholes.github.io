@@ -30,7 +30,7 @@ To engage people and ensure their long-term commitment, fashion organizations sh
 
 #### Everlane
 
-Everlane, a direct-to-consumer fashion brand, effectively utilizes task allocation to ensure transparency and communicate its value proposition. The company emphasizes responsible sourcing and ethical manufacturing practices, and assigns specific responsibilities to various teams, such as the sustainability team, supply chain team, and marketing team. Each team plays a crucial role in conveying the brand's commitment to transparency and high-quality products.
+Everlane, a direct-to-user fashion brand, effectively utilizes task allocation to ensure transparency and communicate its value proposition. The company emphasizes responsible sourcing and ethical manufacturing practices, and assigns specific responsibilities to various teams, such as the sustainability team, supply chain team, and marketing team. Each team plays a crucial role in conveying the brand's commitment to transparency and high-quality products.
 
 #### Warby Parker
 
