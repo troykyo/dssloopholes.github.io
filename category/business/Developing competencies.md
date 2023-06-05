@@ -1,6 +1,6 @@
-﻿## Developing competencies
+﻿## Developing Competencies
 
-Developing competencies in the fashion domain refers to the process of acquiring, enhancing, and nurturing the skills and competencies required to create a compelling value proposition. It involves identifying the key skills and knowledge gaps within an organization or ecosystem and implementing strategies to develop those competencies.
+Developing Competencies in the fashion domain refers to the process of acquiring, enhancing, and nurturing the skills and competencies required to create a compelling value proposition. It involves identifying the key skills and knowledge gaps within an organization or ecosystem and implementing strategies to develop those competencies.
 
 #### Identifying Required Competencies
 
