@@ -1,4 +1,4 @@
-﻿## Fluid Fashion Consumption
+﻿## Fluid fashion consumption
 
 Fluid Fashion Consumption refers to a flexible and adaptable approach to acquiring and utilizing fashion items within the fashion domain. It emphasizes a shift away from traditional, rigid consumption patterns towards more dynamic and versatile ways of engaging with fashion. This concept recognizes the evolving nature of personal style, changing fashion trends, and the desire for increased variety and experimentation.
 
