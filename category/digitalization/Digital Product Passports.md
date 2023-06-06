@@ -1,32 +1,32 @@
-﻿## Digital Product Passports
+﻿## Digital product passports
 
 A digital product passport refers to a comprehensive and professional documentation system that digitally records and stores detailed information about a fashion product throughout its entire lifecycle. It serves as a digital identity and information hub, providing transparency, traceability, and accountability for the product's sourcing, manufacturing, materials, environmental impact, and social aspects.
 
-#### Transparency and Traceability.
+#### Transparency and traceability.
 
 A digital product passport ensures transparency by making essential information readily available to users, retailers, and other stakeholders in the fashion industry. It includes details about the product's origin, materials, manufacturing processes, and certifications. By providing this information in a digital format, stakeholders can easily access and verify the authenticity and sustainability claims of the product. This transparency promotes trust and allows users to make informed choices based on their values and preferences.
 
-#### Sourcing and Supply Chain Visibility
+#### Sourcing and supply chain visibility
 
 A digital product passport enables visibility into the sourcing and supply chain of fashion products. It documents the journey of materials from raw sourcing to the final product, capturing information about suppliers, manufacturers, and subcontractors involved. This visibility helps identify potential risks, such as labor violations or environmental impacts, and facilitates responsible sourcing practices. By understanding the complete supply chain, brands and users can support ethical and sustainable fashion.
 
-#### Environmental Impact Assessment
+#### Environmental impact assessment
 
 The digital product passport contains data about the environmental impact of a fashion product, such as its carbon footprint, water usage, energy utilization, and waste generation. This information allows stakeholders to assess the product's sustainability credentials and make comparisons with other alternatives. It helps drive the adoption of environmentally friendly practices, encourages the use of sustainable materials, and supports efforts to reduce the industry's overall ecological footprint.
 
-#### Social Responsibility and Ethical Considerations
+#### Social responsibility and ethical considerations
 
 In addition to environmental impact, a digital product passport can incorporate information related to social responsibility and ethical considerations. It may include details about fair labor practices, worker welfare, and compliance with social standards. By providing insights into the social aspects of production, the passport encourages brands to prioritize fair working conditions and helps users align their values with responsible fashion choices.
 
-#### Circular Economy Facilitation
+#### Circular economy facilitation
 
 Digital product passports play a crucial role in promoting a circular economy within the fashion industry. They capture information about a product's durability, reparability, and recyclability, facilitating the implementation of circular practices. This data can inform decisions on repair, refurbishment, and end-of-life options. By enabling effective recycling and upcycling, the passport supports efforts to reduce waste and extend the lifespan of fashion products, fostering a more sustainable industry.
 
-#### User Empowerment and Education
+#### User empowerment and education
 
 The digital product passport empowers users by providing them with comprehensive information about the products they purchase. It allows users to evaluate the sustainability and ethical attributes of a fashion item, aligning their choices with their values. The passport can also serve as an educational tool, raising awareness about the environmental and social impact of fashion use. It helps users understand the value of responsible choices and encourages a more conscious approach to fashion.
 
-####  Industry Collaboration and Standardization
+####  Industry collaboration and standardization
 
 The implementation of digital product passports requires collaboration and standardization among industry stakeholders. Establishing common frameworks and protocols ensures consistency and interoperability across brands and products. This collaboration enables the exchange of reliable and accurate information, enhances industry-wide transparency, and drives continuous improvement in sustainability practices.
 
