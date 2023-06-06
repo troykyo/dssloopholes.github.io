@@ -1,4 +1,4 @@
-﻿## Building Product-Service Ecosystems
+﻿## Building product-service ecosystems
 
 Building Product-Service Ecosystems refers to the strategic integration of a diverse array of interconnected products, services, and experiences that collectively create a comprehensive and personalized offering for users. It involves the alignment of physical products, digital platforms, services, and partnerships to deliver a seamless and cohesive user experience.
 
