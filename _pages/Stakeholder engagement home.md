@@ -4,34 +4,34 @@ Stakeholder engagement involves actively involving and collaborating with variou
 
 ## Stakeholder Engagement  strategies
 
-[Open Source to Production](https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html)
+[Open source to production](https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html)
 
 
-[Co-Design](https://circularloopholes.net/category/engagement/Co-design.html)
+[Co-design](https://circularloopholes.net/category/engagement/Co-design.html)
 
 
 
-[Local Community](https://circularloopholes.net/category/engagement/Local%20Community.html)
+[Local community](https://circularloopholes.net/category/engagement/Local%20Community.html)
 
 
-[Strategic Partnership](https://circularloopholes.net/category/engagement/Strategic%20partnerships.html)
+[Strategic partnership](https://circularloopholes.net/category/engagement/Strategic%20partnerships.html)
 
 
-[Refreshing Roles](https://circularloopholes.net/category/engagement/Refreshing%20Roles.html)
+[Refreshing roles](https://circularloopholes.net/category/engagement/Refreshing%20Roles.html)
 
 
-[Users as Stakeholders](https://circularloopholes.net/category/engagement/User%20as%20Stakeholder.html)
+[Users as stakeholders](https://circularloopholes.net/category/engagement/User%20as%20Stakeholder.html)
 
 
-[Shared Governance](https://circularloopholes.net/category/engagement/Shared%20Governance.html)
+[Shared governance](https://circularloopholes.net/category/engagement/Shared%20Governance.html)
 
 
-[Fluid Fashion Consumption](https://circularloopholes.net/category/engagement/Fluid%20fashion%20consumption.html)
+[Fluid fashion consumption](https://circularloopholes.net/category/engagement/Fluid%20fashion%20consumption.html)
 
 
-[Fair Labor Practices](https://circularloopholes.net/category/engagement/Fair%20labor%20practices.html)
+[Fair labor practices](https://circularloopholes.net/category/engagement/Fair%20labor%20practices.html)
 
-[User Feedback Loop](https://circularloopholes.net/category/engagement/User%20Feedback%20Loop.html)
+[User feedback loop](https://circularloopholes.net/category/engagement/User%20Feedback%20Loop.html)
 
 
 
