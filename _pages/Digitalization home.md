@@ -7,27 +7,27 @@ Digitalisation refers to the integration of digital technologies and processes i
 [AR Try on](http://circularloopholes.net/category/digitalization/AR%20try-on.html)
 
 
-[Advanced Sorting Technologies](http://circularloopholes.net/category/digitalization/Advanced%20sorting%20technologies.html)
+[Advanced sorting technologies](http://circularloopholes.net/category/digitalization/Advanced%20sorting%20technologies.html)
 
 
-[Blockchain and Web Technologies](http://circularloopholes.net/category/digitalization/Blockchain%20and%20Web3%20Technologies.html)
+[Blockchain and Web3 Technologies](http://circularloopholes.net/category/digitalization/Blockchain%20and%20Web3%20Technologies.html)
 
 
-[Digital Product Passports](http://circularloopholes.net/category/digitalization/Digital%20Product%20Passports.html)
+[Digital product passports](http://circularloopholes.net/category/digitalization/Digital%20Product%20Passports.html)
 
 
-[Digital Twin](http://circularloopholes.net/category/digitalization/Digital%20Twin.html)
+[Digital twin](http://circularloopholes.net/category/digitalization/Digital%20Twin.html)
 
 
-[Digital Worlds](http://circularloopholes.net/category/digitalization/Digital%20Worlds.html)
+[Digital worlds](http://circularloopholes.net/category/digitalization/Digital%20Worlds.html)
 
 
 [Personalisation](http://circularloopholes.net/category/digitalization/Personalisation.html)
 
 
-[Tecnographic Web-Tracking](http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html)
+[Tecnographic web-tracking](http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html)
 
 
-[Virtual Sampling](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)
+[Virtual sampling](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)
 
-[Wear and Tear](https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html)
+[Wear and tear](https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html)
