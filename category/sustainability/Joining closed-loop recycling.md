@@ -1,4 +1,4 @@
-﻿## Joining Closed-Loop Recycling
+﻿## Joining closed-loop recycling
 
 Joining Closed-Loop Recycling in the fashion domain refers to the practice of participating in a recycling system where materials from discarded or worn-out garments are collected, processed, and reintroduced into the production of new clothing items. It involves creating a closed-loop system where the materials used in the fashion industry are continuously recycled and reused, reducing the need for virgin resources and minimizing waste.  In more detail, joining closed-loop recycling involves several steps and stakeholders:
 
@@ -6,7 +6,7 @@ Joining Closed-Loop Recycling in the fashion domain refers to the practice of pa
 
 Garment brands or retailers collect used clothing items from users through various channels, such as in-store collection bins, take-back programs, or mail-in options. These items may include damaged garments, unsold inventory, or customer returns.  Sorting and Processing: The collected garments are sorted based on their material composition, condition, and potential for recycling. This step ensures that different materials can be appropriately processed and transformed into new products. Any non-recyclable components, such as zippers or buttons, are separated for proper disposal.
 
-#### Recycling and Regeneration
+#### Recycling and regeneration
 
 The sorted garments are then processed through various recycling methods, such as mechanical recycling or chemical processes. Mechanical recycling involves shredding the textiles into fibers, which can be spun into new yarns and fabrics. Chemical processes, such as depolymerization or dissolution, break down the textile fibers into their base components for the production of new materials.
 
@@ -14,7 +14,7 @@ The sorted garments are then processed through various recycling methods, such a
 
 The recycled materials are transformed into new fashion products, including clothing, accessories, or even footwear. These products may incorporate a blend of recycled materials with virgin materials, depending on the desired quality and performance.
 
-####  User Awareness and Education
+####  User awareness and education
 
 Communicating the importance and benefits of closed-loop recycling to users is crucial. Brands and retailers play a vital role in raising awareness about the recycling programs they offer, educating customers about the significance of recycling, and encouraging them to participate in the closed-loop system.
 
