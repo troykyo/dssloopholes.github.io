@@ -5,22 +5,22 @@ Business and finance refers to the strategic and financial aspects of the indust
 
 ## Business and finance strategies
 
-[Product Service Ecosystem](http://circularloopholes.net/category/business/Building%20Product-Service%20Ecosystems.html)
+[Product service ecosystem](http://circularloopholes.net/category/business/Building%20Product-Service%20Ecosystems.html)
 
 
-[Developing Competencies](http://circularloopholes.net/category/business/Developing%20competencies.html)
+[Developing competencies](http://circularloopholes.net/category/business/Developing%20competencies.html)
 
 
-[Economic Resilience](http://circularloopholes.net/category/business/Economic%20resilience.html)
+[Economic resilience](http://circularloopholes.net/category/business/Economic%20resilience.html)
 
 
-[Management: Task Allocation](http://circularloopholes.net/category/business/Management_%20Task%20allocation.html)
+[Management: Task allocation](http://circularloopholes.net/category/business/Management_%20Task%20allocation.html)
 
 
-[Means of Communication](http://circularloopholes.net/category/business/Means%20of%20Communication.html)
+[Means of communication](http://circularloopholes.net/category/business/Means%20of%20Communication.html)
 
 
-[On Demand Production](http://circularloopholes.net/category/business/On%20demand%20production.html)
+[On Demand production](http://circularloopholes.net/category/business/On%20demand%20production.html)
 
 
 [Person To Person](http://circularloopholes.net/category/business/P2P%20(Person%20to%20Person).html)
@@ -29,7 +29,7 @@ Business and finance refers to the strategic and financial aspects of the indust
 [Re-Positioning](http://circularloopholes.net/category/business/Re-positioning.html)
 
 
-[Revenue Model](http://circularloopholes.net/category/business/Revenue%20mode.html)
+[Revenue model](http://circularloopholes.net/category/business/Revenue%20mode.html)
 
 
-[Technology Resilience](http://circularloopholes.net/category/business/Technology%20resilience.html)
+[Technology resilience](http://circularloopholes.net/category/business/Technology%20resilience.html)
