@@ -1,4 +1,4 @@
-﻿## Co-Design
+﻿## Co-design
 
 Co-Design refers to a collaborative approach where designers, users, and other stakeholders work together to create and shape fashion products and experiences. It involves actively involving end-users and incorporating their ideas, preferences, and feedback into the design process. Co-design recognizes that users play an essential role in shaping fashion trends and that their input is valuable in creating products that meet their needs and desires.
 
