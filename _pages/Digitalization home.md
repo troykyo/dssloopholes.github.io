@@ -4,7 +4,7 @@ Digitalisation refers to the integration of digital technologies and processes i
 
 ## Digitalisation strategies
 
-[AR Try on](http://circularloopholes.net/category/digitalization/AR%20try-on.html)
+[AR try on](http://circularloopholes.net/category/digitalization/AR%20try-on.html)
 
 
 [Advanced sorting technologies](http://circularloopholes.net/category/digitalization/Advanced%20sorting%20technologies.html)
