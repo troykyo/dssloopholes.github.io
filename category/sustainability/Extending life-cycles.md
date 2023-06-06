@@ -1,26 +1,26 @@
-﻿## Extending Life-Cycles
+﻿## Extending life-cycles
 
 Extending Life Cycles refers to the deliberate efforts made by brands, manufacturers, and consumers to increase the longevity and utility of fashion products. This concept challenges the prevailing culture of fast fashion and disposable consumption by emphasizing the importance of durability, repairability, and timeless design. It involves adopting strategies such as producing high-quality garments, implementing repair and maintenance services, promoting versatile styling options, and encouraging responsible ownership and consumption habits.
 
 Extending life-cycles involves various strategies and actions:
 
-####  Design for Durability
+####  Design for durability
 
 Garments are designed with high-quality materials, construction techniques, and attention to detail, ensuring they can withstand frequent use and wear. This includes selecting robust fabrics, reinforcing stitching, and using durable hardware.
 
-#### Repair and Maintenance
+#### Repair and maintenance
 
 Providing repair services and promoting repair culture play a crucial role in extending the life-cycles of fashion products. Brands can offer repair programs or collaborate with local tailors and seamstresses to facilitate easy and affordable repairs, such as fixing seams, replacing buttons, or mending small tears.
 
-#### Customization and Adaptation
+#### Customization and adaptation
 
 Encouraging customers to personalize and adapt their garments can help prolong their usage. This can be done through features like adjustable sizing, modular designs, detachable elements, or customizable details. By allowing consumers to modify their clothing according to their preferences and changing needs, the garments can be enjoyed for an extended period.
 
-#### Education and Awareness
+#### Education and awareness
 
 Raising awareness among consumers about the importance of extending the life-cycles of fashion items is essential. Educating them on proper care instructions, maintenance techniques, and the value of repairing and reusing can help shift attitudes towards more sustainable consumption habits.
 
-#### Secondhand Market and Resale
+#### Secondhand market and resale
 
 Promoting the resale and secondhand market for fashion products enables their continued use by new owners. Brands can establish their own resale platforms or collaborate with existing marketplaces to facilitate the buying and selling of pre-owned items.
 
