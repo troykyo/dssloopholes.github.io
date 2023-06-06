@@ -1,4 +1,4 @@
-## Virtual Sampling
+## Virtual sampling
 
 Virtual sampling is a digital process that involves the creation of virtual prototypes and simulations of garments, accessories, or other fashion products using advanced computer graphics and 3D modeling technologies. It allows designers, brands, and manufacturers to visualize and evaluate the appearance, fit, and overall aesthetics of a product without the need for physical samples. By leveraging virtual sampling, various stages of the product development lifecycle, such as design, pattern-making, fitting, and merchandising, can be streamlined and accelerated.
 
