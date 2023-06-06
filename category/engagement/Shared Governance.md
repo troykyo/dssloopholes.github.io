@@ -1,4 +1,4 @@
-﻿## Shared Governance
+﻿## Shared governance
 
 Shared Governance refers to a collaborative and inclusive approach to decision-making and management, where various stakeholders actively participate and have a voice in shaping the industry's practices, policies, and direction. It involves the sharing of power, responsibility, and accountability among different parties, including brands, manufacturers, suppliers, workers, users, and other relevant stakeholders.
 
