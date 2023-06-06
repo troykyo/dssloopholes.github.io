@@ -8,7 +8,7 @@ Furthermore, technographic web-tracking can provide insights into users' engagem
 
 ### Case studies
 
-### Targeted Marketing
+### Targeted marketing
 
 #### Salesforce
 
@@ -18,7 +18,7 @@ Salesforce, a leading customer relationship management (CRM) platform, offers a 
 
 ZoomInfo, a provider of B2B contact and company information, incorporates technographic data into its platform. This allows businesses to identify prospects based on their technology usage, helping them tailor their marketing campaigns and reach the most relevant audience.
 
-### Competitor Analysis
+### Competitor analysis
 
 #### BuiltWith
 
@@ -28,7 +28,7 @@ BuiltWith is a competitive intelligence tool that helps businesses identify the 
 
 SimilarTech offers a technographic intelligence platform that allows businesses to analyze their competitors' technology stacks. By understanding the technologies employed by their rivals, companies can benchmark themselves, identify opportunities for improvement, and stay ahead in the market.
 
-### Customer Support Optimization
+### Customer support optimization
 
 #### Freshdesk
 
@@ -38,7 +38,7 @@ Freshdesk, a customer support software provider, integrates technographic data i
 
 Zendesk, a popular customer service and engagement platform, leverages technographic web tracking to gain insights into customers' technology usage. This enables support teams to deliver personalized support experiences and resolve technical issues more effectively.
 
-### IT Infrastructure Planning
+### IT Infrastructure planning
 
 #### ServiceNow
 
@@ -48,7 +48,7 @@ ServiceNow, an IT service management platform, offers solutions that incorporate
 
 BMC Software provides IT management solutions that utilize technographic data for infrastructure planning. By understanding the technology stack within an organization, BMC Software helps optimize IT operations, automate workflows, and ensure effective resource allocation.
 
-### Sales Prospecting
+### Sales prospecting
 
 #### DiscoverOrg (now ZoomInfo)
 
