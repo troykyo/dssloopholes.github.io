@@ -1,4 +1,4 @@
-﻿## Digital Worlds
+﻿## Digital worlds
 
 Digital Worlds refer to virtual environments or online platforms where fashion-related experiences, interactions, and transactions take place. These digital worlds leverage technology to create immersive and interactive experiences that bridge the gap between physical and virtual fashion realms.
 
