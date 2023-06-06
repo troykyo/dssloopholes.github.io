@@ -1,28 +1,28 @@
-﻿## On Demand Production
+﻿## On-demand production
 
 On-Demand in the fashion domain refers to a production model where products are manufactured or created in response to specific user orders. Unlike traditional mass production methods, where products are made in large quantities based on anticipated demand, on-demand production focuses on producing items as they are purchased. This approach offers several benefits and opportunities within the fashion industry.
 
-#### Reduction of Deadstock
+#### Reduction of deadstock
 
 One of the primary advantages of on-demand production in the fashion domain is the significant reduction in deadstock. Deadstock refers to unsold inventory that remains in storage or goes to waste, leading to financial losses and environmental impact. By producing items only in response to user orders, fashion companies can minimize the risk of overproduction and avoid excess inventory. This not only saves costs but also reduces waste and contributes to a more sustainable and efficient supply chain.
 
-#### Personalization and Customization
+#### Personalization and customization
 
 On-demand production enables the creation of personalized and customized products in the fashion domain. Users can have the option to customize various elements of a garment, such as color, fabric, fit, or design, based on their preferences. This customization enhances the overall shopping experience and allows users to own unique, one-of-a-kind fashion pieces that align with their individual style. It also fosters a deeper connection between users and the brand, leading to increased user satisfaction and loyalty.
 
-#### Faster Time-to-Market
+#### Faster time-to-market
 
 On-demand production offers faster time-to-market for fashion brands. Instead of waiting for the entire production cycle to complete before launching new products, companies can begin manufacturing as soon as orders are received. This agile production model allows fashion brands to respond quickly to emerging trends and changing user demands. It enables them to introduce new collections or designs in a shorter timeframe, staying ahead of competitors and capturing market opportunities more effectively.
 
-#### Reduced Inventory Holding Costs
+#### Reduced inventory holding costs
 
 With on-demand production, fashion companies can minimize inventory holding costs. Since products are produced based on actual user orders, there is less need for storage and warehousing facilities to hold excess inventory. This reduces the associated costs of inventory management, such as warehousing, transportation, and potential write-offs due to unsold stock. As a result, fashion brands can optimize their financial resources and allocate them more efficiently towards other aspects of their business, such as marketing, research, and development.
 
-#### Sustainability and Waste Reduction
+#### Sustainability and waste reduction
 
 On-demand production aligns with sustainability goals in the fashion industry by reducing waste and minimizing environmental impact. By avoiding overproduction and excess inventory, fashion companies can contribute to the reduction of textile waste and the consumption of finite resources. On-demand production also allows for more precise inventory planning, which minimizes the need for clearance sales or unsustainable discounting practices that can devalue products and contribute to wasteful consumption.
 
-#### Improved Supply Chain Efficiency
+#### Improved supply chain efficiency
 
 On-demand production can enhance the efficiency of the fashion supply chain. By aligning production with actual user demand, companies can optimize their manufacturing processes, reduce lead times, and improve resource allocation. This leaner and more efficient supply chain benefits both the fashion brand and its customers, ensuring that products are delivered in a timely manner and with minimized waste throughout the production cycle.
 
