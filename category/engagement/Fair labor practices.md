@@ -1,4 +1,4 @@
-﻿## Fair Labor Practices
+﻿## Fair labor practices
 
 Fair labor practices, in the context of the fashion domain, refer to the ethical and responsible treatment of workers involved in the production and supply chain of fashion products. It encompasses various aspects such as ensuring safe working conditions, fair wages, reasonable working hours, and respect for workers' rights.
 
