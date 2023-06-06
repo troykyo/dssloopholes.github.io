@@ -1,4 +1,4 @@
-﻿## Blockchain and Web3 Technologies
+﻿## Blockchain and Web3 technologies
 
 Blockchain and Web3 technologies are innovative digital systems that operate in a decentralized manner. They employ cryptographic techniques, smart contracts, and distributed ledgers to ensure transparency, security, and user-centeredness in the development of applications and services.
 
