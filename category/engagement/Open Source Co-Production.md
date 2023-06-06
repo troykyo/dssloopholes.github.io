@@ -1,4 +1,4 @@
-﻿## Open Source Co-Production
+﻿## Open source co-production
 
 Open Source Co-Production refers to a collaborative approach in which multiple stakeholders, including designers, manufacturers, and users, participate in the creation and production of fashion products through an open and transparent process. It involves sharing knowledge, resources, and ideas to collectively develop and bring a fashion product to fruition. This collaborative model allows for a greater diversity of ideas, skills, and perspectives to be incorporated into the design process. It fosters a sense of community and encourages active engagement from participants.
 
@@ -10,19 +10,19 @@ Through Open Source Co-Production, designers can share their design files, patte
 
 By embracing Open Source Co-Production, the fashion industry can benefit in several ways. It facilitates knowledge sharing, enabling designers and manufacturers to learn from each other and improve their practices. It encourages innovation and experimentation, as different stakeholders can collaborate and iterate on designs more freely. It also promotes sustainability by reducing waste and encouraging the reuse and repurposing of materials.  Open Source Co-Production can manifest in various forms, reflecting the diverse nature of the fashion industry and the collaborative possibilities it offers.
 
-#### Open Source Design Platforms
+#### Open source design platforms
 
 Online platforms or communities dedicated to sharing open-source fashion designs, patterns, and resources. These platforms allow designers to upload their designs for others to access, modify, and utilize for their own creations. Examples include Open Style Lab and Open Wear.
 
-#### Collaborative Workshops and Hackathons
+#### Collaborative workshops and hackathons
 
 Events that bring together designers, makers, technologists, and fashion enthusiasts to collaborate on open-source fashion projects. Participants share their skills, knowledge, and resources to create innovative and sustainable fashion solutions. These workshops and hackathons often result in the co-creation of prototypes, designs, and ideas.
 
-#### Maker Spaces and Fab Labs
+#### Maker spaces and fab labs
 
 Physical spaces equipped with tools, machinery, and resources for individuals to collaborate and create fashion products. These spaces provide access to shared resources and foster a community-driven approach to fashion production. Participants can work together on open-source fashion projects, exchange ideas, and learn from each other's expertise.
 
-#### Open Source Material Libraries
+#### Open source material libraries
 
 Platforms or databases that compile information about sustainable and open-source materials for fashion production. These resources enable designers and manufacturers to explore alternative materials, share knowledge about their properties and sourcing, and contribute to the development of sustainable fashion practices.
 
@@ -30,7 +30,7 @@ Platforms or databases that compile information about sustainable and open-sourc
 
 Events or competitions focused on solving specific fashion-related problems through open-source co-production. Participants form teams and work collaboratively to develop innovative solutions, leveraging open-source principles. These initiatives encourage cross-disciplinary collaboration and foster a culture of sharing and collaboration within the fashion industry.
 
-#### Collaborative Design Projects
+#### Collaborative design projects
 
 Partnerships between fashion brands, designers, and consumers to co-design and co-produce fashion collections. This can involve engaging consumers in the design process, soliciting their ideas and feedback, and incorporating their input into the final products. The open-source approach allows for greater transparency and inclusivity in the design and production phases.
 
