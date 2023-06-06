@@ -1,4 +1,4 @@
-﻿## User as Stakeholder
+﻿## User as stakeholder
 
 User as Stakeholder refers to the recognition and inclusion of end-users or users as significant stakeholders. In this context, users are not just passive recipients of fashion products but are actively involved in shaping the industry through their preferences, choices, and behaviors.
 
