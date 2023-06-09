@@ -4,7 +4,8 @@
 
 layout: home
 ---
-![Loopholes logo blue background](https://github.com/DSSLoopHoles/dssloopholes.github.io/assets/135152559/0a048e3e-40f2-4977-be9e-58ac5267d048)
+
+![image](https://github.com/DSSLoopHoles/dssloopholes.github.io/assets/135152559/e2c77fe6-a176-439d-85f8-3558af52fcee)
 
 
 # About Loopholes Games
