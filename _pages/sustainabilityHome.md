@@ -5,35 +5,30 @@ Sustainability encompasses practices that aim to minimize the negative environme
 
 ## Sustainability strategies
 
-[Design for disassembly](https://circularloopholes.net/category/sustainability/Design%20for%20disassembly.html)
+
+<a href="https://circularloopholes.net/category/sustainability/Design%20for%20disassembly.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Design for Disassembly</a>
+
+<a href="https://circularloopholes.net/category/sustainability/Design%20for%20multiple%20uses.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Designed for Multiple Users</a>
 
 
-[Designed for multiple Users](https://circularloopholes.net/category/sustainability/Design%20for%20multiple%20uses.html)
+<a href="https://circularloopholes.net/category/sustainability/More%20than%20human%20design.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">More than Human Design</a>
+
+<a href="https://circularloopholes.net/category/sustainability/Collaborative%20consumption.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Collaborative Consumption</a>
 
 
-[More than human design](https://circularloopholes.net/category/sustainability/More%20than%20human%20design.html)
+<a href="https://circularloopholes.net/category/sustainability/Enabling%20repairability.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Enabling Repairability</a>
+
+<a href="https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Extending Life-Cycles</a>
 
 
-[Collaborative consumption](https://circularloopholes.net/category/sustainability/Collaborative%20consumption.html)
+<a href="https://circularloopholes.net/category/sustainability/Post-use%20materials.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Post Use Materials</a>
 
 
-
-[Enabling repairability](https://circularloopholes.net/category/sustainability/Enabling%20repairability.html)
-
-
-[Extending life-cycles](https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html)
+<a href="https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Joining Closed Loop Recycling</a>
 
 
-[Post use materials](https://circularloopholes.net/category/sustainability/Post-use%20materials.html)
+<a href="https://circularloopholes.net/category/sustainability/Waste%20reduction.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Waste reduction</a>
 
 
-
-[Joining closed loop recycling](https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html)
-
-
-
-[Waste reduction](https://circularloopholes.net/category/sustainability/Waste%20reduction.html)
-
-[From circular to sustainable Material](https://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
-
+<a href="https://circularloopholes.net/category/sustainability/Waste%20reduction.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">From circular to Sustainable Material</a>
 
