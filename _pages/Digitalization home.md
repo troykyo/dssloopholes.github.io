@@ -4,33 +4,27 @@ Digitalisation refers to the integration of digital technologies and processes i
 
 ## Digitalisation strategies
 
-[AR try on](http://circularloopholes.net/category/digitalization/AR%20try-on.html)
-
 <a href="http://circularloopholes.net/category/digitalization/AR%20try-on.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">AR try on</a>
 
 
+<a href="http://circularloopholes.net/category/digitalization/Advanced%20sorting%20technologies.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Advanced sorting technologies</a>
 
-[Advanced sorting technologies](http://circularloopholes.net/category/digitalization/Advanced%20sorting%20technologies.html)
+<a href="http://circularloopholes.net/category/digitalization/Blockchain%20and%20Web3%20Technologies.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Blockchain and Web3 Technologies</a>
 
+<a href="http://circularloopholes.net/category/digitalization/Digital%20Product%20Passports.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Digital product passports</a>
 
-[Blockchain and Web3 Technologies](http://circularloopholes.net/category/digitalization/Blockchain%20and%20Web3%20Technologies.html)
+<a href="http://circularloopholes.net/category/digitalization/Digital%20Twin.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Digital twin</a>
 
+<a href="http://circularloopholes.net/category/digitalization/Digital%20Worlds.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Digital worlds</a>
 
-[Digital product passports](http://circularloopholes.net/category/digitalization/Digital%20Product%20Passports.html)
-
-
-[Digital twin](http://circularloopholes.net/category/digitalization/Digital%20Twin.html)
-
-
-[Digital worlds](http://circularloopholes.net/category/digitalization/Digital%20Worlds.html)
+<a href="http://circularloopholes.net/category/digitalization/Personalisation.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Personalisation</a>
 
 
-[Personalisation](http://circularloopholes.net/category/digitalization/Personalisation.html)
+<a href="http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Tecnographic web-tracking</a>
 
 
-[Tecnographic web-tracking](http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html)
+<a href="[http://circularloopholes.net/category/digitalization/AR%20try-on.html](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Virtual sampling</a>
 
 
-[Virtual sampling](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)
+<a href="[https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Wear and tear</a>
 
-[Wear and tear](https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html)
