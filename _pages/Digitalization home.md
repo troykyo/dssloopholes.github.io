@@ -23,8 +23,8 @@ Digitalisation refers to the integration of digital technologies and processes i
 <a href="http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Tecnographic web-tracking</a>
 
 
-<a href="[http://circularloopholes.net/category/digitalization/AR%20try-on.html](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> Virtual sampling</a>
+<a href="http://circularloopholes.net/category/digitalization/AR%20try-on.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Virtual sampling</a>
 
 
-<a href="[https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> Wear and tear</a>
+<a href="https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> Wear and tear</a>
 
