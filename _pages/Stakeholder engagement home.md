@@ -4,35 +4,28 @@ Stakeholder engagement involves actively involving and collaborating with variou
 
 ## Stakeholder Engagement  strategies
 
-[Open source co-production](https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html)
+<a href="https://circularloopholes.net/category/engagement/Open%20Source%20Co-Production.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Open Source Co-Production</a>
+
+<a href="[https://www.google.com/](https://circularloopholes.net/category/engagement/Co-design.html)" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Co-Design</a>
 
 
-[Co-design](https://circularloopholes.net/category/engagement/Co-design.html)
+<a href="https://circularloopholes.net/category/engagement/Local%20Community.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Local Community</a>
 
 
-
-[Local community](https://circularloopholes.net/category/engagement/Local%20Community.html)
-
-
-[Strategic partnership](https://circularloopholes.net/category/engagement/Strategic%20partnerships.html)
+<a href="https://circularloopholes.net/category/engagement/Strategic%20partnerships.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Strategic Partnership</a>
 
 
-[Refreshing roles](https://circularloopholes.net/category/engagement/Refreshing%20Roles.html)
+<a href="https://circularloopholes.net/category/engagement/Refreshing%20Roles.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Refreshing Roles</a>
 
+<a href="https://circularloopholes.net/category/engagement/User%20as%20Stakeholder.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Users as Stakeholders</a>
 
-[Users as stakeholders](https://circularloopholes.net/category/engagement/User%20as%20Stakeholder.html)
+<a href="https://circularloopholes.net/category/engagement/Shared%20Governance.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Shared Governance</a>
 
+<a href="https://circularloopholes.net/category/engagement/Fluid%20fashion%20consumption.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fluid Fashion Consumption</a>
 
-[Shared governance](https://circularloopholes.net/category/engagement/Shared%20Governance.html)
+<a href="https://circularloopholes.net/category/engagement/Fair%20labor%20practices.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fair Labor Practices</a>
 
-
-[Fluid fashion consumption](https://circularloopholes.net/category/engagement/Fluid%20fashion%20consumption.html)
-
-
-[Fair labor practices](https://circularloopholes.net/category/engagement/Fair%20labor%20practices.html)
-
-[User feedback loop](https://circularloopholes.net/category/engagement/User%20Feedback%20Loop.html)
-
+<a href="https://circularloopholes.net/category/engagement/User%20Feedback%20Loop.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">User Feedback Loop</a>
 
 
 
