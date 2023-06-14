@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![image](https://github.com/DSSLoopHoles/dssloopholes.github.io/assets/135152559/e2c77fe6-a176-439d-85f8-3558af52fcee)
+
 
 
 # About Loopholes Games
