@@ -27,8 +27,8 @@ Sustainability encompasses practices that aim to minimize the negative environme
 <a href="https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Joining Closed Loop Recycling</a>
 
 
-<a href="https://circularloopholes.net/category/sustainability/Waste%20reduction.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Waste reduction</a>
+<a href="https://circularloopholes.net/category/sustainability/Waste%20reduction.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Waste Reduction</a>
 
 
-<a href="https://circularloopholes.net/category/sustainability/Waste%20reduction.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">From circular to Sustainable Material</a>
+<a href="https://circularloopholes.net/category/sustainability/Waste%20reduction.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">From Circular to Sustainable Material</a>
 
