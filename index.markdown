@@ -23,9 +23,9 @@ Loopholes Games introduces a unique and immersive experience through our physica
 
 # How It Works
 
-In the game, players start by selecting a specific product or service they plan to produce and envision a timeframe for its development. The game board, modeled after the UPPSSG framework, guides players through various stages and challenges of their circular business journey.
+In the game, players start by selecting a specific product or service they plan to produce and envision a timeframe for its development. The game board guides players through various stages and challenges of their circular business journey.
 
-Throughout the game, trigger cards prompt players with educational insights and challenges related to each quadrant on the board. These prompts encourage critical thinking and strategic decision-making, allowing players to gain a deeper understanding of the impact that data and technology can have on their product or service propositions.
+Throughout the game, cards prompt players with educational insights and challenges related to each quadrant on the board. These prompts encourage critical thinking and strategic decision-making, allowing players to gain a deeper understanding of the impact that data and technology can have on their product or service propositions.
 
 # Expected Outcomes
 
@@ -52,5 +52,5 @@ By achieving these outcomes, players can gain a competitive edge in the transiti
 
 # Join the Circular Business Revolution
 
-Whether you are a small startup or an established company, Loopholes Games offers a dynamic and engaging experience that will transform the way you approach circular business models. Join us on this exciting journey and unlock new possibilities for sustainable and technologically driven growth.
+Whether you are a small startup or an established company, Loopholes Games offers a dynamic and engaging experience that will transform how you approach circular business models. Join us on this exciting journey and unlock new possibilities for sustainable and technologically driven growth.
 
