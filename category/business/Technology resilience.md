@@ -16,7 +16,7 @@ Technology resilience requires a focus on continuous innovation and research and
 
 #### Omnichannel capabilities
 
-Technology resilience in the fashion domain involves developing omnichannel capabilities to provide a seamless and integrated user experience across multiple channels, including physical stores, online platforms, mobile applications, and social media. This requires leveraging technologies such as mobile apps, augmented reality, virtual reality, and interactive displays to create engaging and personalized experiences for the users.
+Technology resilience in the fashion domain involves developing omnichannel capabilities to provide a seamless and integrated user experience across multiple channels, including physical stores, online platforms, mobile applications, and social media. This requires leveraging technologies such as mobile apps, augmented reality, virtual reality, and interactive displays to create engaging and personalized user experiences.
 
 #### Data-driven decision making
 
@@ -52,7 +52,7 @@ Stitch Fix, an online personal styling service, showcases technology resilience 
 
 #### Rent the Runway
 
-Rent the Runway is a fashion rental service that demonstrates technology resilience by leveraging an innovative business model and advanced logistics systems. The company uses technology to manage inventory, track shipments, and provide a seamless rental experience for its users. Rent the Runway also utilizes data analytics to understand customer behavior and optimize its inventory selection.
+Rent the Runway is a fashion rental service demonstrating technology resilience by leveraging an innovative business model and advanced logistics systems. The company uses technology to manage inventory, track shipments, and provide a seamless rental experience for its users. Rent the Runway also utilizes data analytics to understand customer behavior and optimize its inventory selection.
 
 #### Nike
 
