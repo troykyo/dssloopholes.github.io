@@ -2,7 +2,7 @@
 
 Building Product-Service Ecosystems refers to the strategic integration of a diverse array of interconnected products, services, and experiences that collectively create a comprehensive and personalized offering for users. It involves the alignment of physical products, digital platforms, services, and partnerships to deliver a seamless and cohesive user experience.
 
-By curating a holistic ecosystem, fashion brands can enhance user satisfaction, loyalty, and engagement while differentiating themselves in a competitive market.  Building product-service ecosystems involves the deliberate curation and orchestration of a wide range of interconnected elements, including tangible products, intangible services, digital platforms, and experiential touchpoints, to deliver a comprehensive and unified user experience. The goal is to create an ecosystem that goes beyond individual transactions and fosters long-term relationships with users.
+By curating a holistic ecosystem, fashion brands can enhance user satisfaction, loyalty, and engagement while differentiating themselves in a competitive market.  Building product-service ecosystems involves the deliberate curation and orchestration of a wide range of interconnected elements, including tangible products, intangible services, digital platforms, and experiential touchpoints, to deliver a comprehensive and unified user experience. The goal is to create an ecosystem that goes beyond individual transactions and fosters long-term relationships with users
 
 A product-service ecosystem encompasses not only the physical garments and accessories but also the associated services and experiences that surround them. This can include personalized styling advice, virtual try-on technologies, fit consultations, alterations, repair services, and fashion-related events or workshops. By combining these elements, fashion brands can offer a more holistic and tailored experience that resonates with their user's needs and preferences.
 
@@ -46,12 +46,12 @@ Poshmark is a social marketplace where individuals can buy and sell new and used
 
 ##### Reference
 
-Baker, K. (2023, March 16). [How to build a product ecosystem buyers will want to be in](https://blog.hubspot.com/marketing/product-ecosystem). HubSpot Blog.
+[Baker, K. (2023, March 16). _How to build a product ecosystem buyers will want to be in_. HubSpot Blog. https://blog.hubspot.com/marketing/product-ecosystem](https://blog.hubspot.com/marketing/product-ecosystem)
 
-Armstrong, Cosette M., and Chunmin Lang. "Sustainable product service systems: the new frontier in apparel retailing?." _Research Journal of Textile and Apparel_ (2013).
+[Armstrong, Cosette M., and Chunmin Lang. "Sustainable product service systems: the new frontier in apparel retailing?." _Research Journal of Textile and Apparel_ (2013).](https://www.researchgate.net/publication/261870225_Sustainable_Product_Service_Systems_The_New_Frontier_in_Apparel_Retailing)
 
-Yang, Shuai, Yiping Song, and Siliang Tong. "Sustainable retailing in the fashion industry: A systematic literature review." _Sustainability_ 9.7 (2017): 1266.
+[Yang, Shuai, Yiping Song, and Siliang Tong. "Sustainable retailing in the fashion industry: A systematic literature review." _Sustainability_ 9.7 (2017): 1266.](https://www.mdpi.com/2071-1050/9/7/1266)
 
-Gockeln, Lisa. _Fashion industry analysis from the perspective of business model dynamics_. BS thesis. University of Twente, 2014.
+[Gockeln, Lisa. _Fashion industry analysis from the perspective of business model dynamics_. BS thesis. University of Twente, 2014.](https://essay.utwente.nl/66183/1/Gockeln_BA_MB.pdf)
 
-Lundgreen, Mathilde, and Nanna Flensberg. "Use-oriented product service systems in the fashion industry: Understanding consumers’ perception-an exploratory study." (2020).
+[Lundgreen, Mathilde, and Nanna Flensberg. "Use-oriented product service systems in the fashion industry: Understanding consumers’ perception-an exploratory study." (2020).](https://projekter.aau.dk/projekter/files/334882749/Master_s_Thesis_by_Lundgreen_and_Flensberg.pdf)
