@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: LOOPHOLES
-email: DSSloopholes@gmail.com
+email: fashion.research@hva.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Loopholes is not a typical game; it's a catalyst for change, designed to bring together professionals from different backgrounds and empower them to explore sustainable and digital solutions. 
+  Loopholes is not a typical toolkit; it's a catalyst for change, designed to bring together professionals from different backgrounds and empower them to explore sustainable and digital solutions. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: loopholes
-github_username:  loopholes
+github_username:  troykyo
 
 # Build settings
 theme: minima
@@ -44,11 +44,11 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+     - { platform: github,         user_url: "https://github.com/troykyo/dssloopholes.github.io" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+     - { platform: instagram,      user_url: "https://www.instagram.com/transitions.eu/" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-  #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/company/transitionsproject-eu" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
