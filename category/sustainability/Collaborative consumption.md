@@ -47,7 +47,7 @@ What kind of services could you provide to promote this alternative business mod
       position: center;
 	padding: 5px;
 	     h3 {
-    font-size: 2.5vw; /* Adjust font size for smaller screens */
+    font-size: 4vw; /* Adjust font size for smaller screens */
   }
 }
     h6 {
