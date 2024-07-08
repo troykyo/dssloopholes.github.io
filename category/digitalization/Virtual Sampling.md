@@ -1,4 +1,75 @@
-## Virtual sampling
+## Virtual Fashion
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Virtual Fashion </h3>
+Making virtual clothing and textiles (in programs like Clo3D, Browzwear, Blender, or Optitex Lectra) can facilitate fitting, sharing, or entirely digital fashion. Fewer physical garments are needed, and users can even wear the garments digitally.
+    <h6> VET question </h6>
+How can creating clothes digitally on a computer change the way we wear and share fashion?
+    <h6> HEI question </h6>
+In what ways can virtual fashion and textiles be better than traditional methods in design, production, fitting, and use?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 
 Virtual sampling is a digital process that involves the creation of virtual prototypes and simulations of garments, accessories, or other fashion products using advanced computer graphics and 3D modeling technologies. It allows designers, brands, and manufacturers to visualize and evaluate the appearance, fit, and overall aesthetics of a product without the need for physical samples. By leveraging virtual sampling, various stages of the product development lifecycle, such as design, pattern-making, fitting, and merchandising, can be streamlined and accelerated.
 
