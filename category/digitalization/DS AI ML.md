@@ -6,7 +6,7 @@
   <div class="overlay-text">
     <h3> Data Science, AI and ML </h3>
  DS, AI and ML play a crucial role in Fashion ecosystem processes. From image generation for design, user profile creation, business systems, and production optimization; DS, AI and ML have been a . It can even support sustainability by analyzing images of what you wear understand what is in your wardrobe to helps companies understand what to make or connect you with existing items.
-    <h6> VET question </h6>
+    <h6> VET </h6>
 How can DS, AI and ML help make fashion more eco-friendly and reduce waste?
 	  <h6> HEI question </h6>
 How can DS, AI and ML predict demand for sustainable fashion, cut waste in production, and boost eco-friendly material use?

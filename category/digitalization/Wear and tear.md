@@ -5,7 +5,7 @@
   <div class="overlay-text">
     <h3> Wear and Tear </h3>
 As worn garments come back to the brand under the EPR, wear and tear on these clothes can provide valuable data about use, consumption, and the wearer's habits. For example, an iPhone has a 3D scanner that can scan your garment and compare it to the original factory scan to see what has changed.
-    <h6> VET question </h6>
+    <h6> VET </h6>
 How can we set up places to fix and repair clothes that look at how jeans age and wear out?
     <h6> HEI question </h6>
 How can integrating wear and repair photos help businesses promote sustainability, repairability and circularity? What are the initial challenges in implementing such systems?
