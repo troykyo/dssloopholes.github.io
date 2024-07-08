@@ -1,5 +1,52 @@
 ﻿## Advanced sorting technologies
 
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Advanced Sorting Technologies </h3>
+Sorting clothes for reuse and recycling is a difficult process, often with more than 300 categories. New technologies like visual identification AI can be used to help sorters identify and sort materials into recycling and reuse by material and brand. Using phone cameras, wearers could be encouraged to dispose their clothes at an optimal time.
+    <h6> VET question </h6>
+How can using new technology to sort and recycle clothes make recycling easier and better?
+    <h6> HEI question </h6>
+How can visual identification technologies improve the fashion ecosystem processes and encourage sustainable behavior?  
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: centre;
+    }
+  }
+</style>
+
 Advanced sorting technologies refer to innovative and technologically advanced systems and processes used to sort and categorize fashion products for the purpose of digital recycling and upcycling. These technologies leverage cutting-edge methods, such as machine vision, artificial intelligence, and data analytics, to efficiently and accurately identify, classify, and separate garments and materials based on their suitability for recycling or upcycling.
 
 Digital recycling and upcycling involve the transformation of discarded or unused fashion products into new, valuable items through digital processes. Advanced sorting technologies play a crucial role in this context by enabling the automated identification and separation of materials that can be recycled or repurposed, thereby streamlining the digital recycling and upcycling workflows.
