@@ -104,3 +104,6 @@ titles_from_headings:
 csv_data:
   - name: data
     path: "_assets/Cards V2 MASTER.csv"
+    # _config.yml
+    exclude_header: true
+
