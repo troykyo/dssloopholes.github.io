@@ -12,5 +12,5 @@ Digitalisation in the industry signifies the incorporation of digital technologi
 - [Digital Worlds](http://circularloopholes.net/category/digitalization/Digital%20Worlds.html)
 - [Personalisation](http://circularloopholes.net/category/digitalization/Personalisation.html)
 - [Tecnographic Web-Tracking](http://circularloopholes.net/category/digitalization/Tecnographic%20Web-Tracking.html)
-- [Virtual Fashion](http://circularloopholes.net/category/digitalization/Virtual%20Sampling.html)
+- [Virtual Fashion](http://circularloopholes.net/category/digitalization/Virtual%20Fashion.html)
 - [Wear and Tear](https://circularloopholes.net/category/digitalization/Wear%20and%20tear.html)
