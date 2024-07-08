@@ -41,8 +41,30 @@ How can blockchain and decentralized technologies be integrated into the fashion
   @media (max-width: 600px) {
     .overlay-text {
       font-size: 1.7vw;
-      position: centre;
+      position: center;
+	padding: 5px;
+}
     }
+	
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
   }
 </style>
 
