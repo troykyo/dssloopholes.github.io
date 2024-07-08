@@ -3,11 +3,12 @@
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 	
   <div class="overlay-text">
-    <h3> Blockchain and Unique ID technologies </h3>
-Tracking every garment and who is wearing it is a complex process. Web3 uses Blockchain technology to create decentralized systems that log data about the life-cycles without central authorities, promoting stakeholder empowerment.
+    <h3> Digital Product Passports </h3>
+Digital Product Passports provide transparency on garment origins, including material sources, environmental impact (water, energy, carbon), and manufacturing locations, facilitating transparent information practices.
     <h6> VET question </h6>
-How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<h6> HEI question </h6>
-How can blockchain and decentralized technologies be integrated into the fashion ecosystem, and what impact will transparent ownership have on fashion ecosystems?
+How can tracking where and how clothes are made help us recycle and reuse them better?
+	  <h6> HEI question </h6>
+How can the implementation of Digital Product Passports enhance trackability and traceability of garment life-cycles, supporting the transition to a circularity?
   </div>
 </div>
 
@@ -39,9 +40,28 @@ How can blockchain and decentralized technologies be integrated into the fashion
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: 1vw;
+      font-size: 1.2vw;
       position: centre;
     }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
   }
 </style>
 
