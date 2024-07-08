@@ -41,9 +41,8 @@ How can the implementation of Digital Product Passports enhance trackability and
   @media (max-width: 600px) {
     .overlay-text {
       font-size: 1.7vw;
-      position: centre;
-	padding: 0;
- 	 margin: 10px;
+      position: center;
+	padding: 5px;
 }
 
     }
