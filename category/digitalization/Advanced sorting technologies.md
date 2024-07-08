@@ -33,7 +33,7 @@ How can visual identification technologies improve the fashion ecosystem process
     transform: translate(-60%, -60%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    padding: 0px;
+    padding: 3px;
     font-size: 0.9vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
