@@ -4,7 +4,7 @@
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 	
   <div class="overlay-text">
-    <h3> Data Science, Artificial Intelligence, and Machine Learning (DS AI, and ML) </h3>
+    <h6> Data Science, Artificial Intelligence, and Machine Learning (DS AI, and ML) </h6>
  DS, AI and ML play a crucial role in Fashion ecosystem processes. From image generation for design, user profile creation, business systems, and production optimization; DS, AI and ML have been a . It can even support sustainability by analyzing images of what you wear understand what is in your wardrobe to helps companies understand what to make or connect you with existing items.
     <h6> VET question </h6>
 How can DS, AI and ML help make fashion more eco-friendly and reduce waste?
@@ -66,6 +66,8 @@ How can DS, AI and ML predict demand for sustainable fashion, cut waste in produ
 
   .overlay-text p {
     margin-top: 5px;    /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
   }
   }
 </style>
