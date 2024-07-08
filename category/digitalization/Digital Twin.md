@@ -8,7 +8,7 @@
 A digital twin is a digital model of a physical product, process, or system. In fashion, this could mean a detailed, dynamic 3D model (or, more often, a data model) of a garment, factory, store, entire value chain, and/or the interaction of many value chains. This helps us understand how product/service eco-systems are working at a practical level.
     <h6> VET </h6>
 How can making a virtual copy of clothes or factories help us understand and improve fashion production?
-    <h6> HEI question </h6>
+    <h6> HEI </h6>
 How can the use of digital twins in fashion ecosystem improve efficiency, sustainability and collaboration?
   </div>
 </div>

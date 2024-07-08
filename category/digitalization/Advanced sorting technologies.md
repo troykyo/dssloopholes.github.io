@@ -8,11 +8,11 @@
 Sorting clothes for reuse and recycling is a difficult process, often with more than 300 categories. New technologies like visual identification AI can be used to help sorters identify and sort materials into recycling and reuse by material and brand. Using phone cameras, wearers could be encouraged to dispose their clothes at an optimal time.
     <h6> VET </h6>
 How can using new technology to sort and recycle clothes make recycling easier and better?
-    <h6> HEI question </h6>
+    <h6> HEI </h6>
 How can visual identification technologies improve the fashion ecosystem processes and encourage sustainable behavior?  
   </div>
 </div>
-
+<br>
 <style>
   .image-container {
     position: relative;

@@ -8,7 +8,7 @@
 Advanced digital manufacturing technologies such as 3D printing and computer-controlled machines (spinning, cutting, sewing, knitting, weaving, dyeing, pressing, coating, logistics) streamline the fashion process, enabling innovative and sustainable textile creation and modification.
     <h6> VET </h6>
 How can new machines and technology like 3D printers change the way clothes are made and worn?
-	  <h6> HEI question </h6>
+	  <h6> HEI </h6>
 How can advancements in digital manufacturing technologies revolutionize the fashion ecosystem workflows and value chains?
   </div>
 </div>
