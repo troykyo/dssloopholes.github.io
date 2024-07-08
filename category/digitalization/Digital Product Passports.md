@@ -40,8 +40,12 @@ How can the implementation of Digital Product Passports enhance trackability and
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: 1.2vw;
+      font-size: 1.7vw;
       position: centre;
+	padding: 0;
+ 	 margin: 10px;
+}
+
     }
 
   /* Remove default margin for headings and paragraphs */
@@ -51,6 +55,7 @@ How can the implementation of Digital Product Passports enhance trackability and
 
   /* Add custom margin to control spacing */
   h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
     margin-bottom: 5px; /* Adjust this value as needed */
   }
 
