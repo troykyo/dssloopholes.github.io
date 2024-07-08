@@ -1,5 +1,74 @@
 ## Wear and tear
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Wear and Tear </h3>
+As worn garments come back to the brand under the EPR, wear and tear on these clothes can provide valuable data about use, consumption, and the wearer's habits. For example, an iPhone has a 3D scanner that can scan your garment and compare it to the original factory scan to see what has changed.
+    <h6> VET question </h6>
+How can we set up places to fix and repair clothes that look at how jeans age and wear out?
+    <h6> HEI question </h6>
+How can integrating wear and repair photos helpÊ businesses promote sustainability, repairability and circularity? What are the initial challenges in implementing such systems?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Wear and tear in the context of product usage refers to the gradual deterioration and damage that occurs to an item over time as a result of its use, consumption, and the habits of its user. It is an inevitable consequence of regular use and reflects the impact of factors such as friction, stress, washing, and environmental conditions on the product's condition. The knowledge and data gathered from studying wear and tear can provide valuable insights into various aspects of the fashion industry.
 
 Wear and tear data provides valuable insights into product durability, user behavior, and sustainability within the fashion industry. By utilizing this data, companies can enhance product design, inform manufacturing processes, promote responsible usage, and contribute to the transition towards a more sustainable and circular fashion ecosystem.
