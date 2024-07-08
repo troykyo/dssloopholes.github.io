@@ -1,5 +1,74 @@
 ﻿## Digital worlds
+ 
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Digital Worlds </h3>
+Digital worlds merge virtual platforms where creators trade digital clothing and fabric patterns (often as NFTs), blending fashion and gaming for avatar customization and immersive experiences. The goal is innovation, waste reduction, and new creative avenues, with fashion brands, designers, and tech firms like DressX and The Fabricant lead this innovation.
+    <h6> VET question </h6>
+How can digital fashion platforms boost creativity and help the environment in Fashion?
+    <h6> HEI question </h6>
+What role do NFTs and other unique identifiers play in transforming the fashion and design industries, especially in virtual and gaming worlds?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
 Digital Worlds refer to virtual environments or online platforms where fashion-related experiences, interactions, and transactions take place. These digital worlds leverage technology to create immersive and interactive experiences that bridge the gap between physical and virtual fashion realms.
 
 Digital Worlds encompass various aspects within the fashion industry, including virtual fashion shows, digital showrooms, e-commerce platforms, augmented reality (AR) and virtual reality (VR) experiences, social media platforms, and fashion-focused mobile applications. These digital platforms and technologies enable brands, designers, retailers, and users to engage with fashion in innovative and dynamic ways.
