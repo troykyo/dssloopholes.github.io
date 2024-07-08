@@ -99,3 +99,8 @@ titles_from_headings:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#to call a csv
+csv_data:
+  - name: Cards V2 MASTER
+    path: _assets/css/Cards V2 MASTER.csv
