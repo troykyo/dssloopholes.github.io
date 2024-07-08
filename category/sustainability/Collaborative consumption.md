@@ -11,7 +11,7 @@ In collaborative consumption, users minimize the negative impact by sharing, swa
 
 ## Displaying Specific Cell from CSV in Markdown
 
- {{ site.assets.css.Cards V2 MASTER[18].DESCRIPTION }}
+ {{ site.assets.Cards V2 MASTER[18].DESCRIPTION }}
     <h6> VET </h6>
 How could you share your wardrobe with someone else?
 	  <h6> HEI </h6>
