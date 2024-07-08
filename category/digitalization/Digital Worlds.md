@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Digital Worlds </h3>
 Digital worlds merge virtual platforms where creators trade digital clothing and fabric patterns (often as NFTs), blending fashion and gaming for avatar customization and immersive experiences. The goal is innovation, waste reduction, and new creative avenues, with fashion brands, designers, and tech firms like DressX and The Fabricant lead this innovation.
-    <h6> VET question </h6>
+    <h6> VET </h6>
 How can digital fashion platforms boost creativity and help the environment in Fashion?
-    <h6> HEI question </h6>
+    <h6> HEI </h6>
 What role do NFTs and other unique identifiers play in transforming the fashion and design industries, especially in virtual and gaming worlds?
   </div>
 </div>

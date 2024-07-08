@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Personalisation </h3>
 Digital Manufacturing allows for the creation of custom-fit clothes and a personalized fashion experience using data from social media, 3D scanners, and online profiles. These can be tailored to fit the wearer's body size, personal style, social role, or wardrobe needs.
-    <h6> VET question </h6>
+    <h6> VET </h6>
 How can we use information about people to make clothes that fit them perfectly?
-    <h6> HEI question </h6>
+    <h6> HEI </h6>
 What information from data sources can be used to make clothing and textiles that match personal preferences and needs? What are the risks of using that data?
   </div>
 </div>

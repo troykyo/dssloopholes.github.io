@@ -8,9 +8,9 @@
   <div class="overlay-text">
     <h3> Collaborative Consumption </h3>
 In collaborative consumption, users minimize the negative impact by sharing, swapping and exchanging clothes. This extends the use phase of garments and reduces the need for new clothing. Companies can engage resale, rental and remake platforms to reduce the overall consumption.
-    <h6> VET question </h6>
+    <h6> VET </h6>
 How could you share your wardrobe with someone else?
-	  <h6> HEI question </h6>
+	  <h6> HEI </h6>
 What kind of services could you provide to promote this alternative business model?
   </div>
 </div>
