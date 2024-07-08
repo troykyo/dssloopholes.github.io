@@ -30,30 +30,28 @@ Encouraging users to make conscious purchasing decisions and adopt sustainable f
 
 #### Reformation
 
-Reformation is a sustainable fashion brand known for its commitment to waste reduction. They prioritize sustainable materials, minimize fabric waste through efficient pattern-making, and focus on local manufacturing to reduce transportation emissions. They also offer a "Clothes the Loop" program where customers can return old garments for recycling.
+Reformation is a sustainable fashion brand known for its commitment to waste reduction. They prioritize sustainable materials, minimize fabric waste through efficient pattern-making, and focus on local manufacturing to reduce transportation emissions. They also offer a "Clothes the Loop" program where customers can return old garments for recycling. [Learn more about Reformation](https://www.thereformation.com/pages/sustainability)
 
 #### TALA
 
-TALA is a UK-based activewear brand that incorporates recycled materials into their products. They use fabrics made from recycled plastic bottles and engage in waste reduction by designing for circularity, ensuring their products can be easily recycled at the end of their life.
+TALA is a UK-based activewear brand that incorporates recycled materials into their products. They use fabrics made from recycled plastic bottles and engage in waste reduction by designing for circularity, ensuring their products can be easily recycled at the end of their life. [Learn more about TALA](https://www.wearetala.com/pages/sustainability)
 
 #### Tonlé
 
-Tonlé is a zero-waste fashion brand that upcycles textile scraps and discarded garments into new clothing. They employ a zero-waste production process where even the smallest fabric remnants are transformed into accessories or other products, minimizing waste and maximizing resource utilization.
+Tonlé is a zero-waste fashion brand that upcycles textile scraps and discarded garments into new clothing. They employ a zero-waste production process where even the smallest fabric remnants are transformed into accessories or other products, minimizing waste and maximizing resource utilization. [Learn more about Tonlé](https://www.tonle.com/pages/our-story)
 
 #### Mud Jeans
 
-Mud Jeans is a denim brand that focuses on circular economy principles. They offer a lease model where customers can lease jeans instead of buying them outright. At the end of the lease, the jeans are either recycled or upcycled, reducing textile waste and promoting a circular fashion system.
+Mud Jeans is a denim brand that focuses on circular economy principles. They offer a lease model where customers can lease jeans instead of buying them outright. At the end of the lease, the jeans are either recycled or upcycled, reducing textile waste and promoting a circular fashion system. [Learn more about Mud Jeans](https://mudjeans.eu/pages/our-story)
 
 ##### References
+1. **Three Principles of Sustainability by Casciani et al. (2022)**: This article discusses the core principles of sustainability: environmental, social, and economic, and how they impact corporate strategies and practices. [Three Principles of Sustainability](https://theimpactinvestor.com/three-principles-of-sustainability/)
 
-Casciani et al. (2022), https://theimpactinvestor.com/three-principles-of-sustainability/
+2. **The perception of circular economy in the framework of fashion industry by Papamichael, Iliana, et al. (2023)**: This paper explores how the circular economy is perceived within the fashion industry, addressing challenges and opportunities for sustainable practices. [DOI: 10.1177/0734242X221145919](https://doi.org/10.1177/0734242X221145919)
 
-Papamichael, Iliana, et al. "The perception of circular economy in the framework of fashion industry." _Waste Management & Research_ 41.2 (2023): 251-263.
+3. **Slowing the fast fashion industry: an all-round perspective by Centobelli, Piera, et al. (2022)**: This article provides a comprehensive view on strategies to slow down the fast fashion industry, focusing on sustainable practices and their impacts. [DOI: 10.1016/j.cogsc.2022.100684](https://doi.org/10.1016/j.cogsc.2022.100684)
 
-Centobelli, Piera, et al. "Slowing the fast fashion industry: an all-round perspective." _Current Opinion in Green and Sustainable Chemistry_ (2022): 100684.
+4. **Circular economy and waste in the fashion industry by Jacometti, Valentina (2019)**: This paper examines the role of the circular economy in reducing waste within the fashion industry and proposes legislative and practical solutions. [DOI: 10.3390/laws8040027](https://doi.org/10.3390/laws8040027)
 
-Jacometti, Valentina. "Circular economy and waste in the fashion industry." _Laws_ 8.4 (2019): 27.
-
-Dissanayake, D. G. K., and Pammi Sinha. "Sustainable waste management strategies in the fashion industry sector." _International Journal of Environmental, Cultural, Economic and Social Sustainability_ 8.1 (2012): 77-90.
-
+5. **Sustainable waste management strategies in the fashion industry sector by Dissanayake, D. G. K., and Pammi Sinha (2012)**: This article outlines various sustainable waste management strategies that can be applied in the fashion industry to reduce environmental impact. [DOI: 10.18848/1832-2077/CGP/v08i01/59429](https://doi.org/10.18848/1832-2077/CGP/v08i01/59429)
 
