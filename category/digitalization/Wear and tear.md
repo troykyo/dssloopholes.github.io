@@ -8,7 +8,7 @@ As worn garments come back to the brand under the EPR, wear and tear on these cl
     <h6> VET question </h6>
 How can we set up places to fix and repair clothes that look at how jeans age and wear out?
     <h6> HEI question </h6>
-How can integrating wear and repair photos helpÊ businesses promote sustainability, repairability and circularity? What are the initial challenges in implementing such systems?
+How can integrating wear and repair photos help businesses promote sustainability, repairability and circularity? What are the initial challenges in implementing such systems?
   </div>
 </div>
 
