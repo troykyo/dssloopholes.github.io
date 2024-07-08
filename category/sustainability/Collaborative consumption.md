@@ -9,8 +9,6 @@
     <h3> Collaborative Consumption </h3>
 In collaborative consumption, users minimize the negative impact by sharing, swapping and exchanging clothes. This extends the use phase of garments and reduces the need for new clothing. Companies can engage resale, rental and remake platforms to reduce the overall consumption.
 
-## Displaying Specific Cell from CSV in Markdown
-
  {{ https://troykyo.github.io/dssloopholes.github.io/assets/Cards%20V2%20MASTER[18].DESCRIPTION }}
     <h6> VET </h6>
 How could you share your wardrobe with someone else?
