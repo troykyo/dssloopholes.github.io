@@ -1,4 +1,49 @@
 ﻿## Digital product passports
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Blockchain and Unique ID technologies </h3>
+Tracking every garment and who is wearing it is a complex process. Web3 uses Blockchain technology to create decentralized systems that log data about the life-cycles without central authorities, promoting stakeholder empowerment.
+    <h6> VET question </h6>
+How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<h6> HEI question </h6>
+How can blockchain and decentralized technologies be integrated into the fashion ecosystem, and what impact will transparent ownership have on fashion ecosystems?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1vw;
+      position: centre;
+    }
+  }
+</style>
 
 A digital product passport refers to a comprehensive and professional documentation system that digitally records and stores detailed information about a fashion product throughout its entire lifecycle. It serves as a digital identity and information hub, providing transparency, traceability, and accountability for the product's sourcing, manufacturing, materials, environmental impact, and social aspects.
 
