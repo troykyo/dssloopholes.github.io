@@ -103,4 +103,4 @@ titles_from_headings:
 #to call a csv
 csv_data:
   - name: data
-    path: _assets/Cards V2 MASTER.csv
+    path: "_assets/Cards V2 MASTER.csv"
