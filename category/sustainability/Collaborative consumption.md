@@ -46,8 +46,14 @@ What kind of services could you provide to promote this alternative business mod
       font-size: 1.7vw;
       position: center;
 	padding: 5px;
+	     h3 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
 }
-
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
     }
 
   /* Remove default margin for headings and paragraphs */
