@@ -1,5 +1,80 @@
 ﻿## Post-use materials
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Scard.png" alt="Scard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Post-use Materials </h3>
+ Post-use materials are textiles and garments that have finished their initial use. These textiles are recycled or upcycled to create new products, promoting a circular economy.
+    <br><br><strong> VET </strong>
+How can we use old clothes and materials to make new things instead of throwing them away?
+    <br><br><strong> HEI </strong>
+What are the challenges and opportunities associated with integrating post-use materials into new fashion products, and how can designers overcome these to support a circular economy?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Post-Use Materials refers to materials that have been previously used by users and are no longer needed in their original form. In the fashion domain, post-use materials typically refer to textiles and clothing items that have reached the end of their life cycle and are ready for disposal or recycling.
 
 Post-use materials encompass various types of textiles and garments that have served their primary purpose and are no longer suitable for continued use. These materials can include worn-out or damaged clothing, discarded textile scraps, surplus inventory, or even products returned by customers. Instead of being discarded as waste, these materials can be redirected into recycling or upcycling processes to create new products or extend their lifespan.
