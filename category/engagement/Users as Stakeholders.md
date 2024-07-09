@@ -1,6 +1,81 @@
-﻿## User as stakeholder
+﻿## Users as Stakeholders
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt=“Ecard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Users as Stakeholder </h3>
+ Encouraging users to be active stakeholders in the fashion ecosyste empowers them and leads to more customer-centric, sustainable offerings.
+    <br><br><strong> VET </strong>
+In what governence, design, production and use processes could you involve users?
+    <br><br><strong> HEI </strong>
+What technologies could enable users to engage with your current processes? How would that change those processes?
+  </div>
+</div>
 
-User as Stakeholder refers to the recognition and inclusion of end-users or users as significant stakeholders. In this context, users are not just passive recipients of fashion products but are actively involved in shaping the industry through their preferences, choices, and behaviors.
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+Users as Stakeholders refers to the recognition and inclusion of end-users or users as significant stakeholders. In this context, users are not just passive recipients of fashion products but are actively involved in shaping the industry through their preferences, choices, and behaviors.
 
 They play a crucial role in driving demand, influencing trends, and shaping the overall fashion landscape. By considering users as stakeholders, fashion businesses can effectively engage with them, incorporate their preferences and values, and create more customer-centric and sustainable fashion offerings.
 
