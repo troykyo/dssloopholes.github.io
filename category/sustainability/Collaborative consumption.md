@@ -9,10 +9,6 @@
     <h3> Collaborative Consumption </h3>
 In collaborative consumption, users minimize the negative impact by sharing, swapping and exchanging clothes. This extends the use phase of garments and reduces the need for new clothing. Companies can engage resale, rental and remake platforms to reduce the overall consumption.
 
-{% assign data = site.data.data %}
-
-{{ data[1].DESCRIPTION }}
-
     <br><br><strong> VET </strong>
 How could you share your wardrobe with someone else?
 	  <br><br><strong> HEI </strong>
