@@ -1,5 +1,80 @@
-## Building product-service ecosystems
+## Building Product-Service Ecosystems
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Building Product-Service Ecosystems </h3>
+An ecosystem is composed of a range of companies, organizations, governments and other systems that support each other. This could be companies who provide yarn, textile (finished goods), confectioning, retail, brand, recycler, or legislators and the users themselves. Large companies silos are often ecosystems within themselves.
+    <br><br><strong> VET </strong>
+How can you change (add or subtract) partners to make your product-service ecosystem more circular?
+    <br><br><strong> HEI </strong>
+How can you engage the user or government to extend your ecosystem and be more circular?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Building Product-Service Ecosystems refers to the strategic integration of a diverse array of interconnected products, services, and experiences that collectively create a comprehensive and personalized offering for users. It involves the alignment of physical products, digital platforms, services, and partnerships to deliver a seamless and cohesive user experience.
 
 By curating a holistic ecosystem, fashion brands can enhance user satisfaction, loyalty, and engagement while differentiating themselves in a competitive market.  Building product-service ecosystems involves the deliberate curation and orchestration of a wide range of interconnected elements, including tangible products, intangible services, digital platforms, and experiential touchpoints, to deliver a comprehensive and unified user experience. The goal is to create an ecosystem that goes beyond individual transactions and fosters long-term relationships with users
