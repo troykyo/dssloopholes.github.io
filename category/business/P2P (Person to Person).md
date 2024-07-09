@@ -1,5 +1,79 @@
-﻿## P2P (Person to Person)
+﻿## Person to Person (P2P)
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Person to Person (P2P) </h3>
+Person-to-person sharing moves a garment directly from owner to owner without the need for a company to sort and restore it. For example, P2P platforms such as Vinted encourage users to sell their clothing directly to other users.
+    <br><br><strong> VET </strong>
+What do you like and dislike about reselling fashion directly between users?
+    <br><br><strong> HEI </strong>
+Can you make a system where a garment is moved into its second or third life directly between users, where the owners remain anonymous?  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Person-to-person (P2P) refers to a type of online platform or marketplace that facilitates direct transactions between individuals, allowing them to share, sell, or rent clothing items. P2P platforms have gained popularity in recent years, providing a convenient and sustainable way for individuals to access a wide range of fashion choices while promoting circularity and reducing waste.
 
 #### Peer-to-peer transactions
