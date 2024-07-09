@@ -1,6 +1,6 @@
 ﻿## Users as Stakeholders
 <div class="image-container">
-  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt=“Ecard" style="width: 75%;" class="responsive-image">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
   <div class="overlay-text">
     <h3> Users as Stakeholder </h3>
