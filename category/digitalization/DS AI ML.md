@@ -1,4 +1,4 @@
-## Data Science, Artificial Intelligence, and Machine Learning (DS AI, and ML)
+## Data Science, Artificial Intelligence and Machine Learning (DS, AI and ML)
 
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
