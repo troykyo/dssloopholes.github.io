@@ -98,31 +98,32 @@ Personalization generates valuable data on customer preferences and behavior. Co
 Personalization can support circular business models in the fashion industry. For example, by offering personalized repair services or customization options for pre-owned garments, companies can extend the life of products and divert them from landfill. Personalization allows for the transformation and repurposing of existing items, enabling a circular flow of fashion products and minimizing waste generation.
 
 Overall, personalization in the fashion industry empowers customers to actively participate in the design process and creates products that align with their preferences. By reducing overproduction, extending product lifespans, enhancing customer engagement, and leveraging data-driven insights, personalization contributes to a more sustainable and circular fashion economy
-#### Case studies
+
+### Case studies
 
 #### Adidas
 
-Adidas allows customers to personalize their sneakers through their miadidas platform. Customers can select colors, materials, and design elements to create unique footwear. This customization approach reduces overproduction by producing items based on specific customer requests and preferences. [More about miadidas](https://www.adidas.com/us/customize)
+Adidas allows customers to personalize their sneakers through their miadidas platform, now integrated into the adidas Locker Room. This platform enables customers to select colors, materials, and design elements to create unique footwear tailored to their preferences. By offering a high degree of customization, Adidas reduces overproduction and minimizes waste, as each product is made to order based on specific customer requests. This approach not only caters to individual tastes but also supports more sustainable production practices. [More about miadidas](https://lockerroom.adidas.com/)
 
 #### Levi's
 
-Levi's offers a personalized shopping experience through their Levi's Tailor Shops. Customers can get their jeans customized and tailored to their specific measurements and style preferences. This approach promotes the extended use and longevity of products, reducing the need for new purchases. [More about Levi's Tailor Shops](https://www.levi.com/US/en_US/features/tailor-shop)
+Levi's offers a personalized shopping experience through their Levi's Tailor Shops. These in-store tailor shops allow customers to get their jeans customized and tailored to their specific measurements and style preferences. Services include alterations, repairs, and the addition of unique design elements such as embroidery and patches. This approach promotes the extended use and longevity of products, encouraging customers to maintain and cherish their garments rather than frequently purchasing new ones. [More about Levi's Tailor Shops](https://www.levi.com/US/en_US/features/tailor-shop)
 
 #### Rent the Runway
 
-Rent the Runway is a fashion rental platform that offers personalized recommendations based on individual preferences and occasions. By providing customers with access to a rotating wardrobe of designer clothing, Rent the Runway promotes the idea of renting instead of buying, reducing the overall demand for new garments. [More about Rent the Runway](https://www.renttherunway.com/)
+Rent the Runway is a fashion rental platform that provides personalized recommendations based on individual preferences and occasions. The platform offers a rotating wardrobe of designer clothing, allowing customers to rent rather than buy garments. This model reduces the overall demand for new clothing production, thereby minimizing waste and promoting sustainable fashion practices. Rent the Runway's service includes features such as home delivery, easy returns, and subscription options, making it a convenient and eco-friendly alternative to traditional fashion consumption. [More about Rent the Runway](https://www.renttherunway.com/)
 
 #### Nike
 
-Nike's Nike By You platform enables customers to customize and personalize their footwear. Customers can choose colors, materials, and design options to create their unique sneakers. This customization approach reduces overproduction and allows for a more tailored product offering. [More about Nike By You](https://www.nike.com/nike-by-you)
+Nike's Nike By You platform empowers customers to customize and personalize their footwear. Users can choose from a variety of colors, materials, and design options to create sneakers that reflect their unique style. This customization reduces overproduction and waste, as each pair is made to order based on customer specifications. The platform also enhances customer engagement by allowing individuals to express their creativity and preferences through their footwear. [More about Nike By You](https://www.nike.com/nike-by-you)
 
 #### Eileen Fisher
 
-Eileen Fisher, a sustainable fashion brand, offers a Renew program where customers can bring back their old Eileen Fisher garments and have them transformed into new designs. This personalized approach to upcycling extends the lifespan of products and promotes circularity in the fashion industry. [More about Eileen Fisher Renew](https://www.eileenfisher.com/renew)
+Eileen Fisher, a sustainable fashion brand, offers the Renew program where customers can bring back their old Eileen Fisher garments to be transformed into new designs. This program supports a circular economy by extending the lifespan of clothing through upcycling and recycling. Customers benefit from a personalized approach to sustainable fashion, knowing that their used garments can be refreshed and given a new life, thus reducing textile waste and promoting environmental responsibility. [More about Eileen Fisher Renew](https://www.eileenfisher.com/renew)
 
 #### Mon Purse
 
-Mon Purse allows customers to design and personalize their own handbags. Customers can choose from various design options, materials, and add personal monograms. This customization approach reduces waste by producing items based on specific customer preferences and eliminates the need for mass-produced inventory. [More about Mon Purse](https://www.monpurse.com/)
+Mon Purse allows customers to design and personalize their own handbags. Through the platform, customers can choose from various design options, materials, and add personal monograms to create a unique accessory. This customization approach reduces waste by producing items based on specific customer preferences and eliminates the need for mass-produced inventory. Mon Purse's model emphasizes individual expression and sustainable production, ensuring that each bag is as unique as its owner. [More about Mon Purse](https://www.monpurse.com/)
 
 ##### References
 
