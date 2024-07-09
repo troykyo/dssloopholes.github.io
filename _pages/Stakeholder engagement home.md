@@ -13,4 +13,4 @@ Stakeholder engagement is the practice of actively including and collaborating w
 - [Shared Governance](https://circularloopholes.net/category/engagement/Shared%20Governance.html)
 - [Strategic Partnership](https://circularloopholes.net/category/engagement/Strategic%20partnerships.html)
 - [Feedback Loops](https://circularloopholes.net/category/engagement/Feedback%20Loops.html)
-- [Users as Stakeholders](https://circularloopholes.net/category/engagement/User%20as%20Stakeholder.html)
+- [Users as Stakeholders](https://circularloopholes.net/category/engagement/Users%20as%20Stakeholders.html)
