@@ -1,5 +1,79 @@
 ﻿## Re-Positioning
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
+  <div class="overlay-text">
+    <h3> Re-Positioning </h3>
+Price elasticity is what we call the extent to which people react to changes in price. Sometimes changing the prices could lead to a higher economic, but also societal impact (more people using the product/service). Pricing however is a crucial marketing variable that also informs potential users about the quality of the value proposition.
+    <br><br><strong> VET </strong>
+How does circularity affect the  price of your product/service?
+    <br><br><strong> HEI </strong>
+How do you work with governments, society, academia and companies to re-position a circular sustainable product/service that has a higher price?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 (Re)Positioning in the fashion domain refers to the strategic process of changing or adjusting the perception, image, or market positioning of a fashion brand, product, or service within the competitive landscape. It involves redefining the target audience, value proposition, brand identity, and marketing strategies to establish a unique and differentiated position in the market.
 
 #### Assessing the competitive landscape
