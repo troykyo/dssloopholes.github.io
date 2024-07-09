@@ -7,7 +7,7 @@ Sustainability in the fashion industry is about implementing practices that redu
 - [Collaborative Consumption](https://circularloopholes.net/category/sustainability/Collaborative%20consumption.html)
 - [Design for Disassembly](https://circularloopholes.net/category/sustainability/Design%20for%20disassembly.html)
 - [Designed for Multiple Users](https://circularloopholes.net/category/sustainability/Design%20for%20multiple%20uses.html)
-- [Design for Repairability](https://circularloopholes.net/category/sustainability/Enabling%20repairability.html)
+- [Design for Repairability](https://circularloopholes.net/category/sustainability/Design%20for%20Repairability.html)
 - [Extending Life-Cycles](https://circularloopholes.net/category/sustainability/Extending%20life-cycles.html)
 - [From Circular to Sustainable Material](https://circularloopholes.net/category/sustainability/From%20circular%20to%20sustainable%20material.html)
 - [Joining Closed Loop Recycling](https://circularloopholes.net/category/sustainability/Joining%20closed-loop%20recycling.html)
