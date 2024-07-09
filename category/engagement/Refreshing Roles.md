@@ -1,5 +1,79 @@
-﻿## Refreshing roles
+﻿## Refreshing Roles
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Refreshing Roles </h3>
+ For organizations to grow and change it is important to reorganize task into engaging positions that attract talent and keep good employees connected. This helps organizations address emerging needs, adapt to shifting market dynamics, adopt technological advancements, and evolve with challenges and opportunities.
+    <br><br><strong> VET </strong>
+Which tasks are most important in your organization?
+    <br><br><strong> HEI </strong>
+What new tasks will need to be added, and how could you integrate these tasks over existing and new roles to keep people engaged?  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Refreshing Roles refers to the process of reevaluating and redefining the roles and responsibilities to adapt to changing market dynamics, technological advancements, and user demands. It involves a strategic approach to reassessing job functions, hierarchies, and skill sets to ensure they align with the evolving needs of the business and the industry as a whole.  Job Function Evaluation: The first step in refreshing roles is to evaluate the existing job functions within the organization. This involves analyzing the tasks, responsibilities, and skill requirements of each role to determine their relevance and effectiveness in the current fashion landscape.
 
 #### Skill set assessment
