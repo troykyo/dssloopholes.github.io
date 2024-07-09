@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Digital Twin </h3>
 A digital twin is a digital model of a physical product, process, or system. In fashion, this could mean a detailed, dynamic 3D model (or, more often, a data model) of a garment, factory, store, entire value chain, and/or the interaction of many value chains. This helps us understand how product/service eco-systems are working at a practical level.
-    <h6> VET </h6>
+    <br><br><strong>VET: </strong>
 How can making a virtual copy of clothes or factories help us understand and improve fashion production?
-    <h6> HEI </h6>
+    <br><strong> HEI </strong>
 How can the use of digital twins in fashion ecosystem improve efficiency, sustainability and collaboration?
   </div>
 </div>
@@ -102,19 +102,19 @@ Overall, digital twins offer immense potential for the fashion industry by enabl
 
 #### Tommy Hilfiger's digital showroom
 
-Tommy Hilfiger implemented a digital twin-based virtual showroom that revolutionized their design and development process. Using 3D digital models and virtual simulations, designers and buyers could visualize and evaluate collections without the need for physical samples. This streamlined the design process, reduced costs, and accelerated time-to-market.
+Tommy Hilfiger implemented a digital twin-based virtual showroom that revolutionized their design and development process. Using 3D digital models and virtual simulations, designers and buyers could visualize and evaluate collections without the need for physical samples. This streamlined the design process, reduced costs, and accelerated time-to-market. [More about Tommy Hilfiger's Digital Showroom](https://www.tommy.com/en_int/digital-showroom)
 
 #### Zara's smart retail system
 
-Zara, a global fashion retailer, utilizes digital twins and RFID technology to optimize inventory management and enhance the in-store shopping experience. Digital twins of garments are created and linked to RFID tags, enabling real-time tracking and monitoring of stock levels. This helps Zara to efficiently manage inventory, restock popular items, and provide customers with accurate information on product availability.
+Zara, a global fashion retailer, utilizes digital twins and RFID technology to optimize inventory management and enhance the in-store shopping experience. Digital twins of garments are created and linked to RFID tags, enabling real-time tracking and monitoring of stock levels. This helps Zara to efficiently manage inventory, restock popular items, and provide customers with accurate information on product availability. [More about Zara's Smart Retail System](https://www.inditex.com/about-us/our-priorities/technology)
 
 #### Levi's virtual stylist
 
-Levi's introduced a virtual stylist powered by digital twins to enhance the online shopping experience. Customers can create a virtual avatar, input body measurements, and visualize how different Levi's products would fit and look on them. This personalized experience helps customers make informed purchasing decisions, reducing returns and improving customer satisfaction.
+Levi's introduced a virtual stylist powered by digital twins to enhance the online shopping experience. Customers can create a virtual avatar, input body measurements, and visualize how different Levi's products would fit and look on them. This personalized experience helps customers make informed purchasing decisions, reducing returns and improving customer satisfaction. [More about Levi's Virtual Stylist](https://www.levistrauss.com/2021/04/27/levis-launches-virtual-stylist-tool/)
 
 #### Adidas speedfactory
 
-Adidas developed a digital twin-driven manufacturing process in their Speedfactory initiative. By creating digital twins of shoe designs, they were able to optimize production efficiency and customize footwear based on individual customer preferences. The digital twins enabled real-time monitoring and adjustments, resulting in faster production cycles and increased product personalization.
+Adidas developed a digital twin-driven manufacturing process in their Speedfactory initiative. By creating digital twins of shoe designs, they were able to optimize production efficiency and customize footwear based on individual customer preferences. The digital twins enabled real-time monitoring and adjustments, resulting in faster production cycles and increased product personalization. [More about Adidas Speedfactory](https://www.adidas-group.com/en/innovation/speedfactory/)
 
 ##### References
 

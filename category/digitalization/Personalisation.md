@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Personalisation </h3>
 Digital Manufacturing allows for the creation of custom-fit clothes and a personalized fashion experience using data from social media, 3D scanners, and online profiles. These can be tailored to fit the wearer's body size, personal style, social role, or wardrobe needs.
-    <h6> VET </h6>
+    <br><br><strong>VET: </strong>
 How can we use information about people to make clothes that fit them perfectly?
-    <h6> HEI </h6>
+    <br><strong> HEI </strong>
 What information from data sources can be used to make clothing and textiles that match personal preferences and needs? What are the risks of using that data?
   </div>
 </div>
@@ -98,32 +98,31 @@ Personalization generates valuable data on customer preferences and behavior. Co
 Personalization can support circular business models in the fashion industry. For example, by offering personalized repair services or customization options for pre-owned garments, companies can extend the life of products and divert them from landfill. Personalization allows for the transformation and repurposing of existing items, enabling a circular flow of fashion products and minimizing waste generation.
 
 Overall, personalization in the fashion industry empowers customers to actively participate in the design process and creates products that align with their preferences. By reducing overproduction, extending product lifespans, enhancing customer engagement, and leveraging data-driven insights, personalization contributes to a more sustainable and circular fashion economy
-
 #### Case studies
 
 #### Adidas
 
-Adidas allows customers to personalize their sneakers through their miadidas platform. Customers can select colors, materials, and design elements to create unique footwear. This customization approach reduces overproduction by producing items based on specific customer requests and preferences.
+Adidas allows customers to personalize their sneakers through their miadidas platform. Customers can select colors, materials, and design elements to create unique footwear. This customization approach reduces overproduction by producing items based on specific customer requests and preferences. [More about miadidas](https://www.adidas.com/us/customize)
 
 #### Levi's
 
-Levi's offers a personalized shopping experience through their Levi's Tailor Shops. Customers can get their jeans customized and tailored to their specific measurements and style preferences. This approach promotes the extended use and longevity of products, reducing the need for new purchases.
+Levi's offers a personalized shopping experience through their Levi's Tailor Shops. Customers can get their jeans customized and tailored to their specific measurements and style preferences. This approach promotes the extended use and longevity of products, reducing the need for new purchases. [More about Levi's Tailor Shops](https://www.levi.com/US/en_US/features/tailor-shop)
 
 #### Rent the Runway
 
-Rent the Runway is a fashion rental platform that offers personalized recommendations based on individual preferences and occasions. By providing customers with access to a rotating wardrobe of designer clothing, Rent the Runway promotes the idea of renting instead of buying, reducing the overall demand for new garments.
+Rent the Runway is a fashion rental platform that offers personalized recommendations based on individual preferences and occasions. By providing customers with access to a rotating wardrobe of designer clothing, Rent the Runway promotes the idea of renting instead of buying, reducing the overall demand for new garments. [More about Rent the Runway](https://www.renttherunway.com/)
 
 #### Nike
 
-Nike's Nike By You platform enables customers to customize and personalize their footwear. Customers can choose colors, materials, and design options to create their unique sneakers. This customization approach reduces overproduction and allows for a more tailored product offering.
+Nike's Nike By You platform enables customers to customize and personalize their footwear. Customers can choose colors, materials, and design options to create their unique sneakers. This customization approach reduces overproduction and allows for a more tailored product offering. [More about Nike By You](https://www.nike.com/nike-by-you)
 
 #### Eileen Fisher
 
-Eileen Fisher, a sustainable fashion brand, offers a Renew program where customers can bring back their old Eileen Fisher garments and have them transformed into new designs. This personalized approach to upcycling extends the lifespan of products and promotes circularity in the fashion industry.
+Eileen Fisher, a sustainable fashion brand, offers a Renew program where customers can bring back their old Eileen Fisher garments and have them transformed into new designs. This personalized approach to upcycling extends the lifespan of products and promotes circularity in the fashion industry. [More about Eileen Fisher Renew](https://www.eileenfisher.com/renew)
 
 #### Mon Purse
 
-Mon Purse allows customers to design and personalize their own handbags. Customers can choose from various design options, materials, and add personal monograms. This customization approach reduces waste by producing items based on specific customer preferences and eliminates the need for mass-produced inventory.
+Mon Purse allows customers to design and personalize their own handbags. Customers can choose from various design options, materials, and add personal monograms. This customization approach reduces waste by producing items based on specific customer preferences and eliminates the need for mass-produced inventory. [More about Mon Purse](https://www.monpurse.com/)
 
 ##### References
 

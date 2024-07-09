@@ -6,8 +6,8 @@
   <div class="overlay-text">
     <h3> Blockchain and Unique ID technologies </h3>
 Tracking every garment and who is wearing it is a complex process. Web3 uses Blockchain technology to create decentralized systems that log data about the life-cycles without central authorities, promoting stakeholder empowerment.
-    <h6> VET </h6>
-How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<h6> HEI </h6>
+    <br><br><strong>VET: </strong>
+How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<br><strong> HEI </strong>
 How can blockchain and decentralized technologies be integrated into the fashion ecosystem, and what impact will transparent ownership have on fashion ecosystems?
   </div>
 </div>
@@ -88,23 +88,23 @@ Note: While the potential of blockchain and Web3 technologies in the fashion ind
 
 #### VeChain
 
-VeChain is a blockchain platform that focuses on supply chain management and product authentication. It has collaborated with fashion brands like H&M, Babyghost, and BYBORRE to provide blockchain-based solutions for product traceability and anti-counterfeiting.  Loomia: Loomia is a technology company that integrates flexible circuitry into textiles, enabling the creation of smart fabrics. They leverage blockchain to store and secure data collected by their smart textiles, allowing brands and users to track and verify the authenticity and history of the products.
+VeChain is a blockchain platform that focuses on supply chain management and product authentication. It has collaborated with fashion brands like H&M, Babyghost, and BYBORRE to provide blockchain-based solutions for product traceability and anti-counterfeiting. Loomia: Loomia is a technology company that integrates flexible circuitry into textiles, enabling the creation of smart fabrics. They leverage blockchain to store and secure data collected by their smart textiles, allowing brands and users to track and verify the authenticity and history of the products. [More about VeChain](https://www.vechain.org/)
 
 #### Arianee
 
-Arianee is a decentralized platform that uses blockchain to create digital certificates for luxury goods, including fashion items. It enables brands to provide digital passports for their products, allowing customers to access product information, ownership history, and proof of authenticity.
+Arianee is a decentralized platform that uses blockchain to create digital certificates for luxury goods, including fashion items. It enables brands to provide digital passports for their products, allowing customers to access product information, ownership history, and proof of authenticity. [More about Arianee](https://www.arianee.org/)
 
 #### Provenance
 
-Provenance is a blockchain-based platform that focuses on transparency and traceability in supply chains. They have collaborated with sustainable fashion brands like Martine Jarlgaard and Bottletop to provide transparency and accountability in their supply chains, allowing users to verify the ethical and sustainable practices of the brands.
+Provenance is a blockchain-based platform that focuses on transparency and traceability in supply chains. They have collaborated with sustainable fashion brands like Martine Jarlgaard and Bottletop to provide transparency and accountability in their supply chains, allowing users to verify the ethical and sustainable practices of the brands. [More about Provenance](https://www.provenance.org/)
 
 #### Luxury goods consortium
 
-In 2019, a consortium of luxury goods companies, including LVMH, Prada, and Cartier, joined forces to create the Aura Blockchain Consortium. The consortium aims to establish a shared blockchain platform to provide product traceability and authentication across multiple luxury brands.
+In 2019, a consortium of luxury goods companies, including LVMH, Prada, and Cartier, joined forces to create the Aura Blockchain Consortium. The consortium aims to establish a shared blockchain platform to provide product traceability and authentication across multiple luxury brands. [More about Aura Blockchain Consortium](https://auraluxuryblockchain.com/)
 
 #### FashTech
 
-FashTech is a fashion and technology company that utilizes blockchain and Web3 technologies to create a decentralized marketplace for fashion designers and users. Their platform allows designers to showcase and sell their creations directly to users, eliminating the need for traditional intermediaries.
+FashTech is a fashion and technology company that utilizes blockchain and Web3 technologies to create a decentralized marketplace for fashion designers and users. Their platform allows designers to showcase and sell their creations directly to users, eliminating the need for traditional intermediaries. [More about FashTech](https://www.fashtech.io/)
 
 ##### References
 

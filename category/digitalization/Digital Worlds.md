@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Digital Worlds </h3>
 Digital worlds merge virtual platforms where creators trade digital clothing and fabric patterns (often as NFTs), blending fashion and gaming for avatar customization and immersive experiences. The goal is innovation, waste reduction, and new creative avenues, with fashion brands, designers, and tech firms like DressX and The Fabricant lead this innovation.
-    <h6> VET </h6>
+    <br><br><strong>VET: </strong>
 How can digital fashion platforms boost creativity and help the environment in Fashion?
-    <h6> HEI </h6>
+    <br><strong> HEI </strong>
 What role do NFTs and other unique identifiers play in transforming the fashion and design industries, especially in virtual and gaming worlds?
   </div>
 </div>
@@ -86,26 +86,27 @@ Fashion-focused mobile applications offer personalized experiences, styling reco
 In summary, digital worlds encompass virtual environments, online platforms, and technologies that enable immersive, interactive, and innovative fashion experiences. They provide opportunities for designers, brands, retailers, and users to engage, connect, and participate in the digital landscape of fashion.
 
 ### Case studies
+#### Case studies
 
 #### Burberry
 
-Burberry is a renowned luxury fashion brand that has embraced digital innovation. In 2010, Burberry launched its "Retail Theater" concept, which combined physical and digital elements. The brand incorporated live streaming of runway shows, interactive digital displays in stores, and real-time social media integration to create an immersive and connected experience for customers.
+Burberry is a renowned luxury fashion brand that has embraced digital innovation. In 2010, Burberry launched its "Retail Theater" concept, which combined physical and digital elements. The brand incorporated live streaming of runway shows, interactive digital displays in stores, and real-time social media integration to create an immersive and connected experience for customers. [More about Burberry's Digital Innovation](https://www.burberryplc.com/en/news/2010/burberry-launches-retail-theatre-experience.html)
 
 #### Gucci
 
-Gucci, a leading luxury fashion brand, has embraced augmented reality (AR) technology to enhance customer engagement. In 2019, Gucci launched an AR-powered app called "Gucci Sneaker Garage" that allowed users to virtually try on and customize sneakers. The app utilized AR to overlay virtual shoes onto the user's feet, providing an interactive and personalized experience.
+Gucci, a leading luxury fashion brand, has embraced augmented reality (AR) technology to enhance customer engagement. In 2019, Gucci launched an AR-powered app called "Gucci Sneaker Garage" that allowed users to virtually try on and customize sneakers. The app utilized AR to overlay virtual shoes onto the user's feet, providing an interactive and personalized experience. [More about Gucci Sneaker Garage](https://www.gucci.com/us/en/st/stories/article/sneaker-garage)
 
 #### Zara
 
-Zara, a popular fast-fashion brand, has leveraged digital worlds through its mobile application. The Zara app offers features like augmented reality (AR) shopping, where users can point their phone's camera at designated spots in stores or displays to view additional product information, styling suggestions, and even models wearing the clothes virtually.
+Zara, a popular fast-fashion brand, has leveraged digital worlds through its mobile application. The Zara app offers features like augmented reality (AR) shopping, where users can point their phone's camera at designated spots in stores or displays to view additional product information, styling suggestions, and even models wearing the clothes virtually. [More about Zara's AR Shopping](https://www.zara.com/ww/en/zara-ar-p129440.html)
 
 #### Farfetch
 
-Farfetch is an online luxury fashion retailer that has integrated digital worlds into its platform. The company offers virtual try-on features, allowing customers to virtually try on selected items using augmented reality (AR) technology. Customers can see how the clothes would fit and look on themselves before making a purchase decision.
+Farfetch is an online luxury fashion retailer that has integrated digital worlds into its platform. The company offers virtual try-on features, allowing customers to virtually try on selected items using augmented reality (AR) technology. Customers can see how the clothes would fit and look on themselves before making a purchase decision. [More about Farfetch Virtual Try-On](https://www.farfetch.com/stories/en/virtual-try-on)
 
 #### The Fabricant
 
-The Fabricant is a digital fashion house that creates virtual fashion garments and experiences. They specialize in creating 3D digital fashion pieces that exist only in the digital realm. The Fabricant collaborates with various fashion brands and designers to create virtual collections and immersive digital experiences.
+The Fabricant is a digital fashion house that creates virtual fashion garments and experiences. They specialize in creating 3D digital fashion pieces that exist only in the digital realm. The Fabricant collaborates with various fashion brands and designers to create virtual collections and immersive digital experiences. [More about The Fabricant](https://www.thefabricant.com/)
 
 ##### References
 
