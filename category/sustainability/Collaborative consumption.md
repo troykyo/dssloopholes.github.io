@@ -13,9 +13,9 @@ In collaborative consumption, users minimize the negative impact by sharing, swa
 
 {{ data[1].DESCRIPTION }}
 
-    <h6> VET </h6>
+    <br><br><strong> VET </strong>
 How could you share your wardrobe with someone else?
-	  <h6> HEI </h6>
+	  <br><br><strong> HEI </strong>
 What kind of services could you provide to promote this alternative business model?
   </div>
 </div>
