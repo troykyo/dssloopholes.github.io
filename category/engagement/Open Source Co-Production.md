@@ -1,5 +1,80 @@
 ﻿## Open source co-production
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Open Source Co-production </h3>
+Instead of copyright, licences like Open Source creative commons empower co-production allows global communities to share knowledge and collaborate, accelerating innovation and enhancing fashion sustainability through collective learning. 3D printable fashion is an example.
+    <br><br><strong> VET </strong>
+How can sharing knowledge and ideas freely, with others help us create better fashion together?
+    <br><br><strong> HEI </strong>
+What types of knowledge and processes can be shared through open-source licenses to facilitate collaborative innovation in fashion production and use?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Open Source Co-Production refers to a collaborative approach in which multiple stakeholders, including designers, manufacturers, and users, participate in the creation and production of fashion products through an open and transparent process. It involves sharing knowledge, resources, and ideas to collectively develop and bring a fashion product to fruition. This collaborative model allows for a greater diversity of ideas, skills, and perspectives to be incorporated into the design process. It fosters a sense of community and encourages active engagement from participants.
 
 In Open Source Co-Production, the design process and related knowledge are openly shared and accessible to a wider community, enabling collaboration, innovation, and collective decision-making and, enabling anyone to access and contribute to the development of fashion products. In this context, "open source" refers to unrestricted access to design information, processes, and resources, allowing individuals and organizations to freely contribute, modify, and distribute the resulting products. The concept draws inspiration from the open-source software movement, where the source code of a program is made freely available for modification and redistribution.
