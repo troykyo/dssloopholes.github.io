@@ -1,5 +1,79 @@
-﻿## Shared governance
+﻿## Shared Governance
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt=“Ecard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Shared Governance </h3>
+Shared governance models split the responcibility and accountability of an organization with stakeholders across the value chain. Shared Governance ensures an inclusive approach to decision-making and management, but collaboration between stakeholders is needed.    <br><br><strong> VET </strong>
+Who makes the decisions in your organization? Who is impacted by the decisions that are made and how can you involve them in the decision-making process?
+    <br><br><strong> HEI </strong>
+How can you add more stakeholders from your value chain to your current decision-making process?
+  </div>
+</div>
 
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+	     h3 {
+    font-size: 4vw; /* Adjust font size for smaller screens */
+  }
+}
+    h6 {
+    font-size: 1.7vw; /* Adjust font size for smaller screens */
+  }
+}
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
 Shared Governance refers to a collaborative and inclusive approach to decision-making and management, where various stakeholders actively participate and have a voice in shaping the industry's practices, policies, and direction. It involves the sharing of power, responsibility, and accountability among different parties, including brands, manufacturers, suppliers, workers, users, and other relevant stakeholders.
 
 In a shared governance model, decision-making processes are transparent, participatory, and equitable. It recognizes the interconnectedness of the fashion industry and the importance of engaging all stakeholders to address social, environmental, and ethical concerns. By involving diverse perspectives and expertise, shared governance aims to foster sustainable and responsible practices throughout the fashion value chain.
