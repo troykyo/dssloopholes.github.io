@@ -11,12 +11,25 @@ layout: home
 <br>
 Centered around a collaborative design process, the Loopholes toolkit empowers stakeholders to craft comprehensive user journeys and data flows, paving the way for future production systems with sustainability and technology in mind. It encourages reflection on current company processes and their expansion into product-service ecosystems and ecologies. Each toolkit iteration fosters localized strategies for transitioning towards circularity through digitalization.
 <br>
+<br>
 The toolkit is catered for anyone looking to strategize on evaluating their current position in sustainability and tech innovation, wanting to improve current practices, or develop potential ideas to cater to the ever-changing future.
 
 ## Dive into Design Thinking with the Loopholes Toolkit: Embrace Divergent and Convergent Methods!
-<img src="assets/Overview_manual.png" alt="overview of use" title="overview" > 
 
-  
+
+<div style="display: flex; align-items: center;">
+    <img src="assets/Overview_manual.png" alt="Overview of phases" style="width: 50%;">
+    <div style="margin-left: 20px;">
+The toolkit starts by helping you map the current state of your company or project. This initial step brings the team to a consensus, clarifying the purpose and direction of using the toolkit. It ensures everyone is on the same page, setting the stage for effective collaboration and meaningful outcomes.
+<br>
+For companies that already have existing work and want to strategize on future transitions, this phase guides the team on a descriptive deep dive into existing efforts concerning the complete product-service ecosystem. This helps identify the number of efforts being taken, how these efforts impact various facets of the company, and provides an overview of whether these efforts are working towards the company's shared vision.
+<br>
+
+
+
+
+
+    </div>
 
 
 
