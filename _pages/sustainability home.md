@@ -12,7 +12,7 @@ Sustainability in the fashion industry is about implementing practices that redu
 - [EcoDesign](https://circularloopholes.net/category/sustainability/EcoDesign.html)
 - [Environmental Accounting](https://circularloopholes.net/category/sustainability/Environmental%20Accounting.html)
 - [Extended Producer Responsibility (EPR)](https://circularloopholes.net/category/sustainability/Extended%20Producer%20Responsibility)
-- [Post Use Materials](https://circularloopholes.net/category/sustainability/Post-use%20materials.html)
+- [Post-Use Materials](https://circularloopholes.net/category/sustainability/Post-use%20materials.html)
 - [Regenerative Fashion](https://circularloopholes.net/category/sustainability/Regenerative%20Fashion.html)
 - [Sustainable Packaging](https://circularloopholes.net/category/sustainability/Sustainable%20Packaging.html)
 - [Waste Reduction](https://circularloopholes.net/category/sustainability/Waste%20reduction.html)
