@@ -9,6 +9,7 @@ Digitalisation in the industry signifies the incorporation of digital technologi
 - [Blockchain and Unique ID technologies](http://circularloopholes.net/category/digitalization/Blockchain%20and%20Unique%20ID%20technologies.html)
 - [Data Science, Artificial Intelligence, and Machine Learning (DS, AI, and ML)](http://circularloopholes.net/category/digitalization/DS%20AI%20ML.html)
 - [Digital Product Passports](http://circularloopholes.net/category/digitalization/Digital%20Product%20Passports.html)
+- [Digital Production](http://circularloopholes.net/category/digitalization/Digital%20Production.html)
 - [Digital Twin](http://circularloopholes.net/category/digitalization/Digital%20Twin.html)
 - [Digital Worlds](http://circularloopholes.net/category/digitalization/Digital%20Worlds.html)
 - [Personalisation](http://circularloopholes.net/category/digitalization/Personalisation.html)
