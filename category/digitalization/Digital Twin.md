@@ -69,7 +69,7 @@ How can the use of digital twins in fashion ecosystem improve efficiency, sustai
   }
   }
 </style>
-
+<br>
 Digital twins are virtual representations of physical products, systems, or processes. They are created using digital models that mirror the characteristics and behavior of their real-world counterparts. These virtual twins are updated in real-time or periodically throughout the life-cycle of the product or system, capturing data and enabling analysis, simulation, and optimization.  In the fashion industry, digital twins can be used to enhance various aspects of the product life-cycle, from design and production to retail and post-user stages.
 
 #### Design and development
