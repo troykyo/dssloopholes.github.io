@@ -69,6 +69,8 @@ What role do NFTs and other unique identifiers play in transforming the fashion 
   }
   }
 </style>
+<br>
+
 Digital Worlds refer to virtual environments or online platforms where fashion-related experiences, interactions, and transactions take place. These digital worlds leverage technology to create immersive and interactive experiences that bridge the gap between physical and virtual fashion realms.
 
 Digital Worlds encompass various aspects within the fashion industry, including virtual fashion shows, digital showrooms, e-commerce platforms, augmented reality (AR) and virtual reality (VR) experiences, social media platforms, and fashion-focused mobile applications. These digital platforms and technologies enable brands, designers, retailers, and users to engage with fashion in innovative and dynamic ways.
