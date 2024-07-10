@@ -8,7 +8,7 @@ layout: home
 ### a fusion of strategy and serious design thinking.
 
 
-  <img src="assets/Overview.gif" alt="The mainboard" title="Mainboard" style="max-width: 600px; height: auto; margin-right: 10px;">
+  <img src="assets/Overview.gif" alt="The mainboard" title="Mainboard" >
  
     Centered around a collaborative design process, the Loopholes toolkit empowers stakeholders to craft comprehensive user journeys and data flows, paving the way for future production systems with sustainability and technology in mind. It encourages reflection on current company processes and their expansion into product-service ecosystems and ecologies. Each toolkit iteration fosters localized strategies for transitioning towards circularity through digitalization.
 
