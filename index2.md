@@ -7,14 +7,14 @@ layout: home
 # Welcome to the Loopholes Toolkit, 
 ### a fusion of strategy and serious design thinking.
 
-<div style="display: flex; align-items: center;">
+
   <img src="assets/Overview.gif" alt="The mainboard" title="Mainboard" style="max-width: 600px; height: auto; margin-right: 10px;">
-  <span>
+ 
     Centered around a collaborative design process, the Loopholes toolkit empowers stakeholders to craft comprehensive user journeys and data flows, paving the way for future production systems with sustainability and technology in mind. It encourages reflection on current company processes and their expansion into product-service ecosystems and ecologies. Each toolkit iteration fosters localized strategies for transitioning towards circularity through digitalization.
 
 The toolkit is catered for anyone looking to strategize on evaluating their current position in sustainability and tech innovation, wanting to improve current practices, or develop potential ideas to cater to the ever-changing future.
-</span>
-</div>
+
+
 
   
 
