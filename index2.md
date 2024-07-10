@@ -13,6 +13,7 @@ Centered around a collaborative design process, the Loopholes toolkit empowers s
 <br>
 The toolkit is catered for anyone looking to strategize on evaluating their current position in sustainability and tech innovation, wanting to improve current practices, or develop potential ideas to cater to the ever-changing future.
 
+## Dive into Design Thinking with the Loopholes Toolkit: Embrace Divergent and Convergent Methods!
 
 
   
