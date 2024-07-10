@@ -68,6 +68,7 @@ How can the implementation of Digital Product Passports enhance trackability and
   }
   }
 </style>
+<br>
 
 A digital product passport refers to a comprehensive and professional documentation system that digitally records and stores detailed information about a fashion product throughout its entire lifecycle. It serves as a digital identity and information hub, providing transparency, traceability, and accountability for the product's sourcing, manufacturing, materials, environmental impact, and social aspects.
 
