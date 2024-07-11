@@ -43,10 +43,13 @@ This approach empowers teams to innovate continuously, adapting and refining str
 
 
 # Get Started with Our Toolkit: Download Now or Contact Us for More Information!
-If this has piqued your interest, download the toolkit and its components to try it yourself, or contact [___] for more information.
+If this has piqued your interest, download the toolkit and its components to try it yourself, or [contact](fashion.research@hva.nl) for more information.
 
-[Download the toolkit and its components](https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Complete%20loopholes%20toolkit_July'24.zip)
 
+<a href="(https://github.com" style="text-decoration:none; color:black;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" alt="The Main Board" style="width:50%; height:auto; vertical-align:middle;">
+  <span style="vertical-align:middle;">Click here to download the Main board</span>
+</a>
 
 
 
