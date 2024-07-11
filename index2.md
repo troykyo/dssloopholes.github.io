@@ -46,7 +46,7 @@ This approach empowers teams to innovate continuously, adapting and refining str
 If this has piqued your interest, download the toolkit and its components to try it yourself, or [contact](fashion.research@hva.nl) for more information.
 
 
-<a href="(https://github.com" style="text-decoration:none; color:black;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" style="text-decoration:none; color:black;">
   <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" alt="The Main Board" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle;">Click here to download the Main board</span>
 </a>
