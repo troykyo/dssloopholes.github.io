@@ -16,7 +16,7 @@ The toolkit is catered for anyone looking to strategize on evaluating their curr
 
 ## Dive into Design Thinking with the Loopholes Toolkit: Embrace Divergent and Convergent Methods!
 
-    <img src="assets/Overview_manual.png" alt="Overview of phases" style="width: 50%;">
+<img src="assets/Overview_manual.png" alt="Overview of phases" style="width: 50%;">
 
 <br>
 The toolkit begins by helping you map the current state of your company or project. This brings the team to a consensus on the purpose and goals of the company which sets the stage for effective collaboration and meaningful outcomes.
