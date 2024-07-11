@@ -10,7 +10,8 @@ layout: home
 <img src="assets/Overview.gif" alt="The mainboard" title="Mainboard" > 
 <br>
 Centered around a collaborative design process, the Loopholes toolkit empowers stakeholders to craft comprehensive user journeys and data flows, paving the way for future production systems with sustainability and technology in mind. It encourages reflection on current company processes and their expansion into product-service ecosystems and ecologies. Each toolkit iteration fosters localized strategies for transitioning towards circularity through digitalization.
-<br> ## 
+
+###
 The toolkit is catered for anyone looking to strategize on evaluating their current position in sustainability and tech innovation, wanting to improve current practices, or develop potential ideas to cater to the ever-changing future.
 
 ## Dive into Design Thinking with the Loopholes Toolkit: Embrace Divergent and Convergent Methods!
@@ -19,16 +20,28 @@ The toolkit is catered for anyone looking to strategize on evaluating their curr
 <div style="display: flex; align-items: center;">
     <img src="assets/Overview_manual.png" alt="Overview of phases" style="width: 50%;">
     <div style="margin-left: 20px;">
-The toolkit starts by helping you map the current state of your company or project. This initial step brings the team to a consensus, clarifying the purpose and direction of using the toolkit. It ensures everyone is on the same page, setting the stage for effective collaboration and meaningful outcomes.
-<br>
-For companies that already have existing work and want to strategize on future transitions, this phase guides the team on a descriptive deep dive into existing efforts concerning the complete product-service ecosystem. This helps identify the number of efforts being taken, how these efforts impact various facets of the company, and provides an overview of whether these efforts are working towards the company's shared vision.
-<br>
+       
+The toolkit begins by helping you map the current state of your company or project. This brings the team to a consensus on the purpose and goals of the company which sets the stage for effective collaboration and meaningful outcomes.
+##
+For companies already engaged in existing work and seeking to strategize on future transitions, this phase guides the team through a detailed exploration of efforts within the complete product-service ecosystem. It identifies ongoing initiatives, assesses their impact across various facets of the company, and offers an overview of whether these efforts are contributing to the shared vision.
+##
+This exploration then transitions into a phase focused on charting the company's path forward. New ideas are seamlessly integrated to build upon existing efforts and lay a roadmap toward a sustainable and innovative future through tangible and time-bound efforts.
+##
+For teams exploring a potential new project or starting from a clean slate, the toolkit offers an opportunity to ideate afresh. Utilizing cards and thoughtful questions, this phase assists in defining a new project from the ground up.
+##
+While using the toolkit for exploration and idea generation is exciting, there is value in periodically revisiting these efforts to ensure that ideas and plans are progressing as intended. Emphasizing the iterative approach of this toolkit iteration, the final and crucial phase allows users to continue refining their efforts based on on-ground feedback.
+##
+This approach empowers teams to innovate continuously, adapting and refining strategies to align with evolving business needs and market dynamics. Additionally, the toolkit provides a series of indications on policy considerations, ensuring that users are aware of and work towards complying with EU regulations due in the next few years.
+
+</div>
+
+# Get Started with Our Toolkit: Download Now or Contact Us for More Information!
+If this has piqued your interest, download the toolkit and its components to try it yourself, or contact [___] for more information.
+
+[Download the toolkit and its components](URL_to_archive_file)
+[Loopholes User Manual](
 
 
-
-
-
-    </div>
 
 
 
