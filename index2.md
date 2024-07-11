@@ -51,23 +51,23 @@ If this has piqued your interest, download the toolkit and its components to try
   <span style="vertical-align:middle;">Click here to download the Main board</span>
 </a>
 
-<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/0.Describe_project.pdf" style="text-decoration:none; color:black;">
-  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/0.Describe_project.pdf" alt="Describing the project" style="width:50%; height:auto; vertical-align:middle;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/0.Describe_project.pdf" style="text-decoration:none; color:black; display: flex;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/0.Describe_project.jpg" alt="Describing the project" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle;">Click here to download the canvas to help describe you project/company</span>
 </a>
 
-<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/1.Data%20canvas.pdf" style="text-decoration:none; color:black;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/1.Data%20canvas.pdf" style="text-decoration:none; color:black; display: flex">
   <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/1.Data%20canvas.jpg" alt="Data canvas" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle;">Click here to download the Data canvas for an information management perspective</span>
 </a>
 
-<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/2.Stakeholder%20canvas.pdf" style="text-decoration:none; color:black;">
-  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/2.Stakeholder%20canvas.pdf" alt="Stakeholder canvas" style="width:50%; height:auto; vertical-align:middle;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/2.Stakeholder%20canvas.pdf" style="text-decoration:none; color:black;display: flex-wrap">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/2.Stakeholder%20canvas.jpg" alt="Stakeholder canvas" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle;">Click here to download the Stakeholder canvas for an service and use perspective</span>
 </a>
 
 <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/3.Material%20canvas.pdf" style="text-decoration:none; color:black;">
-  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/3.Material%20canvas.pdf" alt="Material canvas" style="width:50%; height:auto; vertical-align:middle;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/3.Material%20canvas.jpg" alt="Material canvas" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle;">Click here to download the Material canvas for a product and process perspective</span>
 </a>
 
