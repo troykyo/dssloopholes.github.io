@@ -37,8 +37,7 @@ This approach empowers teams to innovate continuously, adapting and refining str
 # Get Started with Our Toolkit: Download Now or Contact Us for More Information!
 If this has piqued your interest, download the toolkit and its components to try it yourself, or contact [___] for more information.
 
-[Download the toolkit and its components](URL_to_archive_file)
-[Loopholes User Manual](
+[Download the toolkit and its components]([https://troykyo.github.io/dssloopholes.github.io/assets/links.zip])
 
 
 
