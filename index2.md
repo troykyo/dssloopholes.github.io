@@ -27,8 +27,10 @@ For companies already engaged in existing work and seeking to strategize on futu
 ##
 This exploration then transitions into a phase focused on charting the company's path forward. New ideas are seamlessly integrated to build upon existing efforts and lay a roadmap toward a sustainable and innovative future through tangible and time-bound efforts.
 </div>
+<br>
 For teams exploring a potential new project or starting from a clean slate, the toolkit offers an opportunity to ideate afresh. Utilizing cards and thoughtful questions, this phase assists in defining a new project from the ground up.
-##
+
+## 
 While using the toolkit for exploration and idea generation is exciting, there is value in periodically revisiting these efforts to ensure that ideas and plans are progressing as intended. Emphasizing the iterative approach of this toolkit iteration, the final and crucial phase allows users to continue refining their efforts based on on-ground feedback.
 ##
 This approach empowers teams to innovate continuously, adapting and refining strategies to align with evolving business needs and market dynamics. Additionally, the toolkit provides a series of indications on policy considerations, ensuring that users are aware of and work towards complying with EU regulations due in the next few years.
