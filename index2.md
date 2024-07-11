@@ -16,16 +16,16 @@ The toolkit is catered for anyone looking to strategize on evaluating their curr
 
 ## Dive into Design Thinking with the Loopholes Toolkit: Embrace Divergent and Convergent Methods!
 
-
+ <div class="image-wrapper">
 <div style="display: flex; align-items: center;">
     <img src="assets/Overview_manual.png" alt="Overview of phases" style="width: 50%;">
     <div style="margin-left: 20px;">
-       
+    <p>
 The toolkit begins by helping you map the current state of your company or project. This brings the team to a consensus on the purpose and goals of the company which sets the stage for effective collaboration and meaningful outcomes.
 ##
 For companies already engaged in existing work and seeking to strategize on future transitions, this phase guides the team through a detailed exploration of efforts within the complete product-service ecosystem. It identifies ongoing initiatives, assesses their impact across various facets of the company, and offers an overview of whether these efforts are contributing to the shared vision.
 ##
-This exploration then transitions into a phase focused on charting the company's path forward. New ideas are seamlessly integrated to build upon existing efforts and lay a roadmap toward a sustainable and innovative future through tangible and time-bound efforts.
+This exploration then transitions into a phase focused on charting the company's path forward. New ideas are seamlessly integrated to build upon existing efforts and lay a roadmap toward a sustainable and innovative future through tangible and time-bound efforts. </p>
 </div>
 </div>
 <br>
