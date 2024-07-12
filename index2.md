@@ -45,7 +45,7 @@ This approach empowers teams to innovate continuously, adapting and refining str
 # Get Started with Our Toolkit: Download Now or Contact Us for More Information!
 If this has piqued your interest, download the toolkit and its components to try it yourself, or [contact](fashion.research@hva.nl) for more information.
 
-<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Loopholes_user_manual_Jul'24.pdf" style="text-decoration:none; color:black; flex;align-items: center;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Loopholes_user_manual_Jul'24.pdf" style="text-decoration:none; color:black; display:flex; align-items: center;">
   <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Manualfc.jpg" alt="The User Manual" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle; padding:5px;">Click here to download the User manual for a detailed step-by-step guide to use the Loopholes toolkit</span>
 </a>
