@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Welcome to the Loopholes Toolkit, 
+# Welcome to the Loopholes Toolkit 
 ## a fusion of strategy and serious design thinking.
 
 
