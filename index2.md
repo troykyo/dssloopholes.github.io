@@ -51,12 +51,12 @@ If this has piqued your interest, download the toolkit and its components to try
 </a>
 
 
-<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" style="text-decoration:none; color:black;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" style="text-decoration:none; color:black; display:flex; align-items: center;">
   <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" alt="The Main Board" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle; padding:5px;">Click here to download the Main board</span>
 </a>
 
-<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Strategy%20cards.zip" style="text-decoration:none; color:black;">
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Strategy%20cards.zip" style="text-decoration:none; color:black; display:flex; align-items: center;">
   <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Cardsdisplay.jpg" alt="The Strategy cards" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle; padding:5px;">Click here to download the Strategy cards</span>
 </a>
