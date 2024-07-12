@@ -114,7 +114,6 @@ If this has piqued your interest, download the toolkit and its components to try
             width: 100%;
         }
         footer img {
-            margin: 0 10px;
             vertical-align: middle;
         }
     </style>
@@ -122,7 +121,7 @@ If this has piqued your interest, download the toolkit and its components to try
 <body>
     <footer>
         <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Logos.png">
-            <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Logos.png" alt="Manual Image" style="width:100%; height:auto;">
+            <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Logos.png" alt="Manual Image" style="width:90%; height:auto;">
         </a>
     </footer>
 </body>
