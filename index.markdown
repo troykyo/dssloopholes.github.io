@@ -13,11 +13,8 @@ The Circular Loopholes Toolkit aims to bridge the gap between technology, sustai
 
 <img src="assets/overview1.gif" alt="The mainboard" title="Mainboard" > 
 <br>
-<div style="text-align: center;">
-  
   [To download the complete toolkit, click here.](https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Complete%20loopholes%20toolkit_July'24.zip)
   
-</div>
 
 By utilizing this toolkit, fashion and textiles students, companies, and organizations can describe their current practices, develop opportunities for improvement, generate new ideas, and evaluate their operations with the latest EU regulations, including the EcoDesign for Sustainable Products Regulation (ESPR). The toolkit is designed to facilitate the transition of the textile and fashion sectors towards a circular economy, leveraging design and lean methods alongside economic models like the business model canvas.
 
