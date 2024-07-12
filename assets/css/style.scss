@@ -15,10 +15,12 @@
 
 /* Add this to the end of your existing styles or wherever appropriate */
 a {
-    color: red; /* Change this to your desired link color */
+    color: #467970; /* Change this to your desired link color */
+    font-weight: bold; /* Make the link text bold */
 }
 
 /* Optional: Change the color of links when hovered over */
 a:hover {
-    color: blue; /* Change this to your desired hover color */
+    color: #7bcbb9; /* Change this to your desired hover color */
+  font-weight: bold; /* Make the link text bold */
 }
