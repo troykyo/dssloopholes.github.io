@@ -45,10 +45,19 @@ This approach empowers teams to innovate continuously, adapting and refining str
 # Get Started with Our Toolkit: Download Now or Contact Us for More Information!
 If this has piqued your interest, download the toolkit and its components to try it yourself, or [contact](fashion.research@hva.nl) for more information.
 
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Manualfc.jpg" style="text-decoration:none; color:black;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Manual_Jul.pdf" alt="The User Manual" style="width:50%; height:auto; vertical-align:middle;">
+  <span style="vertical-align:middle; padding:5px;">Click here to download the User manual for a detailed step-by-step guide to use the Loopholes toolkit</span>
+</a>
 
 <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" style="text-decoration:none; color:black;">
   <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" alt="The Main Board" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle; padding:5px;">Click here to download the Main board</span>
+</a>
+
+<a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/cardsdisplay.jpg" style="text-decoration:none; color:black;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/strategycards.zip" alt="The Strategy cards" style="width:50%; height:auto; vertical-align:middle;">
+  <span style="vertical-align:middle; padding:5px;">Click here to download the Strategy cards</span>
 </a>
 
 <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/0.Describe_project.pdf" style="text-decoration:none; color:black; display: flex;align-items: center;">
