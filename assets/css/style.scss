@@ -10,3 +10,15 @@
 .markdown-body {
   font-family:  'OpenSans';
 }
+
+/* assets/css/style.css */
+
+/* Add this to the end of your existing styles or wherever appropriate */
+a {
+    color: red; /* Change this to your desired link color */
+}
+
+/* Optional: Change the color of links when hovered over */
+a:hover {
+    color: blue; /* Change this to your desired hover color */
+}
