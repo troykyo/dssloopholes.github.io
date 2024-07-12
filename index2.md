@@ -57,7 +57,7 @@ If this has piqued your interest, download the toolkit and its components to try
 </a>
 
 <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Strategy%20cards.zip" style="text-decoration:none; color:black;">
-  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Cardsdisplay.jpg" alt="The Strategy cards" style="width:60%; height:auto; vertical-align:middle;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Cardsdisplay.jpg" alt="The Strategy cards" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle; padding:5px;">Click here to download the Strategy cards</span>
 </a>
 
