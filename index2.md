@@ -82,7 +82,7 @@ If this has piqued your interest, download the toolkit and its components to try
   <span style="vertical-align:middle; padding:5px;">Click here to download the Material canvas for a product and process perspective</span>
 </a>
 
-
+[To download all components, click here.](https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Complete%20loopholes%20toolkit_July'24.zip)
 
 <head>
     <meta charset="UTF-8">
