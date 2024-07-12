@@ -15,17 +15,17 @@
 
 /* Add this to the end of your existing styles or wherever appropriate */
 a {
-    color: #467a70; /* Change this to your desired link color */
+    color: #7bcbb9; /* Change this to your desired link color */
     font-weight: bold; /* Make the link text bold */
 }
 a:visited {
-    color: #467a70; /* Ensure visited links have the same color */
+    color: #7bcbb9; /* Ensure visited links have the same color */
     font-weight: bold; /* Ensure visited links are bold */
    /* text-decoration: none; Optional: remove underline */
 }
 
 /* Optional: Change the color of links when hovered over */
 a:hover {
-    color: #7bcbb9; /* Change this to your desired hover color */
+    color: #467a70; /* Change this to your desired hover color */
   font-weight: bold; /* Make the link text bold */
 }
