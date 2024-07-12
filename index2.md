@@ -89,7 +89,7 @@ If this has piqued your interest, download the toolkit and its components to try
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         footer {
-            background-color: #f1f1f1;
+            background-color: #FFFFFF;
             text-align: center;
             padding: 20px;
             position: relative;
@@ -109,7 +109,7 @@ If this has piqued your interest, download the toolkit and its components to try
         </a>
     </footer>
 </body>
-</html>
+
 
 
 
