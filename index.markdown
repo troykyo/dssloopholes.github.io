@@ -7,8 +7,23 @@ layout: home
 # Welcome to the Loopholes Toolkit, 
 ## a fusion of strategy and serious design thinking.
 
-<img src="assets/overview1.gif" alt="The mainboard" title="Mainboard" > 
+
+The Circular Loopholes Toolkit aims to bridge the gap between technology, sustainability, and business strategies, supporting designers, students, and companies in navigating the complexities of sustainable fashion. Developed through extensive research and collaboration, as detailed in the Transitions project Technology, Industry and Sustainability Toolkit report, the Circular Loopholes Toolkit empowers users to explore and implement innovative strategies in digitalization, sustainability, business, and stakeholder engagement. Loopholes is closely aligned with the European Union's vision for a circular economy, as outlined in the [Textiles Transition Pathway](https://single-market-economy.ec.europa.eu/sectors/textiles-ecosystem/textiles-transition-pathway_en) and the initiatives of the [Transitions Project](https://transitionsproject.eu).
 <br>
+
+<img src="assets/overview1.gif" alt="The mainboard" title="Mainboard" > 
+[To download the complete toolkit, click here.](https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Complete%20loopholes%20toolkit_July'24.zip)
+<br>
+
+By utilizing this toolkit, fashion and textiles students, companies, and organizations can describe their current practices, develop opportunities for improvement, generate new ideas, and evaluate their operations with the latest EU regulations, including the EcoDesign for Sustainable Products Regulation (ESPR). The toolkit is designed to facilitate the transition of the textile and fashion sectors towards a circular economy, leveraging design and lean methods alongside economic models like the business model canvas.
+
+ 
+Join us on this transformative journey towards a more sustainable and circular textile ecosystem. Explore our resources, participate in our co-creation sessions, and become part of a community dedicated to reshaping the future of fashion and textiles.
+
+ 
+The Loopholes toolkit comprises 50 strategies categorized by Digitalization, Sustainability, Business & Finance, and Stakeholder Engagement. These strategies and categories were co-created with participation from project partners, local partners, academic literature, industry surveys, and expert interviews. The toolkit was tested and refined with entrepreneurs, companies, and students from many levels in the Netherlands, Italy, Spain, and Sweden. detailed in the Transistions project [Technology, Industry and Sustainability Toolkit report](https://transitionsproject.eu/results/).
+
+ 
 Centered around a collaborative design process, the Loopholes toolkit empowers stakeholders to craft comprehensive user journeys and data flows, paving the way for future production systems with sustainability and technology in mind. It encourages reflection on current company processes and their expansion into product-service ecosystems and ecologies. Each toolkit iteration fosters localized strategies for transitioning towards circularity through digitalization.
 
 
@@ -82,7 +97,7 @@ If this has piqued your interest, download the toolkit and its components to try
   <span style="vertical-align:middle; padding:5px;">Click here to download the Material canvas for a product and process perspective</span>
 </a>
 
-[To download all components, click here.](https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Complete%20loopholes%20toolkit_July'24.zip)
+
 
 <head>
     <meta charset="UTF-8">
