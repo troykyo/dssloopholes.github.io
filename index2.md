@@ -82,6 +82,37 @@ If this has piqued your interest, download the toolkit and its components to try
   <span style="vertical-align:middle; padding:5px;">Click here to download the Material canvas for a product and process perspective</span>
 </a>
 
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        footer img {
+            margin: 0 10px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <footer>
+        <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Logos.png">
+            <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/Logos.png" alt="Manual Image" style="width:100%; height:auto;">
+        </a>
+    </footer>
+</body>
+</html>
+
+
+
 <!-- # About the Loopholes Toolkit
 
 Welcome to the Loopholes Toolkit, a fusion of strategy and serious design thinking.
