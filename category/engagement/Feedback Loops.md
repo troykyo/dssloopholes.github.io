@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Feedback Loops </h3>
  Collecting and making sense of stakeholder feedback is critical for businesses that wish to make improvements based on what their stakeholders (such as users) need.
-      <br><br><strong> VET </strong>
+      <br><br><strong> VET: </strong>
 What stakeholder feedback is essential to your organization?
-      <br><br><strong> HEI </strong>
+      <br><br><strong> HEI: </strong>
  How could digital technologies support and incentivize stakeholders to be willing to share feedback?
   </div>
 </div>

@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Textile Labelling Requirements (TLR) </h3>
 New laws such as the Textile Labeling Requirements provide information that creates new opportunities for future repair and recycling along with the sharing understanding with all the people involved in the textile process (Stakeholders).    
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you provide clear information for the person who will be repairing or recycling the garment seven years from now?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you design a system that allows for future changes within the system (legislation, new materials, prodution processes) that do not exist yet (futureproof)? 
   </div>
 </div>

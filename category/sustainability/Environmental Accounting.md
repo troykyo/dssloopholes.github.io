@@ -7,9 +7,9 @@
   <div class="overlay-text">
     <h3> Environmental Accounting </h3>
 Recording a comprehensive set of environmental indicators, such as water, energy, carbon, chemicals, land use, air pollution. This will pave the way for CSRD compliance and needs to be developed to assess the impact of product service lifetimes.    
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 What information do you need (including from suppliers) to understand how many resources are used?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 Does a Life Cycle Analyses of environmental accounting support the adoption of new materials compared to mainstream or curent practices?
   </div>
 </div>

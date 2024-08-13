@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Circular Revenue Model </h3>
  Circular revenue models focus on generating income in ways that promote sustainability, such as through recycling, upcycling, and reusing materials. This includes traditional models like direct sales and innovative approaches like subscription services and digital platforms, aligning with sustainable practices.    
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can fashion companies make money while also helping the environment by reusing and recycling?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What are the key components of circular revenue models in the fashion system, and how can they be implemented to drive sustainability and profitability?
   </div>
 </div>

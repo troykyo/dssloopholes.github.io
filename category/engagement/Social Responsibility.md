@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Social Responsibility </h3>
 Social Responsibility is the commitment to act ethically and contribute to economic, social, and environmental well-being. It includes upholding ethical conduct, promoting sustainability, engaging with communities, ensuring economic accountability, and adhering to legal compliance.   
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How is your organization impacting society and the environment?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How could you change your practice to ensure a positive impact on the society and environment?
   </div>
 </div>

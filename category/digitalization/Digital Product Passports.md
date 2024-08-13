@@ -7,7 +7,7 @@
 Digital Product Passports provide transparency on garment origins, including material sources, environmental impact (water, energy, carbon), and manufacturing locations, facilitating transparent information practices.
     <br><br><strong>VET: </strong>
 How can tracking where and how clothes are made help us recycle and reuse them better?
-	  <br><strong> HEI </strong>
+	  <br><strong> HEI: </strong>
 How can the implementation of Digital Product Passports enhance trackability and traceability of garment life-cycles, supporting the transition to a circularity?
   </div>
 </div>

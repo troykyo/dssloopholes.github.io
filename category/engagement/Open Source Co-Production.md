@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Open Source Co-production </h3>
 Instead of copyright, licences like Open Source creative commons empower co-production allows global communities to share knowledge and collaborate, accelerating innovation and enhancing fashion sustainability through collective learning. 3D printable fashion is an example.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can sharing knowledge and ideas freely, with others help us create better fashion together?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What types of knowledge and processes can be shared through open-source licenses to facilitate collaborative innovation in fashion production and use?
   </div>
 </div>

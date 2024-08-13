@@ -6,9 +6,9 @@
 	
   <div class="overlay-text">
     <h3> Technology Readiness Levels / Society Readiness Levels </h3>
-Technology Readiness Levels (TRLs) assess the maturity of technologies, while Society Readiness Levels (SRLs) gauge societal acceptance  of these technologies. In fashion, these assessments help evaluate the feasibility, scalability, and market adoption of innovations.    <br><br><strong> VET </strong>
+Technology Readiness Levels (TRLs) assess the maturity of technologies, while Society Readiness Levels (SRLs) gauge societal acceptance  of these technologies. In fashion, these assessments help evaluate the feasibility, scalability, and market adoption of innovations.    <br><br><strong> VET: </strong>
 How can we tell if a new fashion technology is ready for people to use and like? 
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How do Technology Readiness Levels (TRLs) and Society Readiness Levels (SRLs) influence the adoption of innovations in the fashion system ?
   </div>
 </div>

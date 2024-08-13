@@ -7,9 +7,9 @@
   <div class="overlay-text">
     <h3> Sustainable Packaging </h3>
 Alternative solutions for packaging including biobased or recycled materials, increase the reuse of packaging, while minimizing the impact for example by reducing the amount and impact of packaging used.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you make packaging that creates less waste?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you change your logistics in terms of procurement or packaging processes?
   </div>
 </div>

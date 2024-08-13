@@ -5,9 +5,9 @@
 	
   <div class="overlay-text">
     <h3> Socioeconomic and Governmental Factors </h3>
-New laws, regulations, socil beliefs and societal costs (like inflation) play a crucial role in influencing sustainability and technolpgy practices in the fashion industry. Systemic change influences who society works and causes our orcanization to change.    <br><br><strong> VET </strong>
+New laws, regulations, socil beliefs and societal costs (like inflation) play a crucial role in influencing sustainability and technolpgy practices in the fashion industry. Systemic change influences who society works and causes our orcanization to change.    <br><br><strong> VET: </strong>
  Which new laws and regulations will impact sustainability and technology practices in fashion?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How do economic and legislative factors influence fashion consumption and use?
   </div>
 </div>

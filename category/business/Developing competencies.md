@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Developing Competencies </h3>
 Developing competencies involves identifying, training, and enhancing key skills and knowledge areas vital for the fashion industry, such as circular design, AI trend analysis, sustainable ecosystems, advanced supply chain management, digital marketing, and emerging digital technologies.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Why is it important for people in the fashion ecosystem to keep learning new skills?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can a systematic approach to competency development enhance organizational performance in your fashion system?
   </div>
 </div>

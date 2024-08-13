@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Strategic Partnerships </h3>
 Strategic partners are the stakeholdes that impact your value proposition and value chain. The level of dependency can be high or low, balanced or unbalanced.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Who are your strategic partners and why do you choose them? Are your users strategic partners?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What new partners would you need in your organization to make enable circularity? (e.g. textile recycling)
   </div>
 </div>

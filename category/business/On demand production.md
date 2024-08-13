@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> On-Demand Production </h3>
 Each phase of the fashion and textile process is often made to a future forecast. On-demand production waits until the order is placed, making the textile or garment to order. This can be done in micro factories geographically close to the user.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you help the users see the benefit of waiting a bit longer to receive a product in this age of fast fashion?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you shift a company process to be more made-to-order instead of made-to-forecast?
   </div>
 </div>

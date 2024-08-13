@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Person to Person (P2P) </h3>
 Person-to-person sharing moves a garment directly from owner to owner without the need for a company to sort and restore it. For example, P2P platforms such as Vinted encourage users to sell their clothing directly to other users.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 What do you like and dislike about reselling fashion directly between users?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 Can you make a system where a garment is moved into its second or third life directly between users, where the owners remain anonymous?  </div>
 </div>
 

@@ -6,9 +6,9 @@
 	
   <div class="overlay-text">
     <h3> Biobased Materials </h3>
- Biobased materials are considered sustainable depending on many factors, including recyclability and how they are made and how they can rejuvenate clothing. Biomaterials are considered circular when they can decompose into the ecosystem or can be easily recycled/reused.    <br><br><strong> VET </strong>
+ Biobased materials are considered sustainable depending on many factors, including recyclability and how they are made and how they can rejuvenate clothing. Biomaterials are considered circular when they can decompose into the ecosystem or can be easily recycled/reused.    <br><br><strong> VET: </strong>
 How can you change to a biobased materials?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you create a system that restores clothing in use by biorejuvinating the material or coating? 
   </div>
 </div>

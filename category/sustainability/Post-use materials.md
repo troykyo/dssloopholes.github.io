@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Post-use Materials </h3>
  Post-use materials are textiles and garments that have finished their initial use. These textiles are recycled or upcycled to create new products, promoting a circular economy.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can we use old clothes and materials to make new things instead of throwing them away?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What are the challenges and opportunities associated with integrating post-use materials into new fashion products, and how can designers overcome these to support a circular economy?
   </div>
 </div>

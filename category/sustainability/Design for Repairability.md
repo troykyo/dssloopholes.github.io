@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Design for Repairability (DfR) </h3>
 Making somthing that it is easy to repair is an artform. Extended Producer Responsibility (EPR) requires repair (or recycling) of garments by the brand who sold it. Designing for the repair of the garment from the beginning makes the process easier and reuse/resale possible.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 What can you change in your current clothing to make it more repairable?  
-<br><br><strong> HEI </strong>
+<br><br><strong> HEI: </strong>
 How can you Design for Repair (DfR) in a circular process? How might that change if seven years pass for the garment to go back to the company?
   </div>
 </div>

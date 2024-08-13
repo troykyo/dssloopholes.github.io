@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Economic Resilience </h3>
 Companies usually rely on external funding, meaning investments are mostly covered by institutional banks or other investors. However, this makes companies less willing to take risks and more vulnerable (liable) to economic issues.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Can you think of alternative ways of financing entrepreneurial risk (e.g. crowdfunding, or sharing risks with others)?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How has the financial landscape changed in the last few decades, and how does it impact your organization today and in the future?  </div>
 </div>
 

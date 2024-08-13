@@ -7,9 +7,9 @@
   <div class="overlay-text">
     <h3> EcoDesign </h3>
  EcoDesign is a design approach that considers the entire life cycle of a product, from its conception to the end of its useful life, with the aim of minimising waste and environmental impact, EcoDesign includes a synthesis of innovative design strategies, sustainable material choices, and comprehensive end-of-lives management.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you ensure that a T-shirt is environmentally friendly and does not harm the environment during design, production, use and when you no longer need it?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What stratagies are needed to ensure an approach that considers entire life-cycles of a product?
   </div>
 </div>

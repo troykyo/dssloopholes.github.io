@@ -6,9 +6,9 @@
     <h3> Waste Reduction </h3>
 Waste is generated in multiple stages during the loopholes process: cutting, sewing, dyeing, finishing, washing, and more. Strategies like Zero Waste Pattern Cutting limit waste from the process.
 
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you design clothing that minimizes waste from the outset of the design process?
-	  <br><br><strong> HEI </strong>
+	  <br><br><strong> HEI: </strong>
 Which step in the value chain is generating most waste and how can you minimize the waste?
 </div>
 </div>

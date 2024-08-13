@@ -7,7 +7,7 @@
     <h3> Blockchain and Unique ID technologies </h3>
 Tracking every garment and who is wearing it is a complex process. Web3 uses Blockchain technology to create decentralized systems that log data about the life-cycles without central authorities, promoting stakeholder empowerment.
     <br><br><strong>VET: </strong>
-How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<br><strong> HEI </strong>
+How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<br><strong> HEI: </strong>
 How can blockchain and decentralized technologies be integrated into the fashion ecosystem, and what impact will transparent ownership have on fashion ecosystems?
   </div>
 </div>

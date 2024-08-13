@@ -7,9 +7,9 @@
   <div class="overlay-text">
     <h3> Closed Loop Water and Renewable Energy </h3>
 Closed-loop water systems recycle and reuse water in production and use, conserving resources and pollution. Renewable energy uses sources like solar or wind power, reducing fossil fuel use and environmental impact. 
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can reusing water and using renewable energy like solar help make fashion better?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can the integration of closed loop water systems and renewable energy sources in the fashion ecosystem contribute to sustainable production practices and reduce environmental impact?
   </div>
 </div>

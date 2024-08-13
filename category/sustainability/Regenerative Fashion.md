@@ -7,9 +7,9 @@
   <div class="overlay-text">
     <h3> Regenerative Fashion </h3>
 Regeneration embodies practices that give back to people and planet. Examples include cultivating bioregional materials using crop rotation and intercropping to improve soil health. Another example is creating product-services that embody indigenous or ancestral knowledge (such as ways of making, materiality, and land management practices) directly with people from those communities, providing meaningful work.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
  How do you make clothing that makes another system better?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What does your system look like from ground to wardrobe and back again?
   </div>
 </div>

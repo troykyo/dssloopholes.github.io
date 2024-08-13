@@ -9,7 +9,7 @@
 Everything we do on the internet creates information that is recorded and often retained as data. Digitalizing fashion and textile processes over the internet creates new opportunities for data science. Small data about the time, place, and frequency of interactions can tell us many things about the stakeholders and our business model.
     <br><br><strong>VET: </strong>
 How can people's information from the internet help us make it more sustainable?
-    <br><strong> HEI </strong>
+    <br><strong> HEI: </strong>
 How can data collected from stakeholders digital activites be leveraged to create circular fashion systems and comply with new EU reporting requirements like CSRD?
   </div>
 </div>

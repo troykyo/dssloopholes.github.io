@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Considering More-than-Human Ecosystems </h3>
 Considering non-humans in fashion ecosystems emphasizes the impact on the environment from the point of view of materials, production, supply chain, and ecology. The aim is to minimize environmental harm and conserve resources.    
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 What non-humans like insects, water systems or animals are affected by your whole process?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What more-than human ecosystems does your practice impact? How can you consider these ecosystems for mutual, regenerative, or sustainable benefits?
   </div>
 </div>

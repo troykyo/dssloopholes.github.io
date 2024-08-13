@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Refreshing Roles </h3>
  For organizations to grow and change it is important to reorganize task into engaging positions that attract talent and keep good employees connected. This helps organizations address emerging needs, adapt to shifting market dynamics, adopt technological advancements, and evolve with challenges and opportunities.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Which tasks are most important in your organization?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What new tasks will need to be added, and how could you integrate these tasks over existing and new roles to keep people engaged?  </div>
 </div>
 

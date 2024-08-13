@@ -7,9 +7,9 @@
   <div class="overlay-text">
     <h3> Extended Producer Responsibility (EPR) </h3>
 EPR requirements ensure that producers are responsible for post use waste and recycling as well as pre-consumer waste (unsold production). When done using a product, users take them back to the place they were purchased for reuse and recycling. To close the loop and reduce this fiscal load, companies need to devise processes that facilitate repair, re-use and recycling of their products from the beginning.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How would you reuse the materials of the things that you make?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you create long use materials that are easy to recycle when they return to you, often seven years from now? 
   </div>
 </div>

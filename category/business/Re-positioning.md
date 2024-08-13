@@ -4,9 +4,9 @@
   <div class="overlay-text">
     <h3> Re-Positioning </h3>
 Price elasticity is what we call the extent to which people react to changes in price. Sometimes changing the prices could lead to a higher economic, but also societal impact (more people using the product/service). Pricing however is a crucial marketing variable that also informs potential users about the quality of the value proposition.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How does circularity affect the  price of your product/service?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How do you work with governments, society, academia and companies to re-position a circular sustainable product/service that has a higher price?
   </div>
 </div>

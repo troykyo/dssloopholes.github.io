@@ -4,9 +4,9 @@
 	
   <div class="overlay-text">
     <h3> Shared Governance </h3>
-Shared governance models split the responcibility and accountability of an organization with stakeholders across the value chain. Shared Governance ensures an inclusive approach to decision-making and management, but collaboration between stakeholders is needed.    <br><br><strong> VET </strong>
+Shared governance models split the responcibility and accountability of an organization with stakeholders across the value chain. Shared Governance ensures an inclusive approach to decision-making and management, but collaboration between stakeholders is needed.    <br><br><strong> VET: </strong>
 Who makes the decisions in your organization? Who is impacted by the decisions that are made and how can you involve them in the decision-making process?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you add more stakeholders from your value chain to your current decision-making process?
   </div>
 </div>

@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Fair Labor Practices </h3>
 Industry 5.0 seeks a transition towards sustainable, human-centric and resilient industries. In this, workers should be paid fair wages, have safe working conditions, and not be subjected to exploitation or abuse.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Are your workers treated well? What about the companies you work with?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 Are there any points in the supply chain where it is unclear how workers are being treated? What steps would you have to take in order to improve these points?
   </div>
 </div>

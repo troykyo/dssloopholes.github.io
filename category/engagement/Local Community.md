@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Local Community </h3>
 Employing and/or involving local communities in processes like designing and manufacturing often leads to positive benefits for the company, environment, and society.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Who are (part of) your local communities (residents, artisans, designers, and businesses)?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 Are there processes that, if done by local community stakeholders, could bring value to your company as well as the local community?  </div>
 </div>
 

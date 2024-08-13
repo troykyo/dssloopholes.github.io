@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Co-Design </h3>
 Co-Design refers to the collaborative principles and practices that actively involve other people (stakeholders) in the process. Co-Design emphasizes inclusivity, transparency, and shared decision-making through participatory models that seek to reshape the traditional top-down approaches of the fashion industry.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you involve your friends or family when making decisions about what to wear?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How would you make a system that allows all the stakeholders to be part of the Design process?
   </div>
 </div>

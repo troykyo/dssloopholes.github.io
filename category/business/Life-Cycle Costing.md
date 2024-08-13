@@ -6,9 +6,9 @@
   <div class="overlay-text">
     <h3> Life-Cycle Costing </h3>
 Life-cycle costing (LCC) is an accounting method that considers the total cost of a product throughout its life cycle, from raw material extraction to end-of-lifes disposal. This helps businesses make informed decisions about production, pricing, and sustainability, promoting the use of durable and high-quality products.  
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Why should we think about all the costs of making, using, and throwing away a product?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can life cycle costing support sustainability initiatives and improve decision-making in a fashion system?
   </div>
 </div>

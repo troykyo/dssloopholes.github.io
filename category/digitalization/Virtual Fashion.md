@@ -8,7 +8,7 @@
 Making virtual clothing and textiles (in programs like Clo3D, Browzwear, Blender, or Optitex Lectra) can facilitate fitting, sharing, or entirely digital fashion. Fewer physical garments are needed, and users can even wear the garments digitally.
     <br><br><strong>VET: </strong>
 How can creating clothes digitally on a computer change the way we wear and share fashion?
-    <br><strong> HEI </strong>
+    <br><strong> HEI: </strong>
 In what ways can virtual fashion and textiles be better than traditional methods in design, production, fitting, and use?
   </div>
 </div>

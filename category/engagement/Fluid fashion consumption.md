@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Fluid Fashion Consumption </h3>
 Fluid fashion consumption promotes reimagining ownership and embracing innovative models like renting, borrowing, swapping, and sharing items.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you share clothing with others in a way you are comfortable with? 
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can your business model incorporate building community, extending garment life and/or facilitate user interaction?
   </div>
 </div>

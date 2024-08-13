@@ -7,9 +7,9 @@
     <h3> Market(ing) Opportunities </h3>
 An important source of revenues (rents) is to find new markets or new ways to present and sell products. This can be the result of new possible applications of existing products and services, but also of new technologies, channels, demographics and/or geographic markets.
     
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 Can you think of new uses/markets for your product-service?
-<br><br><strong> HEI </strong>
+<br><br><strong> HEI: </strong>
 How can innovative marketing strategies help sustainable companies enter new markets effectively?
 </div>
 </div>

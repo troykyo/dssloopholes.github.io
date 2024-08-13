@@ -7,9 +7,9 @@
     <h3> Design For Disassembly (DfD) </h3>
 DfD requires designing the recycling phase while designing the garment product or system. Thingking about the End-of-lives first improves the chances of the textile being recycled or upcycled instead of being trashed. Melting stitching yarns and hand removable metal findings are examples.
 
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 What could be changed in your project to enable disassembly?
-<br><br><strong> HEI </strong>
+<br><br><strong> HEI: </strong>
 What technologies can be used to make it easier to disassemble your product and salvage the materials? 
 </div>
 </div>

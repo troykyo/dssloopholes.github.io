@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Users as Stakeholder </h3>
  Encouraging users to be active stakeholders in the fashion ecosyste empowers them and leads to more customer-centric, sustainable offerings.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 In what governence, design, production and use processes could you involve users?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 What technologies could enable users to engage with your current processes? How would that change those processes?
   </div>
 </div>
