@@ -5,9 +5,9 @@
   <div class="overlay-text">
     <h3> Building Product-Service Ecosystems </h3>
 An ecosystem is composed of a range of companies, organizations, governments and other systems that support each other. This could be companies who provide yarn, textile (finished goods), confectioning, retail, brand, recycler, or legislators and the users themselves. Large companies silos are often ecosystems within themselves.
-    <br><br><strong> VET </strong>
+    <br><br><strong> VET: </strong>
 How can you change (add or subtract) partners to make your product-service ecosystem more circular?
-    <br><br><strong> HEI </strong>
+    <br><br><strong> HEI: </strong>
 How can you engage the user or government to extend your ecosystem and be more circular?
   </div>
 </div>
