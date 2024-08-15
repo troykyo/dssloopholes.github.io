@@ -68,7 +68,7 @@ If this has piqued your interest, download the toolkit and its components to try
 
 
 <a href="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" style="text-decoration:none; color:black; display:flex; align-items: center;">
-  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboard.jpg" alt="The Main Board" style="width:50%; height:auto; vertical-align:middle;">
+  <img src="https://github.com/troykyo/dssloopholes.github.io/raw/main/assets/mainboardrgb150.jpg" alt="The Main Board" style="width:50%; height:auto; vertical-align:middle;">
   <span style="vertical-align:middle; padding:5px;">Click here to download the Main board</span>
 </a>
 
