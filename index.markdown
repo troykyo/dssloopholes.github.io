@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Welcome to the Loopholes Circulat Innovation Toolkit 
+# Welcome to the Loopholes Circular Innovation Toolkit 
 ## A fusion of strategy and serious design thinking for your Fashion or Textile Company.
 
 
