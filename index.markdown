@@ -4,8 +4,8 @@
 
 layout: home
 ---
-# Welcome to the Loopholes Toolkit 
-## a fusion of strategy and serious design thinking.
+# Welcome to the Loopholes Circulat Innovation Toolkit 
+## A fusion of strategy and serious design thinking for your Fashion or Textile Company.
 
 
 The Circular Loopholes Toolkit aims to bridge the gap between technology, sustainability, and business strategies, supporting designers, students, and companies in navigating the complexities of sustainable fashion. Developed through extensive research and collaboration, as detailed in the Transitions project Technology, Industry and Sustainability Toolkit report, the Circular Loopholes Toolkit empowers users to explore and implement innovative strategies in digitalization, sustainability, business, and stakeholder engagement. Loopholes is closely aligned with the European Union's vision for a circular economy, as outlined in the [Textiles Transition Pathway](https://single-market-economy.ec.europa.eu/sectors/textiles-ecosystem/textiles-transition-pathway_en) and the initiatives of the [Transitions Project](https://transitionsproject.eu).
