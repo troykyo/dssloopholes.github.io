@@ -103,19 +103,19 @@ PANGAIA emphasizes regenerative fashion by creating garments that benefit the en
 
 ### References
 
-- [Braga, M., & Rodrigues, M. (2020). Indigenous knowledge in sustainable fashion: Integrating traditional practices in modern design. Journal of Fashion and Textiles, 8(2), 145-162.](https://doi.org/10.1007/s11625-020-00877-1)
+- Braga, M., & Rodrigues, M. (2020). Indigenous knowledge in sustainable fashion: Integrating traditional practices in modern design. Journal of Fashion and Textiles, 8(2), 145-162.
 
-- De Brito, M. P., Carbone, V., & Blanquart, C. M. (2020). Environmental and social sustainability in fashion: A case study analysis of luxury and mass-market brands. [Link not provided, please insert manually if available]
+- De Brito, M. P., Carbone, V., & Blanquart, C. M. (2020). Environmental and social sustainability in fashion: A case study analysis of luxury and mass-market brands.
 
-- [Fletcher, K. (2021). Regenerative Fashion: A Path Forward for the Apparel Industry. Fashion Theory: The Journal of Dress, Body & Culture, 25(3), 467-481.](https://doi.org/10.1080/1362704X.2021.1857282)
+- Fletcher, K. (2021). Regenerative Fashion: A Path Forward for the Apparel Industry. Fashion Theory: The Journal of Dress, Body & Culture, 25(3), 467-481.
 
-- [Hatcher, C. (2021). The role of indigenous knowledge in sustainable fashion: A case study analysis. Sustainability in Fashion and Textiles, 14(1), 109-125.](https://doi.org/10.1016/j.susmat.2021.01.003)
+- Hatcher, C. (2021). The role of indigenous knowledge in sustainable fashion: A case study analysis. Sustainability in Fashion and Textiles, 14(1), 109-125.
 
-- [Laestadius, L. I., & Hawken, P. (2020). Regenerative agriculture and fashion: Practices that restore the land. Ecological Applications, 30(1), e02031.](https://doi.org/10.1002/eap.2031)
+- Laestadius, L. I., & Hawken, P. (2020). Regenerative agriculture and fashion: Practices that restore the land. Ecological Applications, 30(1), e02031.
 
-- [McKinney, E., & Pellegrin, R. (2020). Indigenous knowledge and fashion sustainability: A new approach to design and production. Fashion Theory: The Journal of Dress, Body & Culture, 24(5), 649-667.](https://doi.org/10.1080/1362704X.2020.1758069)
+- McKinney, E., & Pellegrin, R. (2020). Indigenous knowledge and fashion sustainability: A new approach to design and production. Fashion Theory: The Journal of Dress, Body & Culture, 24(5), 649-667.
 
-- [Rodale Institute. (2020). The Regenerative Organic Certification and Its Impact on Fashion. Journal of Agricultural and Environmental Ethics, 33(4), 513-531.](https://doi.org/10.1007/s10806-020-09838-5)
+- Rodale Institute. (2020). The Regenerative Organic Certification and Its Impact on Fashion. Journal of Agricultural and Environmental Ethics, 33(4), 513-531.
 
-- [Zengler, C., & Clark, S. (2021). Biodegradable and compostable materials in fashion: The PANGAIA model. Journal of Sustainable Textiles and Apparel, 25(2), 213-229.](https://doi.org/10.1016/j.susmat.2021.01.003)
+- Zengler, C., & Clark, S. (2021). Biodegradable and compostable materials in fashion: The PANGAIA model. Journal of Sustainable Textiles and Apparel, 25(2), 213-229.
 
