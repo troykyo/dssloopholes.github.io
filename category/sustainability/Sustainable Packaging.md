@@ -90,7 +90,7 @@ Lush Cosmetics is known for its commitment to sustainable packaging. The brand u
 
 **Puma**  
 PUMA introduced the Clever Little Bag as a multi-functional and reusable packaging solution, replacing traditional shoeboxes. The design features a minimal cardboard tray and a reusable fabric bag made from recycled materials. This innovative approach reduces cardboard use by 65% and encourages consumers to reuse the fabric bag, significantly lowering the environmental impact of packaging. PUMA's Clever Little Bag showcases how packaging can be both practical and sustainable, adding value while promoting environmental responsibility.  
-[Read more about Puma's Clever Little Bag]((https://fuseproject.com/work/puma-clever-little-bag/))
+[Read more about Puma's Clever Little Bag](https://fuseproject.com/work/puma-clever-little-bag/)
 
 ### References
 
