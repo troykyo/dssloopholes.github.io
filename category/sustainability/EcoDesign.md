@@ -88,19 +88,21 @@ Incorporating EcoDesign principles into fashion can lead to products that are no
 
 **Veja**  
 Veja is a footwear brand that focuses on transparency, organic materials, and fair trade practices. The company uses organic cotton sourced from Brazil and Peru and wild rubber from the Amazon, contributing to forest preservation. Veja also avoids harmful chemicals in its production process and emphasizes product durability to extend the life cycle of its shoes. Veja has become a leading example of how SMEs can successfully integrate **EcoDesign** principles, building a strong brand identity centered on sustainability and ethical practices. The company's approach has resonated with environmentally conscious consumers globally.  
-[Learn more about Veja](https://project.veja-store.com/en/about-veja)
-<br>
+[Learn more about Veja](https://project.veja-store.com/en/about-veja)  
+
 **Outerknown**  
 Outerknown, co-founded by professional surfer Kelly Slater, focuses on creating sustainable and ethical apparel. The brand uses organic, recycled, and regenerated materials, such as Econyl (recycled nylon). Outerknown also prioritizes fair labor practices and is committed to reducing its environmental footprint through responsible sourcing and production methods. Outerknown has set a new standard for sustainable fashion in the surf and outdoor apparel industry. The brand's commitment to **EcoDesign** has helped it gain recognition for its environmental and social responsibility.  
-[Learn more about Outerknown](https://www.outerknown.com/pages/our-mission)
-<br>
+[Learn more about Outerknown](https://www.outerknown.com/pages/our-mission)  
+
 **PANGAIA**  
 PANGAIA is a materials science company focused on creating sustainable clothing using innovative materials. The brand uses bio-based fibers, such as seaweed fiber and recycled cotton, and incorporates natural dyes derived from fruits and vegetables. PANGAIA also emphasizes the importance of circularity by designing products that can be recycled or composted at the end of their life cycle. PANGAIA has positioned itself as a leader in sustainable innovation, setting an example for how fashion can be both stylish and environmentally responsible. The company's approach to **EcoDesign** has garnered widespread attention and acclaim.  
 [Learn more about PANGAIA](https://thepangaia.com/pages/sustainability)
 <br>
+
 **Ganni**  
 Ganni, a Danish fashion brand, has adopted several **EcoDesign** principles, including the use of certified organic cotton, recycled wool, and traceable materials. The company also focuses on reducing waste by using leftover fabrics and deadstock materials in its collections. Ganni’s "Ganni Repeat" initiative promotes circular fashion by offering customers the option to rent instead of buy, thereby extending the life cycle of garments. Ganni's approach to **EcoDesign** has made it a leading example of how fashion SMEs can embrace sustainability without compromising on style or innovation. The brand's efforts have been recognized as part of the global movement towards more responsible fashion consumption.  
 [Learn more about Ganni](https://www.ganni.com/en/sustainability)
+
 <br>
 
 ### References
