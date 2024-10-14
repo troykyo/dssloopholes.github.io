@@ -107,9 +107,9 @@ Ecoalf is a fashion brand committed to sustainability, focusing on using recycle
 
 ### References
 
-- [Luengo, B., and T. Bakker. “Biobased materials and circularity in fashion: Opportunities and challenges.” Circular Economy Journal 12.3 (2020): 89-103.](https://www.examplelink.com/circular-economy-journal)
+- Luengo, B., and T. Bakker. “Biobased materials and circularity in fashion: Opportunities and challenges.” Circular Economy Journal 12.3 (2020): 89-103.
 
-- [Thompson, S. “Biorejuvenation in textiles: Innovations in material science for sustainable fashion.” Sustainable Fashion Review 18.4 (2021): 221-229.](https://www.examplelink.com/sustainable-fashion-review)
+- Thompson, S. “Biorejuvenation in textiles: Innovations in material science for sustainable fashion.” Sustainable Fashion Review 18.4 (2021): 221-229.
 
-- [Garcia, A. “Exploring the circular potential of biobased materials in fashion.” Journal of Textile Research and Development 14.2 (2019): 167-175.](https://www.examplelink.com/journal-of-textile-research)
+- Garcia, A. “Exploring the circular potential of biobased materials in fashion.” Journal of Textile Research and Development 14.2 (2019): 167-175.
 
