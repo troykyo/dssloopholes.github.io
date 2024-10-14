@@ -85,11 +85,13 @@ Together, Digital manufacturing and Digital Twinning are revolutionizing the fas
 **Kornit Digital**  <br>
 Kornit Digital leads in sustainable textile printing with their **on-demand production** approach. They integrate **3D printing and digital technologies** through platforms like KornitX, reducing water usage and minimizing waste by producing garments only after orders are placed.  
 [Read more here](https://3dprint.com/290237/kornit-showcases-the-future-of-sustainable-digital-fashion-3d-and-otherwise/)
+ 
  <br>
 **TextileGenesis**   <br>
 TextileGenesis leverages **blockchain-powered digital twins** to trace sustainable fibers like **TENCEL™**. Their platform ensures full transparency across the supply chain, helping brands achieve sustainability goals by reducing waste and optimizing material use.  
 [Read more here](https://www.fashionunited.uk/news/business/how-blockchain-is-paving-the-way-for-greater-transparency-sustainability-within-the-fashion-industry/2020112751864)
- <br>
+
+<br>
 **Valaclava**   <br>
 Valaclava's **digital-first fashion** model allows customers to purchase a **digital twin** of a garment, customize it, and produce the physical item only after confirming the digital version. This reduces overproduction and integrates **NFTs** for product traceability.  
 [Read more here](https://juststyle.nridigital.com/issue15/digital_twins_in_fashion)
