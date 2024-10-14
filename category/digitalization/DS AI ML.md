@@ -81,13 +81,13 @@ Data science, artificial intelligence (AI), and machine learning (ML) increasing
 
 **Sorabel (formerly Sale Stock)**<br>
 **Sorabel** uses **AI** to predict fashion trends and minimize waste by producing only what consumers are likely to buy. Their predictive analytics help lower inventory risk while offering fashionable and affordable items. This lean production model contributes to sustainability by reducing unsold stock, aligning with consumer demands for ethical fashion. [Read more here](https://www.pixyle.ai).
-
+<br>
 **Project Cece**<br>
 **Project Cece**, a Dutch tech startup, integrates **visual AI** to help consumers find sustainable versions of fashion items. Users can upload images, and the platform recommends eco-friendly alternatives, helping consumers make more sustainable choices and reducing the environmental impact of fast fashion. [Learn more about Project Cece](https://www.siliconcanals.com).
-
+<br>
 **TextileGenesis and Blockchain for Supply Chain Traceability** <br>
 **TextileGenesis** uses **blockchain technology** to track sustainable materials like **TENCEL™** and **LENZING™ ECOVERO™**, ensuring each step of the production process is transparent. This system addresses consumer demand for traceable, ethically sourced products and boosts transparency in supply chains. [Find out more about TextileGenesis](https://www.fashionunited.uk).
-
+<br>
 **Heuritech**<br>
 **Heuritech** leverages **AI** for fashion trend detection, reducing forecasting errors by 50%. By accurately predicting trends and optimizing production, they help fashion brands avoid overproduction and reduce waste. Their AI-backed approach supports sustainable inventory management, creating a more eco-friendly fashion ecosystem. [Read more about Heuritech](https://www.heuritech.com).
 
