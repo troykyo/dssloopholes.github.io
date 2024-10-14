@@ -112,7 +112,7 @@ Nudie Jeans, a Swedish denim brand, has integrated EPR into its operations throu
 
 ### References
 
-- [Lewis, Helen, and J. Fitzpatrick. "Sustainable Packaging: A Study of Extended Producer Responsibility in the Fashion Industry." Journal of Sustainable Fashion 12.3 (2020): 235-248.](https://www.tandfonline.com/doi/full/10.1080/17569370.2020.1834357)
+- Lewis, Helen, and J. Fitzpatrick. "Sustainable Packaging: A Study of Extended Producer Responsibility in the Fashion Industry." Journal of Sustainable Fashion 12.3 (2020): 235-248.
 
 - Watson, David, and Anders Damgaard. "Extended Producer Responsibility for Textiles: A Policy Review and Analysis." Ecological Economics 169 (2020): 106567.
 
@@ -123,12 +123,6 @@ Nudie Jeans, a Swedish denim brand, has integrated EPR into its operations throu
 - Andrews, D. "Closing the Loop: A Case Study on the Implementation of Extended Producer Responsibility in the Fashion Industry." Resources, Conservation, and Recycling 165 (2021): 105277.
 
 - Tojo, Naoko, and Tomohiro Sakanashi. "Extended Producer Responsibility in a Circular Economy: Potential for EPR in the Textile Sector." Journal of Industrial Ecology 24.3 (2020): 426-436.
-
-- [Filippa K. "Circular Initiatives and Sustainability Efforts." Filippa K, 2022.](https://www.filippa-k.com/en/sustainability/circular-fashion)
-
-- [Woolmark. "The Woolmark Recycling Initiative." Woolmark, 2022.](https://www.woolmark.com/industry/sustainability/)
-
-- [Nudie Jeans. "Sustainability Report: Repair Shops and Reuse Programs." Nudie Jeans, 2022.](https://www.nudiejeans.com/pages/sustainability)
 
 
 
