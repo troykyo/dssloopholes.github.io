@@ -97,21 +97,21 @@ Valaclava's **digital-first fashion** model allows customers to purchase a **dig
 
 ### References
 
-- [**Baker, K. (2023). "How to build a product ecosystem buyers will want to be in." HubSpot Blog.**](https://blog.hubspot.com/marketing/build-product-ecosystem)
+- [Baker, K. (2023). "How to build a product ecosystem buyers will want to be in." HubSpot Blog.](https://blog.hubspot.com/marketing/build-product-ecosystem)
 
-- [**Armstrong, C.M., & Lang, C. (2013). "Sustainable product service systems: the new frontier in apparel retailing?" Research Journal of Textile and Apparel.**](https://www.emerald.com/insight/content/doi/10.1108/RJTA-17-03-2013-B004/full/html)
+- [Armstrong, C.M., & Lang, C. (2013). "Sustainable product service systems: the new frontier in apparel retailing?" Research Journal of Textile and Apparel.](https://www.emerald.com/insight/content/doi/10.1108/RJTA-17-03-2013-B004/full/html)
 
-- [**Yang, S., Song, Y., & Tong, S. (2017). "Sustainable retailing in the fashion industry: A systematic literature review." Sustainability.**](https://www.mdpi.com/2071-1050/9/7/1266)
+- [Yang, S., Song, Y., & Tong, S. (2017). "Sustainable retailing in the fashion industry: A systematic literature review." Sustainability.](https://www.mdpi.com/2071-1050/9/7/1266)
 
-- [**Botín-Sanabria, D.M., et al. (2022). "Digital twin technology challenges and applications: A comprehensive review." Remote Sensing.**](https://www.mdpi.com/2072-4292/14/18/4598)
+- [Botín-Sanabria, D.M., et al. (2022). "Digital twin technology challenges and applications: A comprehensive review." Remote Sensing.](https://www.mdpi.com/2072-4292/14/18/4598)
 
-- [**Wagner, R., & Kabalska, A. (2022). "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." Sustainable Development.**](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2301)
+- [Wagner, R., & Kabalska, A. (2022). "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." Sustainable Development.](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2301)
 
-- [**Alam, M.D., Kabir, G., & Mirmohammadsadeghi, M. (2023). "A digital twin framework development for apparel manufacturing industry." Decision Analytics Journal.**](https://www.sciencedirect.com/science/article/pii/S2667096823000286)
+- [Alam, M.D., Kabir, G., & Mirmohammadsadeghi, M. (2023). "A digital twin framework development for apparel manufacturing industry." Decision Analytics Journal.](https://www.sciencedirect.com/science/article/pii/S2667096823000286)
 
-- [**Gornostaeva, G. (2023). "The Development of Digital Commerce in the Fashion Industry: The Typology of Emerging Designers in London." Technological Forecasting and Social Change, 186, 122122.**](https://www.sciencedirect.com/science/article/pii/S0040162523002211)
+- [Gornostaeva, G. (2023). "The Development of Digital Commerce in the Fashion Industry: The Typology of Emerging Designers in London." Technological Forecasting and Social Change, 186, 122122.](https://www.sciencedirect.com/science/article/pii/S0040162523002211)
 
-- [**Kornit Digital (2021). Kornit Presto MAX for sustainable on-demand textile production. Innovation in Textiles.**](https://www.innovationintextiles.com/dyeing-finishing-printing/kornit-digital-introduces-presto-max/)
+- [Kornit Digital (2021). Kornit Presto MAX for sustainable on-demand textile production. Innovation in Textiles.](https://www.innovationintextiles.com/dyeing-finishing-printing/kornit-digital-introduces-presto-max/)
 (https://www.sciencedirect.com/science/article/pii/S0040162523002211)
 
 8. [**Kornit Digital (2021). Kornit Presto MAX for sustainable on-demand textile production. Innovation in Textiles.**](https://www.innovationintextiles.com/dyeing-finishing-printing/kornit-digital-introduces-presto-max/)
