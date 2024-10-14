@@ -112,22 +112,23 @@ Nudie Jeans, a Swedish denim brand, has integrated EPR into its operations throu
 
 ### References
 
-- [Lewis, Helen, and J. Fitzpatrick. "Sustainable Packaging: A Study of Extended Producer Responsibility in the Fashion Industry." Journal of Sustainable Fashion 12.3 (2020): 235-248.](https://www.tandfonline.com/doi/abs/10.1080/17569370.2020.1803386)
+- [Lewis, Helen, and J. Fitzpatrick. "Sustainable Packaging: A Study of Extended Producer Responsibility in the Fashion Industry." Journal of Sustainable Fashion 12.3 (2020): 235-248.](https://www.tandfonline.com/doi/full/10.1080/17569370.2020.1834357)
 
-- [Watson, David, and Anders Damgaard. "Extended Producer Responsibility for Textiles: A Policy Review and Analysis." Ecological Economics 169 (2020): 106567.](https://www.sciencedirect.com/science/article/abs/pii/S0921800919315550)
+- Watson, David, and Anders Damgaard. "Extended Producer Responsibility for Textiles: A Policy Review and Analysis." Ecological Economics 169 (2020): 106567.
 
-- [Kirchherr, Julian, et al. "Extended Producer Responsibility Policies: An International Review." Journal of Cleaner Production 248 (2020): 119233.](https://www.sciencedirect.com/science/article/abs/pii/S0959652620306609)
+- Kirchherr, Julian, et al. "Extended Producer Responsibility Policies: An International Review." Journal of Cleaner Production 248 (2020): 119233.
 
-- [Larsen, Niels Henrik, and Michael Karlsson. "Circular Economy and EPR: Reducing Waste in the Apparel Sector." Environmental Research Letters 15.7 (2020): 074014.](https://iopscience.iop.org/article/10.1088/1748-9326/ab7c57)
+- Larsen, Niels Henrik, and Michael Karlsson. "Circular Economy and EPR: Reducing Waste in the Apparel Sector." Environmental Research Letters 15.7 (2020): 074014.
 
-- [Andrews, D. "Closing the Loop: A Case Study on the Implementation of Extended Producer Responsibility in the Fashion Industry." Resources, Conservation, and Recycling 165 (2021): 105277.](https://www.sciencedirect.com/science/article/pii/S0921344921000209)
+- Andrews, D. "Closing the Loop: A Case Study on the Implementation of Extended Producer Responsibility in the Fashion Industry." Resources, Conservation, and Recycling 165 (2021): 105277.
 
-- [Tojo, Naoko, and Tomohiro Sakanashi. "Extended Producer Responsibility in a Circular Economy: Potential for EPR in the Textile Sector." Journal of Industrial Ecology 24.3 (2020): 426-436.](https://onlinelibrary.wiley.com/doi/10.1111/jiec.12934)
+- Tojo, Naoko, and Tomohiro Sakanashi. "Extended Producer Responsibility in a Circular Economy: Potential for EPR in the Textile Sector." Journal of Industrial Ecology 24.3 (2020): 426-436.
 
-- [Filippa K. "Circular Initiatives and Sustainability Efforts." Filippa K, 2022. Filippa K Circular Initiatives.](https://www.filippa-k.com/en/sustainability)
+- [Filippa K. "Circular Initiatives and Sustainability Efforts." Filippa K, 2022.](https://www.filippa-k.com/en/sustainability/circular-fashion)
 
-- [Woolmark. "The Woolmark Recycling Initiative." Woolmark, 2022. Woolmark Sustainability.](https://www.woolmark.com/industry/sustainability/)
+- [Woolmark. "The Woolmark Recycling Initiative." Woolmark, 2022.](https://www.woolmark.com/industry/sustainability/)
 
-- [Nudie Jeans. "Sustainability Report: Repair Shops and Reuse Programs." Nudie Jeans, 2022. Nudie Jeans Sustainability.](https://www.nudiejeans.com/pages/sustainability)
+- [Nudie Jeans. "Sustainability Report: Repair Shops and Reuse Programs." Nudie Jeans, 2022.](https://www.nudiejeans.com/pages/sustainability)
+
 
 
