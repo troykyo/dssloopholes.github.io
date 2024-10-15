@@ -97,14 +97,14 @@ Eileen Fisher Renew is a take-back program that allows customers to return worn 
 
 **The Upcycle Project**  
 The Upcycle Project is a brand that focuses on transforming waste materials into new, high-fashion pieces. By using discarded clothing and textiles, the brand reduces waste and creates a unique product offering that supports a circular revenue model. This approach helps the brand differentiate itself while promoting sustainable fashion practices.  
-[Learn more about The Upcycle Project](https://www.theupcycleproject.com)
+[Learn more about The Upcycle Project](https://upcycleproject.com)
 
 
 ### References
 
 - [Amed, Imran, and Achim Berg. (2021). The State of Fashion 2021 Report: Finding Promise in Perilous Times. The Business of Fashion.](https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion)
 - [Ostermann, C. M., Nascimento, L. S., & Zen, A. C. (2021). Business Model Innovation for Circular Economy in Fashion Industry: A Start-ups' Perspective. Frontiers in Sustainability, 2(766614).](https://www.frontiersin.org/articles/10.3389/frsus.2021.766614/full)
-- [Todeschini, B. V., et al. (2017). Innovative and Sustainable Business Models in the Fashion Industry: Entrepreneurial Drivers, Opportunities, and Challenges. Business Horizons, 60(6), 759-770.](https://www.sciencedirect.com/science/article/abs/pii/S0007681317300992)
-- [Fan, X. (2014). The Profit Model of the Fashion Industry. International Journal of Business and Social Science, 5(1), 113-117.](https://ijbssnet.com/journals/Vol_5_No_1_January_2014/12.pdf)
-- [Lee, Chung‐Shing. (2001). An Analytical Framework for Evaluating E‐Commerce Business Models and Strategies. Internet Research.](https://www.emerald.com/insight/content/doi/10.1108/10662240110396420/full/html)
+- Todeschini, B. V., et al. (2017). Innovative and Sustainable Business Models in the Fashion Industry: Entrepreneurial Drivers, Opportunities, and Challenges. Business Horizons, 60(6), 759-770.
+- Fan, X. (2014). The Profit Model of the Fashion Industry. International Journal of Business and Social Science, 5(1), 113-117.
+- Lee, Chung‐Shing. (2001). An Analytical Framework for Evaluating E‐Commerce Business Models and Strategies. Internet Research.
 
