@@ -76,3 +76,48 @@ How could you change your practice to ensure a positive impact on the society an
   }
 </style>
 <br>
+
+Focusing on social responsibility as a holistic topic, this unit delves into the ethical foundations and practices necessary to develop an equitable and sustainable fashion industry. It emphasizes the importance of professional integration and acknowledges the complex interactions between socio-economic factors affecting consumer behavior and industry standards. By developing an understanding of how ethical practices, inclusiveness, and social and economic awareness contribute to the sustainability of the industry, this unit aims to equip learners with the knowledge and skills they need to successfully recommend and implement responsible clothing practices. Through this lens, participants will explore the various dimensions of social equity through the need for all sectors to engage in fair working practices, environmental stewardship, and building positive social impact.
+
+
+### Case Studies
+
+**Veja**  
+Veja is a small French sneaker brand known for its strong commitment to social and environmental responsibility. The company sources organic cotton and wild rubber directly from cooperatives in Brazil, ensuring fair wages and ethical working conditions. They also avoid harmful chemicals in their production process and focus on transparency in their supply chain. Veja’s innovative business model has gained significant attention for combining fair trade principles with stylish design.  
+[Read more](https://www.veja-store.com/en_uk/)
+
+**Brother Vellies**  
+Brother Vellies is a luxury footwear and accessories brand that emphasizes handcrafted products made using traditional techniques by artisans in Africa. The company ensures that all its workers receive fair wages and operates with a strong commitment to preserving traditional craftsmanship. In addition to promoting economic development in underrepresented regions, Brother Vellies uses sustainable materials such as vegetable-tanned leathers and recycled plastic soles.  
+[Read more](https://brothervellies.com/)
+
+**People Tree**  
+People Tree is a pioneering UK-based brand in fair trade fashion. The company ensures that every step of its production chain adheres to ethical standards, from sourcing organic cotton to providing fair wages for its workers. People Tree works closely with artisans and small-scale farmers in developing countries, promoting community development and environmental sustainability through their fashion collections.  
+[Read more](https://www.peopletree.co.uk/)
+
+**Bite Studios**  
+Bite (By Independent Thinkers for Environmental Progress) Studios is a small fashion brand focused on luxury and sustainability. Bite uses only organic and recycled materials, and its designs are created with longevity in mind, encouraging consumers to buy less but better-quality products. The brand also advocates for fair working conditions across its supply chain.  
+[Read more](https://bitestudios.com/)
+
+### References
+
+- Alpert, C., Turkowski, M., & Tasneem, T. (2021). Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges.
+
+- Athreya, B. (2022). Can fashion ever be fair? *Journal of Fair Trade*, 3(2), 16-27.
+
+- Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental injustice of fast fashion. *Environmental Health*, 17(1), 1-4.
+
+- Cavusoglu, L., & Atik, D. (2023). Extending the diversity conversation: Fashion consumption experiences of underrepresented and underserved women. *Journal of Consumer Affairs*, 57(1), 387-417.
+
+- Charnley, F., et al. (2022). Can digital technologies increase consumer acceptance of circular business models? The case of second hand fashion. *Sustainability*, 14(8), 4589.
+
+- Colombi, C., & D’Itria, E. (2023). Fashion digital transformation: Innovating business models toward circular economy and sustainability. *Sustainability*, 15(6), 4942.
+
+- Gazzola, P., et al. (n.d.). Trends in the fashion industry: The perception of sustainability and circular economy—a gender/generation quantitative approach.
+
+- Kam, S., & Yoo, Y. (2022). Practice of sustainable fashion design considering customer emotions and personal tastes. *Frontiers in Psychology*, 13, 976471.
+
+- Smestad, L. (n.d.). The sweatshop, child labour, and exploitation issues in the garment industry. *Fashion Practice*, 1(2), 147-162.
+
+- Speed, A. G. (2021). Impact of fast fashion and international law on workers and the environment.
+
+
