@@ -104,9 +104,9 @@ FashTech is a fashion and technology company that utilizes blockchain and Web3 t
 
 ### References
 
-- [Person. (2021, October 1). _How the fashion industry uses Blockchain_. Blue Bite. ](https://www.bluebite.com/brand-strategy/how-the-fashion-industry-uses-blockchain)
+- [Person. (2021, October 1). _How the fashion industry uses Blockchain_. Blue Bite.](https://www.bluebite.com/brand-strategy/how-the-fashion-industry-uses-blockchain)
 
-- [Project Provenance Ltd. (2015, November 21). _Blockchain: The Solution for Supply Chain Transparency_. Provenance.] (https://www.provenance.org/news-insights/blockchain-the-solution-for-transparency-in-product-supply-chains)
+- [Project Provenance Ltd. (2015, November 21). _Blockchain: The Solution for Supply Chain Transparency_. Provenance.](https://www.provenance.org/news-insights/blockchain-the-solution-for-transparency-in-product-supply-chains)
 
 - [_How walmart Canada uses blockchain to solve supply-chain challenges_. Harvard Business Review. (2022, January 5). ](https://hbr.org/2022/01/how-walmart-canada-uses-blockchain-to-solve-supply-chain-challenges)
 
