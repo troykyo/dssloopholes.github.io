@@ -103,8 +103,11 @@ Moncler Genius leverages data insights, AI-driven trend analysis, and machine le
 - Plotkina, D., & Saurel, H. (2019). Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing. *Journal of Retailing and Consumer Services*, 51, 362-377.
 - Silvestri, B. (2020). The future of fashion: How the quest for digitisation and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19. *ZoneModa Journal*, 10(2), 61-73.
 - Reporter, G.S. (2023). ['You've got to be data-driven': the fashion forecasters using AI to predict the next trend](https://www.theguardian.com/technology/2023/oct/01/ai-artificial-intelligence-fashion-trend-forecasting-style). *The Guardian*, October 3.
-- Jiang, E. (2021, November 18). [Virtual reality: Growth engine for fashion?](https://www.businessoffashion.com/articles/technology/virtual-reality-growth-engine-for-fashion/). *The Business of Fashion*.
 - Stower, H. (2020, June 4). [Transparency and resilience in fashion](https://www.cleantech.com/transparency-and-resilience-in-fashion/). Cleantech Group.
 - [Can luxury use AI without losing its luster?](https://jingdaily.com/posts/generative-ai-luxury-brands-moncler-valentino-ai-generated-campaigns)
 - [From Kering to Zegna: How brands can use AI to supercharge luxury shopping](https://jingdaily.com/posts/luxury-brand-shopping-ai-kering-zegna)
+- [SURREAIISM: BETWEEN AI AND 1920S SURREALISMS](https://glitchmagazine.xyz/surreaiism-between-ai-and-1920s-surrealisms/)
+- [The Interline -the fashion technology magazine and social community for industry professional](https://www.theinterline.com/)
+- [Is Fashion Education Ready for AI? By Emma Feldner-Busztin,AUGUST 20, 2024](https://www.theinterline.com/2024/08/20/is-fashion-education-ready-for-ai/)
+- [Fashion Starts To Clean Up Its Energy Act, But Muddies The Waters Around AI](https://www.theinterline.com/2023/10/27/fashion-starts-to-clean-up-its-energy-act-but-muddies-the-waters-around-ai/)
 
