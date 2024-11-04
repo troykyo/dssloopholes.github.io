@@ -102,32 +102,28 @@ The implementation of digital product passports requires collaboration and stand
 
 ### Case studies
 
-#### Levi's and Levi's SecondHand
-
+#### Levi's and Levi's SecondHand**
 Levi's, a well-known denim brand, has launched a digital product passport initiative called Levi's SecondHand. This program aims to extend the lifecycle of Levi's products by enabling customers to buy and sell used garments through a dedicated online platform. The digital passport provides information about the product's history, including previous ownership, repairs, and customization, enhancing the transparency and value of pre-owned Levi's items.
 
 #### Eileen Fisher's Renew Takeback Program
-
 Eileen Fisher, a sustainable fashion brand, operates a Renew Takeback Program that encourages customers to return their worn garments. As part of the program, the company uses a digital product passport to track and document the lifecycle of each returned garment. This passport includes information about the materials, production processes, and subsequent reuse or recycling of the item, promoting a circular economy and reducing textile waste.
 
 #### Farfetch and Positively Farfetch
-
 Farfetch, a global luxury fashion platform, has launched a sustainability initiative called Positively Farfetch. As part of this program, the company is developing a digital product passport system to provide customers with information about the sustainability credentials of the products available on their platform. The passport will include details about materials, production methods, and certifications, allowing customers to make more sustainable choices.
 
 #### Reformation's RefScale
-
 Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables users to make informed decisions and supports Reformation's commitment to sustainability.
 
-##### References
+### References
 
-Impact of international, open standards on circularity in Europe_. GS1 in Europe. (2022, November 18). https://gs1.eu/news/impact-of-international-open-standards-on-circularity-in-europe/
+- [Impact of international, open standards on circularity in Europe_. GS1 in Europe. (2022, November 18). ](https://gs1.eu/news/impact-of-international-open-standards-on-circularity-in-europe/)
 
-Team, B., & Company, M. &. (2022a, March 2). _The year ahead: What product passports will do for brands_. The Business of Fashion. https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2022-bof-mckinsey-product-passport-technology-resale-luxury-counterfeit/
+- [Team, B., & Company, M. &. (2022a, March 2). _The year ahead: What product passports will do for brands_. The Business of Fashion. ](https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2022-bof-mckinsey-product-passport-technology-resale-luxury-counterfeit/)
 
-Candour.Digital. (n.d.). _Digital product passports, what are they, and why should we care?_. LinkedIn. https://www.linkedin.com/pulse/digital-product-passports-what-why-should-we-care-candourdigital/
+- [Candour.Digital. (n.d.). _Digital product passports, what are they, and why should we care?_. LinkedIn. ](https://www.linkedin.com/pulse/digital-product-passports-what-why-should-we-care-candourdigital/)
 
-This start-up is making digital passports... for clothes. here’s what that means for the fashion industry_. World Economic Forum. (n.d.). https://www.weforum.org/agenda/2021/05/tracking-fashion-clothes-sustainable/
+- [This start-up is making digital passports... for clothes. here’s what that means for the fashion industry_. World Economic Forum. (n.d.). ])https://www.weforum.org/agenda/2021/05/tracking-fashion-clothes-sustainable/)
 
-Remington, W. by C. (n.d.). _Circular.fashion backs push for digital product passports_. Ecotextile News. https://www.ecotextile.com/2022101729950/materials-production-news/circular-fashion-backs-push-for-digital-product-passports.html
+- [Remington, W. by C. (n.d.). _Circular.fashion backs push for digital product passports_. Ecotextile News. ](https://www.ecotextile.com/2022101729950/materials-production-news/circular-fashion-backs-push-for-digital-product-passports.html)
 
-Plociennik, Christiane, et al. "Requirements for a Digital Product Passport to Boost the Circular Economy." _INFORMATIK 2022_ (2022).
+- Plociennik, Christiane, et al. "Requirements for a Digital Product Passport to Boost the Circular Economy." _INFORMATIK 2022_ (2022).
