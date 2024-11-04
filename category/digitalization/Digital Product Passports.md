@@ -122,7 +122,7 @@ Reformation, a sustainable fashion brand, has implemented a tool called RefScale
 
 - [Candour.Digital. (n.d.). _Digital product passports, what are they, and why should we care?_. LinkedIn. ](https://www.linkedin.com/pulse/digital-product-passports-what-why-should-we-care-candourdigital/)
 
-- [This start-up is making digital passports... for clothes. here’s what that means for the fashion industry_. World Economic Forum. (n.d.). ])https://www.weforum.org/agenda/2021/05/tracking-fashion-clothes-sustainable/)
+- [This start-up is making digital passports... for clothes. here’s what that means for the fashion industry_. World Economic Forum. (n.d.). ](https://www.weforum.org/agenda/2021/05/tracking-fashion-clothes-sustainable/)
 
 - [Remington, W. by C. (n.d.). _Circular.fashion backs push for digital product passports_. Ecotextile News. ](https://www.ecotextile.com/2022101729950/materials-production-news/circular-fashion-backs-push-for-digital-product-passports.html)
 
