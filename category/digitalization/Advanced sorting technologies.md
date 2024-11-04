@@ -61,50 +61,45 @@ Moreover, these technologies contribute to the circular economy in the fashion i
 
 ### Case studies
 
-#### The Renewal Workshop
-
+**The Renewal Workshop** <br>
 The Renewal Workshop is a company that partners with fashion brands to implement a circular system for their garments. They utilize digitalization and data to track and manage the entire lifecycle of a garment. Through their proprietary software, they collect data on garment quality, repairs needed, and material composition. This data helps them determine the best course of action for each garment, whether it's repairing, upcycling, or recycling. By using data-driven insights, they enable fashion brands to extend the lifespan of their products and reduce waste. [More about The Renewal Workshop](https://renewalworkshop.com/)
 
-#### Reflaunt
-
+**Reflaunt**<br>
 Reflaunt is a technology company that works with luxury fashion brands to facilitate the resale of their products. They integrate their digital solution into the brand's e-commerce platform, allowing customers to easily resell their pre-owned items. Through the use of data, Reflaunt provides a transparent and trusted resale experience by verifying the authenticity and quality of the items. This data-driven approach promotes circularity by encouraging the reuse and circulation of luxury fashion products. [More about Reflaunt](https://www.reflaunt.com/)
 
-#### Reverse Resources
-
+**Reverse Resources**<br>
 Reverse Resources is a company that uses advanced sorting technologies to enable digital recycling in the fashion industry. They have developed a digital platform that utilizes machine vision and data analytics to identify and sort textile waste materials. By connecting textile waste generators with recycling facilities, they facilitate the efficient recycling and repurposing of discarded textiles. [More about Reverse Resources](https://reverseresources.net/)
 
-#### I:CO (I Collect)
+**Digital Upcycling Project by Tilda** <br>
+The Digital Upcycling Project by Tilda leverages advanced sorting technology to transform post-consumer textiles into new, valuable digital assets. By employing AI and digital tools, Tilda's initiative identifies and categorizes materials, enabling sustainable fashion innovations and reducing waste through efficient digital upcycling processes. This project exemplifies how advanced sorting can support a circular economy in fashion by maximizing the value of discarded materials. [Read more](https://www.dupbytilda.com/)
 
-I:CO is a global recycling solution provider for the fashion industry. They have implemented advanced sorting technologies in their sorting facilities to process used garments and footwear. These technologies enable the identification and separation of different materials, such as cotton, polyester, and nylon, allowing for efficient recycling and upcycling of the collected items. [More about I:CO (I Collect)](https://www.ico-spirit.com/)
 
 ##### References
 
-**Charnley, Fiona, et al. "Can Digital Technologies Increase Consumer Acceptance of Circular Business Models? The Case of Second Hand Fashion."**  
-_Sustainability_ 14.8 (2022): 4589.  
+Charnley, Fiona, et al. "Can Digital Technologies Increase Consumer Acceptance of Circular Business Models? The Case of Second Hand Fashion."_Sustainability_ 14.8 (2022): 4589.  
 This paper explores the role of digital technologies in enhancing consumer acceptance of circular business models, particularly focusing on the second-hand fashion market.  
 [https://doi.org/10.3390/su14084589](https://doi.org/10.3390/su14084589)
 
-**Colombi, Chiara, and Erminia D’Itria. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability."**  
-_Sustainability_ 15.6 (2023): 4942.  
+Colombi, Chiara, and Erminia D’Itria. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability."_Sustainability_ 15.6 (2023): 4942.  
 This study examines how digital transformation in the fashion industry can innovate business models to support circular economy practices and enhance sustainability.  
 [https://doi.org/10.3390/su15064942](https://doi.org/10.3390/su15064942)
 
-**Alpert, Cirrus, Michaela Turkowski, and Tahiya Tasneem. "Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges."** (2021).  
+Alpert, Cirrus, Michaela Turkowski, and Tahiya Tasneem. "Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges." (2021).  
 This case study addresses the scalability challenges in automated textile sorting and discusses how dynamic capabilities can provide effective solutions.  
-[Link not provided, please insert manually if available]
+[[Link not provided, please insert manually if available]](http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=9908)
 
-**Bonifazi, Giuseppe, et al. "End-of-Life Textile Recognition in a Circular Economy Perspective: A Methodological Approach Based on Near Infrared Spectroscopy."**  
-_Sustainability_ 14.16 (2022): 10249.  
+Bonifazi, Giuseppe, et al. "End-of-Life Textile Recognition in a Circular Economy Perspective: A Methodological Approach Based on Near Infrared Spectroscopy."_Sustainability_ 14.16 (2022): 10249.  
 The paper presents a methodological approach using Near Infrared Spectroscopy to recognize end-of-life textiles, supporting circular economy initiatives.  
 [https://doi.org/10.3390/su141610249](https://doi.org/10.3390/su141610249)
 
-**Humpston, G., et al. "Technologies for sorting end of life textiles."**  
-_A technical and economic evaluation of the options applicable to clothing and household textiles, WRAP, UK_ (2014).  
+Humpston, G., et al. "Technologies for sorting end of life textiles."A technical and economic evaluation of the options applicable to clothing and household textiles, WRAP, UK_ (2014).  
 This evaluation provides a comprehensive overview of technologies available for sorting end-of-life textiles, assessing both technical and economic aspects.  
-[Link not provided, please insert manually if available]
+[https://www.researchgate.net/publication/293487871_Technologies_for_sorting_end_of_life_textiles]
 
-**Nørup, Nynne, et al. "Development and testing of a sorting and quality assessment method for textile waste."**  
-_Waste Management_ 79 (2018): 8-21.  
+Nørup, Nynne, et al. "Development and testing of a sorting and quality assessment method for textile waste."_Waste Management_ 79 (2018): 8-21.  
 This research focuses on developing and testing a new method for sorting and assessing the quality of textile waste to improve recycling efficiency.  
 [https://doi.org/10.1016/j.wasman.2018.07.029](https://doi.org/10.1016/j.wasman.2018.07.029)
 
+- [https://www.theinterline.com/?s=Advanced+Sorting+Technology](https://www.theinterline.com/?s=advanced+sorting+technology)
+  
+- [TextileGenesis™ is a pioneering traceability platform custom built for the fashion & textile ecosystem.](https://fashionforgood.com/our_news/meet-the-innovator-textilegenesis/)
