@@ -76,27 +76,27 @@ The Digital Upcycling Project by Tilda leverages advanced sorting technology to 
 
 ### References
 
--Charnley, Fiona, et al. "Can Digital Technologies Increase Consumer Acceptance of Circular Business Models? The Case of Second Hand Fashion."_Sustainability_ 14.8 (2022): 4589.  
+- Charnley, Fiona, et al. "Can Digital Technologies Increase Consumer Acceptance of Circular Business Models? The Case of Second Hand Fashion."_Sustainability_ 14.8 (2022): 4589.  
 This paper explores the role of digital technologies in enhancing consumer acceptance of circular business models, particularly focusing on the second-hand fashion market.  
 [https://doi.org/10.3390/su14084589](https://doi.org/10.3390/su14084589)
 
--Colombi, Chiara, and Erminia D’Itria. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability."_Sustainability_ 15.6 (2023): 4942.  
+- Colombi, Chiara, and Erminia D’Itria. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability."_Sustainability_ 15.6 (2023): 4942.  
 This study examines how digital transformation in the fashion industry can innovate business models to support circular economy practices and enhance sustainability.  
 [https://doi.org/10.3390/su15064942](https://doi.org/10.3390/su15064942)
 
--Alpert, Cirrus, Michaela Turkowski, and Tahiya Tasneem. "Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges." (2021).  
+- Alpert, Cirrus, Michaela Turkowski, and Tahiya Tasneem. "Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges." (2021).  
 This case study addresses the scalability challenges in automated textile sorting and discusses how dynamic capabilities can provide effective solutions.  
 [http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=9908]
 
--Bonifazi, Giuseppe, et al. "End-of-Life Textile Recognition in a Circular Economy Perspective: A Methodological Approach Based on Near Infrared Spectroscopy."_Sustainability_ 14.16 (2022): 10249.  
+- Bonifazi, Giuseppe, et al. "End-of-Life Textile Recognition in a Circular Economy Perspective: A Methodological Approach Based on Near Infrared Spectroscopy."_Sustainability_ 14.16 (2022): 10249.  
 The paper presents a methodological approach using Near Infrared Spectroscopy to recognize end-of-life textiles, supporting circular economy initiatives.  
 [https://doi.org/10.3390/su141610249](https://doi.org/10.3390/su141610249)
 
--Humpston, G., et al. "Technologies for sorting end of life textiles."A technical and economic evaluation of the options applicable to clothing and household textiles, WRAP, UK_ (2014).  
+- Humpston, G., et al. "Technologies for sorting end of life textiles."A technical and economic evaluation of the options applicable to clothing and household textiles, WRAP, UK_ (2014).  
 This evaluation provides a comprehensive overview of technologies available for sorting end-of-life textiles, assessing both technical and economic aspects.  
 [https://www.researchgate.net/publication/293487871_Technologies_for_sorting_end_of_life_textiles]
 
--Nørup, Nynne, et al. "Development and testing of a sorting and quality assessment method for textile waste."_Waste Management_ 79 (2018): 8-21.  
+- Nørup, Nynne, et al. "Development and testing of a sorting and quality assessment method for textile waste."_Waste Management_ 79 (2018): 8-21.  
 This research focuses on developing and testing a new method for sorting and assessing the quality of textile waste to improve recycling efficiency.  
 [https://doi.org/10.1016/j.wasman.2018.07.029](https://doi.org/10.1016/j.wasman.2018.07.029)
 
