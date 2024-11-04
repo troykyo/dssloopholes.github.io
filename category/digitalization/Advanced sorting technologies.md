@@ -86,7 +86,7 @@ This study examines how digital transformation in the fashion industry can innov
 
 - Alpert, Cirrus, Michaela Turkowski, and Tahiya Tasneem. "Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges." (2021).  
 This case study addresses the scalability challenges in automated textile sorting and discusses how dynamic capabilities can provide effective solutions.  
-[http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=9908]
+[http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=9908](http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=-6318)
 
 - Bonifazi, Giuseppe, et al. "End-of-Life Textile Recognition in a Circular Economy Perspective: A Methodological Approach Based on Near Infrared Spectroscopy."_Sustainability_ 14.16 (2022): 10249.  
 The paper presents a methodological approach using Near Infrared Spectroscopy to recognize end-of-life textiles, supporting circular economy initiatives.  
