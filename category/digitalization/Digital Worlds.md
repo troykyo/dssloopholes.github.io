@@ -110,12 +110,12 @@ Farfetch is an online luxury fashion retailer that has integrated digital worlds
 
 The Fabricant is a digital fashion house that creates virtual fashion garments and experiences. They specialize in creating 3D digital fashion pieces that exist only in the digital realm. The Fabricant collaborates with various fashion brands and designers to create virtual collections and immersive digital experiences. [More about The Fabricant](https://www.thefabricant.com/)
 
-##### References
+### References
 
-Specialist, A. M. B. (2023, January 4). _Metaverse and fashion: A relationship for Success_. Evergine. https://evergine.com/metaverse-fashion/
+- [Specialist, A. M. B. (2023, January 4). _Metaverse and fashion: A relationship for Success_. Evergine. ](https://evergine.com/metaverse-fashion/)
 
-Akhtar, Waleed Hassan, et al. "A New Perspective on the Textile and Apparel Industry in the Digital Transformation Era." _Textiles_ 2.4 (2022): 633-656.
+- Akhtar, Waleed Hassan, et al. "A New Perspective on the Textile and Apparel Industry in the Digital Transformation Era." _Textiles_ 2.4 (2022): 633-656.
 
-Sayem, Abu Sadat Muhammad. "Digital fashion innovations for the real world and metaverse." _International Journal of Fashion Design, Technology and Education_ 15.2 (2022): 139-141.
+- Sayem, Abu Sadat Muhammad. "Digital fashion innovations for the real world and metaverse." _International Journal of Fashion Design, Technology and Education_ 15.2 (2022): 139-141.
 
-Gornostaeva, Galina. "The development of digital commerce in the fashion industry: The typology of emerging designers in London." _Technological Forecasting and Social Change_ 186 (2023): 122122.
+- Gornostaeva, Galina. "The development of digital commerce in the fashion industry: The typology of emerging designers in London." _Technological Forecasting and Social Change_ 186 (2023): 122122.
