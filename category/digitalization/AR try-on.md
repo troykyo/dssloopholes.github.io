@@ -85,35 +85,36 @@ AR Try-on generates valuable data on customer preferences, popular styles, and p
 
 ### Case studies
 
-#### Gucci's AR shoe try-on
-
+**Gucci's AR shoe try-on**
 Gucci introduced an AR Try-on feature in their app that allows users to virtually try on their collection of sneakers. Users can see high-resolution 3D models of the shoes superimposed on their feet using their smartphone camera. This immersive experience enables customers to visualize how the sneakers would look on their feet before making a purchase.
 
-#### Sephora's virtual makeup try-on
-
+**Sephora's virtual makeup try-on**
 Sephora, a leading cosmetics retailer, launched an AR Try-on feature in their app that enables users to try on different makeup products virtually. Customers can experiment with various shades of lipstick, eyeshadow, and other cosmetics, seeing the results on their own face through the app's augmented reality capabilities.
 
-#### Warby Parker's virtual eyewear try-on
-
+**Warby Parker's virtual eyewear try-on**
 Warby Parker, an eyewear retailer, implemented an AR Try-on feature on their website and mobile app. Customers can see how different frames will look on their face by using the device's camera. This technology helps users choose the most flattering frames, increasing customer satisfaction and reducing the need for in-person try-ons.
 
-#### ASOS virtual catwalk
-
+**ASOS virtual catwalk**
 ASOS, an online fashion retailer, introduced a Virtual Catwalk feature that allows users to view models wearing clothes in various sizes and shapes. By using AR Try-on, customers can see how the garments move and fit on different body types, providing a more realistic representation of the product before purchasing.
 
-#### Adidas' AR shoe try-on
-
+**Adidas' AR shoe try-on**
 Adidas incorporated AR Try-on technology in their app to enhance the shoe shopping experience. Customers can select a pair of shoes and see a virtual representation of the sneakers on their feet in real-time. This enables users to gauge the style and fit of the shoes without physically trying them on, improving the online shopping experience.
 
-##### References
-Boardman, Rosy, Claudia E. Henninger, and Ailing Zhu. "Augmented reality and virtual reality: new drivers for fashion retail?." _Technology-Driven Sustainability: Innovation in the Fashion Supply Chain_ (2020): 155-172.
+**Sarah Mayer / Sa.m.co**: Sarah Mayer is a fashion designer and artist creating digital and semi-digital fashion pieces that blend the physical and virtual worlds. Through her brand Sa.m.co, Mayer experiments with augmented reality (AR) fashion and digital-only designs that showcase innovative approaches to fashion and art. [Read more](https://www.coeval-magazine.com/coeval/sarah-mayer) | [Linktree](https://linktr.ee/sa.m.co)
 
-Baytar, Fatma, Telin Chung, and Eonyou Shin. "Evaluating garments in augmented reality when shopping online." _Journal of Fashion Marketing and Management: An International Journal_ 24.4 (2020): 667-683.
+**DRESSX**: As a global leader in digital fashion, DRESSX offers AR try-on experiences that allow users to try virtual outfits through their phone cameras, join virtual meetings in AR clothing, and dress avatars in virtual environments like Snap, Roblox, and Meta. With over 30 million assets distributed, DRESSX empowers users and brands to engage with digital fashion seamlessly. [Read more](https://dressx.com)
 
-Jayamini, Chamodi, et al. "The use of augmented reality to deliver enhanced user experiences in fashion industry." _Lecture Notes in Computer Science_ 12936 (2021).
+**Glitch Magazine**: Glitch Magazine showcases the latest trends in digital fashion, including how AR try-ons are transforming user engagement across virtual spaces. Their features on platforms like DRESSX highlight the potential for fashion in virtual environments, helping brands reach new audiences through digital assets and AR experiences. [Read more](https://glitchmagazine.xyz)
 
-Zak, Marlene. _Augmented Reality try-on adoption in the Online Clothing Industry: understanding key challenges and critical success Factors_. MS thesis. University of Twente, 2020.
 
-Plotkina, Daria, and Hélène Saurel. "Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing." _Journal of Retailing and Consumer Services_ 51 (2019): 362-377.
+### References
+- Boardman, Rosy, Claudia E. Henninger, and Ailing Zhu. "Augmented reality and virtual reality: new drivers for fashion retail?." _Technology-Driven Sustainability: Innovation in the Fashion Supply Chain_ (2020): 155-172.
 
+- Baytar, Fatma, Telin Chung, and Eonyou Shin. "Evaluating garments in augmented reality when shopping online." _Journal of Fashion Marketing and Management: An International Journal_ 24.4 (2020): 667-683.
+
+- Jayamini, Chamodi, et al. "The use of augmented reality to deliver enhanced user experiences in fashion industry." _Lecture Notes in Computer Science_ 12936 (2021).
+
+- Zak, Marlene. _Augmented Reality try-on adoption in the Online Clothing Industry: understanding key challenges and critical success Factors_. MS thesis. University of Twente, 2020.
+
+- Plotkina, Daria, and Hélène Saurel. "Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing." _Journal of Retailing and Consumer Services_ 51 (2019): 362-377.
 
