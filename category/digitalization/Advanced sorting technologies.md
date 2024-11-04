@@ -74,7 +74,7 @@ Reverse Resources is a company that uses advanced sorting technologies to enable
 The Digital Upcycling Project by Tilda leverages advanced sorting technology to transform post-consumer textiles into new, valuable digital assets. By employing AI and digital tools, Tilda's initiative identifies and categorizes materials, enabling sustainable fashion innovations and reducing waste through efficient digital upcycling processes. This project exemplifies how advanced sorting can support a circular economy in fashion by maximizing the value of discarded materials. [Read more](https://www.dupbytilda.com/)
 
 
-##### References
+#### References
 
 Charnley, Fiona, et al. "Can Digital Technologies Increase Consumer Acceptance of Circular Business Models? The Case of Second Hand Fashion."_Sustainability_ 14.8 (2022): 4589.  
 This paper explores the role of digital technologies in enhancing consumer acceptance of circular business models, particularly focusing on the second-hand fashion market.  
