@@ -86,7 +86,7 @@ AR Try-on generates valuable data on customer preferences, popular styles, and p
 ### Case studies
 
 **Sarah Mayer / Sa.m.co** <br>
-Sarah Mayer is a fashion designer and artist creating digital and semi-digital fashion pieces that blend the physical and virtual worlds. Through her brand Sa.m.co, Mayer experiments with augmented reality (AR) fashion and digital-only designs that showcase innovative approaches to fashion and art. [Read more](https://www.coeval-magazine.com/coeval/sarah-mayer) | [Linktree](https://linktr.ee/sa.m.co)
+Sarah Mayer is a fashion designer and artist creating digital and semi-digital fashion pieces that blend the physical and virtual worlds. Through her brand Sa.m.co, Mayer experiments with augmented reality (AR) fashion and digital-only designs that showcase innovative approaches to fashion and art. [Read more](https://www.coeval-magazine.com/coeval/sarah-mayer), [Linktree](https://linktr.ee/sa.m.co)
 
 **DRESSX** <br>
 As a global leader in digital fashion, DRESSX offers AR try-on experiences that allow users to try virtual outfits through their phone cameras, join virtual meetings in AR clothing, and dress avatars in virtual environments like Snap, Roblox, and Meta. With over 30 million assets distributed, DRESSX empowers users and brands to engage with digital fashion seamlessly. [Read more](https://dressx.com)
