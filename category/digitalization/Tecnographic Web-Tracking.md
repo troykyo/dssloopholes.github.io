@@ -132,15 +132,13 @@ DiscoverOrg, now part of ZoomInfo, is a sales and marketing intelligence platfor
 #### Clearbit
 
 Clearbit is a data enrichment platform that offers technographic data as part of its solution. Sales teams can leverage Clearbit to gain insights into prospects' technology stacks, empowering them to tailor their messaging and engage with potential customers more effectively. By integrating technographic insights, Clearbit helps businesses enhance their lead generation and conversion strategies. [More about Clearbit](https://clearbit.com/)
-##### References
+
+### References
 
 
-Gilbert, J. (2020, March 19). _Council post: How B2B and B2C businesses can boost sales with smart intent marketing_. Forbes. https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/19/how-b2b-and-b2c-businesses-can-boost-sales-with-smart-intent-marketing/
+- Gilbert, J. (2020, March 19). _Council post: How B2B and B2C businesses can boost sales with smart intent marketing_. Forbes. https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/19/how-b2b-and-b2c-businesses-can-boost-sales-with-smart-intent-marketing/
 
-Van Heerde, Harald J., Isaac M. Dinner, and Scott A. Neslin. "Engaging the unengaged customer: The value of a retailer mobile app." _International Journal of Research in Marketing_ 36.3 (2019): 420-438.
+- Van Heerde, Harald J., Isaac M. Dinner, and Scott A. Neslin. "Engaging the unengaged customer: The value of a retailer mobile app." _International Journal of Research in Marketing_ 36.3 (2019): 420-438.
 
-Berg, Martin. "Digital Technography: A Methodology for Interrogating Emerging Digital Technologies and Their Futures." _Qualitative Inquiry_ 28.7 (2022): 827-836.
-
-
-
+- Berg, Martin. "Digital Technography: A Methodology for Interrogating Emerging Digital Technologies and Their Futures." _Qualitative Inquiry_ 28.7 (2022): 827-836.
 
