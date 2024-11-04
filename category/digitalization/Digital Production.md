@@ -83,38 +83,51 @@ Together, Digital manufacturing and Digital Twinning are revolutionizing the fas
 ### Case Studies 
 
 **Kornit Digital**  <br>
-Kornit Digital leads in sustainable textile printing with their **on-demand production** approach. They integrate **3D printing and digital technologies** through platforms like KornitX, reducing water usage and minimizing waste by producing garments only after orders are placed.  
-[Read more here](https://3dprint.com/290237/kornit-showcases-the-future-of-sustainable-digital-fashion-3d-and-otherwise/)
+Kornit Digital leads in sustainable textile printing with their **on-demand production** approach. They integrate **3D printing and digital technologies** through platforms like KornitX, reducing water usage and minimizing waste by producing garments only after orders are placed. [Read more here](https://3dprint.com/290237/kornit-showcases-the-future-of-sustainable-digital-fashion-3d-and-otherwise/)
  
- <br>
-**TextileGenesis**   <br>
-TextileGenesis leverages **blockchain-powered digital twins** to trace sustainable fibers like **TENCEL™**. Their platform ensures full transparency across the supply chain, helping brands achieve sustainability goals by reducing waste and optimizing material use.  
-[Read more here](https://www.fashionunited.uk/news/business/how-blockchain-is-paving-the-way-for-greater-transparency-sustainability-within-the-fashion-industry/2020112751864)
 
-<br>
+**TextileGenesis**   <br>
+TextileGenesis leverages **blockchain-powered digital twins** to trace sustainable fibers like **TENCEL™**. Their platform ensures full transparency across the supply chain, helping brands achieve sustainability goals by reducing waste and optimizing material use. [Read more here](https://www.fashionunited.uk/news/business/how-blockchain-is-paving-the-way-for-greater-transparency-sustainability-within-the-fashion-industry/2020112751864)
+
 **Valaclava**   <br>
-Valaclava's **digital-first fashion** model allows customers to purchase a **digital twin** of a garment, customize it, and produce the physical item only after confirming the digital version. This reduces overproduction and integrates **NFTs** for product traceability.  
-[Read more here](https://juststyle.nridigital.com/issue15/digital_twins_in_fashion)
+Valaclava's **digital-first fashion** model allows customers to purchase a **digital twin** of a garment, customize it, and produce the physical item only after confirming the digital version. This reduces overproduction and integrates **NFTs** for product traceability. [Read more here](https://juststyle.nridigital.com/issue15/digital_twins_in_fashion)
  <br>
+
+ **PlatformE** 
+PlatformE is a pioneering force in the fashion industry, revolutionizing digital production by enabling brands to design, produce, and deliver fashion more efficiently. Utilizing advanced tools and technology, PlatformE helps brands reduce waste and optimize production, reshaping the fashion supply chain for greater sustainability. [Read more](https://www.platforme.com).
+
+**Augmented Weaving** 
+Initiated by Anita Michaluszko and Flavia Bon in 2021, Augmented Weaving explores innovative digital approaches to jacquard weaving. By integrating physical, digital, and virtual tools, the project pushes the boundaries of textile design. Showcased at Dutch Design Week 2022, it also won the Swiss Design Awards 2024. [Read more](https://www.flaviabon.com/augmented-weaving-on-the-fraying-edge).
+
+**Holly McQuillan** 
+Holly McQuillan's work in zero waste fashion design explores sustainable production through transition design and digital technology. Her research challenges conventional design and production processes, advocating for systemic shifts towards sustainable fashion practices. [Read more](https://hollymcquillan.com/).
+
 
 ### References
 
-- [Baker, K. (2023). "How to build a product ecosystem buyers will want to be in." HubSpot Blog.](https://blog.hubspot.com/marketing/build-product-ecosystem)
+- Baker, K. (2023). "How to build a product ecosystem buyers will want to be in." HubSpot Blog.
 
-- [Armstrong, C.M., & Lang, C. (2013). "Sustainable product service systems: the new frontier in apparel retailing?" Research Journal of Textile and Apparel.](https://www.emerald.com/insight/content/doi/10.1108/RJTA-17-03-2013-B004/full/html)
+- Armstrong, C.M., & Lang, C. (2013). "Sustainable product service systems: the new frontier in apparel retailing?" Research Journal of Textile and Apparel.
 
 - [Yang, S., Song, Y., & Tong, S. (2017). "Sustainable retailing in the fashion industry: A systematic literature review." Sustainability.](https://www.mdpi.com/2071-1050/9/7/1266)
 
-- [Botín-Sanabria, D.M., et al. (2022). "Digital twin technology challenges and applications: A comprehensive review." Remote Sensing.](https://www.mdpi.com/2072-4292/14/18/4598)
+- Botín-Sanabria, D.M., et al. (2022). "Digital twin technology challenges and applications: A comprehensive review." Remote Sensing.
 
-- [Wagner, R., & Kabalska, A. (2022). "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." Sustainable Development.](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.2301)
+- Wagner, R., & Kabalska, A. (2022). "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." Sustainable Development.
 
-- [Alam, M.D., Kabir, G., & Mirmohammadsadeghi, M. (2023). "A digital twin framework development for apparel manufacturing industry." Decision Analytics Journal.](https://www.sciencedirect.com/science/article/pii/S2667096823000286)
+- Alam, M.D., Kabir, G., & Mirmohammadsadeghi, M. (2023). "A digital twin framework development for apparel manufacturing industry." Decision Analytics Journal.
 
-- [Gornostaeva, G. (2023). "The Development of Digital Commerce in the Fashion Industry: The Typology of Emerging Designers in London." Technological Forecasting and Social Change, 186, 122122.](https://www.sciencedirect.com/science/article/pii/S0040162523002211)
+- Gornostaeva, G. (2023). "The Development of Digital Commerce in the Fashion Industry: The Typology of Emerging Designers in London." Technological Forecasting and Social Change, 186, 122122.
 
 - [Kornit Digital (2021). Kornit Presto MAX for sustainable on-demand textile production. Innovation in Textiles.](https://www.innovationintextiles.com/dyeing-finishing-printing/kornit-digital-introduces-presto-max/)
-(https://www.sciencedirect.com/science/article/pii/S0040162523002211)
 
-8. [**Kornit Digital (2021). Kornit Presto MAX for sustainable on-demand textile production. Innovation in Textiles.**](https://www.innovationintextiles.com/dyeing-finishing-printing/kornit-digital-introduces-presto-max/)
+- [Fashion Made Better](https://www.kornit.com/)
+  
+- [Skeeva, Art-director and 3d-artist](https://theskeeva.com/)
+
+- [Chan, H. H. Y., Henninger, C., Boardman, R., & Blazquez Cano, M. (2023). The adoption of digital fashion as an end product: A systematic literature review of research foci and future research agenda. Journal of Global Fashion Marketing, 15(1), pp. 155–180. doi: 10.1080/20932685.2023.2251033](https://www.tandfonline.com/doi/full/10.1080/20932685.2023.2251033#abstract)
+  
+- [From Digital Twins to Data Democratisation: The Disruptive Technologies Reshaping The Fashion Value-Chain](https://www.theinterline.com/2024/02/22/from-digital-twins-to-data-democratisation-the-disruptive-technologies-reshaping-the-fashion-value-chain/)
+  
+- [The Renewed Business Case For Digital Fabrics](https://www.theinterline.com/2024/09/18/the-renewed-business-case-for-digital-fabrics/)
 
