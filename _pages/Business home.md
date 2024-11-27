@@ -1,5 +1,5 @@
 # BUSINESS AND FINANCE
-
+HERE a test from ANASTASIA !
 Business and finance encompass the strategic and financial dimensions of the industry, crucial for understanding market dynamics, consumer behavior, supply chain logistics, branding, and profitability. For fashion brands, mastering these elements is essential to navigate the competitive landscape, respond innovatively to evolving consumer demands, and fine-tune operations for sustainable growth and marketplace success.
 
 ## Business and finance strategies
