@@ -85,10 +85,14 @@ Data science, artificial intelligence (AI), and machine learning (ML) increasing
 
 **Moncler Genius** <br>
 Moncler Genius leverages data insights, AI-driven trend analysis, and machine learning to identify and anticipate customer preferences, informing their annual collaborations with diverse designers. This approach allows Moncler to maintain relevance and exclusivity through data-backed capsule collections, aligning luxury heritage with evolving consumer tastes. [More details](https://www.moncler.com/en-it/genius.html).
-
+<br>
 
 **TextileGenesis** <br>
 **TextileGenesis** uses **blockchain technology** to track sustainable materials like **TENCEL™** and **LENZING™ ECOVERO™**, ensuring each step of the production process is transparent. This system addresses consumer demand for traceable, ethically sourced products and boosts transparency in supply chains. [Find out more about TextileGenesis](https://www.fashionunited.uk).
+<br>
+
+**Troy Awsome New Project** <br>
+Troy is working with Duncan van Norden to make a circular shoe Project  [Find out more about Duncans Shoe Project](https://www.troykyo.net).
 <br>
 
 **Heuritech**<br>
