@@ -92,7 +92,7 @@ In summary, digital worlds encompass virtual environments, online platforms, and
 
 #### Burberry
 
-Burberry is a renowned luxury fashion brand that has embraced digital innovation. In 2010, Burberry launched its "Retail Theater" concept, which combined physical and digital elements. The brand incorporated live streaming of runway shows, interactive digital displays in stores, and real-time social media integration to create an immersive and connected experience for customers. [More about Burberry's Digital Innovation](https://www.burberryplc.com/en/news/2010/burberry-launches-retail-theatre-experience.html)
+Burberry is a renowned luxury fashion brand that has embraced digital innovation. In 2010, Burberry launched its "Retail Theater" concept, which combined physical and digital elements. The brand incorporated live streaming of runway shows, interactive digital displays in stores, and real-time social media integration to create an immersive and connected experience for customers. [More about Burberry's Digital Innovation](https://www.researchgate.net/figure/Burberrys-Runway-to-Reality-fashion-immediacy-scheme-Burberry-2016-accessed-from_fig5_319555720)
 
 #### Gucci
 
@@ -100,11 +100,11 @@ Gucci, a leading luxury fashion brand, has embraced augmented reality (AR) techn
 
 #### Zara
 
-Zara, a popular fast-fashion brand, has leveraged digital worlds through its mobile application. The Zara app offers features like augmented reality (AR) shopping, where users can point their phone's camera at designated spots in stores or displays to view additional product information, styling suggestions, and even models wearing the clothes virtually. [More about Zara's AR Shopping](https://www.zara.com/ww/en/zara-ar-p129440.html)
+Zara, a popular fast-fashion brand, has leveraged digital worlds through its mobile application. The Zara app offers features like augmented reality (AR) shopping, where users can point their phone's camera at designated spots in stores or displays to view additional product information, styling suggestions, and even models wearing the clothes virtually. [More about Zara's AR Shopping](https://futurestores.wbresearch.com/blog/zara-augmented-reality-app-virtual-model-strategy)
 
 #### Farfetch
 
-Farfetch is an online luxury fashion retailer that has integrated digital worlds into its platform. The company offers virtual try-on features, allowing customers to virtually try on selected items using augmented reality (AR) technology. Customers can see how the clothes would fit and look on themselves before making a purchase decision. [More about Farfetch Virtual Try-On](https://www.farfetch.com/stories/en/virtual-try-on)
+Farfetch is an online luxury fashion retailer that has integrated digital worlds into its platform. The company offers virtual try-on features, allowing customers to virtually try on selected items using augmented reality (AR) technology. Customers can see how the clothes would fit and look on themselves before making a purchase decision. [More about Farfetch Virtual Try-On](https://jingdaily.com/posts/farfetch-s-ar-company-wants-you-to-try-on-your-bags-virtually)
 
 #### The Fabricant
 
