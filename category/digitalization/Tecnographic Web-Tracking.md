@@ -81,17 +81,18 @@ Furthermore, technographic web-tracking can provide insights into users' engagem
 
 ### Targeted marketing
 
-#### Pttns.ai
+#### Pttrns.ai
 
-Pttns.ai uses AI to create detailed user profiles that connect goods and services to the user. By analyzing various data points, Pttns.ai identifies user preferences and behaviors, enabling businesses to deliver highly personalized marketing campaigns. This AI-driven approach ensures that users receive relevant product recommendations, enhancing their overall shopping experience. [More about Pttns.ai](https://www.pttns.ai/)
+Pttrns.ai uses AI to create detailed user profiles that connect goods and services to the user. By analyzing various data points, Pttrns.ai identifies user preferences and behaviors, enabling businesses to deliver highly personalized marketing campaigns. This AI-driven approach ensures that users receive relevant product recommendations, enhancing their overall shopping experience. [More about Pttrns.ai](https://www.pttrns.ai/)
 
 #### Salesforce
 
-Salesforce, a leading customer relationship management (CRM) platform, offers a technographic data solution called Data.com. This solution provides detailed insights into companies' technology stacks, including the software and hardware they use. By leveraging this information, businesses can personalize their marketing efforts, targeting the right audience with relevant messages. Salesforce's technographic data helps marketers understand their prospects' technological environments, allowing for more effective and efficient outreach. [More about Salesforce](https://www.salesforce.com/products/platform/products/data-com/)
+Salesforce, a leading customer relationship management (CRM) platform, offers a technographic data solution called Data.com. This solution provides detailed insights into companies' technology stacks, including the software and hardware they use. By leveraging this information, businesses can personalize their marketing efforts, targeting the right audience with relevant messages. Salesforce's technographic data helps marketers understand their prospects' technological environments, allowing for more effective and efficient outreach. [More about Salesforce](https://www.salesforce.com/nl/?ir=1)
 
 #### ZoomInfo
 
-ZoomInfo, a provider of B2B contact and company information, incorporates technographic data into its platform. This allows businesses to identify prospects based on their technology usage, helping them tailor their marketing campaigns to reach the most relevant audience. By understanding the tech stacks of potential customers, companies can craft messages that resonate with their specific needs and challenges, leading to higher engagement and conversion rates. [More about ZoomInfo](https://www.zoominfo.com/b2b/technographics)
+ZoomInfo, a provider of B2B contact and company information, incorporates technographic data into its platform. This allows businesses to identify prospects based on their technology usage, helping them tailor their marketing campaigns to reach the most relevant audience. By understanding the tech stacks of potential customers, companies can craft messages that resonate with their specific needs and challenges, leading to higher engagement and conversion rates. [More about ZoomInfo](https://www.zoominfo.com/)
+
 
 ### Competitor analysis
 
@@ -122,6 +123,12 @@ ServiceNow, an IT service management platform, offers solutions that incorporate
 #### BMC Software
 
 BMC Software provides IT management solutions that utilize technographic data for infrastructure planning. By understanding the technology stack within an organization, BMC Software helps optimize IT operations, automate workflows, and ensure effective resource allocation. This enables businesses to enhance their IT capabilities, reduce downtime, and support growth initiatives. [More about BMC Software](https://www.bmc.com/)
+
+#### LAYBL
+The current model of constant disposal of old garments and the purchase of new ones exacerbates the industry’s environmental impact. Tracking clothes to make fashion more sustainable. The fashion industry is facing a critical challenge when it comes to sustainability but hope is on the horizon as Digital IDs look to tackle the sustainability problem head-on. [LINK](https://www.laybl.app/blog/tracking-clothes-to-make-fashion-more-sustainable)
+
+#### TEXTILE EXCHANGE
+E-Trackit Less than half of the brands with sustainability targets can trace their value chains.Traceability is key to demonstrating and driving positive impacts on the ground. But while majority of the top brands have sustainable material targets for the 2030 goals, according to a 2019 UNECE study, only 34% can trace their value chains, of which only half have visibility to their immediate suppliers. [LINK](https://textileexchange.org/trackit/)
 
 ### Sales prospecting
 
