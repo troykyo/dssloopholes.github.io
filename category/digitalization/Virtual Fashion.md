@@ -114,7 +114,8 @@ Under Armour, a leading sports apparel and footwear company, has collaborated wi
 "I like to experiment with different technical solutions when I create my patterns. CLO enables me to do this without wasting any resources, and I can see the results of my patterns straight away. I can now make sure that the fit and size is exactly like my designer has envisioned before I send out any final patterns." 
 
 ##### [Taskin Goec-Mixed Reality Designer](https://studiotaskin.com)
-"I find that working with CLO is much more dynamic. It allows me to be experimental and quick and try out tons of different things up until the production level. Because designing clothes for production can be quite costly, and with CLO, I make this process much more streamlined." https://www.clo3d.com/en/company/clo-users/stories/53 See other company interviews:, Monica Findeis Freelance 3D Designer  https://www.clo3d.com/en/company/clo-users/stories
+"I find that working with CLO is much more dynamic. It allows me to be experimental and quick and try out tons of different things up until the production level. Because designing clothes for production can be quite costly, and with CLO, I make this process much more streamlined." https://www.clo3d.com/en/company/clo-users/stories/53 
+[See other company interviews:, Monica Findeis Freelance 3D Designer](https://www.clo3d.com/en/company/clo-users/stories)
 
 ### References
 
