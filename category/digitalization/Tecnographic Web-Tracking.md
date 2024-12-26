@@ -147,5 +147,11 @@ Clearbit is a data enrichment platform that offers technographic data as part of
 
 - Van Heerde, Harald J., Isaac M. Dinner, and Scott A. Neslin. "Engaging the unengaged customer: The value of a retailer mobile app." _International Journal of Research in Marketing_ 36.3 (2019): 420-438.
 
+- [Digital fashion & traceability](https://bestseller.com/sustainability/preparing-for-a-circular-future/digital-fashion-traceability)
+
+- [McKinsey Technology Trends Outlook 2024](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech#new-and-notable)
+
+- [Download State of Fashion 2025](https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion#/)
+
 - Berg, Martin. "Digital Technography: A Methodology for Interrogating Emerging Digital Technologies and Their Futures." _Qualitative Inquiry_ 28.7 (2022): 827-836.
 
