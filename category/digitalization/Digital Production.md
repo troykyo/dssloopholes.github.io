@@ -83,14 +83,14 @@ Together, Digital manufacturing and Digital Twinning are revolutionizing the fas
 ### Case Studies 
 
 **Kornit Digital**  <br>
-Kornit Digital leads in sustainable textile printing with their **on-demand production** approach. They integrate **3D printing and digital technologies** through platforms like KornitX, reducing water usage and minimizing waste by producing garments only after orders are placed. [Read more here](https://3dprint.com/290237/kornit-showcases-the-future-of-sustainable-digital-fashion-3d-and-otherwise/)
+Kornit Digital leads in sustainable textile printing with their **on-demand production** approach. They integrate **3D printing and digital technologies** through platforms like KornitX, reducing water usage and minimizing waste by producing garments only after orders are placed. [Read more here](https://www.kornit.com/ )
  
 
 **TextileGenesis**   <br>
-TextileGenesis leverages **blockchain-powered digital twins** to trace sustainable fibers like **TENCEL™**. Their platform ensures full transparency across the supply chain, helping brands achieve sustainability goals by reducing waste and optimizing material use. [Read more here](https://www.fashionunited.uk/news/business/how-blockchain-is-paving-the-way-for-greater-transparency-sustainability-within-the-fashion-industry/2020112751864)
+TextileGenesis leverages **blockchain-powered digital twins** to trace sustainable fibers like **TENCEL™**. Their platform ensures full transparency across the supply chain, helping brands achieve sustainability goals by reducing waste and optimizing material use. [Read more here](https://textilegenesis.com/)
 
 **Valaclava**   <br>
-Valaclava's **digital-first fashion** model allows customers to purchase a **digital twin** of a garment, customize it, and produce the physical item only after confirming the digital version. This reduces overproduction and integrates **NFTs** for product traceability. [Read more here](https://juststyle.nridigital.com/issue15/digital_twins_in_fashion)
+PlatformE has recently developed a new collection, Valaclava: a phygital, on-demand collection which proves how a primarily physical brand can engage effectively with the Metaverse and at the same time ensure a circular approach. Valaclava was born as an innovation project and a case study. It is structured on end-to-end solutions connecting everything PlatformE does best:  3D digital product creation, on-demand manufacturing, across a connected network of technology providers.[Read more here](https://www.platforme.com/)
  <br>
 
  **PlatformE** 
@@ -102,6 +102,14 @@ Initiated by Anita Michaluszko and Flavia Bon in 2021, Augmented Weaving explore
 **Holly McQuillan** 
 Holly McQuillan's work in zero waste fashion design explores sustainable production through transition design and digital technology. Her research challenges conventional design and production processes, advocating for systemic shifts towards sustainable fashion practices. [Read more](https://hollymcquillan.com/).
 
+#### MADH jeans 
+Madh is a global collective dedicated to leading innovation in the denim industry, redefining boundaries through advanced technology, transparency, and creativity. Founded in Sweden in 2023, Madh challenges traditional approaches to brand development and collection presentation. By leveraging technology and innovation, Madh engages users and promotes responsible production. As a sustainable fashion denim brand, Madh is designed to elevate jeans into new dimensions. Its unique partnerships with industry experts across the entire supply chain, from fiber to garment, foster collective intelligence and ensure the creation of the highest quality products.
+
+#### UNSPUN 
+We're refashioning the status quo by building new ways to manufacture and think about the clothes we wear. We're a US-based fashion company with technology in our veins. Our mission is to reduce global human carbon emissions by 1% through automated, localised, and intentional manufacturing for apparel. Oakland, California, is home to our micro factory and design studio. [Learn more](https://www.unspun.io/)
+
+#### AUROBOROS 
+Auroboros is the luxury tech fashion house, designing across dimensions – digital designs, physical clothing, and phygital collections that span the two realities.Together, they create an ecosystem of singular and interconnected fashion, to stand alone and as one. Auroboros is not just creating products; it is cultivating a lifestyle that embraces technology to enhance personal and planetary wellbeing. [Learn more](https://www.auroboros.co.uk/)
 
 ### References
 
