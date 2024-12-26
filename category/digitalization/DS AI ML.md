@@ -79,7 +79,7 @@ Data science, artificial intelligence (AI), and machine learning (ML) increasing
 
 ### Case Studies
 
-**Sorabel (formerly Sale Stock)**<br>
+#### Sorabel (formerly Sale Stock)
 **Sorabel** uses **AI** to predict fashion trends and minimize waste by producing only what consumers are likely to buy. Their predictive analytics help lower inventory risk while offering fashionable and affordable items. This lean production model contributes to sustainability by reducing unsold stock, aligning with consumer demands for ethical fashion. [Read more here](https://www.pixyle.ai).
 <br>
 
@@ -87,12 +87,14 @@ Data science, artificial intelligence (AI), and machine learning (ML) increasing
 Moncler Genius leverages data insights, AI-driven trend analysis, and machine learning to identify and anticipate customer preferences, informing their annual collaborations with diverse designers. This approach allows Moncler to maintain relevance and exclusivity through data-backed capsule collections, aligning luxury heritage with evolving consumer tastes. [More details](https://www.moncler.com/en-it/genius.html).
 
 
-**TextileGenesis** <br>
-**TextileGenesis** uses **blockchain technology** to track sustainable materials like **TENCEL™** and **LENZING™ ECOVERO™**, ensuring each step of the production process is transparent. This system addresses consumer demand for traceable, ethically sourced products and boosts transparency in supply chains. [Find out more about TextileGenesis](https://www.fashionunited.uk).
-<br>
+#### TextileGenesis
+TextileGenesis uses blockchain technology to track sustainable materials like TENCEL™ and LENZING™ ECOVERO™, ensuring each step of the production process is transparent. This system addresses consumer demand for traceable, ethically sourced products and boosts transparency in supply chains. Listen to a few insights as Blockchain & the Environmental Footprint of Garments. New link: Meet the innovator TextileGenesisTM [Meet the Innovator: TextileGenesis™](https://fashionforgood.com/our_news/meet-the-innovator-textilegenesis/) and [News and Insights](https://textilegenesis.com/news-and-insights). [Find out more about TextileGenesis](https://textilegenesis.com/news-and-insights)
 
-**Heuritech**<br>
+#### Heuritech
 **Heuritech** leverages **AI** for fashion trend detection, reducing forecasting errors by 50%. By accurately predicting trends and optimizing production, they help fashion brands avoid overproduction and reduce waste. Their AI-backed approach supports sustainable inventory management, creating a more eco-friendly fashion ecosystem. [Read more about Heuritech](https://www.heuritech.com).
+
+#### Patagonia & DEPT Product education
+This experience needed to be personalised and always relevant to the consumer. Our goal was to ultimately guide users to the best product for their needs in one simple flow. By implementing an in-line Q&A and product comparison overlay, BASIC/DEPT® was able to help customers decide which product is right for them, saving them the hassle of toggling between product detail pages. As a result, users are directly routed through the sales funnel in one seamless UX flow. [Learn more](https://www.deptagency.com/case/a-branded-commerce-experience/)
 
 ### References
 
@@ -121,6 +123,8 @@ Moncler Genius leverages data insights, AI-driven trend analysis, and machine le
 - [The Interline -the fashion technology magazine and social community for industry professional](https://www.theinterline.com/)
   
 - [Is Fashion Education Ready for AI? By Emma Feldner-Busztin,AUGUST 20, 2024](https://www.theinterline.com/2024/08/20/is-fashion-education-ready-for-ai/)
+
+- [A visit to the 3D NXT LEVEL 3.0 event at AMFI: Innovations and data driving digital fashion](https://fashionunited.uk/news/fashion/a-visit-to-the-3d-nxt-level-3-0-event-at-amfi-innovations-and-data-driving-digital-fashion/2024120378921)
   
 - [Fashion Starts To Clean Up Its Energy Act, But Muddies The Waters Around AI](https://www.theinterline.com/2023/10/27/fashion-starts-to-clean-up-its-energy-act-but-muddies-the-waters-around-ai/)
 
