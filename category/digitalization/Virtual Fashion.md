@@ -87,21 +87,36 @@ In summary, virtual sampling represents a transformative shift towards digitizat
 
 #### Adidas (in collaboration with Browzwear)
 
-Adidas, a leading sportswear brand, has partnered with Browzwear, a pioneer in 3D fashion design and development solutions, to implement virtual sampling in their product development process. By leveraging Browzwear's advanced 3D design software, Adidas creates highly realistic digital prototypes of footwear and apparel. This collaboration enables designers, engineers, and marketers to visualize and evaluate the product's aesthetics, functionality, and fit in a virtual environment. [More about Adidas and Browzwear](https://browzwear.com/adidas-2/)
+Adidas, a leading sportswear brand, has partnered with Browzwear, a pioneer in 3D fashion design and development solutions, to implement virtual sampling in their product development process. By leveraging Browzwear's advanced 3D design software, Adidas creates highly realistic digital prototypes of footwear and apparel. This collaboration enables designers, engineers, and marketers to visualize and evaluate the product's aesthetics, functionality, and fit in a virtual environment. [More about Adidas and Browzwear](https://dtech.fitnyc.edu/webflow/projects/adidas-browzwear.html)
 
 #### PVH Corp (Calvin Klein and Tommy Hilfiger)
 
-PVH Corp, the parent company of renowned fashion brands Calvin Klein and Tommy Hilfiger has partnered with Optitex, a leading provider of 3D virtual prototyping software, to integrate virtual sampling into their design process. By utilizing Optitex's advanced technology, Tommy Hilfiger creates digital prototypes of garments, allowing their designers and merchandisers to visualize the final product before physical production. This collaboration has significantly reduced the time and cost associated with traditional sampling methods, enabling faster decision-making and more sustainable production practices. [More about PVH Corp and Optitex](https://optitex.com/pvh-corp-adopts-optitex-3d-design-technology/)
+PVH Corp, the parent company of renowned fashion brands Calvin Klein and Tommy Hilfiger has partnered with Optitex, a leading provider of 3D virtual prototyping software, to integrate virtual sampling into their design process. By utilizing Optitex's advanced technology, Tommy Hilfiger creates digital prototypes of garments, allowing their designers and merchandisers to visualize the final product before physical production. This collaboration has significantly reduced the time and cost associated with traditional sampling methods, enabling faster decision-making and more sustainable production practices. [More about PVH Corp and Optitex](https://www.voguebusiness.com/story/technology/tommy-hilfiger-parent-pvh-sells-digital-showroom-startup-to-fashion-cloud)
 
-#### Nike (in collaboration with Browzwear)
+#### Nike
 
-Nike, a leading athletic footwear and apparel brand, has collaborated with Browzwear to implement virtual sampling in their product development. By leveraging Browzwear's 3D design software, Nike can create highly realistic digital prototypes of their products, enabling their design teams to visualize and analyze the fit, functionality, and overall performance of the footwear and apparel. This collaboration has streamlined Nike's design process, allowing for faster iterations, improved collaboration, and reduced reliance on physical samples. [More about Nike and Browzwear](https://browzwear.com/nike-2/)
+Nike’s integration of 3D design expertise has revolutionized its footwear design process, blending creativity and technology to accelerate development, enhance collaboration, and drive sustainability. By leveraging tools like parametric modeling, digital prototyping, and 3D printing, designers bridge the gap between concept and manufacturing while exploring innovative geometries and materials. This approach has reduced development timelines, minimized waste, and enabled consumer-centric designs like the reimagined Air Max. Through 3D-driven innovation, Nike continues to lead the industry in performance, sustainability, and cutting-edge design. [More about Nike](https://jobs.nike.com/nl/blog/3d-2021)
 
-#### Under Armour (in collaboration with CLO Virtual Fashion)
+#### Vizoo's xTex™ 
+Vizoo's xTex™ material solutions bring unmatched photo-realism to 3D digitization projects across fashion, footwear, automotive, and architecture. By capturing every intricate detail of your materials, xTex™ ensures your digital creations come to life with stunning accuracy and depth. Explore how xTex™ can transform your workflow and elevate your designs. [Learn more](https://www.vizoo3d.com).
 
-Under Armour, a leading sports apparel and footwear company, has collaborated with CLO Virtual Fashion to implement virtual sampling in their product development workflow. By leveraging CLO's 3D garment simulation software, Under Armour can create digital prototypes and conduct virtual fit tests to ensure optimal performance and comfort of their athletic apparel. This collaboration has allowed Under Armour to streamline their design process, reduce the number of physical samples, and make quicker decisions on product development. [More about Under Armour and CLO Virtual Fashion](https://www.clo3d.com/under-armour)
+#### MAKALOT  
+Makalot Industrial Co., Ltd., a leading Taiwan-based apparel manufacturer, has been a trailblazer in Digital Product Creation (DPC) since 2006, pioneering digital workflows ahead of the industry's curve. Elly Cheng, Director of DPC, highlights how their ambition drives innovation and success across every endeavor. Discover why Makalot bets on Vizoo's material digitization solutions to elevate their digital product creation. [Learn more](https://www.vizoo3d.com/investing-in-resilience-designing-for-innovation-why-taiwan-based-manufacturer-makalot-bets-on-vizoo-material-digitization-solutions-for-digital-product-creation/)
 
-##### References
+
+<!-- #### Under Armour (in collaboration with CLO Virtual Fashion)
+
+Under Armour, a leading sports apparel and footwear company, has collaborated with CLO Virtual Fashion to implement virtual sampling in their product development workflow. By leveraging CLO's 3D garment simulation software, Under Armour can create digital prototypes and conduct virtual fit tests to ensure optimal performance and comfort of their athletic apparel. This collaboration has allowed Under Armour to streamline their design process, reduce the number of physical samples, and make quicker decisions on product development. [More about Under Armour and CLO Virtual Fashion](https://www.clo3d.com/under-armour) -->
+
+### Professional Reflections
+
+##### Lindex, Nanna Egonsdotter Petersson, 3D Garment Technician
+"I like to experiment with different technical solutions when I create my patterns. CLO enables me to do this without wasting any resources, and I can see the results of my patterns straight away. I can now make sure that the fit and size is exactly like my designer has envisioned before I send out any final patterns." 
+
+##### [Taskin Goec-Mixed Reality Designer](https://studiotaskin.com)
+"I find that working with CLO is much more dynamic. It allows me to be experimental and quick and try out tons of different things up until the production level. Because designing clothes for production can be quite costly, and with CLO, I make this process much more streamlined." https://www.clo3d.com/en/company/clo-users/stories/53 See other company interviews:, Monica Findeis Freelance 3D Designer  https://www.clo3d.com/en/company/clo-users/stories
+
+### References
 
 McDowell, M. (2019, November 7). _Tommy Hilfiger switches to 100% digital design_. Vogue Business. https://www.voguebusiness.com/technology/tommy-hilfiger-pvh-corp-3d-design-digital-clothing-innovation-sustainability
 
