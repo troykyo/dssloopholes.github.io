@@ -87,6 +87,10 @@ Note: While the potential of blockchain and Web3 technologies in the fashion ind
 
 ### Case studies
 
+#### On-Demanding A Phygital Reality: 
+[Valaclava](https://valaclava.com/) and PlatformE
+Fashion has run headlong towards the vision for all-digital fashion, but could a blended digital-physical strategy be a safer and more sustainable bet? Through 2022 and 2023, The Digital Fashion Group is authoring a series of exclusive articles for The Interline, designed to help brand and retail businesses make sense of the possibilities in the space of Metaverse and Web3 fashion. In this instalment, Leslie Holden, Co-Founder, examines the blurring of the lines between physical and digital processes and considers the role that phygital fashion could play in circularity and sustainability. [Learn more](https://www.theinterline.com/2023/01/05/phygital-fashion-on-demand/)
+
 **VeChain** <br>
 VeChain is a blockchain platform that focuses on supply chain management and product authentication. It has collaborated with fashion brands like H&M, Babyghost, and BYBORRE to provide blockchain-based solutions for product traceability and anti-counterfeiting. Loomia: Loomia is a technology company that integrates flexible circuitry into textiles, enabling the creation of smart fabrics. They leverage blockchain to store and secure data collected by their smart textiles, allowing brands and users to track and verify the authenticity and history of the products. [More about VeChain](https://www.vechain.org/)
 
@@ -102,6 +106,9 @@ In 2019, a consortium of luxury goods companies, including LVMH, Prada, and Cart
 **FashTech**<br>
 FashTech is a fashion and technology company that utilizes blockchain and Web3 technologies to create a decentralized marketplace for fashion designers and users. Their platform allows designers to showcase and sell their creations directly to users, eliminating the need for traditional intermediaries. [More about FashTech](https://www.fashtech.io/)
 
+#### Web3 and Digital Fashion
+Redefining How We Experience Clothing In recent years, the fashion industry has begun to experience a dramatic shift, moving from the physical world into the digital realm, thanks to the transformative power of Web3 technologies. The fusion of fashion and Web3 is giving birth to an entirely new concept — digital fashion — where garments no longer need to exist in the real world to make an impact. Designers are now creating and selling virtual clothing that can be worn in immersive, decentralized environments like the metaverse. [LINK](https://medium.com/liveplexmetaverseecosystem/web3-and-digital-fashion-redefining-how-we-experience-clothing-46eff3ad2f4c)
+
 ### References
 
 - [Person. (2021, October 1). _How the fashion industry uses Blockchain_. Blue Bite.](https://www.bluebite.com/brand-strategy/how-the-fashion-industry-uses-blockchain)
@@ -112,3 +119,12 @@ FashTech is a fashion and technology company that utilizes blockchain and Web3 t
 
 
 - Crosby, Michael, et al. "Blockchain technology: Beyond bitcoin." _Applied Innovation_ 2.6-10 (2016): 71.
+
+- [Blockchain: Unlocking Transparency And Traceability In The Fashion Supply Chain](https://www.theinterline.com/2022/02/28/blockchain-unlocking-transparency-and-traceability-in-the-fashion-supply-chain/)
+
+- ["The Digital Narrative for lifelong learning informed by the latest innovation and Technology in the Fashion Value Chain"](https://thedigitalfashiongroup.com/updates/)
+
+- [The Future of Fashion: Building a Decentralized Web3 Wardrobe Styling App Using AI to Create Personalized Digital Fashion NFT Looks](https://www.linkedin.com/pulse/future-fashion-building-decentralized-web3-wardrobe-styling-k40cf/)
+
+- [Web3 and Digital Fashion: Redefining How We Experience Clothing](https://medium.com/liveplexmetaverseecosystem/web3-and-digital-fashion-redefining-how-we-experience-clothing-46eff3ad2f4c)
+
