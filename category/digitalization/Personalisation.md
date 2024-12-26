@@ -121,14 +121,20 @@ Nike's Nike By You platform empowers customers to customize and personalize thei
 
 Eileen Fisher, a sustainable fashion brand, offers the Renew program where customers can bring back their old Eileen Fisher garments to be transformed into new designs. This program supports a circular economy by extending the lifespan of clothing through upcycling and recycling. Customers benefit from a personalized approach to sustainable fashion, knowing that their used garments can be refreshed and given a new life, thus reducing textile waste and promoting environmental responsibility. [More about Eileen Fisher Renew](https://www.eileenfisher.com/renew)
 
-#### Mon Purse
-
-Mon Purse allows customers to design and personalize their own handbags. Through the platform, customers can choose from various design options, materials, and add personal monograms to create a unique accessory. This customization approach reduces waste by producing items based on specific customer preferences and eliminates the need for mass-produced inventory. Mon Purse's model emphasizes individual expression and sustainable production, ensuring that each bag is as unique as its owner. [More about Mon Purse](https://www.monpurse.com/)
+#### Oscar Jacobson
+Oscar Jacobson offers a Custom Made service that allows customers to design their own unique jacket, trousers, vest, or tuxedo. By selecting from various models, fabrics, and customizable details such as lapels and buttons, customers can create a garment that is perfectly tailored to their size and preferences. The service includes the ability to visualize the garment in 3D and mix jacket and trouser sizes for a personalized fit. The goal is to provide customers with a high-quality product that delivers both style and comfort, with a fit adapted specifically to their needs. [Learn More](https://www.oscarjacobson.com/en-gb/custom-made/)
 
 ##### References
 
-Ma, Na, Jieun Kim, and Jee Hyun Lee. "Exploring personalized fashion design process using an emotional data visualization method." _Fashion and Textiles_ 9.1 (2022): 1-15.
+- Ma, Na, Jieun Kim, and Jee Hyun Lee. "Exploring personalized fashion design process using an emotional data visualization method." _Fashion and Textiles_ 9.1 (2022): 1-15.
 
-Nobile, Tekila Harley, and Lorenzo Cantoni. "Personalization and customization in fashion: searching for a definition." _Journal of Fashion Marketing and Management: An International Journal_ 27.4 (2023): 665-682.
+- Nobile, Tekila Harley, and Lorenzo Cantoni. "Personalization and customization in fashion: searching for a definition." _Journal of Fashion Marketing and Management: An International Journal_ 27.4 (2023): 665-682.
 
-Jain, Sheenam, and Malin Sundström. "Toward a conceptualization of personalized services in apparel e-commerce fulfillment." _Research Journal of Textile and Apparel_ 25.4 (2021): 414-430.
+- Jain, Sheenam, and Malin Sundström. "Toward a conceptualization of personalized services in apparel e-commerce fulfillment." _Research Journal of Textile and Apparel_ 25.4 (2021): 414-430.
+
+-[Adidas Speedfactory: Disrupting The Sneaker Manufacturing Process
+]( https://d3.harvard.edu/platform-rctom/submission/adidas-speedfactory-disrupting-the-sneaker-manufacturing-process/)
+
+- [Transforming mass customisation from a marketing instrument to a sustainable model at Adidas](https://www.researchgate.net/publication/264436932_Transforming_mass_customisation_from_a_marketing_instrument_to_a_sustainable_model_at_Adidas)
+
+- [From The Era Of Web1 To The Rise Of Trend Oracles: AI Unveils Fashion’s Web3 Era Of Hyper-Personalisation](https://www.theinterline.com/2024/03/14/from-the-era-of-web1-to-the-rise-of-trend-oracles-ai-unveils-fashions-web3-era-of-hyper-personalisation/)
