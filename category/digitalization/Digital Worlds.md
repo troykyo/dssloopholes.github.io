@@ -88,7 +88,6 @@ Fashion-focused mobile applications offer personalized experiences, styling reco
 In summary, digital worlds encompass virtual environments, online platforms, and technologies that enable immersive, interactive, and innovative fashion experiences. They provide opportunities for designers, brands, retailers, and users to engage, connect, and participate in the digital landscape of fashion.
 
 ### Case studies
-#### Case studies
 
 #### Burberry
 
@@ -110,6 +109,14 @@ Farfetch is an online luxury fashion retailer that has integrated digital worlds
 
 The Fabricant is a digital fashion house that creates virtual fashion garments and experiences. They specialize in creating 3D digital fashion pieces that exist only in the digital realm. The Fabricant collaborates with various fashion brands and designers to create virtual collections and immersive digital experiences. [More about The Fabricant](https://www.thefabricant.com/)
 
+#### Stephy Fung
+Stephy Fung is a digital fashion artist based in UK. Her work frames vibrant colours and balanced composition, paying homage to her Chinese heritage and to also educate her audiences on the culture. Her designs have been a way to explore and express her British Chinese identity and she hopes to fuse modern techniques/cuts with traditional Chinese elements. She is an artist, educator and content creator. Her skill set ranges from Adobe Suite, Cinema4D, Clo3d, Substance Painter and Daz3D.
+[Learn more](https://stephyfung.com/home)
+
+#### DigitalFashionGroup
+Founded in 2020, The DigitalFashionGroup is a European-led collaboration between Fashion Academics and Industry Innovators to equip fashion professionals and educators with the relevant skills, mindset and strategies for tomorrow's workplace. 
+[Learn more](https://thedigitalfashiongroup.com/insights1/)
+
 ### References
 
 - [Specialist, A. M. B. (2023, January 4). _Metaverse and fashion: A relationship for Success_. Evergine. ](https://evergine.com/metaverse-fashion/)
@@ -119,3 +126,9 @@ The Fabricant is a digital fashion house that creates virtual fashion garments a
 - Sayem, Abu Sadat Muhammad. "Digital fashion innovations for the real world and metaverse." _International Journal of Fashion Design, Technology and Education_ 15.2 (2022): 139-141.
 
 - Gornostaeva, Galina. "The development of digital commerce in the fashion industry: The typology of emerging designers in London." _Technological Forecasting and Social Change_ 186 (2023): 122122.
+
+- [Games X Fashion > Unpacking the Audience and Analysing the Value Proposition](https://www.theinterline.com/2024/04/03/games-x-fashion-unpacking-the-audience-and-analysing-the-value-proposition/)
+
+- [Digitization vs Digitalization vs Digital Transformation](https://www.channelinsider.com/business-management/digitization-vs-digitalization/)
+
+- [What is an NFT](https://www.forbes.com/advisor/investing/cryptocurrency/nft-non-fungible-token/)
