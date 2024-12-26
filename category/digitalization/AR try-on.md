@@ -89,7 +89,7 @@ AR Try-on generates valuable data on customer preferences, popular styles, and p
 Sarah Mayer is a fashion designer and artist creating digital and semi-digital fashion pieces that blend the physical and virtual worlds. Through her brand Sa.m.co, Mayer experiments with augmented reality (AR) fashion and digital-only designs that showcase innovative approaches to fashion and art. [Read more](https://www.coeval-magazine.com/coeval/sarah-mayer), [Linktree](https://linktr.ee/sa.m.co)
 
 **DRESSX** <br>
-As a global leader in digital fashion, DRESSX offers AR try-on experiences that allow users to try virtual outfits through their phone cameras, join virtual meetings in AR clothing, and dress avatars in virtual environments like Snap, Roblox, and Meta. With over 30 million assets distributed, DRESSX empowers users and brands to engage with digital fashion seamlessly. [Read more](https://dressx.com)
+DRESSX is the world’s leader in digital fashion technologies. Instantly generate and change looks in photos, use AI to try on trendy styles, try virtual outfits through your phone camera, show up to your next Zoom meeting wearing an AR outfit, dress up your avatar, boost your business’s marketing performance with avatar fashion drops on Snap, Roblox, Meta, and more! Over 30 million DRESSX assets are distributed across virtual environments! What are their business models, what is their mission and vision. `Try-on different products by downloading the app: Dressx Metaverse closet. [Read more](https://dressx.com)
 
 **Glitch Magazine** <br>
 Glitch Magazine showcases the latest trends in digital fashion, including how AR try-ons are transforming user engagement across virtual spaces. Their features on platforms like DRESSX highlight the potential for fashion in virtual environments, helping brands reach new audiences through digital assets and AR experiences. [Read more](https://glitchmagazine.xyz)
@@ -107,7 +107,13 @@ Warby Parker, an eyewear retailer, implemented an AR Try-on feature on their web
 ASOS, an online fashion retailer, introduced a Virtual Catwalk feature that allows users to view models wearing clothes in various sizes and shapes. By using AR Try-on, customers can see how the garments move and fit on different body types, providing a more realistic representation of the product before purchasing.
 
 **Adidas' AR shoe try-on** <br>
-Adidas incorporated AR Try-on technology in their app to enhance the shoe shopping experience. Customers can select a pair of shoes and see a virtual representation of the sneakers on their feet in real-time. This enables users to gauge the style and fit of the shoes without physically trying them on, improving the online shopping experience.
+Adidas Innovates Customer Experience (CX)  Adidas integrates personalisation and sustainability into its customer experience (CX). By offering customisation, eco-friendly products, and digital innovations, Adidas meets consumer demand for tailored, responsible solutions. Adidas has created an immersive and engaging customer journey. This approach enhances CX, aligning with evolving customer values. [Learn More](https://www.renascence.io/journal/how-adidas-innovates-customer-experience-cx-with-personalized-shopping-and-sustainability-initiatives)
+
+#### 3DLOOK, AR clothing try-on 
+Who benefits and how? Augmented reality clothing fitting tools offer a better fashion industry for all: better fit, engaging experiences, higher conversions and fewer returns. Augmented reality, an immersive technology that superimposes computer-generated images over the real world, is emerging as a key focus for forward-thinking businesses. The global mixed reality market, valued at $31b in 2021, is set to reach close to $300b within three years, according to Statista. [Learn more](https://3dlook.ai/content-hub/ar-clothing-try-on-tools/)
+
+#### Holition   
+Holition is a London-based creative innovation studio. Holition shapes the future of retail experiences through collaborative insight, creativity, and technology. We are a synthesis of retail experts, scientists, film-makers, artists, mathematicians, UX designers, technologists, and other curious minds, united by a human-first approach to consumer experiences grounded in Digital Anthropology. [Learn more](https://holition.com/work/tommy-factory-2022 https://holition.com/work/jenny-holzer-like-beauty-in-flame)
 
 
 ### References
