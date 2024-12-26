@@ -113,7 +113,7 @@ The Fabricant is a digital fashion house that creates virtual fashion garments a
 Stephy Fung is a digital fashion artist based in UK. Her work frames vibrant colours and balanced composition, paying homage to her Chinese heritage and to also educate her audiences on the culture. Her designs have been a way to explore and express her British Chinese identity and she hopes to fuse modern techniques/cuts with traditional Chinese elements. She is an artist, educator and content creator. Her skill set ranges from Adobe Suite, Cinema4D, Clo3d, Substance Painter and Daz3D.
 [Learn more](https://stephyfung.com/home)
 
-#### DigitalFashionGroup
+#### Digital Fashion Group
 Founded in 2020, The DigitalFashionGroup is a European-led collaboration between Fashion Academics and Industry Innovators to equip fashion professionals and educators with the relevant skills, mindset and strategies for tomorrow's workplace. 
 [Learn more](https://thedigitalfashiongroup.com/insights1/)
 
