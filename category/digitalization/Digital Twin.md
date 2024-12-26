@@ -116,14 +116,14 @@ Levi's introduced a virtual stylist powered by digital twins to enhance the onli
 
 Adidas developed a digital twin-driven manufacturing process in their Speedfactory initiative. By creating digital twins of shoe designs, they were able to optimize production efficiency and customize footwear based on individual customer preferences. The digital twins enabled real-time monitoring and adjustments, resulting in faster production cycles and increased product personalization. [More about Adidas Speedfactory](https://www.adidas-group.com/en/innovation/speedfactory/)
 
-##### References
+### References
 
-Botín-Sanabria, Diego M., et al. "Digital twin technology challenges and applications: A comprehensive review." _Remote Sensing_ 14.6 (2022): 1335.
+- Botín-Sanabria, Diego M., et al. "Digital twin technology challenges and applications: A comprehensive review." _Remote Sensing_ 14.6 (2022): 1335.
 
-Wagner, Ralf, and Agnieszka Kabalska. "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." _Sustainable Development_ (2022).
+- Wagner, Ralf, and Agnieszka Kabalska. "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." _Sustainable Development_ (2022).
 
-Alam, Mohammed Didarul, Golam Kabir, and Mehdi Mirmohammadsadeghi. "A digital twin framework development for apparel manufacturing industry." _Decision Analytics Journal_ (2023): 100252.
+- Alam, Mohammed Didarul, Golam Kabir, and Mehdi Mirmohammadsadeghi. "A digital twin framework development for apparel manufacturing industry." _Decision Analytics Journal_ (2023): 100252.
 
-Riedelsheimer, Theresa, Lisa Dorfhuber, and Rainer Stark. "User centered development of a Digital Twin concept with focus on sustainability in the clothing industry." _Procedia CIRP_ 90 (2020): 660-665.
+- Riedelsheimer, Theresa, Lisa Dorfhuber, and Rainer Stark. "User centered development of a Digital Twin concept with focus on sustainability in the clothing industry." _Procedia CIRP_ 90 (2020): 660-665.
 
-Casciani, Daria, Olga Chkanikova, and Rudrajeet Pal. "Exploring the nature of digital transformation in the fashion industry: opportunities for supply chains, business models, and sustainability-oriented innovations." _Sustainability: Science, Practice and Policy_ 18.1 (2022): 773-795.
+- Casciani, Daria, Olga Chkanikova, and Rudrajeet Pal. "Exploring the nature of digital transformation in the fashion industry: opportunities for supply chains, business models, and sustainability-oriented innovations." _Sustainability: Science, Practice and Policy_ 18.1 (2022): 773-795.
