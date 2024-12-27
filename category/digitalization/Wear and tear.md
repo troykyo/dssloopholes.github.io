@@ -107,11 +107,14 @@ Mud Jeans, a Dutch denim brand, offers a lease model where users can lease a pai
 
 #### Levi's care tag for our planet
 
-Levi's launched their Care Tag for Our Planet initiative, which provides users with information on sustainable care practices for their garments. By understanding the wear and tear patterns of their products, Levi's provides care instructions that enable customers to prolong the lifespan of their clothing, reducing unnecessary waste and promoting responsible consumption. [More about Levi's Care Tag for Our Planet](https://www.levistrauss.com/2010/07/20/levis-care-tags-for-our-planet/)
+Levi's launched their Care Tag for Our Planet initiative, which provides users with information on sustainable care practices for their garments. By understanding the wear and tear patterns of their products, Levi's provides care instructions that enable customers to prolong the lifespan of their clothing, reducing unnecessary waste and promoting responsible consumption. [More about Levi's Care Tag for Our Planet](https://www.levistrauss.com/wp-content/uploads/2015/03/Full-LCA-Results-Deck-FINAL.pdf)
 
 #### EON Group's circularID™ protocol
 
 EON Group developed the CircularID™ protocol, which uses digital identifiers to track and monitor the lifecycle of fashion products. By incorporating wear and tear data into the digital identity of each product, brands and consumers can make informed decisions about repairs, maintenance, and end-of-life options. This data-driven approach promotes circularity by enabling more efficient product management and reducing waste. [More about EON Group's CircularID™ Protocol](https://eongroup.co/circularid/)
+
+#### WASTE NO MORE. A new expression from EILEEN FISHER
+Waste No More embodies the art and design of conscious consumption. Using both traditional and custom techniques, our team repurposes material from the damaged clothes we’ve taken back to create one-of-a-kind artworks, wall hangings, acoustic panels and decorative objects. It’s how we’re designing without waste. [Learn more](https://www.wastenomore.com/)
 
 ### References 
 
@@ -129,3 +132,5 @@ This study investigates the key factors influencing the lifespan of clothing and
 _Journal of Fashion Marketing and Management: An International Journal_ 26.1 (2022): 107-125.  
 This paper reviews the relationship between perceived quality and the duration of clothing use, highlighting the importance of quality in extending the lifecycle of garments.  
 [https://doi.org/10.1108/JFMM-04-2021-0070](https://doi.org/10.1108/JFMM-04-2021-0070)
+
+#### [Madh](https://www.madhstore.com/)
