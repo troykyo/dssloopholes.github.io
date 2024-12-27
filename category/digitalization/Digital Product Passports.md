@@ -103,16 +103,21 @@ The implementation of digital product passports requires collaboration and stand
 ### Case studies
 
 #### Levi's and Levi's SecondHand**
-Levi's, a well-known denim brand, has launched a digital product passport initiative called Levi's SecondHand. This program aims to extend the lifecycle of Levi's products by enabling customers to buy and sell used garments through a dedicated online platform. The digital passport provides information about the product's history, including previous ownership, repairs, and customization, enhancing the transparency and value of pre-owned Levi's items.
+Levi's, a well-known denim brand, has launched a digital product passport initiative called Levi's SecondHand. This program aims to extend the lifecycle of Levi's products by enabling customers to buy and sell used garments through a dedicated online platform. The digital passport provides information about the product's history, including previous ownership, repairs, and customization, enhancing the transparency and value of pre-owned Levi's items. [Learn more](https://www.levi.com/US/en_US/blog/article/levis-secondhand)
 
 #### Eileen Fisher's Renew Takeback Program
-Eileen Fisher, a sustainable fashion brand, operates a Renew Takeback Program that encourages customers to return their worn garments. As part of the program, the company uses a digital product passport to track and document the lifecycle of each returned garment. This passport includes information about the materials, production processes, and subsequent reuse or recycling of the item, promoting a circular economy and reducing textile waste.
+Eileen Fisher, a sustainable fashion brand, operates a Renew Takeback Program that encourages customers to return their worn garments. As part of the program, the company uses a digital product passport to track and document the lifecycle of each returned garment. This passport includes information about the materials, production processes, and subsequent reuse or recycling of the item, promoting a circular economy and reducing textile waste. [Learn more](https://www.eileenfisher.com/a-sustainable-life/journal/sustainability/renew-program-reaches-2-million-garments.html)
 
 #### Farfetch and Positively Farfetch
-Farfetch, a global luxury fashion platform, has launched a sustainability initiative called Positively Farfetch. As part of this program, the company is developing a digital product passport system to provide customers with information about the sustainability credentials of the products available on their platform. The passport will include details about materials, production methods, and certifications, allowing customers to make more sustainable choices.
+Farfetch, a global luxury fashion platform, has launched a sustainability initiative called Positively Farfetch. As part of this program, the company is developing a digital product passport system to provide customers with information about the sustainability credentials of the products available on their platform. The passport will include details about materials, production methods, and certifications, allowing customers to make more sustainable choices. [Learn more](https://www.farfetch.com/nl/stories/positively-farfetch.aspx)
 
 #### Reformation's RefScale
-Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables users to make informed decisions and supports Reformation's commitment to sustainability.
+Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables users to make informed decisions and supports Reformation's commitment to sustainability. [Learn more](https://www.thereformation.com/sustainability/what-is-refscale.html)
+
+#### RUDHOLM GROUP:  Unleashing transparency and traceability
+ShareLabel® offers supply chain transparency and limitless branding potential through unique digital product passports embedded in garments. Our groundbreaking software platform allows brands to share their story and adapt to future regulations with ease.[Learn more](https://www.rudholmgroup.com/digital-solutions/)
+
+
 
 ### References
 
@@ -127,3 +132,5 @@ Reformation, a sustainable fashion brand, has implemented a tool called RefScale
 - [Remington, W. by C. (n.d.). _Circular.fashion backs push for digital product passports_. Ecotextile News. ](https://www.ecotextile.com/2022101729950/materials-production-news/circular-fashion-backs-push-for-digital-product-passports.html)
 
 - Plociennik, Christiane, et al. "Requirements for a Digital Product Passport to Boost the Circular Economy." _INFORMATIK 2022_ (2022).
+
+- [RefScale methodology](https://media.thereformation.com/image/upload/v1642626590/pdfs/RefScale-Methodology-2022.pdf)
