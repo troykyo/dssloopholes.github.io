@@ -2,8 +2,8 @@
 # Credits
 <br>
 <br>
+<marquee behavior="alternate" direction="left" scrollamount="8" loop="1"></marquee>  
 <marquee behavior="scroll" direction="left" scrollamount="8">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
@@ -61,6 +61,7 @@
   <b><span style="color:#7ECCB9;">Francesco Sollitto</span></b>  
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
 </marquee>
+
 
 
 
