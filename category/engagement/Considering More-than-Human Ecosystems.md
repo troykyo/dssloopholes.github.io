@@ -78,9 +78,13 @@ What more-than human ecosystems does your practice impact? How can you consider 
 <br>
 
 Considering more-than-human ecosystems in fashion involves a holistic approach that recognizes and respects the intricate relationships between human activities and broader ecological systems. This perspective moves beyond human-centered design to include the well-being of non-human entities, such as animals, plants, insects, water systems, and other elements of the natural environment. The aim is to create fashion products and practices that minimize environmental harm, conserve resources, and promote ecological balance.
+
 Incorporating more-than-human principles into fashion requires an understanding of the impact of materials, production processes, and the supply chain. Designers and brands must evaluate how their choices affect ecosystems and seek alternatives that reduce negative consequences. This includes selecting sustainable materials, such as organic fibers or recycled fabrics, and adopting production methods that minimize waste, reduce pollution, and protect biodiversity.
+
 Furthermore, this approach encourages critical thinking about the lifecycle of products—from raw material extraction to disposal—and their environmental impact. By considering more-than-human ecosystems, fashion brands can develop practices that enhance planetary health, such as using regenerative agriculture, supporting ethical wildlife interactions, and reducing water and energy consumption.
+
 A key aspect of this approach is the shift from a linear to a circular economy. In a circular economy, products are designed with their end-of-life in mind, allowing them to be reused, repurposed, or recycled, thus reducing waste and conserving resources. This aligns with sustainability principles and acknowledges the interdependence of all life forms within an ecosystem.
+
 Adopting this mindset allows fashion brands to create products that not only meet human needs but also respect and preserve the natural world. It fosters responsibility and stewardship, encouraging both brands and consumers to make choices that benefit people and the planet. This approach challenges the traditional fast-fashion model, advocating for slower, more thoughtful consumption patterns that prioritize quality, durability, and environmental integrity.
 
 ### Case Studies
@@ -95,7 +99,6 @@ Fourth Element, a brand specializing in scuba diving gear, has developed the Oce
 
 **Nuuwaï’s Holistic Approach**  
 Nuuwaï demonstrates a holistic commitment to reducing environmental impact through eco-friendly materials and sustainable production methods. By focusing on biodegradable and recycled materials, minimizing waste, and supporting regenerative agriculture, Nuuwaï reflects a deep understanding of ecological interconnectedness. The brand’s transparency and ethical practices highlight how even small fashion brands can play a crucial role in fostering ecological balance and protecting biodiversity.  
-[Read more about Nuuwaï's Holistic Approach](https://nuuwai.com/pages/about-nuuwai)
 
 
 ### References
