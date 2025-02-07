@@ -61,10 +61,10 @@
   <b><span style="color:#7ECCB9;">Erika Butcaru</span></b>  
   <b><span style="color:#49796F;">Marina Toeters</span></b>  
 </marquee>
+This project would not have been possible without the dedication and expertise of those who contributed their time and effort. Their commitment to excellence and collaboration has played a crucial role in bringing it to completion. Sincere appreciation goes to everyone involved for their valuable contributions.
 
 <br> <img src="https://troykyo.github.io/dssloopholes.github.io/assets/3.2.jpg" alt="credits" style="width: 50%;" class="responsive-image">
 <br>
-This project would not have been possible without the dedication and expertise of those who contributed their time and effort. Their commitment to excellence and collaboration has played a crucial role in bringing it to completion. Sincere appreciation goes to everyone involved for their valuable contributions.
 
 <marquee behavior="scroll" direction="left" scrollamount="8">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
