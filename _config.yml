@@ -67,7 +67,6 @@ header_pages:
   - _pages/sustainability home.md
   - _pages/Stakeholder engagement home.md
   - _pages/Business home.md
-  - _pages/credits.md
   # - sustainability.md
 titles_from_headings:
   enabled:     true
