@@ -59,8 +59,6 @@
   <b><span style="color:#7ECCB9;">Francesco Sollitto</span></b>  
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
 </marquee>
-<br>
-<br>
  <marquee behavior="scroll" direction="right">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
