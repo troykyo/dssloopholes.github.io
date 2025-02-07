@@ -57,7 +57,7 @@ Droog.Caroline Carlsson.Nelly Hayek.Alessandro Pierattini!</span>
 .scrolling-text span {
     display: inline-block;
     padding-left: 100%;
-    animation: scroll-left 50s linear infinite;
+    animation: scroll-left 500s linear infinite;
 }
 
 @keyframes scroll-left {
