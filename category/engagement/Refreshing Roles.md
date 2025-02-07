@@ -116,9 +116,9 @@ Levi Strauss & Co., the iconic denim brand, has embraced a culture of innovation
  
 - Bain & Company. (2021). The new essentials of talent management in retail and fashion. Bain & Company. [Read more](https://www.bain.com/)
  
-- PwC. (2022). Navigating the new world of work: Insights for the retail and fashion sectors. PwC. Available at https://www.pwc.com/
+- PwC. (2022). Navigating the new world of work: Insights for the retail and fashion sectors. PwC. [Read more](https://www.pwc.com/)
  
-- The Business of Fashion, & McKinsey & Company. (2021). Resetting normal: Redefining the new era of work in fashion. The Business of Fashion. Available at https://www.businessoffashion.com/
+- The Business of Fashion, & McKinsey & Company. (2021). Resetting normal: Redefining the new era of work in fashion. The Business of Fashion. [Read more](https://www.businessoffashion.com/)
  
 - Savić, D. (2021). Digital transformation and its impact on workforce agility in the fashion industry. Journal of Fashion Marketing and Management, 25(2), 190-206.
  
