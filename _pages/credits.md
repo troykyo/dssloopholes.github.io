@@ -2,6 +2,7 @@
 # Credits
 <br>
 <br>
+<marquee behavior="scroll" direction="left" scrollamount="0" scrolldelay="2000">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
@@ -58,6 +59,7 @@
   <b><span style="color:#49796F;">Patience Musemakweri</span></b>  
   <b><span style="color:#7ECCB9;">Francesco Sollitto</span></b>  
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
+  <marquee behavior="scroll" direction="right" scrollamount="0" scrolldelay="2000">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
