@@ -14,7 +14,6 @@ The Circular Loopholes Toolkit aims to bridge the gap between technology, sustai
 <br>
 
 <img src="assets/overview1.gif" alt="The mainboard" title="Mainboard" > <br> 
-[To download the complete toolkit, click here](https://github.com/troykyo.github.io/dssloopholes.github.io/raw/main/assets/Complete%20loopholes%20toolkit_Jul2024.zip)
 
 [To contribute to this site/access source files, click here](https://github.com/troykyo/dssloopholes.github.io)
   
