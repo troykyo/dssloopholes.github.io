@@ -1,5 +1,5 @@
 
-# Credits
+# CREDITS
 <br> 
 <br>
 <marquee behavior="scroll" direction="right" scrollamount="8" loop="infinite">
