@@ -1,7 +1,7 @@
 
 # Credits
-<marquee behavior="alternate" direction="right" scrollamount="8" loop="1"></marquee>  
-<marquee behavior="slide" direction="right" scrollamount="8">
+
+<marquee behavior="scroll" direction="left" scrollamount="8">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
@@ -58,11 +58,15 @@
   <b><span style="color:#49796F;">Patience Musemakweri</span></b>  
   <b><span style="color:#7ECCB9;">Francesco Sollitto</span></b>  
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
+  <b><span style="color:#7ECCB9;">Erika Butcaru</span></b>  
+  <b><span style="color:#49796F;">Marina Toeters</span></b>  
 </marquee>
+
 <br> <img src="https://troykyo.github.io/dssloopholes.github.io/assets/3.2.jpg" alt="credits" style="width: 50%;" class="responsive-image">
 <br>
-<marquee behavior="alternate" direction="left" scrollamount="8" loop="1"></marquee>  
-<marquee behavior="slide" direction="left" scrollamount="8">
+This project would not have been possible without the dedication and expertise of those who contributed their time and effort. Their commitment to excellence and collaboration has played a crucial role in bringing it to completion. Sincere appreciation goes to everyone involved for their valuable contributions.
+
+<marquee behavior="scroll" direction="left" scrollamount="8">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
@@ -119,7 +123,10 @@
   <b><span style="color:#49796F;">Patience Musemakweri</span></b>  
   <b><span style="color:#7ECCB9;">Francesco Sollitto</span></b>  
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
+  <b><span style="color:#7ECCB9;">Erika Butcaru</span></b>  
+  <b><span style="color:#49796F;">Marina Toeters</span></b>  
 </marquee>
+
 
 
 
