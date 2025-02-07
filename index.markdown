@@ -6,7 +6,7 @@ layout: home
 ---
 # Welcome to the Loopholes Circular Innovation Toolkit 
 ## A fusion of strategy and serious design thinking for your Fashion or Textile Company.
-[*Click here to see the list of contributors."](https://github.com/troykyo.github.io/dssloopholes.github.io/raw/main/_pages/credits.md)
+[*Click here to see the list of contributors.*](https://github.com/troykyo.github.io/dssloopholes.github.io/raw/main/_pages/credits.md)
 
 
 
