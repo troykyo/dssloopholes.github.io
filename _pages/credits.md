@@ -72,7 +72,7 @@
 .scrolling-text span {
     display: inline-block;
     padding-left: 100%;
-    animation: scroll-left 500s linear infinite;
+    animation: scroll-left 100s linear infinite;
 }
 
 @keyframes scroll-left {
