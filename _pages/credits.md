@@ -1,7 +1,8 @@
 
 # Credits
-
-<marquee behavior="scroll" direction="left" scrollamount="8" loop="infinite">
+<br> 
+<br>
+<marquee behavior="scroll" direction="right" scrollamount="8" loop="infinite">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
