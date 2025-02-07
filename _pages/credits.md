@@ -61,7 +61,7 @@ Droog.Caroline Carlsson.Nelly Hayek.Alessandro Pierattini!</span>
 }
 
 @keyframes scroll-left {
-    from { transform: translateX(100%); }
+    from { transform: translateX(0%); }
     to { transform: translateX(-100%); }
 }
 </style>
