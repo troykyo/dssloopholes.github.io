@@ -108,6 +108,33 @@ Levi Strauss & Co., the iconic denim brand, has embraced a culture of innovation
 
 ##### Reference
 
-https://www.pwc.nl/nl/actueel-publicaties/assets/pdfs/pwc-what-does-young-talent-want
+- https://www.pwc.nl/nl/actueel-publicaties/assets/pdfs/pwc-what-does-young-talent-want
+
+- Deloitte Insights. (2022). The future of work in retail and fashion: Adapting to digital acceleration. Deloitte Insights. [Read more](https://www.deloitte.com/)
+ 
+- Accenture. (2021). Rewiring the fashion workforce: The talent and skills needed for a digital future. Accenture. [Read more](https://www.accenture.com/)
+ 
+- Bain & Company. (2021). The new essentials of talent management in retail and fashion. Bain & Company. [Read more](https://www.bain.com/)
+ 
+- PwC. (2022). Navigating the new world of work: Insights for the retail and fashion sectors. PwC. Available at https://www.pwc.com/
+ 
+- The Business of Fashion, & McKinsey & Company. (2021). Resetting normal: Redefining the new era of work in fashion. The Business of Fashion. Available at https://www.businessoffashion.com/
+ 
+- Savić, D. (2021). Digital transformation and its impact on workforce agility in the fashion industry. Journal of Fashion Marketing and Management, 25(2), 190-206.
+ 
+- Fisher, S. L., & Connelly, C. E. (2021). The impact of flexible work arrangements on employee outcomes in a fashion industry context. Human Resource Management Journal, 31(3), 438-454.
+ 
+- Stojanovic, A., & Liu, X. (2020). Skills for the future: Emerging roles and responsibilities in the digital fashion industry. Fashion Practice, 12(3), 369-388.
+ 
+- Gomez, E., & Korkmaz, A. (2022). Reimagining talent strategies for agility in the post-pandemic fashion industry. Fashion Theory, 26(2), 192-212.
+ 
+- Reeves, M., & Whitaker, K. (2020). Adaptability in times of crisis: How organizations can build workforce resilience. MIT Sloan Management Review, 61(4), 22-28.
+ 
+- Moultrie, J., & Livesey, F. (2020). The role of design in agile organizations. Design Studies, 68, 85-101.
+ 
+- Bly, S., & Gwozdz, W. (2020). Sustainable fashion supply chain management: The role of digital innovation. Journal of Cleaner Production, 246, 118-154.
+ 
+- Christopher, M., & Peck, H. (2022). Building the agile organization: Organizational change in the face of industry disruptions. Journal of - Business Research, 139, 511-523.
+
 
 
