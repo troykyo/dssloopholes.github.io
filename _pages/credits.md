@@ -67,7 +67,7 @@ This project would not have been possible without the dedication and expertise o
 <br> <img src="https://troykyo.github.io/dssloopholes.github.io/assets/3.2.jpg" alt="credits" style="width: 50%;" class="responsive-image">
 <br>
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
+<marquee behavior="scroll" direction="right" scrollamount="10">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
