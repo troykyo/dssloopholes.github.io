@@ -3,7 +3,7 @@
 <br>
 <br>
 <marquee behavior="alternate" direction="left" scrollamount="8" loop="1"></marquee>  
-<marquee behavior="scroll" direction="left" scrollamount="8">
+<marquee behavior="slide" direction="left" scrollamount="8">
   <b><span style="color:#7ECCB9;">Caroline Carlsson</span></b>  
   <b><span style="color:#49796F;">Nelly Hayek</span></b>  
   <b><span style="color:#7ECCB9;">Alessandro Pierattini</span></b>  
