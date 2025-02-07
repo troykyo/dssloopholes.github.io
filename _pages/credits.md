@@ -1,6 +1,6 @@
 
 # Credits
-<br> <img src="https://troykyo.github.io/dssloopholes.github.io/assets/3.2.jpg" alt="credits" style="width: 75%;" class="responsive-image">
+<br> <img src="https://troykyo.github.io/dssloopholes.github.io/assets/3.2.jpg" alt="credits" style="width: 50%;" class="responsive-image">
 <br>
 <marquee behavior="alternate" direction="left" scrollamount="8" loop="1"></marquee>  
 <marquee behavior="slide" direction="left" scrollamount="8">
