@@ -72,11 +72,13 @@
 .scrolling-text span {
     display: inline-block;
     padding-left: 100%;
+       justify-content: center; /* Center the text initially */
     animation: scroll-left 100s linear infinite;
+   
 }
 
 @keyframes scroll-left {
-    from { transform: translateX(0%); }
+    from { transform: translateX(100%); }
     to { transform: translateX(-100%); }
 }
 </style>
