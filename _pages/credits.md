@@ -60,7 +60,11 @@
   <b><span style="color:#7ECCB9;">Francesco Sollitto</span></b>  
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
   <b><span style="color:#7ECCB9;">Erika Butcaru</span></b>  
-  <b><span style="color:#49796F;">Marina Toeters</span></b>  
+  <b><span style="color:#49796F;">Marina Toeters</span></b>
+  <b><span style="color:#7ECCB9;">Suze van Vleuten</span></b>  
+  <b><span style="color:#49796F;">Sion Choi</span></b>
+  <b><span style="color:#7ECCB9;">Kahrawan Suleiman</span></b>  
+  <b><span style="color:#49796F;">Leah Benischek</span></b>
 </marquee>
 This project would not have been possible without the dedication and expertise of those who contributed their time and effort. Their commitment to excellence and collaboration has played a crucial role in bringing it to completion. Sincere appreciation goes to everyone involved for their valuable contributions.
 
@@ -126,6 +130,10 @@ This project would not have been possible without the dedication and expertise o
   <b><span style="color:#49796F;">Ellis Droog</span></b>  
   <b><span style="color:#7ECCB9;">Erika Butcaru</span></b>  
   <b><span style="color:#49796F;">Marina Toeters</span></b>  
+   <b><span style="color:#7ECCB9;">Suze van Vleuten</span></b>  
+  <b><span style="color:#49796F;">Sion Choi</span></b>
+  <b><span style="color:#7ECCB9;">Kahrawan Suleiman</span></b>  
+  <b><span style="color:#49796F;">Leah Benischek</span></b>
 </marquee>
 
 
