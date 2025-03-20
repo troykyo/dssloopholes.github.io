@@ -10,8 +10,12 @@ layout: home
 
 
 
-The Circular Loopholes Toolkit aims to bridge the gap between technology, sustainability, and business strategies, supporting designers, students, and companies in navigating the complexities of sustainable fashion. Developed through extensive research and collaboration, as detailed in the Transitions project Technology, Industry and Sustainability Toolkit report, the Circular Loopholes Toolkit empowers users to explore and implement innovative strategies in digitalization, sustainability, business, and stakeholder engagement. Loopholes is closely aligned with the European Union's vision for a circular economy, as outlined in the [Textiles Transition Pathway](https://single-market-economy.ec.europa.eu/sectors/textiles-ecosystem/textiles-transition-pathway_en) and the initiatives of the [Transitions Project](https://transitionsproject.eu).
+Loopholes is a Transitions Roadmap toolkit designed to help companies and students adopt systemic innovation, digital transformation, and circular business strategies. It enables users to identify skill gaps, explore data interoperability, develop roadmaps for digital technology adoption, and evaluate sustainable business opportunities.
+ 
+Beyond fashion and textiles, the toolkit supports planning for traceability, technology integration, and cybersecurity. It aligns with the EU’s [Textiles Transition Pathway](https://single-market-economy.ec.europa.eu/sectors/textiles-ecosystem/textiles-transition-pathway_en) and the [Transitions Project](https://transitionsproject.eu), helping companies meet circular economy goals. It also equips students with the foresight to strategically upskill in areas such as digital manufacturing and fabric digitalization. More broadly, Loopholes serves as a systemic innovation guide, allowing other industries to draw parallels and adapt its principles to drive their own transformation.
 <br>
+
+<!-- The Circular Loopholes Toolkit aims to bridge the gap between technology, sustainability, and business strategies, supporting designers, students, and companies in navigating the complexities of sustainable fashion. Developed through extensive research and collaboration, as detailed in the Transitions project Technology, Industry and Sustainability Toolkit report, the Circular Loopholes Toolkit empowers users to explore and implement innovative strategies in digitalization, sustainability, business, and stakeholder engagement. Loopholes is closely aligned with the European Union’s vision for a circular economy, as outlined in the Textiles Transition Pathway and the initiatives of the Transitions Project. -->
 
 <img src="assets/overview1.gif" alt="The mainboard" title="Mainboard" > <br> 
 
