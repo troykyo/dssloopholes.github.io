@@ -1,0 +1,1504 @@
+﻿## Advanced sorting technologies
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Advanced Sorting Technologies </h3>
+Sorting clothes for reuse and recycling is a difficult process, often with more than 300 categories. New technologies like visual identification AI can be used to help sorters identify and sort materials into recycling and reuse by material and brand. Using phone cameras, wearers could be encouraged to dispose their clothes at an optimal time.
+    <br><br><strong> VET: </strong>
+How can using new technology to sort and recycle clothes make recycling easier and better?
+    <br><strong> HEI: </strong>
+How can visual identification technologies improve the fashion ecosystem processes and encourage sustainable behavior?  
+  </div>
+</div>
+<br>
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: centre;
+    }
+  }
+</style>
+
+Advanced sorting technologies refer to innovative and technologically advanced systems and processes used to sort and categorize fashion products for the purpose of digital recycling and upcycling. These technologies leverage cutting-edge methods, such as machine vision, artificial intelligence, and data analytics, to efficiently and accurately identify, classify, and separate garments and materials based on their suitability for recycling or upcycling.
+
+Digital recycling and upcycling involve the transformation of discarded or unused fashion products into new, valuable items through digital processes. Advanced sorting technologies play a crucial role in this context by enabling the automated identification and separation of materials that can be recycled or repurposed, thereby streamlining the digital recycling and upcycling workflows.
+
+One of the key components of advanced sorting technologies for digital recycling and upcycling is the use of machine vision systems. These systems employ cameras, sensors, and advanced image recognition algorithms to capture detailed visual information about fashion products. Through machine vision, these technologies can identify specific garment types, materials, colors, patterns, and other attributes that are relevant for determining their recycling or upcycling potential.
+
+Furthermore, advanced sorting technologies integrate artificial intelligence and data analytics capabilities. By analyzing vast amounts of data, including historical records, product specifications, and material characteristics, these technologies can learn and improve their sorting accuracy over time. They can identify patterns, trends, and correlations that help in making informed decisions regarding the recycling or upcycling potential of fashion items.
+
+The benefits of advanced sorting technologies in the context of digital recycling and upcycling are significant. They enable the efficient and precise sorting of fashion products, reducing the reliance on manual labor and minimizing errors. This not only saves time but also enhances the overall quality and value of the recycled or upcycled materials.
+
+Moreover, these technologies contribute to the circular economy in the fashion industry. By facilitating the identification and separation of recyclable or upcyclable materials, they support the transition from a linear "take-make-dispose" model to a more sustainable and circular approach. Advanced sorting technologies promote resource efficiency, waste reduction, and the reuse of materials, thereby reducing the environmental impact associated with fashion production and utilization.
+
+### Case studies
+
+**The Renewal Workshop** <br>
+The Renewal Workshop is a company that partners with fashion brands to implement a circular system for their garments. They utilize digitalization and data to track and manage the entire lifecycle of a garment. Through their proprietary software, they collect data on garment quality, repairs needed, and material composition. This data helps them determine the best course of action for each garment, whether it's repairing, upcycling, or recycling. By using data-driven insights, they enable fashion brands to extend the lifespan of their products and reduce waste. [More about The Renewal Workshop](https://renewalworkshop.com/)
+
+**Reflaunt**<br>
+Reflaunt is a technology company that works with luxury fashion brands to facilitate the resale of their products. They integrate their digital solution into the brand's e-commerce platform, allowing customers to easily resell their pre-owned items. Through the use of data, Reflaunt provides a transparent and trusted resale experience by verifying the authenticity and quality of the items. This data-driven approach promotes circularity by encouraging the reuse and circulation of luxury fashion products. [More about Reflaunt](https://www.reflaunt.com/)
+
+**Reverse Resources**<br>
+Reverse Resources is a company that uses advanced sorting technologies to enable digital recycling in the fashion industry. They have developed a digital platform that utilizes machine vision and data analytics to identify and sort textile waste materials. By connecting textile waste generators with recycling facilities, they facilitate the efficient recycling and repurposing of discarded textiles. [More about Reverse Resources](https://reverseresources.net/)
+
+**Digital Upcycling Project by Tilda** <br>
+The Digital Upcycling Project by Tilda leverages advanced sorting technology to transform post-consumer textiles into new, valuable digital assets. By employing AI and digital tools, Tilda's initiative identifies and categorizes materials, enabling sustainable fashion innovations and reducing waste through efficient digital upcycling processes. This project exemplifies how advanced sorting can support a circular economy in fashion by maximizing the value of discarded materials. [Read more](https://www.dupbytilda.com/)
+
+
+### References
+
+- Charnley, Fiona, et al. "Can Digital Technologies Increase Consumer Acceptance of Circular Business Models? The Case of Second Hand Fashion."_Sustainability_ 14.8 (2022): 4589.  
+This paper explores the role of digital technologies in enhancing consumer acceptance of circular business models, particularly focusing on the second-hand fashion market.  
+[https://doi.org/10.3390/su14084589](https://doi.org/10.3390/su14084589)
+
+- Colombi, Chiara, and Erminia D’Itria. "Fashion Digital Transformation: Innovating Business Models toward Circular Economy and Sustainability."_Sustainability_ 15.6 (2023): 4942.  
+This study examines how digital transformation in the fashion industry can innovate business models to support circular economy practices and enhance sustainability.  
+[https://doi.org/10.3390/su15064942](https://doi.org/10.3390/su15064942)
+
+- Alpert, Cirrus, Michaela Turkowski, and Tahiya Tasneem. "Scalability solutions for automated textile sorting: a case study on how dynamic capabilities can overcome scalability challenges." (2021).  
+This case study addresses the scalability challenges in automated textile sorting and discusses how dynamic capabilities can provide effective solutions.  
+[http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=9908](http://hb.diva-portal.org/smash/record.jsf?pid=diva2%3A1593417&dswid=-6318)
+
+- Bonifazi, Giuseppe, et al. "End-of-Life Textile Recognition in a Circular Economy Perspective: A Methodological Approach Based on Near Infrared Spectroscopy."_Sustainability_ 14.16 (2022): 10249.  
+The paper presents a methodological approach using Near Infrared Spectroscopy to recognize end-of-life textiles, supporting circular economy initiatives.  
+[https://doi.org/10.3390/su141610249](https://doi.org/10.3390/su141610249)
+
+- Humpston, G., et al. "Technologies for sorting end of life textiles."A technical and economic evaluation of the options applicable to clothing and household textiles, WRAP, UK_ (2014).  
+This evaluation provides a comprehensive overview of technologies available for sorting end-of-life textiles, assessing both technical and economic aspects.  
+[https://www.researchgate.net/publication/293487871_Technologies_for_sorting_end_of_life_textiles]
+
+- Nørup, Nynne, et al. "Development and testing of a sorting and quality assessment method for textile waste."_Waste Management_ 79 (2018): 8-21.  
+This research focuses on developing and testing a new method for sorting and assessing the quality of textile waste to improve recycling efficiency.  
+[https://doi.org/10.1016/j.wasman.2018.07.029](https://doi.org/10.1016/j.wasman.2018.07.029)
+
+- [https://www.theinterline.com/?s=Advanced+Sorting+Technology](https://www.theinterline.com/?s=advanced+sorting+technology)
+  
+- [TextileGenesis™ is a pioneering traceability platform custom built for the fashion & textile ecosystem.](https://fashionforgood.com/our_news/meet-the-innovator-textilegenesis/)
+## AR try-on
+
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> AR Try-on    </h3>
+	  Augmented Reality (AR) for clothing and textiles can bridge the gap between digital and physical retail by using phones, VR and computer cameras to create a realistic virtual representation of a product over the users body in real-time for physical and digital fashion.
+<br><br><strong>VET: </strong>
+How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?	 
+<br><strong> HEI: </strong>
+  What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion manufacturing, retail, use, or recycling?
+  
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: centre;
+    }
+  }
+</style>
+<br>
+
+
+AR Try-on, also known as Augmented Reality Try-on, refers to the use of augmented reality technology to allow customers to virtually try on clothing, accessories, or other fashion items. It involves superimposing digital representations of products onto a live camera feed, enabling users to see how the items would look on them in real-time or through uploaded photos.
+
+AR Try-on provides a virtual fitting experience, enhances customer engagement, reduces return rates, offers personalized shopping experiences, bridges online and offline shopping, contributes to sustainability, and generates valuable data for trend forecasting. By exploiting the potential of AR Try-on, fashion brands can create immersive and interactive experiences for their customers, ultimately driving sales, reducing waste, and staying at the forefront of digital innovation in the industry.
+
+#### Virtual fitting experience
+
+AR Try-on offers a virtual fitting experience to customers, allowing them to visualize how clothing and accessories would look and fit on their own bodies without physically trying them on. By leveraging the power of augmented reality, users can virtually see themselves wearing different garments, experimenting with various styles, colors, and sizes. This immersive experience enhances the convenience and accessibility of trying on fashion items.
+
+#### Enhanced customer engagement
+
+AR Try-on provides an interactive and engaging way for customers to interact with fashion products. It allows them to actively participate in the shopping process, exploring different options and experimenting with various looks. This level of engagement fosters a deeper connection between customers and brands, leading to increased satisfaction and a higher likelihood of making a purchase.
+
+#### Reduced return rates
+
+One of the challenges in online fashion shopping is the uncertainty of fit and style. AR Try-on helps mitigate this issue by providing a realistic preview of how items will look on the customer's body. By allowing users to virtually try on clothing before making a purchase, AR Try-on reduces the chances of ill-fitting or unsatisfactory purchases. This, in turn, helps minimize return rates and associated costs for both customers and retailers.
+
+#### Personalized shopping experience
+
+AR Try-on can be customized to cater to individual preferences and body characteristics. By utilizing customer data, such as body measurements or style preferences, AR Try-on can recommend and showcase clothing items that are more likely to fit and align with the customer's personal style. This personalized approach enhances the shopping experience, making it more tailored to individual needs.
+
+#### Bridging online and offline shopping
+
+AR Try-on bridges the gap between online and offline shopping experiences. It allows customers to virtually try on items from the comfort of their own homes, combining the convenience of online shopping with the visual and tactile experience of trying on clothes in physical stores. This seamless integration creates a cohesive and omnichannel shopping experience, catering to the preferences of modern users.
+
+#### Sustainability and reduced environmental impact
+
+AR Try-on contributes to sustainability efforts by reducing the need for physical product samples and in-store try-ons. By eliminating the necessity for shipping and handling of multiple items for fitting purposes, AR Try-on helps reduce the carbon footprint associated with the fashion industry. It also promotes more mindful utilization, as customers can make more informed purchasing decisions, minimizing the potential for wasteful returns.
+
+#### Trend forecasting and data analytics
+
+AR Try-on generates valuable data on customer preferences, popular styles, and purchasing behaviors. Retailers can leverage this data for trend forecasting, product development, and inventory management. By analyzing customer interactions and preferences within the AR Try-on platform, companies can gain insights into emerging trends, optimize their product offerings, and tailor their marketing strategies.
+
+### Case studies
+
+**Sarah Mayer / Sa.m.co** <br>
+Sarah Mayer is a fashion designer and artist creating digital and semi-digital fashion pieces that blend the physical and virtual worlds. Through her brand Sa.m.co, Mayer experiments with augmented reality (AR) fashion and digital-only designs that showcase innovative approaches to fashion and art. [Read more](https://www.coeval-magazine.com/coeval/sarah-mayer), [Linktree](https://linktr.ee/sa.m.co)
+
+**DRESSX** <br>
+As a global leader in digital fashion, DRESSX offers AR try-on experiences that allow users to try virtual outfits through their phone cameras, join virtual meetings in AR clothing, and dress avatars in virtual environments like Snap, Roblox, and Meta. With over 30 million assets distributed, DRESSX empowers users and brands to engage with digital fashion seamlessly. [Read more](https://dressx.com)
+
+**Glitch Magazine** <br>
+Glitch Magazine showcases the latest trends in digital fashion, including how AR try-ons are transforming user engagement across virtual spaces. Their features on platforms like DRESSX highlight the potential for fashion in virtual environments, helping brands reach new audiences through digital assets and AR experiences. [Read more](https://glitchmagazine.xyz)
+
+**Gucci's AR shoe try-on** <br>
+Gucci introduced an AR Try-on feature in their app that allows users to virtually try on their collection of sneakers. Users can see high-resolution 3D models of the shoes superimposed on their feet using their smartphone camera. This immersive experience enables customers to visualize how the sneakers would look on their feet before making a purchase.
+
+**Sephora's virtual makeup try-on** <br>
+Sephora, a leading cosmetics retailer, launched an AR Try-on feature in their app that enables users to try on different makeup products virtually. Customers can experiment with various shades of lipstick, eyeshadow, and other cosmetics, seeing the results on their own face through the app's augmented reality capabilities. [Know more](https://www.sephora.my/pages/virtual-artist?srsltid=AfmBOoq9QnF91MZM1p_-cMg-GavWk6j336--23TgnUtaCheHtIagpKy6)
+
+**Warby Parker's virtual eyewear try-on** <br>
+Warby Parker, an eyewear retailer, implemented an AR Try-on feature on their website and mobile app. Customers can see how different frames will look on their face by using the device's camera. This technology helps users choose the most flattering frames, increasing customer satisfaction and reducing the need for in-person try-ons.
+
+**ASOS virtual catwalk** <br>
+ASOS, an online fashion retailer, introduced a Virtual Catwalk feature that allows users to view models wearing clothes in various sizes and shapes. By using AR Try-on, customers can see how the garments move and fit on different body types, providing a more realistic representation of the product before purchasing.
+
+**Adidas' AR shoe try-on** <br>
+Adidas incorporated AR Try-on technology in their app to enhance the shoe shopping experience. Customers can select a pair of shoes and see a virtual representation of the sneakers on their feet in real-time. This enables users to gauge the style and fit of the shoes without physically trying them on, improving the online shopping experience.
+
+
+### References
+- [Boardman, Rosy, Claudia E. Henninger, and Ailing Zhu. "Augmented reality and virtual reality: new drivers for fashion retail?." _Technology-Driven Sustainability: Innovation in the Fashion Supply Chain_ (2020): 155-172.](https://link.springer.com/chapter/10.1007/978-3-030-15483-7_9)
+
+- [Baytar, Fatma, Telin Chung, and Eonyou Shin. "Evaluating garments in augmented reality when shopping online." _Journal of Fashion Marketing and Management: An International Journal_ 24.4 (2020): 667-683.](https://www.researchgate.net/publication/340461981_Evaluating_garments_in_augmented_reality_when_shopping_online)
+
+- [Jayamini, Chamodi, et al. "The use of augmented reality to deliver enhanced user experiences in fashion industry." _Lecture Notes in Computer Science_ 12936 (2021).](https://orca.cardiff.ac.uk/id/eprint/145698/1/The%20use%20of%20Augmented%20Reality%20to%20Deliver%20Enhanced%20User%20Experiences%20in%20Fashion%20Industry.pdf)
+
+- [Zak, Marlene. _Augmented Reality try-on adoption in the Online Clothing Industry: understanding key challenges and critical success Factors_. MS thesis. University of Twente, 2020.](https://essay.utwente.nl/84375/1/Zak_MA_BMS.pdf)
+
+- [Plotkina, Daria, and Hélène Saurel. "Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing." _Journal of Retailing and Consumer Services_ 51 (2019): 362-377.](https://www.sciencedirect.com/science/article/pii/S0969698918311834)
+
+- [From IRL to URL, digest the best of algorithm-driven culture – news, trends and insights – powered by The Digital Fairy.](https://www.thedigitalfairy.co.uk/digiverse)
+
+﻿## Blockchain and Unique ID technologies
+ 
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Blockchain and Unique ID technologies </h3>
+Tracking every garment and who is wearing it is a complex process. Web3 uses Blockchain technology to create decentralized systems that log data about the life-cycles without central authorities, promoting stakeholder empowerment.
+    <br><br><strong>VET: </strong>
+How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<br><strong> HEI: </strong>
+How can blockchain and decentralized technologies be integrated into the fashion ecosystem, and what impact will transparent ownership have on fashion ecosystems?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+    }
+	
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+
+Blockchain and Web3 technologies are innovative digital systems that operate in a decentralized manner. They employ cryptographic techniques, smart contracts, and distributed ledgers to ensure transparency, security, and user-centeredness in the development of applications and services.
+
+These technologies enable trust, immutability, and verifiability, revolutionizing various industries including finance, supply chain management, and even fashion.
+
+By leveraging blockchain and Web3, organizations can enhance data integrity, streamline processes, and empower users with greater control over their digital interactions. Blockchain and Web3 technologies have emerged as powerful tools in various industries, including the  fashion industry with promise of offerings of  several potential applications and benefits.
+
+Blockchain technology involves using a distributed and immutable ledger to record and verify various aspects of the fashion supply chain, such as the origin and authenticity of raw materials, the manufacturing processes, and the final product distribution.
+
+By leveraging blockchain, fashion brands can establish greater transparency, traceability, and accountability throughout their supply chains, addressing issues like counterfeiting, unethical practices, and lack of visibility.  Through blockchain and Web3 technologies, fashion companies can enhance trust and authenticity, as customers can verify the origin and quality of products using immutable records stored on the blockchain. This can help build user confidence and combat the proliferation of counterfeit goods in the market.
+
+Additionally, blockchain can facilitate more efficient and secure transactions within the fashion industry. Smart contracts, which are self-executing contracts stored on the blockchain, can automate various aspects of fashion transactions, including payment settlements, royalties, and licensing agreements. This reduces the need for intermediaries, streamlines processes, and minimizes the risk of fraud or disputes.
+
+Furthermore, blockchain-based platforms can enable peer-to-peer interactions and decentralized marketplaces, allowing fashion designers, artisans, and independent creators to showcase and sell their products directly to users without the need for traditional intermediaries. This opens up new opportunities for small-scale designers and promotes a more inclusive and diverse fashion ecosystem.
+
+Note: While the potential of blockchain and Web3 technologies in the fashion industry is significant, their widespread adoption is still evolving, and specific implementation and real-life study cases may vary.
+
+### Case studies
+
+**VeChain** <br>
+VeChain is a blockchain platform that focuses on supply chain management and product authentication. It has collaborated with fashion brands like H&M, Babyghost, and BYBORRE to provide blockchain-based solutions for product traceability and anti-counterfeiting. Loomia: Loomia is a technology company that integrates flexible circuitry into textiles, enabling the creation of smart fabrics. They leverage blockchain to store and secure data collected by their smart textiles, allowing brands and users to track and verify the authenticity and history of the products. [More about VeChain](https://www.vechain.org/)
+
+**Arianee** <br>
+Arianee is a decentralized platform that uses blockchain to create digital certificates for luxury goods, including fashion items. It enables brands to provide digital passports for their products, allowing customers to access product information, ownership history, and proof of authenticity. [More about Arianee](https://www.arianee.org/)
+
+**Provenance** <br
+Provenance is a blockchain-based platform that focuses on transparency and traceability in supply chains. They have collaborated with sustainable fashion brands like Martine Jarlgaard and Bottletop to provide transparency and accountability in their supply chains, allowing users to verify the ethical and sustainable practices of the brands. [More about Provenance](https://www.provenance.org/)
+
+**Luxury goods consortium** <br>
+In 2019, a consortium of luxury goods companies, including LVMH, Prada, and Cartier, joined forces to create the Aura Blockchain Consortium. The consortium aims to establish a shared blockchain platform to provide product traceability and authentication across multiple luxury brands. [More about Aura Blockchain Consortium](https://auraluxuryblockchain.com/)
+
+**FashTech**<br>
+FashTech is a fashion and technology company that utilizes blockchain and Web3 technologies to create a decentralized marketplace for fashion designers and users. Their platform allows designers to showcase and sell their creations directly to users, eliminating the need for traditional intermediaries. [More about FashTech](https://www.fashtech.io/)
+
+### References
+
+- [Person. (2021, October 1). _How the fashion industry uses Blockchain_. Blue Bite.](https://www.bluebite.com/brand-strategy/how-the-fashion-industry-uses-blockchain)
+
+- [Project Provenance Ltd. (2015, November 21). _Blockchain: The Solution for Supply Chain Transparency_. Provenance.](https://www.provenance.org/news-insights/blockchain-the-solution-for-transparency-in-product-supply-chains)
+
+- [_How walmart Canada uses blockchain to solve supply-chain challenges_. Harvard Business Review. (2022, January 5). ](https://hbr.org/2022/01/how-walmart-canada-uses-blockchain-to-solve-supply-chain-challenges)
+
+
+- Crosby, Michael, et al. "Blockchain technology: Beyond bitcoin." _Applied Innovation_ 2.6-10 (2016): 71.
+﻿## Digital product passports
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Digital Product Passports </h3>
+Digital Product Passports provide transparency on garment origins, including material sources, environmental impact (water, energy, carbon), and manufacturing locations, facilitating transparent information practices.
+    <br><br><strong>VET: </strong>
+How can tracking where and how clothes are made help us recycle and reuse them better?
+	  <br><strong> HEI: </strong>
+How can the implementation of Digital Product Passports enhance trackability and traceability of garment life-cycles, supporting the transition to a circularity?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+
+A digital product passport refers to a comprehensive and professional documentation system that digitally records and stores detailed information about a fashion product throughout its entire lifecycle. It serves as a digital identity and information hub, providing transparency, traceability, and accountability for the product's sourcing, manufacturing, materials, environmental impact, and social aspects.
+
+#### Transparency and traceability.
+
+A digital product passport ensures transparency by making essential information readily available to users, retailers, and other stakeholders in the fashion industry. It includes details about the product's origin, materials, manufacturing processes, and certifications. By providing this information in a digital format, stakeholders can easily access and verify the authenticity and sustainability claims of the product. This transparency promotes trust and allows users to make informed choices based on their values and preferences.
+
+#### Sourcing and supply chain visibility
+
+A digital product passport enables visibility into the sourcing and supply chain of fashion products. It documents the journey of materials from raw sourcing to the final product, capturing information about suppliers, manufacturers, and subcontractors involved. This visibility helps identify potential risks, such as labor violations or environmental impacts, and facilitates responsible sourcing practices. By understanding the complete supply chain, brands and users can support ethical and sustainable fashion.
+
+#### Environmental impact assessment
+
+The digital product passport contains data about the environmental impact of a fashion product, such as its carbon footprint, water usage, energy utilization, and waste generation. This information allows stakeholders to assess the product's sustainability credentials and make comparisons with other alternatives. It helps drive the adoption of environmentally friendly practices, encourages the use of sustainable materials, and supports efforts to reduce the industry's overall ecological footprint.
+
+#### Social responsibility and ethical considerations
+
+In addition to environmental impact, a digital product passport can incorporate information related to social responsibility and ethical considerations. It may include details about fair labor practices, worker welfare, and compliance with social standards. By providing insights into the social aspects of production, the passport encourages brands to prioritize fair working conditions and helps users align their values with responsible fashion choices.
+
+#### Circular economy facilitation
+
+Digital product passports play a crucial role in promoting a circular economy within the fashion industry. They capture information about a product's durability, reparability, and recyclability, facilitating the implementation of circular practices. This data can inform decisions on repair, refurbishment, and end-of-life options. By enabling effective recycling and upcycling, the passport supports efforts to reduce waste and extend the lifespan of fashion products, fostering a more sustainable industry.
+
+#### User empowerment and education
+
+The digital product passport empowers users by providing them with comprehensive information about the products they purchase. It allows users to evaluate the sustainability and ethical attributes of a fashion item, aligning their choices with their values. The passport can also serve as an educational tool, raising awareness about the environmental and social impact of fashion use. It helps users understand the value of responsible choices and encourages a more conscious approach to fashion.
+
+####  Industry collaboration and standardization
+
+The implementation of digital product passports requires collaboration and standardization among industry stakeholders. Establishing common frameworks and protocols ensures consistency and interoperability across brands and products. This collaboration enables the exchange of reliable and accurate information, enhances industry-wide transparency, and drives continuous improvement in sustainability practices.
+
+### Case studies
+
+#### Levi's and Levi's SecondHand**
+Levi's, a well-known denim brand, has launched a digital product passport initiative called Levi's SecondHand. This program aims to extend the lifecycle of Levi's products by enabling customers to buy and sell used garments through a dedicated online platform. The digital passport provides information about the product's history, including previous ownership, repairs, and customization, enhancing the transparency and value of pre-owned Levi's items.
+
+#### Eileen Fisher's Renew Takeback Program
+Eileen Fisher, a sustainable fashion brand, operates a Renew Takeback Program that encourages customers to return their worn garments. As part of the program, the company uses a digital product passport to track and document the lifecycle of each returned garment. This passport includes information about the materials, production processes, and subsequent reuse or recycling of the item, promoting a circular economy and reducing textile waste.
+
+#### Farfetch and Positively Farfetch
+Farfetch, a global luxury fashion platform, has launched a sustainability initiative called Positively Farfetch. As part of this program, the company is developing a digital product passport system to provide customers with information about the sustainability credentials of the products available on their platform. The passport will include details about materials, production methods, and certifications, allowing customers to make more sustainable choices.
+
+#### Reformation's RefScale
+Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables users to make informed decisions and supports Reformation's commitment to sustainability.
+
+### References
+
+- [Impact of international, open standards on circularity in Europe_. GS1 in Europe. (2022, November 18). ](https://gs1.eu/news/impact-of-international-open-standards-on-circularity-in-europe/)
+
+- [Team, B., & Company, M. &. (2022a, March 2). _The year ahead: What product passports will do for brands_. The Business of Fashion. ](https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2022-bof-mckinsey-product-passport-technology-resale-luxury-counterfeit/)
+
+- [Candour.Digital. (n.d.). _Digital product passports, what are they, and why should we care?_. LinkedIn. ](https://www.linkedin.com/pulse/digital-product-passports-what-why-should-we-care-candourdigital/)
+
+- [This start-up is making digital passports... for clothes. here’s what that means for the fashion industry_. World Economic Forum. (n.d.). ](https://www.weforum.org/agenda/2021/05/tracking-fashion-clothes-sustainable/)
+
+- [Remington, W. by C. (n.d.). _Circular.fashion backs push for digital product passports_. Ecotextile News. ](https://www.ecotextile.com/2022101729950/materials-production-news/circular-fashion-backs-push-for-digital-product-passports.html)
+
+- Plociennik, Christiane, et al. "Requirements for a Digital Product Passport to Boost the Circular Economy." _INFORMATIK 2022_ (2022).
+## Digital Production
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Digital Production </h3>
+Advanced digital manufacturing technologies such as 3D printing and computer-controlled machines (spinning, cutting, sewing, knitting, weaving, dyeing, pressing, coating, logistics) streamline the fashion process, enabling innovative and sustainable textile creation and modification.
+    <br><br><strong>VET: </strong>
+How can new machines and technology like 3D printers change the way clothes are made and worn?
+	  <br><strong> HEI: </strong>
+How can advancements in digital manufacturing technologies revolutionize the fashion ecosystem workflows and value chains?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+
+Advanced digital production technologies streamline the fashion process and enable innovative and sustainable creation and modification of textiles.
+<br>
+The fashion industry is undergoing a major development and transformation through the integration of Digital Manufacturing and Digital Twinning technologies, driven by the principle of ‘Digital to Physical’ design and production. Digital Production leverages advanced technologies like 3D printing and computer-controlled machines to streamline manufacturing, enhancing efficiency, customization, and sustainability. This approach enables on-demand production, reduces waste, and marks a departure from traditional mass production methods, allowing fashion brands to respond swiftly to market trends while emphasizing personalization and quality.
+<br>
+Complementing this, Digital Twinning involves creating virtual models that replicate and optimize physical products, systems, or processes throughout their lifecycle. Continuously updated with real-time data, Digital Twinning enables the creation of virtual prototypes, reducing the need for physical samples and improving supply chain management through real-time monitoring and simulation. It also enhances customer experiences by offering personalized avatars for better sizing and styling recommendations and by promoting sustainability through material analysis and environmental impact assessments.
+<br>
+Together, Digital manufacturing and Digital Twinning are revolutionizing the fashion industry by driving innovation, sustainability, and operational efficiency. By adopting these technologies, fashion brands can reduce their environmental footprint, better meet consumer demands, and explore new business models that were previously unattainable with traditional methods."
+<br>
+
+### Case Studies 
+
+**Kornit Digital**  <br>
+Kornit Digital leads in sustainable textile printing with their **on-demand production** approach. They integrate **3D printing and digital technologies** through platforms like KornitX, reducing water usage and minimizing waste by producing garments only after orders are placed. [Read more here](https://3dprint.com/290237/kornit-showcases-the-future-of-sustainable-digital-fashion-3d-and-otherwise/)
+ 
+
+**TextileGenesis**   <br>
+TextileGenesis leverages **blockchain-powered digital twins** to trace sustainable fibers like **TENCEL™**. Their platform ensures full transparency across the supply chain, helping brands achieve sustainability goals by reducing waste and optimizing material use. [Read more here](https://www.fashionunited.uk/news/business/how-blockchain-is-paving-the-way-for-greater-transparency-sustainability-within-the-fashion-industry/2020112751864)
+
+**Valaclava**   <br>
+Valaclava's **digital-first fashion** model allows customers to purchase a **digital twin** of a garment, customize it, and produce the physical item only after confirming the digital version. This reduces overproduction and integrates **NFTs** for product traceability. [Read more here](https://juststyle.nridigital.com/issue15/digital_twins_in_fashion)
+ <br>
+
+ **PlatformE** 
+PlatformE is a pioneering force in the fashion industry, revolutionizing digital production by enabling brands to design, produce, and deliver fashion more efficiently. Utilizing advanced tools and technology, PlatformE helps brands reduce waste and optimize production, reshaping the fashion supply chain for greater sustainability. [Read more](https://www.platforme.com).
+
+**Augmented Weaving** 
+Initiated by Anita Michaluszko and Flavia Bon in 2021, Augmented Weaving explores innovative digital approaches to jacquard weaving. By integrating physical, digital, and virtual tools, the project pushes the boundaries of textile design. Showcased at Dutch Design Week 2022, it also won the Swiss Design Awards 2024. [Read more](https://www.flaviabon.com/augmented-weaving-on-the-fraying-edge).
+
+**Holly McQuillan** 
+Holly McQuillan's work in zero waste fashion design explores sustainable production through transition design and digital technology. Her research challenges conventional design and production processes, advocating for systemic shifts towards sustainable fashion practices. [Read more](https://hollymcquillan.com/).
+
+
+### References
+
+- Baker, K. (2023). "How to build a product ecosystem buyers will want to be in." HubSpot Blog.
+
+- Armstrong, C.M., & Lang, C. (2013). "Sustainable product service systems: the new frontier in apparel retailing?" Research Journal of Textile and Apparel.
+
+- [Yang, S., Song, Y., & Tong, S. (2017). "Sustainable retailing in the fashion industry: A systematic literature review." Sustainability.](https://www.mdpi.com/2071-1050/9/7/1266)
+
+- Botín-Sanabria, D.M., et al. (2022). "Digital twin technology challenges and applications: A comprehensive review." Remote Sensing.
+
+- Wagner, R., & Kabalska, A. (2022). "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." Sustainable Development.
+
+- Alam, M.D., Kabir, G., & Mirmohammadsadeghi, M. (2023). "A digital twin framework development for apparel manufacturing industry." Decision Analytics Journal.
+
+- Gornostaeva, G. (2023). "The Development of Digital Commerce in the Fashion Industry: The Typology of Emerging Designers in London." Technological Forecasting and Social Change, 186, 122122.
+
+- [Kornit Digital (2021). Kornit Presto MAX for sustainable on-demand textile production. Innovation in Textiles.](https://www.innovationintextiles.com/dyeing-finishing-printing/kornit-digital-introduces-presto-max/)
+
+- [Fashion Made Better](https://www.kornit.com/)
+  
+- [Skeeva, Art-director and 3d-artist](https://theskeeva.com/)
+
+- [Chan, H. H. Y., Henninger, C., Boardman, R., & Blazquez Cano, M. (2023). The adoption of digital fashion as an end product: A systematic literature review of research foci and future research agenda. Journal of Global Fashion Marketing, 15(1), pp. 155–180. doi: 10.1080/20932685.2023.2251033](https://www.tandfonline.com/doi/full/10.1080/20932685.2023.2251033#abstract)
+  
+- [From Digital Twins to Data Democratisation: The Disruptive Technologies Reshaping The Fashion Value-Chain](https://www.theinterline.com/2024/02/22/from-digital-twins-to-data-democratisation-the-disruptive-technologies-reshaping-the-fashion-value-chain/)
+  
+- [The Renewed Business Case For Digital Fabrics](https://www.theinterline.com/2024/09/18/the-renewed-business-case-for-digital-fabrics/)
+
+﻿## Digital twin
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Digital Twin </h3>
+A digital twin is a digital model of a physical product, process, or system. In fashion, this could mean a detailed, dynamic 3D model (or, more often, a data model) of a garment, factory, store, entire value chain, and/or the interaction of many value chains. This helps us understand how product/service eco-systems are working at a practical level.
+    <br><br><strong>VET: </strong>
+How can making a virtual copy of clothes or factories help us understand and improve fashion production?
+    <br><strong> HEI: </strong>
+How can the use of digital twins in fashion ecosystem improve efficiency, sustainability and collaboration?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+Digital twins are virtual representations of physical products, systems, or processes. They are created using digital models that mirror the characteristics and behavior of their real-world counterparts. These virtual twins are updated in real-time or periodically throughout the life-cycle of the product or system, capturing data and enabling analysis, simulation, and optimization.  In the fashion industry, digital twins can be used to enhance various aspects of the product life-cycle, from design and production to retail and post-user stages.
+
+#### Design and development
+
+Digital twins can be used during the design phase to visualize and simulate garments or fashion collections. Designers can create virtual prototypes that closely resemble the physical products, allowing them to evaluate different design options, materials, and fit. This helps reduce the need for physical samples and iterations, saving time, cost, and resources.
+
+#### Supply chain optimization
+
+Digital twins enable real-time monitoring and optimization of supply chain processes in the fashion industry. By creating virtual representations of production facilities, logistics networks, and inventory systems, companies can simulate different scenarios, analyze performance, and identify opportunities for improvement. This helps optimize production planning, reduce waste, and enhance overall supply chain efficiency.
+
+#### Personalized customer experience
+
+Digital twins can be used to create virtual avatars or models that represent individual customers. By capturing data on body measurements, preferences, and style, companies can offer personalized recommendations for sizing, fit, and styling choices. This enhances the online shopping experience, reduces returns, and improves customer satisfaction.
+
+#### Sustainability and circular economy
+
+Digital twins facilitate the implementation of sustainable practices in the fashion industry. By capturing data on the materials used, energy utilization, and environmental impacts, companies can analyze and optimize the sustainability performance of their products. Digital twins can also aid in tracking and managing the entire life-cycle of garments, from production to recycling or upcycling, promoting circular economy practices.
+
+#### Smart retail and inventory management
+
+Digital twins can be utilized in retail stores to optimize inventory management and improve customer experience. By creating virtual representations of products and store layouts, companies can simulate and analyze customer flow, optimize shelf space, and forecast demand. This enables more efficient stock replenishment, reduces overstocking or understocking, and enhances the overall shopping experience.
+
+#### Post-user engagement
+
+Digital twins can be used to engage customers even after purchase. For example, by creating digital twins of fashion items in the hands of customers, companies can offer styling tips, care instructions, and customization options. This fosters a deeper connection with customers, promotes product longevity, and encourages sustainable utilization habits.
+
+Overall, digital twins offer immense potential for the fashion industry by enabling virtual simulations, real-time monitoring, and optimization throughout the product life-cycle. They help enhance design, streamline supply chains, personalize customer experiences, promote sustainability, and improve overall operational efficiency
+
+### Case studies
+
+#### Tommy Hilfiger's digital showroom
+
+Tommy Hilfiger implemented a digital twin-based virtual showroom that revolutionized their design and development process. Using 3D digital models and virtual simulations, designers and buyers could visualize and evaluate collections without the need for physical samples. This streamlined the design process, reduced costs, and accelerated time-to-market. [More about Tommy Hilfiger's Digital Showroom](https://www.tommy.com/en_int/digital-showroom)
+
+#### Zara's smart retail system
+
+Zara, a global fashion retailer, utilizes digital twins and RFID technology to optimize inventory management and enhance the in-store shopping experience. Digital twins of garments are created and linked to RFID tags, enabling real-time tracking and monitoring of stock levels. This helps Zara to efficiently manage inventory, restock popular items, and provide customers with accurate information on product availability. [More about Zara's Smart Retail System](https://www.inditex.com/about-us/our-priorities/technology)
+
+#### Levi's virtual stylist
+
+Levi's introduced a virtual stylist powered by digital twins to enhance the online shopping experience. Customers can create a virtual avatar, input body measurements, and visualize how different Levi's products would fit and look on them. This personalized experience helps customers make informed purchasing decisions, reducing returns and improving customer satisfaction. [More about Levi's Virtual Stylist](https://www.levistrauss.com/2021/04/27/levis-launches-virtual-stylist-tool/)
+
+#### Adidas speedfactory
+
+Adidas developed a digital twin-driven manufacturing process in their Speedfactory initiative. By creating digital twins of shoe designs, they were able to optimize production efficiency and customize footwear based on individual customer preferences. The digital twins enabled real-time monitoring and adjustments, resulting in faster production cycles and increased product personalization. [More about Adidas Speedfactory](https://www.adidas-group.com/en/innovation/speedfactory/)
+
+##### References
+
+Botín-Sanabria, Diego M., et al. "Digital twin technology challenges and applications: A comprehensive review." _Remote Sensing_ 14.6 (2022): 1335.
+
+Wagner, Ralf, and Agnieszka Kabalska. "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." _Sustainable Development_ (2022).
+
+Alam, Mohammed Didarul, Golam Kabir, and Mehdi Mirmohammadsadeghi. "A digital twin framework development for apparel manufacturing industry." _Decision Analytics Journal_ (2023): 100252.
+
+Riedelsheimer, Theresa, Lisa Dorfhuber, and Rainer Stark. "User centered development of a Digital Twin concept with focus on sustainability in the clothing industry." _Procedia CIRP_ 90 (2020): 660-665.
+
+Casciani, Daria, Olga Chkanikova, and Rudrajeet Pal. "Exploring the nature of digital transformation in the fashion industry: opportunities for supply chains, business models, and sustainability-oriented innovations." _Sustainability: Science, Practice and Policy_ 18.1 (2022): 773-795.
+﻿## Digital worlds
+ 
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Digital Worlds </h3>
+Digital worlds merge virtual platforms where creators trade digital clothing and fabric patterns (often as NFTs), blending fashion and gaming for avatar customization and immersive experiences. The goal is innovation, waste reduction, and new creative avenues, with fashion brands, designers, and tech firms like DressX and The Fabricant lead this innovation.
+    <br><br><strong>VET: </strong>
+How can digital fashion platforms boost creativity and help the environment in Fashion?
+    <br><strong> HEI: </strong>
+What role do NFTs and other unique identifiers play in transforming the fashion and design industries, especially in virtual and gaming worlds?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+
+Digital Worlds refer to virtual environments or online platforms where fashion-related experiences, interactions, and transactions take place. These digital worlds leverage technology to create immersive and interactive experiences that bridge the gap between physical and virtual fashion realms.
+
+Digital Worlds encompass various aspects within the fashion industry, including virtual fashion shows, digital showrooms, e-commerce platforms, augmented reality (AR) and virtual reality (VR) experiences, social media platforms, and fashion-focused mobile applications. These digital platforms and technologies enable brands, designers, retailers, and users to engage with fashion in innovative and dynamic ways.
+
+In digital worlds, virtual fashion shows allow designers to showcase their collections to a global audience without the limitations of physical space. Through live streaming or pre-recorded presentations, viewers can experience the excitement of runway shows from the comfort of their own screens. Digital showrooms provide a virtual space for buyers, retailers, and industry professionals to explore and order fashion products, eliminating the need for physical showroom visits.
+
+E-commerce platforms play a significant role in digital worlds, offering users the convenience of online shopping for fashion items. These platforms provide detailed product information, high-resolution images, and secure payment options, enabling users to browse and purchase fashion products from anywhere, anytime.  Augmented reality (AR) and virtual reality (VR) experiences in digital worlds bring fashion to life in virtual environments.
+
+Users can virtually try on clothes, accessories, and makeup, visualize how different outfits would look on them, and even interact with virtual fashion models or avatars.  Social media platforms play a pivotal role in connecting fashion brands, influencers, and usmers.
+
+Users can follow their favorite fashion brands, discover new trends, share their own style, and engage in fashion-related discussions. Social media platforms also facilitate direct communication between brands and users, enabling feedback, brand loyalty, and community building.
+
+Fashion-focused mobile applications offer personalized experiences, styling recommendations, and fashion-related content. These apps allow users to create virtual wardrobes, receive fashion inspiration, and access exclusive promotions and discounts.
+
+In summary, digital worlds encompass virtual environments, online platforms, and technologies that enable immersive, interactive, and innovative fashion experiences. They provide opportunities for designers, brands, retailers, and users to engage, connect, and participate in the digital landscape of fashion.
+
+### Case studies
+#### Case studies
+
+#### Burberry
+
+Burberry is a renowned luxury fashion brand that has embraced digital innovation. In 2010, Burberry launched its "Retail Theater" concept, which combined physical and digital elements. The brand incorporated live streaming of runway shows, interactive digital displays in stores, and real-time social media integration to create an immersive and connected experience for customers. [More about Burberry's Digital Innovation](https://www.burberryplc.com/en/news/2010/burberry-launches-retail-theatre-experience.html)
+
+#### Gucci
+
+Gucci, a leading luxury fashion brand, has embraced augmented reality (AR) technology to enhance customer engagement. In 2019, Gucci launched an AR-powered app called "Gucci Sneaker Garage" that allowed users to virtually try on and customize sneakers. The app utilized AR to overlay virtual shoes onto the user's feet, providing an interactive and personalized experience. [More about Gucci Sneaker Garage](https://www.gucci.com/us/en/st/stories/article/sneaker-garage)
+
+#### Zara
+
+Zara, a popular fast-fashion brand, has leveraged digital worlds through its mobile application. The Zara app offers features like augmented reality (AR) shopping, where users can point their phone's camera at designated spots in stores or displays to view additional product information, styling suggestions, and even models wearing the clothes virtually. [More about Zara's AR Shopping](https://www.zara.com/ww/en/zara-ar-p129440.html)
+
+#### Farfetch
+
+Farfetch is an online luxury fashion retailer that has integrated digital worlds into its platform. The company offers virtual try-on features, allowing customers to virtually try on selected items using augmented reality (AR) technology. Customers can see how the clothes would fit and look on themselves before making a purchase decision. [More about Farfetch Virtual Try-On](https://www.farfetch.com/stories/en/virtual-try-on)
+
+#### The Fabricant
+
+The Fabricant is a digital fashion house that creates virtual fashion garments and experiences. They specialize in creating 3D digital fashion pieces that exist only in the digital realm. The Fabricant collaborates with various fashion brands and designers to create virtual collections and immersive digital experiences. [More about The Fabricant](https://www.thefabricant.com/)
+
+### References
+
+- [Specialist, A. M. B. (2023, January 4). _Metaverse and fashion: A relationship for Success_. Evergine. ](https://evergine.com/metaverse-fashion/)
+
+- Akhtar, Waleed Hassan, et al. "A New Perspective on the Textile and Apparel Industry in the Digital Transformation Era." _Textiles_ 2.4 (2022): 633-656.
+
+- Sayem, Abu Sadat Muhammad. "Digital fashion innovations for the real world and metaverse." _International Journal of Fashion Design, Technology and Education_ 15.2 (2022): 139-141.
+
+- Gornostaeva, Galina. "The development of digital commerce in the fashion industry: The typology of emerging designers in London." _Technological Forecasting and Social Change_ 186 (2023): 122122.
+## Data Science, Artificial Intelligence and Machine Learning (DS, AI and ML)
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Data Science, AI and ML </h3>
+ DS, AI and ML play a crucial role in Fashion ecosystem processes. From image generation for design, user profile creation, business systems, and production optimization; DS, AI and ML have been a . It can even support sustainability by analyzing images of what you wear understand what is in your wardrobe to helps companies understand what to make or connect you with existing items.
+    <br><br><strong>VET: </strong>
+How can DS, AI and ML help make fashion more eco-friendly and reduce waste?
+	  <br><strong> HEI: </strong>
+How can DS, AI and ML predict demand for sustainable fashion, cut waste in production, and boost eco-friendly material use?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+  }
+  }
+</style>
+<br>
+
+
+Data science, artificial intelligence (AI), and machine learning (ML) increasingly play crucial roles in the fashion industry, revolutionizing various aspects of the business, from design and production to marketing and customer experience. Traditionally, every sound business utilizes historical sales data, market trends, and other relevant information to predict future demand and optimize inventory levels. Nowadays, Machine Learning algorithms allow for more accurate demand forecasting, further potentially reducing overstock and stockouts. Blockchain technologies also help by enhancing transparency and traceability in the supply chain, allowing for richer information, and using data analytics helps optimize production schedules, logistics, and supply chain efficiency. These technologies will largely aid the post-use sorting process. That information is also used in marketing, using data to understand customer preferences and behavior, enabling targeted marketing campaigns. Still, from a demand perspective, implementing AI-driven recommendation engines can help suggest personalized products based on individual customer preferences and browsing history. Natural language processing (NLP) and sentiment analysis connect that data to public opinion and trends on social media platforms, making these methods even more effective. Once a product of choice is determined, implementing AR and computer vision technologies for virtual try-on experiences allows customers to visualize how garments will look on them before making a purchase. Employing AI algorithms also aids in generating design ideas, helping designers explore a broader range of possibilities. By integrating computer vision to analyze trends and provide insights during the creative process, original designs can be made that have a higher chance to appeal to a larger public.
+
+
+### Case Studies
+
+**Sorabel (formerly Sale Stock)**<br>
+**Sorabel** uses **AI** to predict fashion trends and minimize waste by producing only what consumers are likely to buy. Their predictive analytics help lower inventory risk while offering fashionable and affordable items. This lean production model contributes to sustainability by reducing unsold stock, aligning with consumer demands for ethical fashion. [Read more here](https://www.pixyle.ai).
+<br>
+
+**Moncler Genius** <br>
+Moncler Genius leverages data insights, AI-driven trend analysis, and machine learning to identify and anticipate customer preferences, informing their annual collaborations with diverse designers. This approach allows Moncler to maintain relevance and exclusivity through data-backed capsule collections, aligning luxury heritage with evolving consumer tastes. [More details](https://www.moncler.com/en-it/genius.html).
+
+
+**TextileGenesis** <br>
+**TextileGenesis** uses **blockchain technology** to track sustainable materials like **TENCEL™** and **LENZING™ ECOVERO™**, ensuring each step of the production process is transparent. This system addresses consumer demand for traceable, ethically sourced products and boosts transparency in supply chains. [Find out more about TextileGenesis](https://www.fashionunited.uk).
+<br>
+
+**Heuritech**<br>
+**Heuritech** leverages **AI** for fashion trend detection, reducing forecasting errors by 50%. By accurately predicting trends and optimizing production, they help fashion brands avoid overproduction and reduce waste. Their AI-backed approach supports sustainable inventory management, creating a more eco-friendly fashion ecosystem. [Read more about Heuritech](https://www.heuritech.com).
+
+### References
+
+- Chamodi, J., et al. (2021). The use of augmented reality to deliver enhanced user experiences in fashion industry. *Lecture Notes in Computer Science*, 12936.
+  
+- Harreis, H. et al. (2023). [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion). McKinsey & Company.
+
+- Hsu, C.-H., et al. (2021). Deploying resilience enablers to mitigate risks in sustainable fashion supply chains. *Sustainability*, 13(5), 2943.
+  
+- Marlene, Z. (2020). Augmented reality try-on adoption in the Online Clothing Industry: Understanding key challenges and critical success factors. (Master's thesis). University of Twente.
+  
+- Plotkina, D., & Saurel, H. (2019). Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing. *Journal of Retailing and Consumer Services*, 51, 362-377.
+  
+- Silvestri, B. (2020). The future of fashion: How the quest for digitisation and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19. *ZoneModa Journal*, 10(2), 61-73.
+  
+- Reporter, G.S. (2023). ['You've got to be data-driven': the fashion forecasters using AI to predict the next trend](https://www.theguardian.com/technology/2023/oct/01/ai-artificial-intelligence-fashion-trend-forecasting-style). *The Guardian*, October 3.
+  
+- Stower, H. (2020, June 4). [Transparency and resilience in fashion](https://www.cleantech.com/transparency-and-resilience-in-fashion/). Cleantech Group.
+  
+- [Can luxury use AI without losing its luster?](https://jingdaily.com/posts/generative-ai-luxury-brands-moncler-valentino-ai-generated-campaigns)
+  
+- [From Kering to Zegna: How brands can use AI to supercharge luxury shopping](https://jingdaily.com/posts/luxury-brand-shopping-ai-kering-zegna)
+  
+- [SURREAIISM: BETWEEN AI AND 1920S SURREALISMS](https://glitchmagazine.xyz/surreaiism-between-ai-and-1920s-surrealisms/)
+  
+- [The Interline -the fashion technology magazine and social community for industry professional](https://www.theinterline.com/)
+  
+- [Is Fashion Education Ready for AI? By Emma Feldner-Busztin,AUGUST 20, 2024](https://www.theinterline.com/2024/08/20/is-fashion-education-ready-for-ai/)
+  
+- [Fashion Starts To Clean Up Its Energy Act, But Muddies The Waters Around AI](https://www.theinterline.com/2023/10/27/fashion-starts-to-clean-up-its-energy-act-but-muddies-the-waters-around-ai/)
+
+﻿## Personalisation
+ 
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Personalisation </h3>
+Digital Manufacturing allows for the creation of custom-fit clothes and a personalized fashion experience using data from social media, 3D scanners, and online profiles. These can be tailored to fit the wearer's body size, personal style, social role, or wardrobe needs.
+    <br><br><strong>VET: </strong>
+How can we use information about people to make clothes that fit them perfectly?
+    <br><strong> HEI: </strong>
+What information from data sources can be used to make clothing and textiles that match personal preferences and needs? What are the risks of using that data?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+
+<br>
+Personalization refers to tailoring products, experiences, and services to meet the individual preferences and needs of customers. It involves utilizing data provided by users as input to create personalized offerings.
+
+#### Customized product offerings
+
+Personalization allows customers to actively participate in the design process by providing their preferences, such as color, style, or fit. This input can be used to create customized fashion products that align with individual tastes and requirements. By offering personalized options, companies can reduce the production of generic, mass-produced items, thereby minimizing waste and resource utilization.
+
+#### Reduced overproduction
+
+Personalization helps in reducing overproduction, which is a common challenge in the fashion industry. By producing items based on specific customer requests and preferences, companies can avoid creating excessive inventory that may go unsold or end up as waste. This targeted production approach ensures that garments are made to meet actual demand, reducing the environmental impact associated with overproduction.
+
+#### Extended product lifespan
+
+Personalization can contribute to extending the lifespan of fashion products. By involving customers in the design process, they develop a sense of ownership and attachment to the customized items. This emotional connection often leads to increased product care and a higher likelihood of continued usage, reducing the frequency of discarding and promoting a culture of sustainability.
+
+#### Enhanced customer engagement
+
+Personalization fosters a deeper level of customer engagement and satisfaction. By involving customers in the design process, companies can build stronger relationships and create a sense of loyalty. This engagement can lead to a shift in user behavior, with customers valuing and cherishing their personalized items rather than embracing fast fashion trends and disposable clothing.
+
+#### Data-driven insights
+
+Personalization generates valuable data on customer preferences and behavior. Companies can leverage this data to gain insights into user trends, allowing them to make informed decisions about production, inventory management, and sustainability initiatives. These data-driven insights help optimize the fashion supply chain, aligning production with demand and reducing waste.
+
+#### Circular business models
+
+Personalization can support circular business models in the fashion industry. For example, by offering personalized repair services or customization options for pre-owned garments, companies can extend the life of products and divert them from landfill. Personalization allows for the transformation and repurposing of existing items, enabling a circular flow of fashion products and minimizing waste generation.
+
+Overall, personalization in the fashion industry empowers customers to actively participate in the design process and creates products that align with their preferences. By reducing overproduction, extending product lifespans, enhancing customer engagement, and leveraging data-driven insights, personalization contributes to a more sustainable and circular fashion economy
+
+### Case studies
+
+#### Adidas
+
+Adidas allows customers to personalize their sneakers through their miadidas platform, now integrated into the adidas Locker Room. This platform enables customers to select colors, materials, and design elements to create unique footwear tailored to their preferences. By offering a high degree of customization, Adidas reduces overproduction and minimizes waste, as each product is made to order based on specific customer requests. This approach not only caters to individual tastes but also supports more sustainable production practices. [More about miadidas](https://lockerroom.adidas.com/)
+
+#### Levi's
+
+Levi's offers a personalized shopping experience through their Levi's Tailor Shops. These in-store tailor shops allow customers to get their jeans customized and tailored to their specific measurements and style preferences. Services include alterations, repairs, and the addition of unique design elements such as embroidery and patches. This approach promotes the extended use and longevity of products, encouraging customers to maintain and cherish their garments rather than frequently purchasing new ones. [More about Levi's Tailor Shops](https://www.levi.com/US/en_US/features/tailor-shop)
+
+#### Rent the Runway
+
+Rent the Runway is a fashion rental platform that provides personalized recommendations based on individual preferences and occasions. The platform offers a rotating wardrobe of designer clothing, allowing customers to rent rather than buy garments. This model reduces the overall demand for new clothing production, thereby minimizing waste and promoting sustainable fashion practices. Rent the Runway's service includes features such as home delivery, easy returns, and subscription options, making it a convenient and eco-friendly alternative to traditional fashion consumption. [More about Rent the Runway](https://www.renttherunway.com/)
+
+#### Nike
+
+Nike's Nike By You platform empowers customers to customize and personalize their footwear. Users can choose from a variety of colors, materials, and design options to create sneakers that reflect their unique style. This customization reduces overproduction and waste, as each pair is made to order based on customer specifications. The platform also enhances customer engagement by allowing individuals to express their creativity and preferences through their footwear. [More about Nike By You](https://www.nike.com/nike-by-you)
+
+#### Eileen Fisher
+
+Eileen Fisher, a sustainable fashion brand, offers the Renew program where customers can bring back their old Eileen Fisher garments to be transformed into new designs. This program supports a circular economy by extending the lifespan of clothing through upcycling and recycling. Customers benefit from a personalized approach to sustainable fashion, knowing that their used garments can be refreshed and given a new life, thus reducing textile waste and promoting environmental responsibility. [More about Eileen Fisher Renew](https://www.eileenfisher.com/renew)
+
+#### Mon Purse
+
+Mon Purse allows customers to design and personalize their own handbags. Through the platform, customers can choose from various design options, materials, and add personal monograms to create a unique accessory. This customization approach reduces waste by producing items based on specific customer preferences and eliminates the need for mass-produced inventory. Mon Purse's model emphasizes individual expression and sustainable production, ensuring that each bag is as unique as its owner. [More about Mon Purse](https://www.monpurse.com/)
+
+##### References
+
+Ma, Na, Jieun Kim, and Jee Hyun Lee. "Exploring personalized fashion design process using an emotional data visualization method." _Fashion and Textiles_ 9.1 (2022): 1-15.
+
+Nobile, Tekila Harley, and Lorenzo Cantoni. "Personalization and customization in fashion: searching for a definition." _Journal of Fashion Marketing and Management: An International Journal_ 27.4 (2023): 665-682.
+
+Jain, Sheenam, and Malin Sundström. "Toward a conceptualization of personalized services in apparel e-commerce fulfillment." _Research Journal of Textile and Apparel_ 25.4 (2021): 414-430.
+
+## Technographic Web-Tracking
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Technographic Web-Tracking </h3>
+Everything we do on the internet creates information that is recorded and often retained as data. Digitalizing fashion and textile processes over the internet creates new opportunities for data science. Small data about the time, place, and frequency of interactions can tell us many things about the stakeholders and our business model.
+    <br><br><strong>VET: </strong>
+How can people's information from the internet help us make it more sustainable?
+    <br><strong> HEI: </strong>
+How can data collected from stakeholders digital activites be leveraged to create circular fashion systems and comply with new EU reporting requirements like CSRD?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+Technographic web tracking encompasses a wide range of data sets that pertain to technology-driven signals, enabling the identification and understanding of the technological attributes and patterns exhibited by individuals or organizations. Technographic web tracking offers profound insights into the technological preferences and practices of individuals or organizations, facilitating strategic decision-making and personalized targeting.
+
+By utilizing technographic web-tracking, fashion brands, and retailers can gather valuable information about their target audience, enabling them to tailor their marketing strategies, personalize the shopping experience, and deliver relevant content and product recommendations. It helps in understanding customers' preferred devices, operating systems, and browsers, allowing brands to optimize their websites and applications for seamless user experiences across different platforms.
+
+Furthermore, technographic web-tracking can provide insights into users' engagement with fashion trends, influencers, and social media platforms. It helps brands identify popular fashion websites, blogs, or social media channels where their target audience is most active, enabling them to allocate their marketing efforts and investments effectively. This data can also be utilized to measure the effectiveness of online campaigns, track customer journeys, and identify opportunities for customer segmentation and targeting.
+
+### Case studies
+
+### Targeted marketing
+
+#### Pttns.ai
+
+Pttns.ai uses AI to create detailed user profiles that connect goods and services to the user. By analyzing various data points, Pttns.ai identifies user preferences and behaviors, enabling businesses to deliver highly personalized marketing campaigns. This AI-driven approach ensures that users receive relevant product recommendations, enhancing their overall shopping experience. [More about Pttns.ai](https://www.pttns.ai/)
+
+#### Salesforce
+
+Salesforce, a leading customer relationship management (CRM) platform, offers a technographic data solution called Data.com. This solution provides detailed insights into companies' technology stacks, including the software and hardware they use. By leveraging this information, businesses can personalize their marketing efforts, targeting the right audience with relevant messages. Salesforce's technographic data helps marketers understand their prospects' technological environments, allowing for more effective and efficient outreach. [More about Salesforce](https://www.salesforce.com/products/platform/products/data-com/)
+
+#### ZoomInfo
+
+ZoomInfo, a provider of B2B contact and company information, incorporates technographic data into its platform. This allows businesses to identify prospects based on their technology usage, helping them tailor their marketing campaigns to reach the most relevant audience. By understanding the tech stacks of potential customers, companies can craft messages that resonate with their specific needs and challenges, leading to higher engagement and conversion rates. [More about ZoomInfo](https://www.zoominfo.com/b2b/technographics)
+
+### Competitor analysis
+
+#### BuiltWith
+
+BuiltWith is a competitive intelligence tool that helps businesses identify the technologies used by their competitors' websites. It provides insights into content management systems, e-commerce platforms, analytics tools, and more. By analyzing competitors' tech stacks, businesses can gain a competitive edge, identify gaps in their own technology, and make informed decisions about their digital strategy. BuiltWith's comprehensive data helps companies stay ahead by understanding the tools and services their competitors rely on. [More about BuiltWith](https://builtwith.com/)
+
+#### SimilarTech
+
+SimilarTech offers a technographic intelligence platform that allows businesses to analyze their competitors' technology stacks. By understanding the technologies employed by their rivals, companies can benchmark themselves, identify opportunities for improvement, and stay ahead in the market. SimilarTech provides detailed reports on competitors' web technologies, helping businesses strategize and optimize their own tech investments. [More about SimilarTech](https://www.similartech.com/)
+
+### Customer support optimization
+
+#### Freshdesk
+
+Freshdesk, a customer support software provider, integrates technographic data into its platform. This helps support teams understand customers' technology environments and provide more targeted and efficient assistance. By knowing the technologies their customers use, support agents can troubleshoot issues more effectively and deliver personalized solutions, resulting in improved customer satisfaction and loyalty. [More about Freshdesk](https://freshdesk.com/)
+
+#### Zendesk
+
+Zendesk, a popular customer service and engagement platform, leverages technographic web tracking to gain insights into customers' technology usage. This enables support teams to deliver personalized support experiences and resolve technical issues more effectively. By understanding the tech landscape of their customers, Zendesk ensures that their support is relevant and precise, enhancing the overall customer experience. [More about Zendesk](https://www.zendesk.com/)
+
+### IT Infrastructure planning
+
+#### ServiceNow
+
+ServiceNow, an IT service management platform, offers solutions that incorporate technographic data to optimize IT infrastructure planning. By analyzing organizations' technology landscapes, ServiceNow helps businesses make informed decisions, streamline processes, and improve overall IT efficiency. This data-driven approach ensures that IT resources are allocated effectively and that infrastructure investments align with business goals. [More about ServiceNow](https://www.servicenow.com/)
+
+#### BMC Software
+
+BMC Software provides IT management solutions that utilize technographic data for infrastructure planning. By understanding the technology stack within an organization, BMC Software helps optimize IT operations, automate workflows, and ensure effective resource allocation. This enables businesses to enhance their IT capabilities, reduce downtime, and support growth initiatives. [More about BMC Software](https://www.bmc.com/)
+
+### Sales prospecting
+
+#### DiscoverOrg (now ZoomInfo)
+
+DiscoverOrg, now part of ZoomInfo, is a sales and marketing intelligence platform that includes technographic data in its offerings. It helps sales teams identify prospects based on their technology profiles, allowing for more targeted and effective outreach. By understanding the tech environments of potential customers, sales professionals can tailor their pitches to address specific needs and pain points, increasing the likelihood of successful engagements. [More about DiscoverOrg](https://www.zoominfo.com/sales-intelligence)
+
+#### Clearbit
+
+Clearbit is a data enrichment platform that offers technographic data as part of its solution. Sales teams can leverage Clearbit to gain insights into prospects' technology stacks, empowering them to tailor their messaging and engage with potential customers more effectively. By integrating technographic insights, Clearbit helps businesses enhance their lead generation and conversion strategies. [More about Clearbit](https://clearbit.com/)
+
+### References
+
+
+- Gilbert, J. (2020, March 19). _Council post: How B2B and B2C businesses can boost sales with smart intent marketing_. Forbes. https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/19/how-b2b-and-b2c-businesses-can-boost-sales-with-smart-intent-marketing/
+
+- Van Heerde, Harald J., Isaac M. Dinner, and Scott A. Neslin. "Engaging the unengaged customer: The value of a retailer mobile app." _International Journal of Research in Marketing_ 36.3 (2019): 420-438.
+
+- Berg, Martin. "Digital Technography: A Methodology for Interrogating Emerging Digital Technologies and Their Futures." _Qualitative Inquiry_ 28.7 (2022): 827-836.
+
+## Virtual Fashion
+
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Virtual Fashion </h3>
+Making virtual clothing and textiles (in programs like Clo3D, Browzwear, Blender, or Optitex Lectra) can facilitate fitting, sharing, or entirely digital fashion. Fewer physical garments are needed, and users can even wear the garments digitally.
+    <br><br><strong>VET: </strong>
+How can creating clothes digitally on a computer change the way we wear and share fashion?
+    <br><strong> HEI: </strong>
+In what ways can virtual fashion and textiles be better than traditional methods in design, production, fitting, and use?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+
+Virtual sampling is a digital process that involves the creation of virtual prototypes and simulations of garments, accessories, or other fashion products using advanced computer graphics and 3D modeling technologies. It allows designers, brands, and manufacturers to visualize and evaluate the appearance, fit, and overall aesthetics of a product without the need for physical samples. By leveraging virtual sampling, various stages of the product development lifecycle, such as design, pattern-making, fitting, and merchandising, can be streamlined and accelerated.
+
+In the traditional fashion industry, physical sampling requires substantial time, effort, and resources. Designers and manufacturers need to create multiple physical samples, which can be costly and time-consuming. Virtual sampling offers a more efficient and sustainable alternative by enabling the digital representation of products, which can be manipulated and evaluated in a virtual environment.
+
+Through virtual sampling, designers can experiment with different fabrics, colors, patterns, and silhouettes, visualizing how the product will look in a realistic and interactive 3D setting. This allows for faster iterations and modifications, empowering designers to make informed decisions and refine their designs more efficiently. By eliminating the need for physical samples, virtual sampling significantly reduces waste and environmental impact associated with material consumption and production processes.
+
+Furthermore, virtual sampling enables better collaboration and communication among various stakeholders involved in the fashion supply chain. Designers can share digital prototypes with manufacturers, suppliers, and retailers, facilitating clearer communication and reducing the likelihood of errors or misunderstandings. This collaborative approach ensures that everyone involved has a shared understanding of the product's design, resulting in improved accuracy and efficiency throughout the production process.
+
+Virtual sampling also offers advantages in terms of cost savings and time-to-market. By reducing the reliance on physical samples, brands can shorten the product development cycle and respond more quickly to market demands. This agility can be particularly beneficial in the fast-paced fashion industry where trends evolve rapidly. Additionally, virtual sampling allows brands to explore and test innovative designs and concepts without the need for large-scale production, minimizing financial risks.
+
+In summary, virtual sampling represents a transformative shift towards digitization and sustainability. It empowers designers and brands to create, visualize, and evaluate fashion products in a virtual environment, enabling faster iterations, better collaboration, and reduced environmental impact. By harnessing the power of advanced computer graphics and 3D modeling technologies, virtual sampling is revolutionizing the way fashion products are developed, bringing efficiency, cost savings, and enhanced creativity to the industry.
+
+### Case studies
+
+#### Adidas (in collaboration with Browzwear)
+
+Adidas, a leading sportswear brand, has partnered with Browzwear, a pioneer in 3D fashion design and development solutions, to implement virtual sampling in their product development process. By leveraging Browzwear's advanced 3D design software, Adidas creates highly realistic digital prototypes of footwear and apparel. This collaboration enables designers, engineers, and marketers to visualize and evaluate the product's aesthetics, functionality, and fit in a virtual environment. [More about Adidas and Browzwear](https://browzwear.com/adidas-2/)
+
+#### PVH Corp (Calvin Klein and Tommy Hilfiger)
+
+PVH Corp, the parent company of renowned fashion brands Calvin Klein and Tommy Hilfiger has partnered with Optitex, a leading provider of 3D virtual prototyping software, to integrate virtual sampling into their design process. By utilizing Optitex's advanced technology, Tommy Hilfiger creates digital prototypes of garments, allowing their designers and merchandisers to visualize the final product before physical production. This collaboration has significantly reduced the time and cost associated with traditional sampling methods, enabling faster decision-making and more sustainable production practices. [More about PVH Corp and Optitex](https://optitex.com/pvh-corp-adopts-optitex-3d-design-technology/)
+
+#### Nike (in collaboration with Browzwear)
+
+Nike, a leading athletic footwear and apparel brand, has collaborated with Browzwear to implement virtual sampling in their product development. By leveraging Browzwear's 3D design software, Nike can create highly realistic digital prototypes of their products, enabling their design teams to visualize and analyze the fit, functionality, and overall performance of the footwear and apparel. This collaboration has streamlined Nike's design process, allowing for faster iterations, improved collaboration, and reduced reliance on physical samples. [More about Nike and Browzwear](https://browzwear.com/nike-2/)
+
+#### Under Armour (in collaboration with CLO Virtual Fashion)
+
+Under Armour, a leading sports apparel and footwear company, has collaborated with CLO Virtual Fashion to implement virtual sampling in their product development workflow. By leveraging CLO's 3D garment simulation software, Under Armour can create digital prototypes and conduct virtual fit tests to ensure optimal performance and comfort of their athletic apparel. This collaboration has allowed Under Armour to streamline their design process, reduce the number of physical samples, and make quicker decisions on product development. [More about Under Armour and CLO Virtual Fashion](https://www.clo3d.com/under-armour)
+
+##### References
+
+McDowell, M. (2019, November 7). _Tommy Hilfiger switches to 100% digital design_. Vogue Business. https://www.voguebusiness.com/technology/tommy-hilfiger-pvh-corp-3d-design-digital-clothing-innovation-sustainability
+
+Bain, M. (2022, November 22). _How virtual sampling went mainstream_. The Business of Fashion. https://www.businessoffashion.com/articles/technology/how-virtual-sampling-went-mainstream/
+
+
+Silvestri, Barbara. "The future of fashion: How the quest for digitization and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19." _ZoneModa Journal_ 10.2 (2020): 61-73.
+
+Jiang, E. (2021, November 18). _Virtual reality: Growth engine for fashion?_. The Business of Fashion. https://www.businessoffashion.com/articles/technology/virtual-reality-growth-engine-for-fashion/
+## Wear and tear
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
+  <div class="overlay-text">
+    <h3> Wear and Tear </h3>
+As worn garments come back to the brand under the EPR, wear and tear on these clothes can provide valuable data about use, consumption, and the wearer's habits. For example, an iPhone has a 3D scanner that can scan your garment and compare it to the original factory scan to see what has changed.
+    <br><br><strong>VET: </strong>
+How can we set up places to fix and repair clothes that look at how jeans age and wear out?
+    <br><strong> HEI: </strong>
+How can integrating wear and repair photos help businesses promote sustainability, repairability and circularity? What are the initial challenges in implementing such systems?
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: center;
+	padding: 5px;
+}
+
+    }
+
+  /* Remove default margin for headings and paragraphs */
+  h3, h6, p {
+    margin: 0;
+  }
+
+  /* Add custom margin to control spacing */
+  h3 {
+ margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  h6 {
+    margin-top: 10px;   /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
+  }
+
+  .overlay-text p {
+    margin-top: 5px;    /* Adjust this value as needed */
+  }
+  }
+</style>
+<br>
+Wear and tear in the context of product usage refers to the gradual deterioration and damage that occurs to an item over time as a result of its use, consumption, and the habits of its user. It is an inevitable consequence of regular use and reflects the impact of factors such as friction, stress, washing, and environmental conditions on the product's condition. The knowledge and data gathered from studying wear and tear can provide valuable insights into various aspects of the fashion industry.
+
+Wear and tear data provides valuable insights into product durability, user behavior, and sustainability within the fashion industry. By utilizing this data, companies can enhance product design, inform manufacturing processes, promote responsible usage, and contribute to the transition towards a more sustainable and circular fashion ecosystem.
+
+#### Product durability and quality
+
+Wear and tear data serves as an indicator of a product's durability and quality. By examining the extent and nature of wear and tear, manufacturers and designers can gain valuable insights into how well a product withstands everyday use. This information can guide them in selecting higher-quality materials, enhancing construction techniques, and improving product design to ensure longevity and customer satisfaction.
+
+#### User behavior and habits
+
+Wear and tear data can shed light on the habits and behaviors of the product's wearer. By analyzing patterns of wear and tear, companies can understand how customers engage with their products. This knowledge helps in tailoring future designs and product features to better align with user preferences, ensuring that fashion items are better suited to withstand the demands of specific lifestyles or usage scenarios.
+
+#### Sustainability and circular economy
+
+Wear and tear data plays a crucial role in advancing sustainability and circularity within the fashion industry. By assessing the areas of a product most prone to wear and tear, companies can focus on implementing strategies to increase product longevity and reduce waste. This includes using more durable materials, reinforcing high-stress areas, and designing for ease of repair, allowing for extended product use and minimizing the environmental impact associated with premature disposal.
+
+#### Maintenance and aftercare
+
+Wear and tear data informs recommendations for maintenance and aftercare of fashion items. By understanding the specific areas that are subject to the most wear, companies can provide users with guidance on how to care for and maintain their garments effectively. This may involve instructions for proper washing, storage, and repair techniques, enabling users to proactively address wear-related issues and extend the life of their products.
+
+#### Digitalization and IoT integration
+
+Wear and tear data can be collected and analyzed through sensors, smart tags, or Internet of Things (IoT) devices embedded in garments. These digitalization efforts enable real-time monitoring of product usage and condition. The data collected can be used to optimize production, track product lifecycles, offer personalized services, and support sustainable practices such as repair, resale, or recycling.
+
+By harnessing knowledge and data about wear and tear, the fashion industry can make more informed decisions, enhance product durability, optimize production processes, promote responsible product use, and facilitate the transition towards circularity, sustainability, and digitization. This holistic approach benefits both the environment and the users by reducing waste, extending product lifespans, and fostering more conscious consumption habits.
+
+### Case studies
+
+#### Patagonia's worn wear program
+
+Patagonia collects data on the wear and tear of their products through their Worn Wear program. Users can bring back their worn-out garments to Patagonia stores, where the items are assessed for repairability. The data gathered from this program helps Patagonia understand the durability of their products, identify common areas of wear and tear, and inform their design and production processes. [More about Patagonia's Worn Wear Program](https://wornwear.patagonia.com/)
+
+#### Mud Jeans' lease a jeans model
+
+Mud Jeans, a Dutch denim brand, offers a lease model where users can lease a pair of jeans instead of buying them outright. The company collects data on the wear and tear of leased jeans, which helps them analyze usage patterns and optimize their product design and manufacturing processes. The insights gained from wear and tear data contribute to producing more durable and longer-lasting denim products. [More about Mud Jeans' Lease a Jeans Model](https://www.mudjeans.eu/pages/lease-a-jeans)
+
+#### Levi's care tag for our planet
+
+Levi's launched their Care Tag for Our Planet initiative, which provides users with information on sustainable care practices for their garments. By understanding the wear and tear patterns of their products, Levi's provides care instructions that enable customers to prolong the lifespan of their clothing, reducing unnecessary waste and promoting responsible consumption. [More about Levi's Care Tag for Our Planet](https://www.levistrauss.com/2010/07/20/levis-care-tags-for-our-planet/)
+
+#### EON Group's circularID™ protocol
+
+EON Group developed the CircularID™ protocol, which uses digital identifiers to track and monitor the lifecycle of fashion products. By incorporating wear and tear data into the digital identity of each product, brands and consumers can make informed decisions about repairs, maintenance, and end-of-life options. This data-driven approach promotes circularity by enabling more efficient product management and reducing waste. [More about EON Group's CircularID™ Protocol](https://eongroup.co/circularid/)
+
+### References 
+
+**Feijs, Loe, Troy Nachtigall, and Oscar Tomico. "Sole maker: towards ultra-personalised shoe design using voronoi diagrams and 3D printing."**  
+_Proceedings of SMI'2016 Fabrication and Sculpting Event (FASE)_ (2016): 31-40.  
+This paper explores the use of Voronoi diagrams and 3D printing technology in creating highly personalized shoe designs, offering a novel approach to footwear customization.  
+[https://doi.org/10.1109/SMI.2016.24](https://doi.org/10.1109/SMI.2016.24)
+
+**Klepp, Ingun Grimstad, Kirsi Laitala, and Stephen Wiedemann. "Clothing lifespans: what should be measured and how."**  
+_Sustainability_ 12.15 (2020): 6219.  
+This study investigates the key factors influencing the lifespan of clothing and provides recommendations on what should be measured and the methodologies to use for assessing clothing durability.  
+[https://doi.org/10.3390/su12156219](https://doi.org/10.3390/su12156219)
+
+**Aakko, Maarit, and Kirsi Niinimäki. "Quality matters: reviewing the connections between perceived quality and clothing use time."**  
+_Journal of Fashion Marketing and Management: An International Journal_ 26.1 (2022): 107-125.  
+This paper reviews the relationship between perceived quality and the duration of clothing use, highlighting the importance of quality in extending the lifecycle of garments.  
+[https://doi.org/10.1108/JFMM-04-2021-0070](https://doi.org/10.1108/JFMM-04-2021-0070)
