@@ -1,4 +1,4 @@
-﻿## Local community
+## Local community
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -118,33 +118,35 @@ Big international fashion brands often collaborate with local designers, artists
 
 ### Case studies
 
-####  Gucci
+#### European Commission – Transforming fashion through community innovation  
+The EU-funded TCBL (Textile and Clothing Business Labs) project developed local “labs” across Europe that connected SMEs, makers, and communities to prototype new, sustainable textile business models. The initiative explicitly framed fashion as a community innovation challenge, supporting place-based experimentation and regional textile ecosystems rather than centralized production.  
+[Project link](https://projects.research-and-innovation.ec.europa.eu/en/projects/success-stories/all/transforming-fashion-through-community-innovation)
 
-Gucci launched the Gucci ArtLab, a state-of-the-art research and development center in Italy. The facility focuses on technological advancements, sustainable materials, and innovative production processes. Through this investment, Gucci contributes to the local economy, creates employment opportunities, and supports the growth of the fashion industry in the region.
+#### Waag – TextileLab Amsterdam  
+TextileLab Amsterdam at Waag is a research lab where designers, artists, technologists, and local stakeholders collaboratively explore the future of textiles and clothing. Through open workshops, community-focused projects (e.g., Culture.Fashion, Fabricademy), and educational programmes with local schools, the lab links material experimentation to local community skills, heritage, and urban transitions.  
+[Project link](https://waag.org/en/project/textilelab-amsterdam/)
 
-####  Tommy Hilfiger
+#### Community Clothing – Doing Clothing Differently  
+Community Clothing is a UK clothing brand founded by Patrick Grant to keep British factories and textile skills in work by producing seasonless basics in underused regional facilities. Its model explicitly ties each garment to minutes of local employment, using distributed production across UK mills and factories to support local economic resilience and community pride in post-industrial towns.  
+[Project link](https://communityclothing.co.uk/pages/about-us)
 
-Tommy Hilfiger has partnered with organizations and local communities to promote inclusivity and diversity within the fashion industry. They have launched initiatives like the Tommy Adaptive collection, which caters to people with disabilities by offering adaptive clothing. By actively involving and representing diverse communities, Tommy Hilfiger contributes to a more inclusive fashion landscape and promotes social cohesion.
+#### Gucci – ArtLab in Scandicci  
+Gucci ArtLab is a 37,000 m² research, prototyping, and production hub for leather goods and footwear on the outskirts of Florence that employs hundreds of specialized workers. By concentrating high-skilled craft, experimentation, and training in this Tuscan site, Gucci strengthens local employment and maintains the regional leather and footwear ecosystem, while piloting more sustainable materials and processes.  
+[Project link](https://www.gucci.com/us/en/st/stories/article/artlab-2018)
 
-#### Ralph Lauren
-
-Ralph Lauren has engaged in philanthropic efforts through the Polo Ralph Lauren Foundation. The foundation supports various community programs and initiatives, including education, healthcare, and cultural preservation. Their initiatives benefit local communities by addressing social and economic challenges and improving the overall well-being of residents.
-
-####  Chanel
-
-Chanel has made significant investments in preserving traditional craftsmanship and supporting local artisans. Through their Métiers d'Art program, Chanel collaborates with artisans, such as embroiderers, milliners, and shoemakers, to ensure the continuation of these craftsmanship traditions. By providing training and employment opportunities, Chanel contributes to the sustainability of local artisanal skills and helps preserve cultural heritage.
-
-####  Puma
-
-Puma has undertaken initiatives to empower local communities, particularly in developing regions. Through their Puma Safe Water Program, they have partnered with organizations to provide access to clean drinking water in areas where it is scarce. This initiative improves the quality of life for local residents, positively impacting health and well-being.
-
-##### References
-_Transforming Fashion Through Community Innovation_. EC R&I Success stories. (2020, April 17). https://ec.europa.eu/research-and-innovation/en/projects/success-stories/all/transforming-fashion-through-community-innovation
-
-Wu, D., Zhuang, M., Zhang, X., & Zhao, Y. (2022). Towards Circular Fashion: Design for Community-Based Clothing Reuse and Upcycling Services under a Social Innovation Perspective. Sustainability, 15(1), 262.
-
-Mazzarella, F., & Black, S. (2022). Fashioning Change: Fashion Activism and Its Outcomes on Local Communities. Fashion Practice, 1-26.
-
-Williams, Dilys. "Fashion design as a means to recognize and build communities-in-place." _She Ji: The Journal of Design, Economics, and Innovation_ 4.1 (2018): 75-90.
+#### Chanel – le19M, site for Métiers d’art  
+Le19M in Paris is Chanel’s hub bringing together eleven Métiers d’art houses and around 600–700 artisans in one building that combines workshops, a school, café, public gallery, and programming for local visitors. As a mixed public–professional space, it anchors artisan employment in the 19th arrondissement, opens craft education to neighbours and schools, and positions haute couture savoir-faire as a community-facing cultural resource.  
+[Project link](https://www.le19m.com/en)
 
 
+### References
+
+Ashiq, R. (2024). Weaving a sustainable future for fashion: The role of social enterprises in East London. *Sustainability, 16*(16), 7152. https://doi.org/10.3390/su16167152  
+
+Jung, J., Kim, S. J., & Kim, K. H. (2020). Sustainable marketing activities of traditional fashion market and brand loyalty. *Journal of Business Research, 120*, 294–301. https://doi.org/10.1016/j.jbusres.2020.04.019  
+
+Mazzarella, F., & Black, S. (2023). Fashioning change: Fashion activism and its outcomes on local communities. *Fashion Practice, 15*(2), 230–255. https://doi.org/10.1080/17569370.2022.2095729  
+
+Williams, D. (2018). Fashion design as a means to recognize and build communities-in-place. *She Ji: The Journal of Design, Economics, and Innovation, 4*(1), 75–90. https://doi.org/10.1016/j.sheji.2018.02.009  
+
+Wu, D., Zhuang, M., Zhang, X., & Zhao, Y. (2022). Towards circular fashion: Design for community-based clothing reuse and upcycling services under a social innovation perspective. *Sustainability, 15*(1), 262. https://doi.org/10.3390/su15010262

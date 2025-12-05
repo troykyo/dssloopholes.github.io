@@ -1,4 +1,4 @@
-﻿## Design For Disassembly (DfD)
+## Design For Disassembly (DfD)
 
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Scard.png" alt="Scard" style="width: 75%;" class="responsive-image">
@@ -92,42 +92,35 @@ In summary, design for disassembly in the fashion domain involves intentionally 
 
 ### Case studies
 
-#### The R Collective
+#### Ellen MacArthur Foundation – The Jeans Redesign  
+The Jeans Redesign brings together brands, mills, and recyclers around clear design requirements for durability, material health, recyclability, and traceability. Guidelines include using safe inputs, simplifying fibre mixes, and minimising hard-to-remove components such as rivets, so that jeans can be more easily taken apart and recycled at end-of-life.  
+[Project link](https://ellenmacarthurfoundation.org/jeans-redesign)
 
-The R Collective is a Hong Kong-based fashion brand that focuses on upcycling and zero-waste design. They collaborate with luxury brands to repurpose excess materials and create new collections. Their design approach involves disassembling and reconstructing the materials to create unique and sustainable fashion pieces.
+#### MUD Jeans – Circular denim and “Lease A Jeans”  
+MUD Jeans designs mono-material denim products with carefully selected trims so that jeans can be mechanically recycled into new denim yarns. Through its “Lease A Jeans” model and take-back system, the company retains ownership of material, enabling repeated disassembly and fibre-to-fibre recycling within a closed denim loop.  
+[Project link](https://mudjeans.eu/pages/circular-denim)
 
-#### Stella McCartney
+#### Adidas – Made To Be Remade  
+Adidas’ Made To Be Remade concept shoe is engineered as a single-material performance product that can be returned, ground down, and remade into new footwear. By eliminating conventional multi-material constructions and adhesives where possible, the design anticipates disassembly and remanufacturing, illustrating DfD principles in athletic footwear.  
+[Project link](https://www.adidas.com/us/blog/1292936-adidas-made-to-be-remade)
 
-Stella McCartney is a luxury fashion brand known for its dedication to sustainability. They prioritize designing products that are easy to disassemble, repair, and recycle. Stella McCartney has also collaborated with Parley for the Oceans to create swimwear made from recycled ocean plastic, further showcasing their commitment to circularity.
+#### C&A – Cradle to Cradle Certified® Gold denim  
+C&A developed Cradle to Cradle Certified® Gold jeans that use approved chemicals, organic cotton, and trims designed for safe recovery. The garments are engineered so that components can be more easily separated and materials kept in biological or technical cycles, aligning product architecture with disassembly and high-quality recycling.  
+[Project link](https://sustainable.c-and-a.com/documents/20181/1131891/Denim_C2C_Gold_Factsheet_EN.pdf)
 
-#### G-Star RAW
+#### H&M – Looop in-store garment-to-garment recycling system  
+H&M’s Looop system is an in-store machine that mechanically disassembles old garments into fibres and spins them into new yarns without water or dyestuffs. By making the shredding and re-knitting process visible to users, Looop demonstrates how simplified fibre compositions and thoughtful product architecture can support repeated disassembly and remaking.  
+[Project link](https://www.hm.com/ge/9100b-join-the-recycling-revolution/)
 
-G-Star RAW, a denim brand, has a sustainable collection called "Raw for the Oceans." This collection uses recycled ocean plastic to create denim products. G-Star RAW incorporates design for disassembly principles by ensuring that the garments can be easily separated into their component parts for recycling and repurposing.
 
-#### Outerknown
+### References
 
-Outerknown is a sustainable clothing brand founded by professional surfer Kelly Slater. They focus on using organic and recycled materials in their products. Outerknown offers a "Lifetime Guarantee" on their garments and provides repair services to extend the life of their products.
+Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200.
 
-##### References
+Ellen MacArthur Foundation. (2021). *The Jeans Redesign: Insights from the first two years*. Ellen MacArthur Foundation.
 
-https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=5810&context=etd
+Koszewska, M. (2018). Circular economy—Challenges for the textile and clothing industry. *Autex Research Journal, 18*(4), 337–347.
 
-https://www.researchgate.net/publication/356430078_Textile_Design_for_Disassembly_A_creative_textile_design_methodology_for_designing_detachable_connections_for_material_combinations
+Sandin, G., & Peters, G. M. (2018). Environmental impact of textile reuse and recycling: A review. *Journal of Cleaner Production, 184*, 353–365.
 
-https://www.researchgate.net/publication/233627271_Application_of_design_for_disassembly_in_men's_jacket_A_study_on_sustainable_apparel_design
-
-https://www.emerald.com/insight/content/doi/10.1108/978-1-78714-619-820181010/full/html
-
-https://www.taylorfrancis.com/chapters/edit/10.4324/9781315625508-42/design-circular-economy-ruud-balkenende-nancy-bocken-conny-bakker
-
-https://issuu.com/pushp.gund/docs/rm
-
-https://www.youtube.com/watch?v=ZUtI3YK_PKM
-
-https://ellenmacarthurfoundation.org/the-jeans-redesign
-
-https://www.c-and-a.com/eu/en/shop/circular-fashion
-
-https://news.adidas.com/running/adidas-unlocks-a-circular-future-for-sports-with-futurecraft.loop--a-performance-running-shoe-made-t/s/c2c22316-0c3e-4e7b-8c32-408ad3178865
-
-https://www.youtube.com/watch?v=tfFN1Wtyang
+Laitala, K., Klepp, I. G., & Henry, B. (2021). Does use matter? Comparison of environmental impacts of clothing based on fiber type. *Sustainability, 13*(5), 1–20.

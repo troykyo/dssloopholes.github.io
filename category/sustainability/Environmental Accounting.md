@@ -87,42 +87,37 @@ Environmental accounting also supports the assessment of product service lifetim
 
 Implementing environmental accounting in the fashion industry is crucial for meeting growing consumer demand for transparency and sustainability. It also helps businesses anticipate and comply with emerging regulations that require detailed reporting on environmental impacts. By adopting environmental accounting practices, fashion brands can enhance their sustainability performance, improve resource efficiency, and contribute to a more sustainable industry.
 
-### Case Studies
+### Case studies
 
-**Allbirds**  
-Allbirds, a footwear and apparel brand known for its sustainable practices, utilizes environmental accounting to track and minimize its carbon footprint. The company measures the carbon emissions of every product, from raw material sourcing to end-of-life, which is then offset through carbon credits. Allbirds has committed to being carbon neutral and transparently shares its environmental data with consumers. By using environmental accounting, Allbirds has been able to significantly reduce the carbon intensity of its products and set a benchmark for transparency and sustainability in the footwear industry.  
-[Read more about Allbirds](https://www.allbirds.com/pages/footprint)
+#### Puma – Environmental Profit & Loss (EP&L) Accounting  
+Puma developed one of the first corporate Environmental Profit & Loss (EP&L) accounts in the apparel sector, monetising impacts such as carbon emissions, water use, land use, air pollution, and waste across its value chain. The EP&L framework functions as an internal environmental accounting system, steering decisions on materials, suppliers, and product design toward lower-impact options.  
+[Project link](https://about.puma.com/en/sustainability/environment/epandl)
 
-**Levi Strauss & Co.**  
-Levi Strauss & Co. employs environmental accounting to track the water, energy, and carbon footprints of its denim products. The company’s Water<Less® initiative, which emerged from its environmental accounting practices, focuses on reducing water use in the manufacturing process. Levi's also conducts LCAs to compare the environmental impact of different materials and processes, guiding its sustainability efforts. Levi Strauss & Co.'s environmental accounting has driven substantial improvements in resource efficiency and positioned the brand as a leader in sustainable denim production.  
-[Read more about Levi's sustainability](https://www.levistrauss.com/sustainability)
+#### Kering – Group-wide Environmental Profit & Loss (EP&L)  
+Kering (parent company of Gucci, Saint Laurent, Balenciaga and others) applies an EP&L methodology across all brands to quantify environmental impacts in monetary terms from raw material extraction to retail. The EP&L results are used as a management tool to compare materials, guide design choices, and integrate environmental externalities into strategic and investment decisions.  
+[Project link](https://www.kering.com/en/sustainability/measuring/ep-l)
 
-**Puma**  
-Puma was one of the first major fashion companies to implement an Environmental Profit & Loss (EP&L) account, which monetizes the environmental impacts of its operations and supply chain, including carbon emissions, water use, and land use. The EP&L has become a critical tool for Puma to assess and improve its environmental performance, guiding decisions on materials and processes. Puma's EP&L has helped the company identify key areas for reducing its environmental impact, such as increasing the use of sustainable materials and improving energy efficiency across its supply chain.  
-[Read more about Puma’s EP&L](https://about.puma.com/en/sustainability/environment)
+#### Levi Strauss & Co. – Lifecycle of a Jean & Water<Less®  
+Levi Strauss & Co. conducted a full life cycle assessment (LCA) of a pair of Levi’s® 501® jeans, mapping water, energy, and climate impacts from cotton farming through user laundry and end-of-life. The findings informed the Water<Less® programme, which reduces water use in finishing, and underpin Levi’s ongoing environmental accounting of product impacts and user-phase behaviour.  
+[Project link](https://www.levistrauss.com/sustainability/our-approach/lifecycle-of-a-jean/)
 
-**Patagonia**  
-Patagonia is renowned for its commitment to environmental responsibility, using environmental accounting to measure and report its ecological footprint. The company conducts LCAs for its products to assess their environmental impacts throughout the supply chain. Patagonia uses this data to implement improvements, such as switching to organic cotton, recycled polyester, and renewable energy sources. Patagonia’s environmental accounting practices have enabled the company to significantly reduce its environmental impact and become a leader in sustainable business practices.  
-[Read more about Patagonia’s sustainability practices](https://www.patagonia.com/sustainability/)
+#### Allbirds – Product-level Carbon Footprint Labelling  
+Allbirds measures cradle-to-grave carbon footprints for each product, covering raw materials, manufacturing, transport, use, and end-of-life, and prints the per-product CO₂e value on labels and product pages. These product-level accounts are used internally to set reduction targets and externally to communicate environmental impacts in a simple, comparable metric for wearers.  
+[Project link](https://www.allbirds.com/pages/our-footprint)
+
+#### Patagonia – Life Cycle Assessment and Footprint Transparency  
+Patagonia applies life cycle assessment and environmental accounting to key product categories, publishing impact information through its “Footprint Chronicles” and sustainability reports. By tracking energy, water, carbon, and chemical impacts across materials and manufacturing sites, Patagonia uses these data to prioritise recycled fibres, organic inputs, and renewable energy, while disclosing product impacts to stakeholders.  
+[Project link](https://www.patagonia.com/our-footprint/)
 
 
 ### References
-- [Joyner Armstrong, C. M., & LeHew, M. L. A. (2011). "Sustainable Apparel Product Development: In Search of a New Dominant Social Paradigm for the Field Using Sustainable Approaches." Fashion Practice, 3(1), 29-62.](https://www.researchgate.net/publication/233263801_Sustainable_Apparel_Product_Development_In_Search_of_a_New_Dominant_Social_Paradigm_for_the_Field_Using_Sustainable_Approaches)
 
-- [Trucost. (2011). "Puma’s Environmental Profit and Loss Account for the Year Ended 31 December 2010." Trucost Report.](https://about.puma.com/en/sustainability/environment/epandl)
+He, C., Shu, C., Wang, P., & Zhang, L. (2025). Systematic review of carbon footprint accounting methods and indicators in the textile and apparel industry. *Central European Environment and Sustainable Development*, 18(2), 287–313. https://doi.org/10.18690/cee.18.2.287-313.2025
 
-- [Schaltegger, S., Burritt, R., & Petersen, H. (2003). "An Introduction to Corporate Environmental Management: Striving for Sustainability." Greenleaf Publishing.](https://www.routledge.com/An-Introduction-to-Corporate-Environmental-Management-Striving-for-Sustainability/Schaltegger-Burritt-Petersen/p/book/9781874719693)
+Assandri, E. (2023). Sustainability trends and gaps in textile, apparel and fashion industries. *Environment, Development and Sustainability*, 25(8), 7955–7980. https://doi.org/10.1007/s10668-022-02887-2
 
-- [Deegan, C. (2013). "The Accountant’s Guide to Environmental Accountability." Accounting, Organizations and Society, 38(3), 366-385.](https://www.sciencedirect.com/science/article/pii/S0361368213000311)
+Braun, M., Behrendt, S., & Liedtke, C. (2021). Environmental consequences of closing the textile loop: A life cycle assessment of a circular polyester jacket. *Applied Sciences*, 11(9), 4137. https://doi.org/10.3390/app11094137
 
-- [Elkington, J. (1998). "Cannibals with Forks: The Triple Bottom Line of 21st Century Business." New Society Publishers.](https://newsociety.com/books/c/cannibals-with-forks)
+Liu, Z., Wu, H., Wang, Z., & Li, Y. (2021). Water risks and uncertainties of apparel manufacturing in China: A process-based assessment. *Processes*, 9(7), 1212. https://doi.org/10.3390/pr9071212
 
-- [Hirschnitz-Garbers, M., & Brohmann, B. (2013). "Integrating Environmental Indicators into Industry Decision-Making Processes." Journal of Cleaner Production, 40, 98-107.](https://www.sciencedirect.com/science/article/pii/S0959652612006652)
-
-- [Guinee, J. B., et al. (2002). "Handbook on Life Cycle Assessment: Operational Guide to the ISO Standards." Kluwer Academic Publishers.](https://link.springer.com/book/10.1007/0-306-48055-7)
-
-- [Casey, C. (2021). "Allbirds’ Carbon Footprint Labeling: A New Standard in Transparency?" Harvard Business School Case 321-063.](https://www.hbs.edu/faculty/Pages/item.aspx?num=55721)
-
-- [Chouinard, Y., Ellison, J., & Ridgeway, R. (2011). "The Sustainable Economy." Harvard Business Review, 89(10), 52-62.](https://hbr.org/2011/10/the-sustainable-economy)
-
-
+Luo, X., Li, Y., & Zhang, Y. (2023). Environmental impacts of textile products in the use stage: A systematic review of life cycle assessment studies. *Sustainable Production and Consumption*, 36, 45–60. https://doi.org/10.1016/j.spc.2023.01.015

@@ -1,4 +1,4 @@
-﻿## Post-use materials
+## Post-use materials
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Scard.png" alt="Scard" style="width: 75%;" class="responsive-image">
 	
@@ -85,44 +85,35 @@ In addition to recycling, post-use materials can also be repurposed or upcycled.
 
 ### Case studies
 
-#### Worn Again Technologies
+#### Worn Again Technologies – Textile-to-textile recycling of post-use polyester–cotton blends  
+Worn Again Technologies develops chemical recycling processes that separate and recover polyester and cellulose from end-of-use textiles and polyester packaging. Their technology enables high-quality fiber-to-fiber recycling of blended post-use materials, turning discarded garments back into new textile feedstock and directly supporting a circular fashion economy.  
+[Project link](https://www.wornagain.co.uk/what-we-do)
 
-Worn Again Technologies is a UK-based company focused on textile recycling. They have developed a patented chemical recycling technology that can separate and extract polyester and cotton from end-of-use textiles. By breaking down post-use materials into their raw components, they can be used as inputs for the production of new textiles and garments.
+#### Patagonia – Worn Wear  
+Patagonia’s Worn Wear program collects, repairs, and resells post-use Patagonia garments, as well as recycling items that can no longer be repaired. By designing for durability, enabling repair at scale, and creating a dedicated resale channel, Worn Wear extends product lifetimes and demonstrates how post-use materials can be systematically re-integrated into the value chain.  
+[Project link](https://wornwear.patagonia.com)
 
-#### For Days
+#### MUD Jeans – Lease A Jeans and take-back recycling  
+MUD Jeans operates a “Lease A Jeans” model in which users lease denim and return it at end-of-use, after which the company collects, disassembles, and recycles post-use jeans into new denim fabrics with high recycled-content. This system turns worn garments into feedstock, reducing reliance on virgin cotton and showcasing a circular model built around post-use materials.  
+[Project link](https://www.jeanscentre.nl/mud-jeans)
 
-For Days is a subscription-based clothing brand that operates on a closed-loop system. Customers can return their used For Days garments, and in return, they receive new items. The returned garments are then processed through recycling or upcycling methods to create new products, reducing waste and extending the life cycle of the materials.
+#### For Days – Closed-loop apparel and take-back bags  
+For Days is a closed-loop apparel brand that sells garments designed for recyclability and operates a take-back system using return “Swap Bags” for any brand’s post-use textiles. Returned items are sorted for reuse or mechanically/chemically recycled into new products, exemplifying how brand-led logistics and design can mobilise post-use materials at scale.  
+[Project link](https://www.thesustainablefashionforum.com/newsroom/webinar-from-waste-to-value-the-realities-of-textile-recycling-today)
 
-#### The Renewal Workshop
+#### Evrnu – NuCycl fiber from post-use textiles  
+Evrnu’s NuCycl technology transforms post-use cotton-rich textiles into regenerated cellulose fibers with performance comparable to virgin materials. Working with global brands and mills, Evrnu demonstrates how advanced fiber regeneration can convert discarded garments into high-value yarns, closing material loops for the apparel sector.  
+[Project link](https://www.evrnu.com)
 
-The Renewal Workshop is a company that specializes in renewing and restoring post-user clothing and textiles. They partner with apparel brands to recover damaged or unsellable garments, repair them, and reintroduce them into the market. By extending the life of these products, they help reduce waste and promote a more sustainable approach to fashion.
 
-#### Closed Loop Partners
+### References
 
-Closed Loop Partners is an investment firm that focuses on circular economy solutions. They have invested in various companies and initiatives that promote the use of post-use materials in fashion. Their portfolio includes businesses involved in textile recycling, upcycling, and innovative material technologies.
+Chen, X., Memon, H. A., Wang, Y., Marriam, I., & Tebyetekerwa, M. (2021). Circular economy and sustainability of the clothing and textile industry. *Materials Circular Economy, 3*, 12. https://doi.org/10.1007/s42824-021-00026-2
 
-#### Yerdle Recommerce
+Sandberg, E., Watson, D., Lyng, K.-A., Einarsson, E., Ljungkvist, H., & Watson, M. (2024). Unlocking circularity for textile and fashion post-consumer waste in the Nordics. *Journal of Cleaner Production, 466*, 139785. https://doi.org/10.1016/j.jclepro.2024.139785
 
-Yerdle Recommerce is a company that enables brands to launch their own buyback and resale programs. They work with fashion brands to implement take-back initiatives, where customers can return their used items for resale. Yerdle handles the logistics, refurbishment, and resale of these products, contributing to waste reduction and circularity.
+Akter, S., Kulkarni, V., Rahman, M. H., Chowdhury, M. A., & Hasan, M. (2025). Chemical recycling of textile waste to polyester products: A circular business case for fashion. *Cleaner Engineering and Technology, 15*, 100769. https://doi.org/10.1016/j.clet.2023.100769
 
-#### Zero Waste Daniel
+Abbate, S., Centobelli, P., Cerchione, R., Oropallo, E., Riccio, E., & Vecchio, P. (2024). Sustainability trends and gaps in the textile, apparel and fashion industries. *Environment, Development and Sustainability, 26*(2), 2837–2864. https://doi.org/10.1007/s10668-022-02887-2
 
-Zero Waste Daniel is a sustainable fashion brand known for its zero-waste approach. The designer, Daniel Silverstein, creates unique and stylish garments using fabric scraps and post-user materials. By incorporating post-use materials into his designs, he showcases the creative possibilities of waste reduction and sustainable fashion.
-
-#### Rapanui
-
-Rapanui is a UK-based fashion brand that focuses on transparency and sustainability. They have developed a traceability system called "Teemill" that allows customers to track the life cycle of their garments, from raw materials to production and end-of-life options. Rapanui also offers a take-back program where customers can return their worn-out items for recycling.
-
-##### References
-
-https://ecostandard.org/wp-content/uploads/2021/04/ECOS-REPORT-HOW-ECODESIGN-CAN-MAKE-OUR-TEXTILES-CIRCULAR
-
-Hvass, Kerli Kant. "Post-retail responsibility of garments–a fashion industry perspective." _Journal of Fashion Marketing and Management_ 18.4 (2014): 413-430.
-
-Provin, A. P. "Regina de Aguiar Dutra, A., Machado, MM, & Vieira Cubas, AL (2021). New materials for clothing: Rethinking possibilities through a sustainability approach—A review." _Journal of Cleaner Production_ 282: 124444.
-
-Chen, Xuandong, et al. "Circular Economy and sustainability of the clothing and textile Industry." _Materials Circular Economy_ 3 (2021): 1-9.
-
-Abbate, S., Centobelli, P., Cerchione, R. _et al._ Sustainability trends and gaps in the textile, apparel and fashion industries. _Environ Dev Sustain_ (2023). https://doi.org/10.1007/s10668-022-02887-2
-
-Aus, R., Moora, H., Vihma, M. _et al._ Designing for circular fashion: integrating upcycling into conventional garment manufacturing processes. _Fash Text_  **8**, 34 (2021). https://doi.org/10.1186/s40691-021-00262-9
+Aus, R., Moora, H., Vihma, M., Nõmmann, L., & Hein, K. (2021). Designing for circular fashion: Integrating upcycling into conventional garment manufacturing processes. *Fashion and Textiles, 8*, 34. https://doi.org/10.1186/s40691-021-00262-9

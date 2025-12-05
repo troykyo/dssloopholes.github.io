@@ -87,42 +87,38 @@ One of the critical aspects of EPR is the take-back system, where consumers can 
 
 For companies, EPR represents both a challenge and an opportunity. While it may impose additional costs and logistical demands, it also drives innovation and can lead to stronger customer loyalty by demonstrating a commitment to sustainability. Companies that successfully implement EPR can differentiate themselves in the market by offering products that are not only high-quality and durable but also designed for easy recycling and minimal environmental impact.
 
-### Case Studies
+### Case studies
 
-### Filippa K  
-Filippa K, a Swedish fashion brand, is recognized for its strong commitment to sustainability and circular fashion principles. The brand has implemented an Extended Producer Responsibility (EPR) strategy by offering a leasing service for its garments, allowing customers to rent clothing items instead of purchasing them. This initiative not only extends the lifecycle of garments but also reduces waste and encourages customers to return items after use, which are then refurbished, resold, or recycled.  
-[Read more about Filippa K](https://www.close-the-loop.be/en/case/18/filippa-k)
+#### Nudie Jeans – Repair Shops and Re-use Program  
+Nudie Jeans operates a network of Repair Shops offering free repairs for life on its denim, combined with in-store take-back and resale of used jeans through its “Re-use” program. This effectively shifts responsibility for post-use garments back to the producer, extending product lifetimes and keeping textile value in a closed loop through repair, resale, and recycling.  
+[Project link](https://www.nudiejeans.com/sustainability)
 
-### Woolmark  
-Woolmark, a global authority on wool, collaborates with fashion brands to promote the recycling and upcycling of wool garments. Through the Woolmark Recycling Initiative, the organization partners with brands to implement take-back programs, where customers can return used wool items. These items are then recycled into new wool products, ensuring that wool fibers are continuously reused, thus minimizing waste.  
-[Read more about Woolmark](https://www.woolmark.com/industry/sustainability/)
+#### The North Face – Clothes the Loop  
+The North Face’s “Clothes the Loop” initiative allows users to return used clothing and footwear (from any brand) to designated collection points in its stores. Returned products are sorted for reuse, recycling, or downcycling, reducing landfill waste and embodying EPR principles by making the brand co-responsible for end-of-life management.  
+[Project link](https://www.thenorthface.com/en-us/about-us/responsibility/product/clothes-the-loop)
 
-### The North Face  
-The North Face has developed the Clothes the Loop program, where customers can bring used clothing and footwear (from any brand) to The North Face stores for recycling. The collected items are either reused, recycled, or repurposed into new products. This initiative is part of The North Face's commitment to reducing landfill waste and promoting sustainable practices in the outdoor apparel industry.  
-[Read more about The North Face's Clothes the Loop](https://www.thenorthface.com/about-us/responsibility/product/clothes-the-loop.html)
+#### Nike – Reuse-A-Shoe and Nike Grind  
+Nike’s Reuse-A-Shoe program collects worn-out athletic footwear and processes it into Nike Grind materials, which are used in new products and sports surfaces. By organizing collection, processing, and material reintegration, Nike assumes responsibility for post-use shoes and demonstrates how EPR can be operationalised at scale in footwear.  
+[Project link](https://www.nikegrind.com)
 
-### Nike  
-Nike’s Reuse-A-Shoe program is an example of EPR in action. Customers can return worn-out athletic shoes to Nike stores, where the shoes are then processed and turned into Nike Grind, a material used in creating new sports surfaces, playgrounds, and products. This program highlights Nike's efforts to close the loop and reduce the environmental impact of its products.  
-[Read more about Nike's Reuse-A-Shoe](https://www.nike.com/sustainability)
+#### H&M – Garment Collecting Programme  
+H&M’s Garment Collecting programme installs collection boxes in stores where users can return unwanted textiles from any brand. These are sorted into rewear, reuse, and recycle streams, with the programme framed as part of H&M’s responsibility for textile waste and alignment with emerging EPR schemes for textiles.  
+[Project link](https://www2.hm.com/en_gb/customer-service/shopping-at-hm/garment-collecting.html)
 
-### Nudie Jeans  
-Nudie Jeans, a Swedish denim brand, has integrated EPR into its operations through its "Repair Shops" and "Reuse" initiatives. Customers are encouraged to return their old Nudie Jeans for repair, or they can buy second-hand pairs directly from the brand. The returned jeans are either repaired and resold, or the materials are recycled into new products. This approach extends the life of the jeans and reduces textile waste.  
-[Read more about Nudie Jeans' sustainability](https://www.nudiejeans.com/pages/sustainability)
+#### Refashion (France) – National EPR Scheme for Textiles  
+Refashion is the French eco-organisation mandated under national EPR legislation for clothing, household linen, and footwear. It coordinates producer fees, supports collection and sorting infrastructures, and funds R&D for recycling, making it a systemic example of how EPR can structure end-of-life responsibility for the entire textile value chain.  
+[Project link](https://refashion.fr/pro/en)
 
+---
 
 ### References
 
-- Lewis, Helen, and J. Fitzpatrick. "Sustainable Packaging: A Study of Extended Producer Responsibility in the Fashion Industry." Journal of Sustainable Fashion 12.3 (2020): 235-248.
+Niinimäki, K., Peters, G. M., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9  
 
-- Watson, David, and Anders Damgaard. "Extended Producer Responsibility for Textiles: A Policy Review and Analysis." Ecological Economics 169 (2020): 106567.
+Organisation for Economic Co-operation and Development. (2016). *Extended producer responsibility: Updated guidance for efficient waste management*. OECD Publishing. https://www.oecd.org/environment/waste/extended-producer-responsibility.htm  
 
-- Kirchherr, Julian, et al. "Extended Producer Responsibility Policies: An International Review." Journal of Cleaner Production 248 (2020): 119233.
+European Environment Agency. (2019). *Textiles in Europe’s circular economy* (EEA Report No. 15/2019). European Environment Agency. https://www.eea.europa.eu/publications/textiles-in-europes-circular-economy  
 
-- Larsen, Niels Henrik, and Michael Karlsson. "Circular Economy and EPR: Reducing Waste in the Apparel Sector." Environmental Research Letters 15.7 (2020): 074014.
+Ellen MacArthur Foundation. (2017). *A new textiles economy: Redesigning fashion’s future*. Ellen MacArthur Foundation. https://ellenmacarthurfoundation.org/a-new-textiles-economy  
 
-- Andrews, D. "Closing the Loop: A Case Study on the Implementation of Extended Producer Responsibility in the Fashion Industry." Resources, Conservation, and Recycling 165 (2021): 105277.
-
-- Tojo, Naoko, and Tomohiro Sakanashi. "Extended Producer Responsibility in a Circular Economy: Potential for EPR in the Textile Sector." Journal of Industrial Ecology 24.3 (2020): 426-436.
-
-
-
+European Commission. (2022). *EU strategy for sustainable and circular textiles*. European Commission. https://environment.ec.europa.eu/strategy/textiles-strategy_en  

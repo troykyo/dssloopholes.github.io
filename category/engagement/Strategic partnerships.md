@@ -1,4 +1,4 @@
-﻿## Strategic Partnerships
+## Strategic Partnerships
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -89,25 +89,31 @@ In summary, strategic partnerships involve collaborations between entities in or
 
 ### Case studies
 
-#### H&M x Balmain
+## Case Studies
 
-In 2015, fast-fashion retailer H&M collaborated with luxury fashion house Balmain to create a highly anticipated and limited-edition collection. This strategic partnership allowed H&M to tap into Balmain's high-end aesthetic and gain access to their luxury customer base. The collaboration resulted in a successful launch, with long queues and sold-out items, showcasing the power of strategic brand collaborations.
+### H&M x Balmain (2015)
+A global fast-fashion retailer partnered with a Parisian luxury house to launch a co-branded capsule collection.  
+The collaboration blended mass-market distribution with luxury aesthetics, generating significant consumer interest and demonstrating the impact of cross-segment partnerships.
 
-#### Adidas x Parley for the Oceans
+### Adidas x Parley for the Oceans
+Adidas partnered with environmental NGO *Parley for the Oceans* to develop footwear and apparel made from intercepted marine plastic.  
+This collaboration exemplifies how strategic partnerships advance material innovation and sustainability at scale.  
+More info:  
+[https://www.adidas.com/us/parley](https://www.adidas.com/us/parley)
 
-Adidas, a renowned sportswear brand, partnered with Parley for the Oceans, an environmental organization focused on ocean conservation. This collaboration aimed to address the issue of ocean pollution by using recycled plastic waste from the oceans to create shoes and apparel. By leveraging Parley's expertise in sustainability and raising awareness about marine conservation, Adidas demonstrated its commitment to environmental responsibility.
+### Nike x Off-White
+Nike partnered with Virgil Abloh’s Off-White on “The Ten” collection, which re-engineered classic Nike silhouettes.  
+This partnership connected sportswear heritage with contemporary luxury streetwear.
 
-#### Nike x Off-White
+### Stella McCartney x Bolt Threads
+A designer–biotech partnership exploring next-generation sustainable materials, including bio-based silk alternatives (e.g., Microsilk™).  
+More info:  
+[https://boltthreads.com](https://boltthreads.com)
 
-Nike collaborated with fashion designer Virgil Abloh's label, Off-White, for a series of limited-edition sneaker collaborations. This strategic partnership allowed Nike to tap into the streetwear and high-fashion market, as well as leverage Abloh's influential design aesthetic. The collaboration generated significant buzz and excitement among sneaker enthusiasts and fashion enthusiasts alike.
-
-#### Stella McCartney x Bolt Threads
-
-British fashion designer Stella McCartney partnered with Bolt Threads, a biotechnology company, to create a collection of sustainable and cruelty-free materials. The collaboration focused on developing innovative fabrics made from lab-grown silk and other sustainable materials. This partnership showcased how fashion brands can team up with technology companies to advance sustainable practices and offer innovative alternatives to traditional materials.
-
-#### Levi's x Goodwill
-
-Denim brand Levi's partnered with Goodwill, a non-profit organization, to encourage clothing recycling and reduce textile waste. Through this collaboration, Levi's provided collection bins in their stores where customers could drop off their old denim items. Goodwill then sorted and resold the items or recycled them into new products. This strategic partnership promoted circular fashion practices and created a convenient and sustainable way for customers to dispose of their unwanted clothing.
+### Levi’s x Goodwill
+A circularity partnership enabling denim take-back, reuse, and material recovery through in-store collection points.  
+More info:  
+[https://www.goodwill.org](https://www.goodwill.org)
 
 ### References
 

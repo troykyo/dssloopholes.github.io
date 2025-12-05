@@ -1,4 +1,4 @@
-﻿## Feedback Loops
+## Feedback Loops
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -100,25 +100,35 @@ Fashion companies can establish personalized communication channels, such as ema
 
 ### Case studies
 
-#### Nike Run Club
-Nike Run Club is a mobile app that caters to runners of all levels. The app incorporates a user feedback loop by providing features like post-workout surveys and personalized training plans. Nike leverages this feedback to enhance the app's functionality, tailor training programs, and improve the overall user experience, thereby building a loyal community of runners.
-    
-#### Warby Parker
-Warby Parker, an eyewear retailer, utilizes a user feedback loop to refine its product offerings and customer experience. They offer a "Home Try-On" service, allowing users to select and try on frames at home before making a purchase. Users provide feedback on the frames they try, helping Warby Parker improve the selection, fit, and style options available.
+#### Stitch Fix – Client feedback–driven styling
+Stitch Fix’s styling service is built around continuous feedback loops: after each shipment, clients rate individual items, provide free-text feedback, and answer style preference questions. This granular feedback is fed into both human stylist workflows and machine-learning models to iteratively refine future assortments and recommendations, explicitly positioning client feedback as a core data source for design, buying, and personalization decisions.  
+[Project link](https://multithreaded.stitchfix.com/blog/2019/09/26/your-opinion-matters/)
 
-#### ModCloth
-ModCloth, an online retailer specializing in vintage-inspired clothing and accessories, places a strong emphasis on user feedback. They encourage customers to share their experiences and provide feedback on the fit and quality of the items they purchase. ModCloth uses this feedback to refine their sizing and product descriptions, ensuring a better shopping experience for their customers.
-    
+#### Rent the Runway – Fit reviews and data-informed sizing
+Rent the Runway’s “Finding Your Fit” system invites renters to share detailed reviews with body measurements, event context, and perceived fit for each garment. The platform aggregates this user-generated feedback into fit guidance, size recommendations, and visual review galleries, enabling a tight loop between wearer experience, future renters’ decisions, and inventory selection and product development.  
+[Project link](https://www.renttherunway.com/finding-your-fit)
 
-    
-#### Uniqlo
-Uniqlo, a Japanese casual wear brand, actively seeks customer feedback through various channels, including surveys and social media. They gather insights on customer preferences, product satisfaction, and potential areas for improvement. Uniqlo uses this feedback to inform their product development, marketing strategies, and overall customer experience.
+#### Nuuly – Fit Feedback + Size Guidance
+Nuuly’s “Fit Feedback + Size Guidance” feature asks subscribers to rate how each rented garment fits and describe where it feels tight, loose, or true to size. These data points are used to generate size guidance for future renters and to inform assortment optimisation and pattern adjustments, embedding an explicit digital feedback loop into the rental model.  
+[Project link](https://www.nuuly.com/news/fit-feedback-size-guidance)
+
+#### Zalando – Embedded customer insight for brands
+Through its data and analytics offerings, Zalando combines transactional data and customer insight (including survey-based feedback) to provide brands with dashboards on performance, user behaviour, and product response. This infrastructure closes the loop between what local users actually buy and say, and how brands adjust assortments, pricing, and marketing strategies on the platform.  
+[Project link](https://www.gooddata.com/customers/zalando/)
+
+#### Nike – Nike Run Club as performance feedback ecosystem
+Nike Run Club is a mobile app that records runs, surfaces post-run analytics, and connects training plans to an individual’s performance history. These continuous digital feedback loops support runners in adjusting behaviour over time, while also providing Nike with large-scale behavioural insight that can inform service design, campaign targeting, and the development of performance apparel and footwear ecosystems.  
+[Project link](https://www.nike.com/nrc-app)
 
 
-##### References
+### References
 
-The Fetishization of Transparency.” _Kate Fletcher_, 13 Feb. 2022, katefletcher.com/the-fetishization-of-transparency/.
+- Bonilla-Quijada, M., Del Olmo, J. L., Andreu, D., & Ripoll-i-Alcón, J. (2023). Customer engagement on Instagram for luxury fashion brands: An empirical comparative analysis. *Cogent Social Sciences, 9*(1), 2235169. https://doi.org/10.1080/23311886.2023.2235169  
 
-Liu, Na, et al. "Fashion platform operations in the sharing economy with digital technologies: recent development and real case studies." _Annals of Operations Research_ (2022): 1-21.
+- Goti, A., Querejeta-Lomas, L., Almeida, A., de la Puerta, J. G., & López-de-Ipiña, D. (2023). Artificial intelligence in business-to-customer fashion retail: A literature review. *Mathematics, 11*(13), 2943. https://doi.org/10.3390/math11132943  
 
-Vehmas, Kaisa, et al. "Consumer attitudes and communication in circular fashion." _Journal of Fashion Marketing and Management: An International Journal_ (2018).
+- Huang, Y., Yang, J., & Li, Z. (2024). Effects of online customer reviews on sustainable clothing purchase intentions: The mediating role of green perceived value and trust. *Journal of Consumer Behaviour*. Advance online publication. https://doi.org/10.1002/cb.2344  
+
+- Tupikovskaja-Omovie, Z. (2022). Enhancing user experience in fashion m-retail: Mapping shopping user journey using Google Analytics, eye tracking technology and retrospective think-aloud interview. *Fashion Practice, 14*(3), 352–375. https://doi.org/10.1080/17569370.2022.2129466  
+
+- Tupikovskaja-Omovie, Z., & Tyler, D. J. (2021). Eye tracking technology to audit Google Analytics: Analysing digital consumer shopping journey in fashion m-retail. *International Journal of Information Management, 59*, 102294. https://doi.org/10.1016/j.ijinfomgt.2020.102294  

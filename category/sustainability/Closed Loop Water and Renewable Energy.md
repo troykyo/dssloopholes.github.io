@@ -89,34 +89,38 @@ Incorporating closed-loop water systems and renewable energy into the fashion in
 
 The benefits of these practices extend beyond environmental sustainability. They can also lead to cost savings in the long term, enhance brand reputation, and meet the growing consumer demand for eco-friendly products. Moreover, they align with global sustainability goals, such as the United Nations' Sustainable Development Goals (SDGs), which call for responsible consumption and production (SDG 12) and affordable and clean energy (SDG 7).
 
-### Case Studies
+### Case studies
 
-### People Tree  
-People Tree is a pioneering **fair trade fashion brand** known for its sustainable practices. The company emphasizes **closed-loop water systems** and renewable energy sources, such as wind and solar, throughout its operations. This approach has made People Tree a model for SMEs in the fashion industry, and its commitment to ethical and eco-friendly fashion resonates with sustainability-conscious consumers.  
-[Learn more about People Tree](https://www.fairtrade.org.uk/producers/people-tree)
+#### Trikotek – Circular Denim Facility with Closed-Loop Water and Renewable Energy  
+Turkish knitwear and denim producer Trikotek operates a washing facility where 98% of process water is recycled and the remaining 2% is lost through evaporation, achieving zero liquid discharge from washing. The company also reports running production on clean, renewable energy, directly coupling water circularity with decarbonised electricity in textile finishing.  
+[Project link](https://trikotek.com.tr/en/sustainability)
 
-### Eileen Fisher  
-**Eileen Fisher** is renowned for its sustainability efforts, including the use of **closed-loop water systems** in its dyeing processes and powering its operations with **solar energy**. The brand also employs energy-efficient technologies to reduce its carbon footprint and has earned a loyal customer base that values environmentally conscious practices.  
-[Learn more about Eileen Fisher](https://www.eileenfisher.com)
+#### ACQUA360 – Closed-Loop Water for Tuscan Tanning District  
+The ACQUA360 project in the Santa Croce sull’Arno tanning district (Italy) pilots a centralized purification and refinement plant to recycle tannery wastewater back into process water. By supplying recycled water to multiple tanneries at industrial scale, the project lays the groundwork for a district-level closed-loop water infrastructure in the leather value chain.  
+[Project link](https://www.distrettosantacroce.it/index.php/en/new/acqua-360-water-closed-loop-for-tanning-industry)
 
-### Reformation  
-**Reformation** is a fast-growing fashion brand that prioritizes sustainability by using **closed-loop systems** in its production, particularly in its eco-friendly denim line. Reformation offsets its energy consumption through investments in wind energy projects, ensuring all its facilities run on 100% renewable energy, making it a leader in sustainable fashion.  
-[Learn more about Reformation](https://www.thereformation.com)
+#### WASTE2FRESH – EU Textile Wastewater Closed-Loop Demonstration  
+WASTE2FRESH is an EU Horizon 2020 project that develops a hybrid system combining advanced oxidation, membrane filtration, and smart monitoring to enable near-zero liquid discharge in textile finishing. The project’s industrial demonstrator at a denim factory shows how integrated treatment can continuously recycle process water, drastically reducing freshwater intake and pollutant discharge.  
+[Project link](https://waste2fresh.eu)
 
-### Vivobarefoot  
-**Vivobarefoot** is a footwear brand that focuses on sustainable materials and processes, employing **closed-loop water systems** to minimize waste and powering its production with **solar energy**. Vivobarefoot is working towards a **zero-waste production** model, positioning itself as a leader in sustainable footwear.  
-[Learn more about Vivobarefoot](https://www.vivobarefoot.com)
+#### SAITEX – “The World’s Cleanest Denim Factory”  
+SAITEX, a Vietnamese denim manufacturer supplying multiple global brands, is widely cited for its closed-loop water and energy system. The factory treats and recycles roughly 98% of its process water on-site and relies heavily on renewable energy and high-efficiency equipment, positioning denim laundering and finishing within a low-impact, near-closed-loop infrastructure.  
+[Project link](https://www.saitex.com/sustainability)
+
+#### ECWRTI – Electro-Coagulation Based Water Reuse in Textile Finishing  
+The ECWRTI project (Electro Coagulation and Wastewater Reuse Technology for the Textile Industry) demonstrates a treatment train that combines electro-coagulation, filtration, and reverse osmosis to close the water loop in a textile finishing line. By enabling high-quality water reuse and reducing discharge, ECWRTI offers a scalable pathway for mills to move toward circular water management with lower overall resource use.  
+[Project link](https://cordis.europa.eu/project/id/672539)
+
+---
 
 ### References
 
-### References
+Köhler, A. R., & Som, C. (2020). Effects of circular economy policies on the textile sector. *Journal of Cleaner Production, 268*, 122112. https://doi.org/10.1016/j.jclepro.2020.122112  
 
-- [Köhler, A. R., & Som, C. (2020). "Circular Economy in the Fashion Industry: A Review of Sustainability Strategies." Journal of Cleaner Production, 267, 122049.](https://www.sciencedirect.com/science/article/pii/S0959652620304374)
+Ayedi, M. E., Gzara, L., Bousselmi, L., & Amar, R. B. (2023). Water reuse in the textile industry with integrated treatments: Membranes and advanced oxidation processes. *Desalination and Water Treatment, 282*, 231–243. https://doi.org/10.5004/dwt.2023.29875  
 
-- [Fletcher, K., & Tham, M. (2019). "Earth Logic Fashion Action Research Plan." Centre for Sustainable Fashion, University of the Arts London.](https://earthlogic.info/)
+Hossain, M. M., & Alam, M. J. B. (2018). Sustainable water management in the textile and garment industries. *Journal of Environmental Management, 223*, 104–113. https://doi.org/10.1016/j.jenvman.2018.06.047  
 
-- [Hossain, M. M., & Alam, M. J. B. (2018). "Sustainable Water Management in the Textile Industry: A Review." Journal of Environmental Management, 223, 831-844.](https://www.sciencedirect.com/science/article/pii/S0301479718305303)
+Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9  
 
-- [Preuss, H., & Schaltegger, S. (2019). "Sustainable Fashion: A Review and Implications for the Circular Economy." Sustainability, 11(20), 5691.](https://www.mdpi.com/2071-1050/11/20/5691)
-
-- [De Brito, M. P., Carbone, V., & Blanquart, C. M. (2020). "Environmental and Social Sustainability in Fashion: A Case Study Analysis of Luxury and Mass-Market Brands." Journal of Cleaner Production, 121982.](https://www.sciencedirect.com/science/article/pii/S0959652620306622)
+Islam, M. T., Al Mamun, M. A., Halim, A. F. M. F., Peila, R., & Sanchez Ramirez, D. O. (2024). Current trends in textile wastewater treatment—Bibliometric review. *Environmental Science and Pollution Research, 31*(12), 19166–19184. https://link.springer.com/article/10.1007/s11356-023-29288-0  

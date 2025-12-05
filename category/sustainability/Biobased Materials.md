@@ -85,31 +85,37 @@ One of the most promising aspects of biobased materials is their role in bioreju
 
 The adoption of biobased materials also presents an opportunity for brands and designers to contribute to environmental stewardship. By selecting materials that are sustainably sourced and capable of being reintroduced into the natural environment, the fashion industry can mitigate its impact on the planet. Additionally, the use of biobased materials aligns with consumer demand for eco-friendly and ethically produced fashion products.
 
-### Case Studies
+### Case studies
 
-### Ananas Anam (Piñatex)  
-Ananas Anam is the creator of Piñatex, a sustainable textile made from the fibers of pineapple leaves. Piñatex is a biobased material that provides an eco-friendly alternative to leather. The production process of Piñatex utilizes agricultural waste from pineapple farming, reducing waste and creating a sustainable source of income for farmers. The material is biodegradable and has been used by fashion brands to create footwear, accessories, and clothing.  
-[Learn more about Piñatex](https://www.ananas-anam.com/)
-<br>
-### Bast Fiber Technologies (BFTi)  
-Bast Fiber Technologies (BFTi) develops biobased fibers derived from bast plants such as hemp, flax, and jute. These fibers are used in textiles, nonwovens, and composites. BFTi's materials are environmentally friendly, biodegradable, and suitable for sustainable fashion. The company focuses on using renewable resources and reducing the environmental footprint of textile production.  
-[Learn more about Bast Fiber Technologies](https://bastfibertech.com/)
-<br>
-### Modern Meadow  
-Modern Meadow is a biotechnology company that creates biofabricated materials, including Zoa, a biobased leather alternative made from collagen produced through fermentation. Zoa is designed as a sustainable, animal-free alternative to traditional leather, offering a customizable, eco-friendly material that aligns with the growing demand for ethical fashion.  
-[Learn more about Modern Meadow](https://www.modernmeadow.com/)
-<br>
-### Ecoalf  
-Ecoalf is a fashion brand committed to sustainability, focusing on using recycled and biobased materials. Their range of clothing and accessories is made from biobased materials such as algae and plant-based fibers. Ecoalf's mission is to reduce fashion's environmental impact and promote circularity in the industry.  
-[Learn more about Ecoalf](https://ecoalf.com/)
+#### Ananas Anam – Piñatex and Piñayarn pineapple-leaf textiles  
+Ananas Anam develops Piñatex® and Piñayarn®, textiles made from fibres extracted from pineapple leaf agricultural residues. By valorising a by-product stream and replacing part of conventional leather and synthetic fibres with plant-derived materials, these fabrics reduce pressure on land and resource use while enabling lower-impact footwear, accessories, and apparel.  
+[Project link](https://www.ananas-anam.com/pinayarn/)
+
+#### Bast Fibre Technologies – Bast-based natural fibres for nonwovens and textiles  
+Bast Fibre Technologies (BFT) engineers speciality fibres from bast plants such as hemp and flax for use in nonwovens and textile applications. Their fibres are derived from renewable crops, designed to be compostable, and positioned as drop-in replacements for fossil-based synthetics in wipes and hygiene products, supporting biobased material substitution and end-of-life biodegradability.  
+[Project link](https://bastfibretech.com/)
+
+#### Modern Meadow – Biofabricated leather-like materials (Zoa™ platform)  
+Modern Meadow uses fermentation to produce collagen and other biofabricated building blocks that can be assembled into leather-like materials under the Zoa™ platform. These animal-free, tunable materials are designed to reduce reliance on livestock-based leather and conventional plastics, offering a route to engineered, bio-based textiles with lower environmental footprints.  
+[Project link](https://www.modernmeadow.com/)
+
+#### Ecoalf – Bio-based and recycled textile innovations  
+Ecoalf is a Spanish fashion brand whose innovation programme integrates recycled and bio-based feedstocks, including algae-based yarns and other renewable fibres, into outerwear, footwear, and accessories. By combining recycled ocean and post-consumer plastics with emerging bio-based materials, Ecoalf prototypes scalable material mixes that move collections towards reduced fossil dependence and improved circularity.  
+[Project link](https://ecoalf.com/en/pages/innovacion-y)
+
+#### Pangaia – FLWRDWN® and bio-based insulation systems  
+Pangaia’s FLWRDWN® insulation replaces conventional down and many synthetic fills with a composite based on wildflowers and biobased binders, designed to be lightweight, warm, and with a reduced animal and fossil footprint. Positioned within a broader portfolio of plant- and bio-based textiles, FLWRDWN® illustrates how fashion insulation can be reimagined using renewable inputs while targeting recyclability and biodegradability.  
+[Project link](https://thepangaia.com/pages/our-materials)
+
 
 ### References
 
-### References
+D’Itria, E., & Colombi, C. (2022). Biobased innovation as a fashion and textile design must: A European perspective. *Sustainability, 14*(1), 570. https://doi.org/10.3390/su14010570  
 
-- Luengo, B., and T. Bakker. “Biobased materials and circularity in fashion: Opportunities and challenges.” Circular Economy Journal 12.3 (2020): 89-103.
+Hildebrandt, J., Thrän, D., & Bezama, A. (2021). The circularity of potential bio-textile production routes: Comparing life cycle impacts of bio-based materials used within the manufacturing of selected leather substitutes. *Journal of Cleaner Production, 287*, 125470. https://doi.org/10.1016/j.jclepro.2020.125470  
 
-- Thompson, S. “Biorejuvenation in textiles: Innovations in material science for sustainable fashion.” Sustainable Fashion Review 18.4 (2021): 221-229.
+Nayak, R., Kannangara, M., Hossen, J., Hadadi, A., & Ding, L. (2024). Potential of bacterial cellulose for sustainable fashion and textile applications: A review. *Journal of Materials Science, 59*(12), 6685–6710. https://doi.org/10.1007/s10853-024-09577-6  
 
-- Garcia, A. “Exploring the circular potential of biobased materials in fashion.” Journal of Textile Research and Development 14.2 (2019): 167-175.
+Rognoli, V., Pizzocaro, S., & Ayala-Garcia, C. (2022). Materials biography as a tool for designers’ exploration of bio-based and bio-fabricated materials for the sustainable fashion industry. *Sustainability: Science, Practice and Policy, 18*(1), 749–772. https://doi.org/10.1080/15487733.2022.2124740  
 
+Liu, R., Zhu, Y., Jiang, H., & Zhang, X. (2024). Engineered, environmentally friendly leather-like bio-based materials. *Trends in Biotechnology*. https://doi.org/10.1016/j.tibtech.2024.11.006  

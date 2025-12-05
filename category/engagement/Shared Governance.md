@@ -1,4 +1,4 @@
-﻿## Shared Governance
+## Shared Governance
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -86,44 +86,35 @@ Additionally, shared governance may involve partnerships between fashion brands 
 
 ### Case studies
 
-#### Fair Wear Foundation
+#### Fair Wear Foundation – Multi-stakeholder labour governance in garment supply chains  
+Fair Wear Foundation is an independent multi-stakeholder initiative where brands, factories, trade unions, NGOs, and other actors jointly govern a code of labour practices, complaint mechanisms, and remediation processes in global garment supply chains. Its governance model gives civil society and worker representatives formal decision-making power alongside brands, making labour rights oversight a shared responsibility rather than a unilateral brand function.  
+[Project link](https://www.fairwear.org/about-us)
 
-Fair Wear Foundation is an independent, non-profit organization that works with clothing brands, factories, trade unions, and NGOs to improve labor conditions in the garment industry. It follows a shared governance model where brands, factories, and workers collaborate to develop and implement fair labor practices, including fair wages, safe working conditions, and workers' rights.
+#### Cascale (formerly Sustainable Apparel Coalition) – Higg Index and shared impact measurement  
+Cascale (formerly the Sustainable Apparel Coalition) is a global alliance of brands, retailers, manufacturers, NGOs, and academic institutions that co-govern the Higg Index, a common suite of tools for assessing environmental and social impacts in apparel, footwear, and textiles. Members collaboratively set methodologies, data standards, and improvement pathways, turning impact measurement and target-setting into a shared governance task across the value chain.  
+[Project link](https://cascale.org/higg-index)
 
-#### Sustainable Apparel Coalition (SAC)
+#### Better Cotton – Multi-stakeholder standard for responsible cotton production  
+Better Cotton is a global, multi-stakeholder initiative that brings together farmers, ginners, traders, brands, retailers, and civil society to govern a standard system for more sustainable cotton production. Through its multi-chamber governance and assurance system, decision-making on criteria, monitoring, and capacity building is shared across the value chain, linking on-farm practices, brand commitments, and local implementation partners.  
+[Project link](https://bettercotton.org/what-we-do)
 
-The SAC is a collaborative effort among brands, retailers, manufacturers, and NGOs to promote sustainable practices in the apparel, footwear, and textile industry. It operates on shared governance principles, with members working together to develop and implement the Higg Index, a suite of tools that measures the environmental and social impact of products and supply chains.
+#### Partnership for Sustainable Textiles (Germany) – Alliance for due diligence and transparency  
+The Partnership for Sustainable Textiles is a German multi-stakeholder initiative that unites companies, associations, trade unions, NGOs, standards organisations, and the federal government to improve social and environmental conditions in textile supply chains. Members jointly define due diligence expectations, set collective targets, and run partnership initiatives on topics such as living wages, gender equality, and circularity, making supply chain governance a shared responsibility rather than a purely corporate one.  
+[Project link](https://partnerschaften2030.de/en/map-profile/partnership-for-sustainable-textiles/)
 
-#### Better Cotton Initiative (BCI)
+#### ACT (Action, Collaboration, Transformation) – Brand–union agreement on living wages  
+ACT is a ground-breaking agreement between global garment brands and IndustriALL Global Union that links purchasing practices to industry-wide collective bargaining on living wages in key production countries. Governance is shared between brands and unions through joint decision-making structures and country-specific agreements, aligning commercial and industrial relations decisions and embedding worker voice directly into wage-setting for the sector.  
+[Project link](https://actonlivingwages.com/about-act/)
 
-BCI is a global non-profit organization that aims to transform cotton production by promoting more sustainable farming practices. It brings together stakeholders from across the cotton value chain, including farmers, ginners, traders, brands, and retailers, to establish standards and provide training and support for farmers to adopt more sustainable and responsible cotton production methods.
 
-#### Fashion Revolution
+### References
 
-Fashion Revolution is a global movement that advocates for transparency, sustainability, and ethical practices in the fashion industry. It encourages consumers to question and engage with brands about their supply chains and production processes. Fashion Revolution promotes shared governance by empowering consumers, workers, and industry stakeholders to demand accountability and transparency from fashion brands.
+Beyers, F., Leventon, J., & Heinrichs, H. (2023). Collaborative governance or state regulation? Endless efforts but little capacity for sustainability transformation of the German textile sector. *Environmental Policy and Governance, 33*(1), 56–77. https://doi.org/10.1002/eet.1996  
 
-#### Sustainable Fashion Alliance
+Beyers, F., & Leventon, J. (2021). Learning spaces in multi-stakeholder initiatives: The German Partnership for Sustainable Textiles as a platform for dialogue and learning? *Earth System Governance, 9*, 100113. https://doi.org/10.1016/j.esg.2021.100113  
 
-The Sustainable Fashion Alliance is an industry association that promotes sustainability and shared governance within the fashion industry. It brings together brands, designers, manufacturers, and industry professionals to collaborate on sustainable initiatives, share best practices, and advocate for positive change in the fashion system.
+Beyers, F., Holz, F., Leventon, J., & Heinrichs, H. (2024). Collaborative governance networks and sustainability transformation in the German textile sector. *Scientific Reports, 14*, 102068. https://doi.org/10.1038/s41598-024-75107-5  
 
-##### References
+Cerchione, R., Esposito, E., Borrelli, C., & Kan, M. (2025). Sustainability strategies and stakeholder relationships in the fashion industry: A systematic literature review and future research agenda. *Journal of Cleaner Production, 458*, 143166. https://doi.org/10.1016/j.jclepro.2024.143166  
 
-- Beyers, Felix, Julia Leventon, and Harald Heinrichs. "Collaborative governance or state regulation? Endless efforts but little capacity for sustainability transformation of the German textile sector." _Environmental Policy and Governance_ 33.1 (2023): 56-77.
-
-- Yu, Dan, and Peipei Zhao. "Global Value Chain Governance of the Apparel Design Industry under the Background of Global Sustainable Economic Development." _Journal of Environmental and Public Health_ 2022 (2022).
-
-- Beyers, F., Leventon, J., & Heinrichs, H. (2023). Collaborative governance or state regulation? Endless efforts but little capacity for sustainability transformation of the German textile sector. Environmental Policy and Governance, 33(1), 56-77.
- 
-- Yu, D., & Zhao, P. (2022). Global value chain governance of the apparel design industry under the background of global sustainable economic development. Journal of Environmental and Public Health, 2022, 1-10.
- 
-- Yildiz, K., & Kaya, D. (2023). Sustainable governance in the fashion industry: Assessing the role of multi-stakeholder initiatives and participatory approaches. Journal of Fashion Marketing and Management, 27(2), 125-139.
- 
-- Choi, T.-M., & Shen, B. (2022). Risk management and governance in sustainable fashion supply chains. International Journal of Production Economics, 241, 108278.
- 
-- Sarkis, J., Zhu, Q., & Lai, K.-H. (2023). Multi-stakeholder perspectives on sustainability in fashion supply chains. Sustainable Development, 31(1), 80-92.
- 
-- Smith, S. G., & Harrison, J. (2022). Collaborative networks for sustainable apparel: A case study of the Sustainable Apparel Coalition. Journal of Business Ethics, 179(3), 619-636.
- 
-- Silva, A. M., & Ferreira, P. L. (2022). Engaging consumers in sustainable fashion: Governance and shared responsibility. Journal of Consumer Marketing, 39(5), 485-496.
- 
-- Ahmed, S., & Hasan, R. (2023). Ethical supply chain governance in the apparel industry: Case studies from South Asia. Business Strategy and the Environment, 32(1), 88-101.
+Khan, A. M., & van Dijk, M. P. (2024). The role of multi-stakeholder initiatives in advancing circularity and social sustainability in the textiles sector of Bangladesh. *Journal of International Development, 36*(3), 1765–1788. https://doi.org/10.1002/jid.3879  

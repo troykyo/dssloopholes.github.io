@@ -90,42 +90,35 @@ Overall, enabling repairability in the fashion domain involves a holistic approa
 
 ### Case studies
 
-#### iFixit
+#### Patagonia – Worn Wear & Repair Services  
+Patagonia integrates design for repairability with its Worn Wear program, offering in-house repair services, mail-in repairs, and detailed repair guides so garments can stay in use for as long as possible. The brand designs products with durable constructions and replaceable components (e.g., zippers, panels), explicitly linking repair services to product design and extended producer responsibility.  
+[Project link](https://wornwear.patagonia.com)
 
-Although not a fashion brand, iFixit is an online platform that promotes repairability across various user products, including clothing and accessories. They provide free repair guides, tools, and community forums to help individuals repair their own items. iFixit's focus on repairability aligns with the broader concept of enabling repairability in the fashion domain.
+#### Nudie Jeans – Free Repairs for Life  
+Nudie Jeans designs its denim with robust construction and classic detailing so that jeans can be repaired repeatedly rather than replaced. Through its global network of Repair Shops and partners, the brand offers free repairs for life on its jeans, embedding repairability into both product design and its circular business model.  
+[Project link](https://www.nudiejeans.com/repair)
 
-#### Cotopaxi
+#### Arc’teryx – ReBird Repair Program  
+Arc’teryx’s ReBird initiative combines product design, repair, resale, and upcycling, with a dedicated repair service that replaces damaged components such as zips, panels, and hardware. Garments are engineered for technical longevity, and the repair program operationalises design-for-repair decisions by restoring high-value outdoor products to functional use instead of replacement.  
+[Project link](https://arcteryx.com/experience/rehab-repair)
 
-Cotopaxi is an outdoor apparel and gear brand with a strong commitment to sustainability and social impact. They offer a comprehensive repair program for their products, ensuring that customers can continue using and enjoying their Cotopaxi gear for an extended period.
+#### Cotopaxi – Guaranteed for Good Repair Program  
+Cotopaxi’s “Guaranteed for Good” policy explicitly commits the brand to repairing or replacing products that fail in normal use. Their product development emphasises durable, repairable construction, while the repair program provides a practical pathway for keeping garments and equipment in circulation and delaying end-of-life.  
+[Project link](https://www.cotopaxi.com/pages/guaranteed-for-good)
 
-#### Nau
+#### iFixit – Clothing & Gear Repair Guides  
+iFixit supports design for repairability at ecosystem level by publishing open repair guides and tools for a wide range of products, including clothing, outdoor gear, and accessories. By making step-by-step textile and hardware repair instructions freely accessible, it lowers the barrier for brands and wearers to design, maintain, and repair garments instead of discarding them.  
+[Project link](https://www.ifixit.com/Device/Clothing)
 
-Nau is a sustainable clothing brand that integrates repairability into its design philosophy. They create durable garments with repair-friendly features, such as hidden zippers and accessible stitching, to facilitate easy repairs. Nau also partners with repair centers to offer repair services to customers.
 
-#### Veja
+### References
 
-Veja is an ethical and sustainable footwear brand that focuses on transparency and responsible production. While not exclusively a repair-focused brand, Veja emphasizes the durability and longevity of their shoes, encouraging customers to repair them rather than replace them when necessary.
+Apostolova, N., Collina, M., Gadia, D., & Rondini, A. (2025). Service design for repair practices in the circular economy. *World, 6*(4), 154. https://doi.org/10.3390/world6040154  
 
-#### Hackwith Design House
+Franco, R. V., Baldassarre, B., & Lüdeke-Freund, F. (2024). Redefining repair as a value co-creation process for circular design. *International Journal of Design*. https://www.ijdesign.org/index.php/IJDesign/article/view/4422  
 
-Hackwith Design House is a slow fashion brand known for its minimalist and timeless designs. They offer a repair service called HDH Repair, where customers can send their damaged Hackwith Design House garments for repair. The brand aims to extend the life of their clothing and reduce waste.
+Gurova, O., & Mäkelä, M. (2025). Mending matters: Cultures and contexts of clothing repair. *Fashion Theory*. https://doi.org/10.1080/1362704X.2025.2574160  
 
-#### Askov Finlayson
+McQueen, R. H., Simpson, K., Muir, K., & McLaren, A. (2023). Engagement with self, paid and unpaid clothing repair by citizens living in the UK. *Textile Research Journal*. https://doi.org/10.1177/00405175221123067  
 
-Askov Finlayson is a Minnesota-based clothing brand that places a strong emphasis on durability and repairability. They offer a lifetime guarantee on their products and provide repair services for their garments. Customers can send their Askov Finlayson items for repair, ensuring their longevity.
-
-#### Seagale
-
-Seagale is a French brand that specializes in technical clothing for outdoor activities. They focus on durability and offer a comprehensive repair program for their products. Customers can send their Seagale clothing for repair, allowing them to continue using the garments for a longer time.
-
-##### References
-
-https://www.researchgate.net/publication/352897684_Repairing_Fashion_Cultures_From_Disposable_to_Repairable
-
-https://www.futurity.org/fabric-self-heal-toxins-1211672-2/
-
-https://help.patagonia.com/s/article/Repair-Process
-
-https://consciousfashion.co/guides/textile-recycling-companies
-
-https://www.berghaus.com/repairs.list
+Niinimäki, K., Peters, G., Rissanen, T., Gwilt, A., Karell, E., & Koskinen, I. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9  

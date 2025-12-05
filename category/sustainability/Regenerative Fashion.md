@@ -84,38 +84,38 @@ At the core of regenerative fashion is the use of bioregional materials cultivat
 Another key aspect of regenerative fashion is the integration of indigenous and ancestral knowledge into the design and production processes. This involves collaborating with indigenous communities to incorporate traditional ways of making, material usage, and land management into modern fashion practices. Such collaborations ensure that these communities benefit directly from their contributions, providing meaningful work and preserving cultural heritage. These product-service systems embody a deep respect for the wisdom of indigenous practices and demonstrate a commitment to social equity and cultural preservation.
 Regenerative fashion also encourages a circular approach, where garments are designed not just for use, but for eventual return to the earth or reintegration into the production cycle. This means considering the entire lifecycle of clothing—from the cultivation of materials to the disposal or recycling of garments—ensuring that every step contributes positively to the environment and society.
 
-### Case Studies
+### Case studies
 
-### Case Studies
+#### Fibershed – Climate Beneficial Fiber Systems  
+Fibershed is a non-profit organization building bioregional textile systems that regenerate soil, sequester carbon, and support local economies. Through its Climate Beneficial™ programs, Fibershed works with ranchers and farmers to implement regenerative practices such as managed grazing and compost application, then connects these fibers to regional design and manufacturing, demonstrating a full “soil-to-soil” regenerative fashion model.  
+[Project link](https://fibershed.org/)
 
-**Fibershed**  
-Fibershed is a non-profit organization that focuses on developing regional and regenerative fiber systems. By working with local farmers, artisans, and designers, Fibershed promotes the use of local fibers, natural dyes, and regenerative agricultural practices. Their initiatives support environmentally sustainable clothing production while connecting fashion to local ecosystems and cultures. Fibershed serves as a leading example of regenerative fashion through their focus on soil health, carbon farming, and regional textile production.  
-[Read more about Fibershed](https://www.fibershed.org/)
+#### Christy Dawn – Farm-to-Closet Regenerative Cotton  
+Christy Dawn’s Farm-to-Closet collection is built around partnerships with regenerative cotton farmers in India, where the brand co-invests in converting land from conventional to regenerative agriculture. By pre-financing harvests, guaranteeing purchase, and transparently documenting soil health and biodiversity outcomes, Christy Dawn links dress design directly to ecosystem regeneration and community livelihoods.  
+[Project link](https://christydawn.com/pages/farm-to-closet)
 
-**INDIGENOUS**  
-INDIGENOUS is a fashion brand that collaborates directly with artisan communities in South America, blending traditional knowledge and practices with sustainable development. By ensuring fair wages and using natural materials, INDIGENOUS integrates cultural preservation into its fashion lines. The brand’s approach promotes a regenerative system by valuing both environmental stewardship and the empowerment of local communities.  
-[Read more about INDIGENOUS](https://www.indigenous.com/)
+#### Kering – Regenerative Agriculture Program  
+Kering has established a Regenerative Agriculture program focused on raw materials such as cotton, wool, and leather, partnering with NGOs and producers to restore ecosystems in key sourcing regions. Through its Regenerative Fund for Nature and broader regeneration strategy, the group co-finances projects that improve soil health, biodiversity, and farmer resilience while securing lower-impact fibers for fashion brands in its portfolio.  
+[Project link](https://www.kering.com/en/sustainability/regeneration)
 
-**PANGAIA**  
-PANGAIA emphasizes regenerative fashion by creating garments that benefit the environment throughout their lifecycle. The brand uses biodegradable materials like FLWRDWN™ and organic cotton, designed to compost back into the earth after use. PANGAIA's regenerative approach ensures that their clothing positively impacts the environment, embodying the principles of restoring natural systems through fashion.  
-[Read more about PANGAIA](https://pangaia.com/)
+#### Regenerative Organic Alliance – Regenerative Organic Certified® Textiles  
+The Regenerative Organic Alliance manages the Regenerative Organic Certified® (ROC) standard, which combines organic agriculture, soil health, animal welfare, and social fairness. Several apparel brands now source ROC cotton and other fibers, using the standard as a framework to move beyond “do less harm” sustainability towards agriculture and textiles that actively restore ecosystems and rural communities.  
+[Project link](https://regenorganic.org/)
 
+#### PANGAIA – Regenerative and Bio-based Material Innovation  
+PANGAIA operates as a materials-science-driven fashion company that invests in bio-based, recycled, and potentially regenerative inputs such as agricultural-waste fibers and next-generation cellulosics. By coupling material innovation with circular design and transparent impact reporting, PANGAIA positions apparel as an interface to support biodiversity, reduce resource extraction, and experiment with regenerative sourcing models.  
+[Project link](https://thepangaia.com/pages/sustainability)
+
+---
 
 ### References
 
-- Braga, M., & Rodrigues, M. (2020). Indigenous knowledge in sustainable fashion: Integrating traditional practices in modern design. Journal of Fashion and Textiles, 8(2), 145-162.
+Chen, X., Ma, J., Song, M., & Yang, M. (2021). Circular economy and sustainability of the clothing and textile industry. *Materials Circular Economy, 3*, 12. https://doi.org/10.1007/s42824-021-00026-2  
 
-- De Brito, M. P., Carbone, V., & Blanquart, C. M. (2020). Environmental and social sustainability in fashion: A case study analysis of luxury and mass-market brands.
+Abbate, S., Centobelli, P., Cerchione, R., Oropallo, E., & Riccio, E. (2023). Sustainability trends and gaps in the textile, apparel and fashion industries. *Environment, Development and Sustainability, 25*, 11267–11288. https://doi.org/10.1007/s10668-022-02887-2  
 
-- Fletcher, K. (2021). Regenerative Fashion: A Path Forward for the Apparel Industry. Fashion Theory: The Journal of Dress, Body & Culture, 25(3), 467-481.
+Aus, R., Moora, H., Vihma, M., Mikkonen, I., & Nõmmik, K. (2021). Designing for circular fashion: Integrating upcycling into conventional garment manufacturing processes. *Fashion and Textiles, 8*, 34. https://doi.org/10.1186/s40691-021-00262-9  
 
-- Hatcher, C. (2021). The role of indigenous knowledge in sustainable fashion: A case study analysis. Sustainability in Fashion and Textiles, 14(1), 109-125.
+Kennedy, A. C., Keeling, W. C., Bronson, K. F., Lewis, K. L., Wood, J. A., Johnson, P. N., & Hons, F. M. (2025). A review of regenerative agriculture in cotton production systems across the semi-arid Texas High Plains. *Journal of the ASABE, 68*(3), 879–900. https://doi.org/10.13031/ja.16451  
 
-- Laestadius, L. I., & Hawken, P. (2020). Regenerative agriculture and fashion: Practices that restore the land. Ecological Applications, 30(1), e02031.
-
-- McKinney, E., & Pellegrin, R. (2020). Indigenous knowledge and fashion sustainability: A new approach to design and production. Fashion Theory: The Journal of Dress, Body & Culture, 24(5), 649-667.
-
-- Rodale Institute. (2020). The Regenerative Organic Certification and Its Impact on Fashion. Journal of Agricultural and Environmental Ethics, 33(4), 513-531.
-
-- Zengler, C., & Clark, S. (2021). Biodegradable and compostable materials in fashion: The PANGAIA model. Journal of Sustainable Textiles and Apparel, 25(2), 213-229.
-
+Provin, A. P., de Aguiar Dutra, R., Machado, M. M., & Vieira Cubas, A. L. (2021). New materials for clothing: Rethinking possibilities through a sustainability approach—A review. *Journal of Cleaner Production, 282*, 124444. https://doi.org/10.1016/j.jclepro.2020.124444  

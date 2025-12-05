@@ -1,4 +1,4 @@
-﻿## Refreshing Roles
+## Refreshing Roles
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -90,51 +90,35 @@ Refreshing roles also requires considering the integration of technology. As tec
 
 ### Case studies
 
-#### VF Corporation
+#### Gucci – École de l’Amour and ArtLab training programmes  
+Gucci’s École de l’Amour, integrated with Gucci ArtLab in Tuscany, provides structured training pathways for leather goods and shoe artisans, combining classroom learning with hands-on prototyping and production. By formalising craft education and opening new progression paths, Gucci actively refreshes roles in its value chain, ensuring that traditional métiers evolve with new technologies and sustainability expectations.  
+[Project link](https://equilibrium.gucci.com/impact-report-2023/people/safeguarding-craftsmanship)
 
-VF Corporation, the parent company of brands like The North Face, Vans, and Timberland, has implemented a "career mobility" program. This initiative encourages employees to explore different roles and functions within the organization, providing opportunities for growth and development. By refreshing roles and promoting internal mobility, VF Corporation creates a more agile and adaptable workforce.
+#### H&M Foundation and partners – Oporajita: Collective Impact on the Future of Work  
+Oporajita is a multi-stakeholder initiative in Bangladesh led by H&M Foundation and local partners that equips women garment workers with skills for an automated, climate-impacted future of work. Through training, career coaching, and pathways into new functions, the programme explicitly focuses on transitioning workers into safer, higher-value roles as the apparel sector digitalises.  
+[Project link](https://hmfoundation.com/project/oporajita-collective-impact-on-future-of-work)
 
-#### Zappos
+#### Zalando – do.BETTER Diversity & Inclusion strategy  
+Zalando’s do.BETTER strategy embeds diversity and inclusion targets into leadership, recruiting, and progression processes across the company. By redefining expectations for managers, creating new ERG-linked responsibilities, and tying inclusion outcomes to performance, the programme reshapes roles and decision-making structures to better reflect Zalando’s diverse user base.  
+[Project link](https://corporate.zalando.com/en/our-impact/dobetter-our-diversity-and-inclusion-strategy)
 
-Zappos, the online shoe and clothing retailer, is known for its unique approach to employee roles. The company practices a concept called "holacracy," where traditional job titles and hierarchies are replaced with dynamic roles. Employees have the flexibility to take on different responsibilities and adapt their roles based on the company's needs and their own skills and interests.
+#### PVH Corp – PVH University global learning platform  
+PVH University (PVH U) is PVH Corp’s internal corporate university, offering academies in leadership, digital skills, supply chain, and professional capabilities for brands such as Tommy Hilfiger and Calvin Klein. Positioned as a way for associates to “design their futures,” PVH U supports role transitions, reskilling, and leadership pipelines, aligning evolving job profiles with the company’s digital and sustainability strategies.  
+[Project link](https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2020.pdf)
 
-#### Nike
-
-Nike has implemented a "role agility" program to promote flexibility and adaptability in their workforce. They recognize that the fashion industry is constantly evolving, and roles need to be refreshed to keep up with changing trends and User demands. Employees are encouraged to explore different areas of expertise and take on new responsibilities to enhance their skill sets and contribute to the company's success.
-
-#### Levi Strauss & Co.
-
-Levi Strauss & Co., the iconic denim brand, has embraced a culture of innovation and entrepreneurship within their organization. They encourage employees to challenge traditional roles and take on innovative initiatives to drive the company forward. This approach fosters a culture of continuous learning and growth, enabling employees to refresh their roles and contribute to the company's success in a rapidly changing fashion landscape.
-
-##### Reference
-
-- https://www.pwc.nl/nl/actueel-publicaties/assets/pdfs/pwc-what-does-young-talent-want
-
-- Deloitte Insights. (2022). The future of work in retail and fashion: Adapting to digital acceleration. Deloitte Insights. [Read more](https://www.deloitte.com/)
- 
-- Accenture. (2021). Rewiring the fashion workforce: The talent and skills needed for a digital future. Accenture. [Read more](https://www.accenture.com/)
- 
-- Bain & Company. (2021). The new essentials of talent management in retail and fashion. Bain & Company. [Read more](https://www.bain.com/)
- 
-- PwC. (2022). Navigating the new world of work: Insights for the retail and fashion sectors. PwC. [Read more](https://www.pwc.com/)
- 
-- The Business of Fashion, & McKinsey & Company. (2021). Resetting normal: Redefining the new era of work in fashion. The Business of Fashion. [Read more](https://www.businessoffashion.com/)
- 
-- Savić, D. (2021). Digital transformation and its impact on workforce agility in the fashion industry. Journal of Fashion Marketing and Management, 25(2), 190-206.
- 
-- Fisher, S. L., & Connelly, C. E. (2021). The impact of flexible work arrangements on employee outcomes in a fashion industry context. Human Resource Management Journal, 31(3), 438-454.
- 
-- Stojanovic, A., & Liu, X. (2020). Skills for the future: Emerging roles and responsibilities in the digital fashion industry. Fashion Practice, 12(3), 369-388.
- 
-- Gomez, E., & Korkmaz, A. (2022). Reimagining talent strategies for agility in the post-pandemic fashion industry. Fashion Theory, 26(2), 192-212.
- 
-- Reeves, M., & Whitaker, K. (2020). Adaptability in times of crisis: How organizations can build workforce resilience. MIT Sloan Management Review, 61(4), 22-28.
- 
-- Moultrie, J., & Livesey, F. (2020). The role of design in agile organizations. Design Studies, 68, 85-101.
- 
-- Bly, S., & Gwozdz, W. (2020). Sustainable fashion supply chain management: The role of digital innovation. Journal of Cleaner Production, 246, 118-154.
- 
-- Christopher, M., & Peck, H. (2022). Building the agile organization: Organizational change in the face of industry disruptions. Journal of - Business Research, 139, 511-523.
+#### LVMH – INSIDE LVMH Certificate and learning ecosystem  
+LVMH’s INSIDE LVMH initiative combines an open online certificate with internal learning journeys that introduce students and employees to the Group’s métiers, from creative roles to supply chain and retail. The programme builds transversal skills, supports mobility between houses and functions, and prepares talent for newly emerging roles in luxury, particularly around client experience, omnichannel retail, and sustainable innovation.  
+[Project link](https://www.lvmh.com/news-documents/news/the-inside-lvmh-certificate-a-ground-breaking-online-course)
 
 
+### References
 
+Almond, K., & Rainton, S. (2025). *Future fashion factory: Developing an ecosystem to support sustainable change*. International Journal of Fashion Design, Technology and Education. Advance online publication. https://doi.org/10.1080/17543266.2025.2454669  
+
+Gangoda, A., Krasley, S., & Cobb, K. (2023). AI digitalisation and automation of the apparel industry and human workforce skills. *International Journal of Fashion Design, Technology and Education, 16*(3), 319–329. https://doi.org/10.1080/17543266.2023.2209589  
+
+Monteiro, R. A., Guimarães Junior, D. S., Sobral, E. F. M., de Barros Falcão, P. H., de Melo, F. J. C., & Bastos-Filho, C. (2024). Global trends and practices of Industry 4.0 applications in the clothing sector: A systematic literature review. *Administrative Sciences, 14*(10), 258. https://doi.org/10.3390/admsci14100258  
+
+Morea, C. (2023). Upskilling future workers in the fashion sector: An educational toolkit for sustainability assessment. *Fashion Highlight, 1*(1), 28–36. https://doi.org/10.36253/fh-2259  
+
+Sun, X. C., & Ha-Brookshire, J. E. (2025). Drivers and enablers of digital readiness in the fashion industry: A systematic literature review. *Clothing and Textiles Research Journal*. Advance online publication. https://doi.org/10.1177/0887302X241311027  

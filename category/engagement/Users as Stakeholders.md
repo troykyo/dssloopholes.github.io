@@ -1,4 +1,4 @@
-﻿## Users as Stakeholders
+## Users as Stakeholders
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -81,57 +81,47 @@ They play a crucial role in driving demand, influencing trends, and shaping the 
 
 The concept of "User as Stakeholder" emphasizes the importance of understanding and responding to the needs, desires, and values of users. It involves engaging with users as active participants in the design and production processes. This approach recognizes that users have a direct impact on the success and sustainability of fashion businesses.
 
-By considering users as stakeholders, fashion brands and industry players can gain valuable insights into user preferences, market trends, and emerging demands. They can involve users in various stages of the fashion value chain, such as product ideation, co-creation, feedback collection, and evaluation. This collaborative approach allows companies to align their offerings with user expectations, improve customer satisfaction, and build long-term relationships.
+By considering users as stakeholders, fashion brands and industry players can gain valuable insights into user preferences, market trends, and emerging demands. They can involve users at various stages of the fashion value chain, including product ideation, co-creation, feedback collection, and evaluation. This collaborative approach allows companies to align their offerings with user expectations, improve customer satisfaction, and build long-term relationships.
 
-Furthermore, recognizing users as stakeholders also entails considering their broader social and environmental concerns. It involves taking into account ethical and sustainable considerations in the design and production of fashion products. By involving users in discussions around sustainability, transparency, and responsible consumption, fashion brands can respond to evolving user values and contribute to a more conscious and responsible industry.
+Furthermore, recognizing users as stakeholders also entails considering their broader social and environmental concerns. It involves accounting for ethical and sustainable considerations in the design and production of fashion products. By involving users in discussions about sustainability, transparency, and responsible consumption, fashion brands can respond to evolving user values and contribute to a more conscious, responsible industry.
 
 ### Case studies
 
-#### Threadless
+#### Threadless  
+Threadless positions its community as active stakeholders in product decision-making. Users submit designs, evaluate each other’s work through voting and commenting, and directly influence which graphics enter production.  
+[Link to case](https://www.hbs.edu/faculty/Pages/item.aspx?num=36152)
 
-Threadless is an online community-driven design platform that involves users in the design process. Users can submit their designs, vote for their favorites, and purchase the winning designs, making them an integral part of the brand's product selection.
+#### Patagonia – Worn Wear  
+Patagonia engages users as lifecycle stakeholders by integrating repair, trade-in, and reuse into its circular service ecosystem. User participation generates practical insight into durability, material performance, and real-world wear patterns.  
+[Link to program](https://wornwear.patagonia.com/)
 
-#### Burberry
+#### Levi’s – Tailor Shop  
+Levi’s Tailor Shop invites users to co-shape garments through repair, alteration, and customization. These interventions transform industrially produced jeans into co-authored pieces, making users stakeholders in both aesthetic and functional outcomes.  
+[Link to program](https://www.levi.com/NL/en/features/tailor-shop)
 
-Burberry, a luxury fashion brand, launched the Art of the Trench campaign that invited users to share their photos wearing Burberry trench coats. This user-generated content initiative not only celebrated the brand's iconic product but also engaged users in the storytelling and promotion of the brand.
+#### Burberry – User-Generated Outerwear Storytelling  
+Burberry incorporates users as cultural stakeholders by inviting them to document and share their lived experiences with iconic outerwear. These distributed narratives reinforce the brand’s identity through user-authored representations.  
+[Link to campaign](https://www.burberryplc.com/news/brand/2025/burberry-celebrates-its-iconic-outerwear-and-heritage-with-a-new-campaign-its-always-burberry-weather-postcards-from-london)
 
-#### Rent the Runway
+#### Nike By You  
+Nike By You enables users to act as design stakeholders by configuring colorways, materials, and visual identities across multiple footwear models. The platform operationalizes mass customization and demonstrates how user preference data informs broader design directions.  
+[Link to platform](https://www.nike.com/nl/nike-by-you)
 
-Rent the Runway is a fashion rental platform that allows users to rent designer clothing and accessories for special occasions. By providing a cost-effective and sustainable alternative to traditional fashion consumption, Rent the Runway empowers users to access high-quality fashion while reducing their environmental impact.
-
-#### Patagonia
-
-Patagonia is known for its strong commitment to environmental and social responsibility. The brand actively engages with its customers through initiatives like the Worn Wear program, where users can repair and trade in their used Patagonia garments, extending the lifecycle of the products and promoting a more sustainable approach to fashion.
-
-#### Adidas
-
-Adidas has embraced user involvement through initiatives like Adidas Creators Club, a loyalty program that offers personalized experiences, exclusive access to events, and product co-creation opportunities. By recognizing and rewarding user engagement, Adidas strengthens its relationship with customers and gains valuable insights for product development.
-
-#### H&M Conscious Collection
-
-H&M launched its Conscious Collection, featuring sustainably sourced and produced garments, in response to growing user demand for more sustainable fashion options. This initiative demonstrates the brand's recognition of users' desire for more environmentally friendly choices.
-
-#### Levi's
-
-Levi's engages users through its Levi's Tailor Shops, where customers can customize and personalize their jeans with various design options such as patches, embroidery, and alterations. This customization approach enables users to create unique products that reflect their individual style.
 
 ### References
 
-- Sun, Lushan, and Li Zhao. "Technology disruptions: Exploring the changing roles of designers, makers, and users in the fashion industry." _International Journal of Fashion Design, Technology and Education_ 11.3 (2018): 362-374.
+- Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). *The environmental price of fast fashion.* *Nature Reviews Earth & Environment*, 1(4), 189–200.  
+  [https://doi.org/10.1038/s43017-020-0039-9](https://doi.org/10.1038/s43017-020-0039-9)
 
-- Watanabe, Chihiro. "Fashion-Driven Textiles as a Crystal of a New Stream for Stakeholder Capitalism–Amazon's Endeavor." _Available at SSRN 3630774_ (2020).
+- Sanders, E. B.-N., & Stappers, P. J. (2008). *Co-creation and the new landscapes of design.* *CoDesign*, 4(1), 5–18.  
+  [https://doi.org/10.1080/15710880701875068](https://doi.org/10.1080/15710880701875068)
 
-- Jones, K., & Li, P. (2024). Consumer-driven innovation: User engagement as a driver of sustainable fashion. Journal of Fashion Marketing and Management, 28(2), 125-140.
- 
-- Anderson, T., & Nakamura, Y. (2024). The role of user-generated content in luxury brand engagement: Insights from Burberry and other high-end brands. Fashion Theory, 28(3), 200-215.
- 
-- Garcia, M., & Patel, S. (2023). Redefining consumers as stakeholders in sustainable fashion: The Patagonia approach. Journal of Consumer Marketing, 40(4), 580-592.
- 
-- Williams, R., & Wong, A. (2024). Fashion and the circular economy: Co-creation with consumers as a path to sustainable production. Sustainable Production and Consumption, 36, 457-470.
- 
-- Miller, C., & Lee, H. (2023). From passive consumer to active stakeholder: The impact of digital technology on user involvement in fashion. Journal of Retailing and Consumer Services, 74, 103130.
- 
-- Smith, A., & Johnson, L. (2022). User-centered design in sustainable fashion: Lessons from Adidas’ Creators Club and H&M Conscious Collection. International Journal of Fashion Design, Technology, and Education, 16(1), 40-52.
- 
-- Pereira, D., & Thomas, E. (2023). Engaging users in the sustainable fashion movement: Social media as a platform for stakeholder participation. Journal of Fashion Technology & Textile Engineering, 9(2), 65-79.
+- Manzini, E., & Rizzo, F. (2011). *Small projects/large changes: Participatory design as an open participated process.* *CoDesign*, 7(3–4), 199–215.  
+  [https://doi.org/10.1080/15710882.2011.630472](https://doi.org/10.1080/15710882.2011.630472)
+
+- Fletcher, K., & Tham, M. (2019). *Earth Logic Fashion Action Research Plan.* London: The J J Charitable Trust.  
+  [https://earthlogic.info/wp-content/uploads/2019/12/EarthLogic_2019.pdf](https://earthlogic.info/wp-content/uploads/2019/12/EarthLogic_2019.pdf)
+
+- Parguel, B., Benoît-Moreau, F., & Larceneux, F. (2011). *How sustainability ratings might deter ‘greenwashing’: A closer look at ethical corporate communication.* *Journal of Business Ethics*, 102(1), 15–28.  
+  [https://doi.org/10.1007/s10551-011-0901-2](https://doi.org/10.1007/s10551-011-0901-2)
 

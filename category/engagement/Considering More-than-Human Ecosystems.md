@@ -87,50 +87,38 @@ A key aspect of this approach is the shift from a linear to a circular economy. 
 
 Adopting this mindset allows fashion brands to create products that not only meet human needs but also respect and preserve the natural world. It fosters responsibility and stewardship, encouraging both brands and consumers to make choices that benefit people and the planet. This approach challenges the traditional fast-fashion model, advocating for slower, more thoughtful consumption patterns that prioritize quality, durability, and environmental integrity.
 
-### Case Studies
+### Case studies
 
-**Gucci’s Equilibrium Program**  
-Gucci’s Equilibrium program exemplifies a commitment to promoting biodiversity within its broader sustainability efforts. This initiative includes responsible sourcing of raw materials, protecting endangered species, and supporting regenerative agriculture that enhances biodiversity. Notably, Gucci has committed to eliminating leather sourced from the Amazon and instead supports sustainable leather production practices that protect ecosystems and wildlife habitats.  
-[Read more about Gucci's Equilibrium Program](https://equilibrium.gucci.com/)
+#### Gucci – Equilibrium: Regenerating and conserving nature  
+Gucci Equilibrium’s “Regenerating and Conserving Nature” agenda commits the brand to nature-positive action through regenerative agriculture, deforestation-free leather sourcing, and biodiversity restoration in key sourcing regions. By targeting land use, raw-material sourcing, and habitat protection, the programme explicitly connects fashion value chains to soil health, forest ecosystems, and wildlife conservation.  
+[Project link](https://equilibrium.gucci.com/impact-report-2022/planet/regenerating-and-conserving-nature/)
 
-**Fourth Element’s Ocean Positive Collection**  
-Fourth Element, a brand specializing in scuba diving gear, has developed the OceanPositive collection, which utilizes recycled fishing nets and other marine debris. Fishing nets, a significant form of ocean plastic, continue to trap marine life long after disposal. By incorporating recycled ocean plastics into their wetsuits, swimwear, and other gear, Fourth Element aids more-than-human ecosystems by cleaning up oceans and reducing the demand for virgin materials.  
-[Read more about Fourth Element’s Ocean Positive Collection](https://www.fourthelement.com/oceanpositive/)
+#### Fourth Element – OceanPositive collection  
+Fourth Element’s OceanPositive collection turns discarded “ghost” fishing nets and post-consumer plastic into dive wear and swimwear, directly linking garment design to marine ecosystem recovery. By sourcing ECONYL and other recycled ocean plastics, the brand reduces demand for virgin synthetics while supporting removal of entangling gear that harms fish, turtles, and marine mammals.  
+[Project link](https://fourthelement.com/about-oceanpositive/)
 
-**Nuuwaï’s Holistic Approach**  
-Nuuwaï demonstrates a holistic commitment to reducing environmental impact through eco-friendly materials and sustainable production methods. By focusing on biodegradable and recycled materials, minimizing waste, and supporting regenerative agriculture, Nuuwaï reflects a deep understanding of ecological interconnectedness. The brand’s transparency and ethical practices highlight how even small fashion brands can play a crucial role in fostering ecological balance and protecting biodiversity.  
+#### Pangaia – Bee:Wild and nature-positive materials  
+Pangaia combines bio-based and recycled textile innovations (such as FLWRDWN and plant-based finishes) with the Bee:Wild programme, which funds wildflower corridors and pollinator habitats through each product sold. This model connects materials science with concrete biodiversity outcomes, framing clothing as a vehicle for supporting insects and wider agro-ecosystems rather than only extracting from them.  
+[Project link](https://pangaia.com/pages/bee-wild)
+
+#### Patagonia – Our Responsibility programs  
+Through its Responsibility programs, Patagonia links product design to watershed protection, regenerative organic agriculture, and habitat conservation, for example by investing in Regenerative Organic Certified cotton and long-term land stewardship initiatives. The brand’s environmental grants and activism treat rivers, soils, and species as core stakeholders, aligning apparel production with restoration of damaged ecosystems.  
+[Project link](https://eu.patagonia.com/nl/en/our-responsibility-programs.html)
+
+#### Allbirds – Carbon-labelled, nature-linked footwear  
+Allbirds discloses product-level carbon footprints and prioritises materials like ZQ-certified merino wool, FSC-certified eucalyptus fibre, and sugarcane-based foams. By tying every shoe to quantified climate impacts and certified land-use practices, the company makes visible how fibre cultivation, forestry, and agriculture affect climate regulation and biodiversity, encouraging lower-impact choices across the footwear ecosystem.  
+[Project link](https://www.allbirds.com/pages/sustainable-practices)
 
 
 ### References
 
-- Arshad, M., & Shahbaz, M. (2023). The impact of the fashion industry on the climate and ecology. World Journal of Advanced Research and Reviews, 17(3), 120-131.
+Ashiq, R. (2024). Weaving a sustainable future for fashion: The role of social enterprises in East London. *Sustainability, 16*(16), 7152. https://doi.org/10.3390/su16167152  
 
-- Carvalho, R., & Silva, L. (2021). Ethical sourcing and the protection of biodiversity in fashion supply chains. Ecological Economics, 181, 106865.
+Bildirici, M. E., Çetin, M., & Ersin, Ö. Ö. (2025). Unraveling the environmental impacts of the fashion industry: A Fourier-based analysis of pollution dynamics and causality across five countries. *Sustainability, 17*(1), 69. https://doi.org/10.3390/su17010069  
 
-- Fletcher, K., & Tham, M. (2021). Fashion and the more-than-human: Exploring new approaches to sustainability. Sustainability: Science, Practice and Policy, 17(1), 12-23.
+Navarro-Gambín, P., Bonetti, M., Villa, M., Brunori, G., & Vergamini, D. (2025). Paving the ground for biodiversity-positive transformative change in fashion: An exploration of drivers of biodiversity loss and barriers to transformative change in the textile, apparel, and fashion sector. *International Journal of the Commons, 19*(1), 1458. https://doi.org/10.5334/ijc.1458  
 
-- Gao, Q., & Li, Y. (2023). Circular economy and sustainable fashion: Reducing environmental impact through holistic design. Fashion and Sustainability Journal, 10(3), 57-69.
+Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9  
 
-- Gibson, K., & Irwin, R. (2022). Material ecologies in fashion: Understanding the impacts of production on non-human entities. Journal of Cleaner Production, 353, 131546.
-
-- [Gucci. (2023). Impact report 2023. Gucci Equilibrium.](https://equilibrium.gucci.com/impact-report-2023/)
-
-- Hethorn, J., & Ulasewicz, C. (2021). Sustainable fashion: What role do more-than-human considerations play? Journal of Fashion Technology & Textile Engineering, 9(2), 82-91.
-
-- [McKinsey & Company. (2023). Biodiversity: The next frontier in sustainable fashion.](https://www.mckinsey.com/industries/retail/our-insights/biodiversity-the-next-frontier-in-sustainable-fashion)
-
-- Niinimäki, K., et al. (2020). The environmental price of fast fashion. Nature Reviews Earth & Environment, 1(4), 189-200.
-
-- Santos, R., & Franco, A. (2022). Fashion and biodiversity: How ethical interactions can shape sustainable practices. Journal of Sustainable Development, 15(1), 112-125.
-
-- Steiner, L., & Thomason, J. (2022). Small fashion brands and their impact on ecosystems: The case of Nuuwaï. Journal of Sustainable Fashion, 8(1), 55-70.
-
-- Tuzunkan, O., & Öztürk, S. (2022). From linear to circular: Fashion’s role in promoting regenerative economies. Sustainable Production and Consumption, 28, 67-79.
-
-- Wagner, M., & Reemtsma, T. (2022). Sustainable diving: Fourth Element’s use of recycled ocean plastics. Journal of Sustainable Tourism, 30(5), 879-895.
-
-- Williams, C., & Martin, R. (2021). Regenerative practices in fashion: A new paradigm for sustainability. Journal of Fashion Marketing and Management, 25(4), 592-607.
-
-- Ziegler, J. A., & Reed, L. J. (2021). From ghost nets to wetsuits: Fourth Element’s commitment to marine conservation. Marine Pollution Bulletin, 173, 113009.
-
+Wu, D., Zhuang, M., Zhang, X., & Zhao, Y. (2023). Towards circular fashion: Design for community-based clothing reuse and upcycling services under a social innovation perspective. *Sustainability, 15*(1), 262. https://doi.org/10.3390/su15010262  
 

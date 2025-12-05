@@ -1,4 +1,4 @@
-﻿## Open source co-production
+## Open source co-production
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -111,39 +111,37 @@ Partnerships between fashion brands, designers, and consumers to co-design and c
 
 These examples illustrate how Open Source Co-Production can encompass a wide range of collaborative initiatives, all aimed at leveraging collective creativity, knowledge sharing, and sustainable practices. By embracing open-source principles, the fashion industry can tap into the power of collaboration and community to drive innovation, foster inclusivity, and promote sustainable fashion practices.
 
-###  Case studies
+### Case studies
 
-#### Open Style Lab
+#### Open Style Lab – Inclusive adaptive fashion co-production  
+Open Style Lab is a non-profit organization that brings together designers, engineers, and occupational therapists to co-create adaptive clothing with and for people with disabilities. Through interdisciplinary collaborations, public programs, and open educational resources, the organization shares methods and design outcomes that can be adapted by other practitioners, exemplifying open, community-oriented co-production in fashion.  
+[Project link](https://www.openstylelab.org/about)
 
-Open Style Lab is an interdisciplinary organization that focuses on developing open-source fashion and assistive technology for people with disabilities. They collaborate with designers, engineers, and occupational therapists to create inclusive and accessible fashion solutions.
+#### Openwear – Collaborative Clothing open-source fashion platform  
+Openwear is an open-source fashion initiative that experimented with a distributed network of designers, makers, and wearers who collaboratively developed garments under Creative Commons–style licensing. By publishing patterns, guidelines, and brand assets for shared use, Openwear tested how open licenses and peer production could enable shared authorship and localized fashion micro-productions.  
+[Project link](https://www.openwear.it/)
 
-#### Fashion Revolution
+#### Fab Textiles (Fab Lab Barcelona) – Open source fashion and textile prototyping  
+Fab Textiles at Fab Lab Barcelona is a research and prototyping lab that applies open-source principles to textile and fashion experimentation, including digital fabrication, bio-based materials, and parametric garment design. The lab documents techniques, workflows, and design files online, enabling other labs, designers, and students to replicate and build on open textile processes as part of a global Fab Lab network.  
+[Project link](https://fablabbcn.org/projects/fab-textiles)
 
-Fashion Revolution is a global movement advocating for transparency, sustainability, and ethical practices in the fashion industry. They promote open-source principles through initiatives like the Fashion Revolution Open Studio, which encourages designers and makers to share their design process and resources openly.
+#### AWAYTOMARS – Crowd-sourced fashion co-creation platform  
+AWAYTOMARS is a fashion platform that invites a global community of users to submit, vote on, and iteratively refine garment concepts, with selected designs moving into production and revenue shared among contributors. This model positions the platform as an open co-creation environment where design, development, and storytelling emerge from a distributed network of participants rather than a single brand-led studio.  
+[Project link](https://bftt.org.uk/funded_project/awaytomars/)
 
-####  Open Wear
+#### Open Source Circular Economy Days (OSCEdays) – Open circular fashion experiments  
+Open Source Circular Economy Days (OSCEdays) is a global, community-driven initiative that organizes events where citizens, designers, and companies collaboratively prototype open-source solutions for a circular economy, including textiles and fashion. Local OSCEdays events host open hackathons and design sprints in which participants document patterns, toolkits, and material experiments under open licenses, enabling others to reuse and adapt circular fashion practices worldwide.  
+[Project link](https://oscedays.org/)
 
-Open Wear is an open-source fashion brand that allows users to customize and personalize their clothing designs. They provide patterns and instructions for various garments, enabling individuals to create their own unique pieces.
 
-#### Fab Lab Barcelona
+### References
 
-Fab Lab Barcelona is a fabrication laboratory that promotes open-source co-production in various fields, including fashion. They provide a collaborative space for designers and makers to experiment, share knowledge, and create innovative fashion projects.
+Bujor, A., Avasilcai, S., & Alexa, L. (2017). Co-creation in fashion industry: The case of AWAYTOMARS. *Annals of the Oradea University, Fascicle of Management and Technological Engineering*, 26(3), 22–25. https://doi.org/10.15660/AUOFMTE.2017-3.3295
 
-#### Open Source Circular Economy Days (OSCEdays)
+Lee, J., & Choo, H. J. (2023). New fashion products development through consumer co-creation. *Journal of the Korean Society of Clothing and Textiles*, 47(3), 475–491. https://doi.org/10.5850/JKSCT.2023.47.3.475
 
-OSCEdays is a global event that brings together individuals and organizations interested in exploring open-source solutions for a circular economy. Within the fashion industry, participants collaborate on projects related to sustainable materials, circular design, and sharing economy models.
+Lorenzo Romero, C., Alarcón-del-Amo, M.-C., Gómez Borja, M. Á., & Del-Pozo-Ruiz, L. (2025). Fashion cocreation: Cross-cultural insights and strategies. *Spanish Journal of Marketing – ESIC*. Advance online publication. https://doi.org/10.1108/SJME-11-2022-0241
 
-#### HackFashion
+Särmäkari, N., & Vänskä, A. (2020). Open-source philosophy in fashion design: Contesting authorship conventions and professionalism. In *DRS2020: Synergy. Proceedings of the Design Research Society Conference 2020*. https://doi.org/10.21606/drs.2020.195
 
-HackFashion is an annual event that combines fashion and technology, bringing together designers, technologists, and innovators to collaborate on open-source fashion projects. Participants work on prototypes, software, and hardware solutions that integrate technology into fashion.
-
-##### References
-Bujor, Adriana, Silvia Avasilcai, and Lidia Alexa. "Co-creation in fashion industry: The case of AWAYTOMARS." _Ann. Univ. Oradea_ 3 (2017): 22-25.
-
-López-Navarro, Miguel A., and Cristina Lozano-Gómez. "Co-creation experiences as the basis for value creation in the sustainable fashion industry." _Customer Experience Management: Enhancing Experience and Value through Service Management, Kendall Hunt, Dubuque_ (2013): 133-152.
-
-Chatterjee, Sheshadri, Nripendra P. Rana, and Yogesh K. Dwivedi. "Assessing consumers’ co‐production and future participation on value co‐creation and business benefit: an FPCB model perspective." _Information Systems Frontiers_ (2021): 1-20.
-
-Pétursdóttir, Gunnhildur, and Liisi Lehtonen. "Value Co-creation in Slow Fashion: Exploring opportunities in new product development." (2022).
-
-Niessen, BERTRAM MARIA. "Open Source, p2p, social innovation and clothing." (2010).
+Zhang, H., & Ma, Z. (2022). Is my design better? A co-creation perspective for online fashion design. *Journal of Research in Interactive Marketing*, 16(3), 384–402. https://doi.org/10.1108/JRIM-05-2021-0132

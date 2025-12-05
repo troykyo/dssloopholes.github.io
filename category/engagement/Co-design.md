@@ -1,4 +1,4 @@
-﻿## Co-Design
+## Co-Design
 
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
@@ -91,33 +91,36 @@ In summary, co-design is a collaborative approach that involves actively engagin
 
 ### Case studies
 
-#### Nike
+#### Threadless – Community-designed apparel platform  
+Threadless is an online marketplace that operates entirely on community co-creation: artists submit designs, the wider community votes, and the highest-scoring designs are produced and sold, with artists receiving royalties. This model embeds co-design into the core business logic, making users active stakeholders in deciding which graphics appear on fashion products.  
+[Project link](https://www.threadless.com/how-it-works/)
 
-Nike has implemented co-design initiatives to involve users in the creation of their products. For example, they launched the Nike By You program, formerly known as NikeiD, which allows customers to customize and personalize their shoes by selecting colors, materials, and design elements. This co-design approach enables customers to have a hand in creating their own unique footwear.
+#### AWAYTOMARS – Artificial Intelligence and Co-Creation  
+AWAYTOMARS is a fashion-technology company built around a collaborative design platform where a global community submits ideas that are iterated and selected for production through co-creation processes. By using crowdsourcing and open innovation, the brand redistributes creative authorship from a traditional in-house design team to a network of contributors, making co-design central to both aesthetics and product pipeline.  
+[Project link](https://www.bftt.org.uk/funded_project/awaytomars/)
 
-#### Threadless
+#### Uniqlo – UT Grand Prix (UTGP) Global T-shirt Design Competition  
+Uniqlo’s UT Grand Prix (UTGP) is an annual open T-shirt design competition that invites people worldwide to submit graphic designs around a given theme. Winning entries are produced and sold globally as part of Uniqlo’s UT collection, turning participants into recognized co-designers of the brand’s visual language.  
+[Project link](https://www.uniqlo.com/au/en/contents/feature/utgp/2025/)
 
-Threadless is an online marketplace that engages in co-design with its community of artists and users. Users submit their original designs, and the community votes on the designs they would like to see produced. The winning designs are then printed on various apparel items and sold on the platform. This co-design model allows artists and users to collaborate and influence the products available for purchase.
+#### The Fabricant – The Fabricant Studio Digital Co-creation Platform  
+The Fabricant Studio is a digital fashion platform that enables users to co-create virtual garments together with 3D fashion artists, using asset libraries and collaborative workflows to generate new looks. The platform facilitates thousands of co-created digital pieces, positioning wearers and creators as partners in authorship rather than passive consumers.  
+[Project link](https://designmuseum.nl/en/derde-verdieping/posthuman/the-short-history-of-digital-fashion/)
 
-#### Uniqlo
+#### Open Style Lab – Adaptive Fashion Co-design with Disabled Communities  
+Open Style Lab is a non-profit organization that brings together designers, engineers, occupational therapists, and disabled participants to co-design adaptive clothing and wearable solutions. Through workshops and long-term projects, OSL develops garments “with, not for” disabled users, embedding lived experience into inclusive fashion design.  
+[Project link](https://www.openstylelab.org/about)
 
-Uniqlo has embraced co-design through its UTGP (Uniqlo T-Shirt Grand Prix) contest. The brand invites artists and designers from around the world to submit their T-shirt designs based on a given theme. The winning designs are selected through a combination of public voting and a judging panel. This co-design initiative allows Uniqlo to showcase a wide range of creative designs and involve the global community in the selection process.
+---
 
-#### IKEA
+### References
 
-Although not a fashion brand, IKEA is known for its co-design approach in the furniture industry. The company involves customers in the design process through initiatives like the IKEA Ideas platform. Customers can submit their ideas for new products or improvements to existing ones, and IKEA takes customer feedback into consideration when developing their product range. This co-design approach ensures that IKEA's products meet the needs and preferences of their customers.
+Zhang, H., & Ma, Z. (2022). Is my design better? A co-creation perspective for online fashion design. *Journal of Research in Interactive Marketing, 16*(3), 384–402. https://doi.org/10.1108/JRIM-05-2021-0132  
 
-#### Betabrand
+Hur, E., & Beverley, K. (2023). Fostering sustainable fashion innovation: Insights from ideation tool development and co-creation workshops. *Sustainability, 15*(21), 15499. https://doi.org/10.3390/su152115499  
 
-Betabrand is a clothing company that engages in co-design through its crowdfunding platform. They allow users to vote on potential product designs, and the most popular designs are then produced and made available for purchase. This co-design model ensures that Betabrand creates products that have a built-in demand from their target audience.
+Wu, D., Zhuang, M., Zhang, X., & Zhao, Y. (2023). Towards circular fashion: Design for community-based clothing reuse and upcycling services under a social innovation perspective. *Sustainability, 15*(1), 262. https://doi.org/10.3390/su15010262  
 
-##### References
-Zhang, G., Y. Shi, and C. Gale. "Co-design: a novel approach to create value-added products in the creative fashion industry." _J Textile Eng Fashion Technol_ 7.4 (2021): 134-141.
+Maciejko, M., Wypych, M., & Biele, C. (2022). Co-creating sustainable fashion: A participatory approach for involving users in the design process. *Fashion Highlights*. https://doi.org/10.36253/fh-3124  
 
-Smith, Marcia Tavares, Gordon Blair, and Rachel Cooper. "Digital clothing manufacture: digital innovation and co-Design changing the clothing industry." _Blucher Design Proceedings_ 1.1 (2012): 381-385.
-
-Wang, Luo, Bin Shen, and Xiaogang Liu. "The value of design collaboration in the fashion business: A literature review." _The Design Journal_ 20.6 (2017): 795-820.
-
-Cramer, Jo. "Made to Keep: Product Longevity Through Participatory Design in Fashion." _Design Principles & Practice: An International Journal_ 5.5 (2011).
-
-Pietri, Maria. "Designing together? An exploratory study on the practice of co-design between UK-based independent fashion micro-brands and consumers, with managerial implications for the future." (2021).
+Cramer, J. (2011). Made to keep: Product longevity through participatory design in fashion. *Design Principles and Practices: An International Journal, 5*(5). https://doi.org/10.18848/1833-1874/CGP/v05i05/38170  

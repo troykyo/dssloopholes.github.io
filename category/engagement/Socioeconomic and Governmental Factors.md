@@ -87,28 +87,39 @@ Governmental policies on trade, taxation, and labor also influence the fashion i
 Systemic change, driven by these socioeconomic and governmental factors, compels fashion brands to continually adapt and evolve. This evolution often requires significant investment in new technologies, the development of more sustainable business models, and the alignment of corporate strategies with societal and governmental expectations. Brands that proactively engage with these changes are better positioned to thrive in a dynamic global market, while those that resist may struggle to maintain relevance and consumer trust.  
 
 
-### Case Studies
+### Case studies
 
-**Girlfriend Collective**
-Girlfriend Collective is a US-based activewear brand that uses recycled materials, such as plastic bottles, to create its products. The company emphasizes transparency, fair wages, and safe working conditions in its supply chain, collaborating with manufacturing partners who follow fair labor practices. They appeal to consumers seeking sustainable and ethically produced clothing. Find more information [here](https://www.girlfriend.com/pages/our-story).  
+#### tonlé / Conscious Assembly – Zero-waste production and circular marketplace  
+Founded as a zero-waste fashion brand in Cambodia, tonlé developed production systems using remnant and scrap textiles, prioritising fair wages and dignified work for local artisans. As the brand evolved into the Conscious Assembly platform, its zero-waste and circularity ethos expanded into a broader ecosystem of makers and small brands, demonstrating how economic precarity, social values, and circular-economy policies reshape small-scale fashion infrastructures.  
+[Project link](https://tonle.com/pages/about-tonle)
 
-**Kowtow**
-Kowtow, based in New Zealand, is committed to fair trade and sustainable fashion. The brand sources organic cotton and ensures that workers in its supply chain are paid fair wages and work in safe conditions. Kowtow emphasizes slow fashion, aligning with the social responsibility of reducing overproduction and supporting ethical labor practices. Learn more about Kowtow [here](https://www.kowtowclothing.com/pages/our-story).  
+#### Textile ETP – Textiles of the Future Strategic Research & Innovation Agenda (SRIA)  
+The Textile ETP’s “Textiles of the Future” SRIA (2024) outlines a coordinated European research and innovation roadmap for sustainable fibres, clean manufacturing, circular business models, and digital value-chain transformation. It aligns the European textile ecosystem with upcoming EU environmental, social, and traceability regulations while guiding Horizon Europe investments across industry and regional clusters.  
+[Project link](https://www.textile-platform.eu/textiles-of-the-future)
 
-**Tonlé**
-Tonlé is a zero-waste fashion brand based in Cambodia that focuses on sustainability and social responsibility. The brand employs local artisans and tailors, ensuring fair wages and dignified working conditions. By using scrap fabrics and adopting a circular business model, Tonlé reduces waste and creates fashion products that emphasize environmental and social equity. More about Tonlé can be found [here](https://tonle.com/pages/our-story).  
+#### EU Strategy for Sustainable and Circular Textiles – Transition Pathway for Circular Textiles  
+The EU Strategy for Sustainable and Circular Textiles sets requirements for all textiles placed on the EU market by 2030: durability, repairability, recyclability, high recycled content, low toxicity, and robust social and environmental due diligence. It effectively establishes the transition pathway shaping new EU legislation for ecodesign, transparency, extended producer responsibility, and circular business models.  
+[Policy link](https://environment.ec.europa.eu/strategy/textiles-strategy_en)
 
-### References 
+#### EU Twin Transition – Digital and Green Transformation of the Textile Sector  
+The EU Twin Transition initiative integrates decarbonisation and digitalisation into one coordinated transformation agenda, encouraging traceable value chains, circular data infrastructures, and energy-efficient production systems across the textile sector. It reframes innovation and competitiveness through combined sustainability and digital strategy, supporting compliance with future regulatory expectations.  
+[Overview link](https://www.textile-platform.eu/)
 
-- [Amed, I., Balchandani, A., Beltrami, M., Berg, A., Hedrich, S., Jensen, J. E., ... & Rölkens, F. (2021). The State of Fashion 2021: In search of promise in perilous times. McKinsey & Company](https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion)
-- [Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental injustice of fast fashion. Environmental Health, 17, 92](https://doi.org/10.1186/s12940-018-0433-7)
-- [Brydges, T. (2021). Closing the loop on take, make, waste: Investigating circular economy practices in the Swedish fashion industry. Journal of Cleaner Production, 293, 126245](https://doi.org/10.1016/j.jclepro.2021.126245)
-- [Diddi, S., & Yan, R. N. (2019). Consumer perceptions related to clothing repair and reuse: Exploring the role of motivation, ability, and opportunity. Sustainable Production and Consumption, 18, 174-185](https://doi.org/10.1016/j.spc.2019.02.005)
-- [European Commission. (n.d.). Ecodesign for sustainable products regulation (ESPR). European Commission](https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/sustainable-products/ecodesign-sustainable-products-regulation_en)
-- [Gazzola, P., Pavione, E., Pezzetti, R., & Grechi, D. (2020). Trends in the fashion industry. The perception of sustainability and circular economy: A gender/generation quantitative approach. Sustainability, 12(7), 2809](https://doi.org/10.3390/su12072809)
-- Henninger, C. E., Alevizou, P. J., Goworek, H., & Ryding, D. (2021). Sustainable fashion: A global perspective. Springer
-- [Jung, S., & Jin, B. E. (2021). Sustainable development of slow fashion businesses: Customer value approach. Sustainability, 13(6), 3068](https://doi.org/10.3390/su13063068)
-- Sandin, G., & Peters, G. M. (2018). Environmental impact of textile reuse and recycling – A review. Journal of Cleaner Production, 184, 353-365
-- [Shen, B., Li, Q., Dong, C., & Perry, P. (2022). Sustainability issues in textile and apparel supply chains: Chinese firms’ perspectives. Resources, Conservation and Recycling, 181, 106236](https://doi.org/10.1016/j.resconrec.2022.106236)
+#### Kowtow – Fairtrade organic cotton and sustainability strategy  
+Kowtow’s sustainability strategy is built on Fairtrade-certified organic cotton, ethical manufacturing, and circular design principles, explicitly aligned with the UN Sustainable Development Goals. Its Responsible Business framework connects socio-economic justice with increasing EU expectations for value-chain transparency, worker protections, and environmental performance.  
+[Project link](https://us.kowtowclothing.com/pages/responsible-business)
 
+---
+
+### References
+
+Buchel, S., Hebinck, A., Lavanga, M., & Loorbach, D. (2022). Disrupting the status quo: A sustainability transitions analysis of the fashion system. *Sustainability: Science, Practice and Policy, 18*(1), 231–246. https://doi.org/10.1080/15487733.2022.2040231  
+
+Gazzola, P., Pavione, E., Pezzetti, R., & Grechi, D. (2020). Trends in the fashion industry: The perception of sustainability and circular economy — A gender/generation quantitative approach. *Sustainability, 12*(7), 2809. https://doi.org/10.3390/su12072809  
+
+Brydges, T. (2021). Closing the loop on “take, make, waste”: Investigating circular economy practices in the Swedish fashion industry. *Journal of Cleaner Production, 293*, 126245. https://doi.org/10.1016/j.jclepro.2021.126245  
+
+Peleg Mizrachi, S., & Tal, A. (2022). Regulation for promoting sustainable, fair and circular fashion. *Sustainability, 14*(1), 502. https://doi.org/10.3390/su14010502  
+
+Diddi, S., & Yan, R.-N. (2019). Consumer perceptions related to clothing repair and community mending events: A circular economy perspective. *Sustainability, 11*(19), 5306. https://doi.org/10.3390/su11195306  
 

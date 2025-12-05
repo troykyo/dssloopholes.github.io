@@ -1,4 +1,4 @@
-﻿## Fair labor practices
+## Fair labor practices
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -89,28 +89,35 @@ Overall, fair labor practices align with the ideology of Industry 5.0, which emp
 
 ### Case studies
 
-#### Eileen Fisher
+#### International Accord – Legally binding safety and labour agreement in garment supply chains  
+The International Accord for Health and Safety in the Textile and Garment Industry is a legally binding agreement between global brands and trade unions, created after the Rana Plaza collapse to enforce independent inspections, remediation, training, and complaints mechanisms in garment factories. It has expanded from Bangladesh to include programmes in Pakistan and sets a benchmark for enforceable workplace safety and worker participation in global textile value chains.  
+[Project link](https://internationalaccord.org/resources/)
 
-Eileen Fisher is a women's clothing brand that places a strong emphasis on ethical sourcing and production. They have a robust social consciousness program that focuses on fair labor practices, including fair wages, safe working conditions, and worker empowerment. Eileen Fisher also partners with various organizations to support women's rights and social initiatives.
+#### ALDI SOUTH Group – Implementing the International Accord in discount fashion sourcing  
+The ALDI SOUTH Group is a signatory to the original Bangladesh Accord and the subsequent International Accord, committing its textile and garment suppliers to independent inspections and remediation. By joining and renewing these agreements, ALDI binds its private-label apparel sourcing to enforceable safety standards and shared governance with unions, using its purchasing power to improve factory-level conditions in key sourcing countries.  
+[Project link](https://sustainability.aldisouthgroup.com/memberships-and-partnerships/international-accord-for-health-and-safety)
 
-#### Everlane
+#### Fair Trade USA – Factory Production Standard for apparel and home goods  
+Fair Trade USA’s Factory Production Standard (FPS) for apparel and home goods defines over 100 social, environmental, and economic requirements for certified factories, including legal wages, safe working conditions, worker representation, and community development funds. Brands sourcing from Fair Trade Certified factories pay a premium that goes into worker-controlled community projects, linking purchasing decisions to tangible improvements in workers’ livelihoods.  
+[Project link](https://www.fairtradecertified.org/what-we-do/what-we-certify/factory/)
 
-Everlane is a fashion retailer known for its commitment to transparency and ethical practices. They provide detailed information about their factories and suppliers, including their wages and working conditions. Everlane ensures fair wages and ethical treatment of workers throughout their supply chain, and they work with certified factories that meet their rigorous standards.
+#### Terra Thread – Fair Trade Certified cut-and-sew supply chain  
+Terra Thread is a bag and accessories company that manufactures in Fair Trade Certified factories, integrating the FPS requirements into its textile production. Its public communication emphasises legal wages, safe workplaces, gender equality, and prohibition of child and forced labour, showing how a small brand can use third-party certification to structure a fair labour strategy across its cotton and cut-and-sew value chain.  
+[Project link](https://terrathread.com/pages/fair-trade-factory)
 
-#### Fair Trade Certified
+#### Fair Trade Certified Factory programme – Community development and wage premiums  
+The broader Fair Trade Certified factory programme channels additional premiums from every certified product sold into worker-managed Community Development Funds. These funds are used for projects such as housing, healthcare, and education in producing communities, demonstrating how factory-level standards combined with financial redistribution can address structural underpayment and precarious working conditions in apparel supply chains.  
+[Project link](https://www.fairtradecertified.org/what-we-do/what-we-certify/factory/)
 
-Fair Trade Certified is a certification organization that works with various fashion brands to ensure fair labor practices. They set standards for fair wages, safe working conditions, and community development. Many fashion companies, such as prAna and Pact, have partnered with Fair Trade Certified to ensure that their products are made under fair labor conditions.
 
-#### Worker-driven Social Responsibility (WSR)
+### References
 
-WSR is an innovative model that empowers workers to hold companies accountable for fair labor practices. The WSR approach involves establishing independent monitoring organizations that are led by workers themselves. Companies like GoodWeave and Ethical Toy Program have implemented WSR programs to ensure fair treatment and empower workers in their respective industries.
-##### References
-Athreya, Bama. "Can fashion ever be fair?." _Journal of Fair Trade_ 3.2 (2022): 16-27.
+Fraser, V., & van der Ven, H. (2022). Increasing transparency in global supply chains: The case of the fast-fashion industry. *Sustainability, 14*(18), 11520. https://doi.org/10.3390/su141811520  
 
-Kam, Seonju, and Youngsun Yoo. "Practice of sustainable fashion design considering customer emotions and personal tastes." _Frontiers in Psychology_ 13 (2022): 976471-976471.
+Jung, S., von Wedel, O., Sigurdardottir, M. S., Egels-Zandén, N., & Lavallée, J.-P. (2024). Local understandings of decent work and the legitimacy of global labour standards: The case of the RMG industry in Bangladesh. *Journal of Business Ethics*. Advance online publication. https://doi.org/10.1007/s10551-023-05490-1  
 
-Smestad, Liat. "The sweatshop, child labor, and exploitation issues in the garment industry." _Fashion Practice_ 1.2 (2009): 147-162.
+LeBaron, G., Edwards, R., Hunt, T., Sempéré, C., & Kyritsis, P. (2022). The ineffectiveness of CSR: Understanding garment company commitments to living wages in global supply chains. *New Political Economy, 27*(1), 99–115. https://doi.org/10.1080/13563467.2021.1926954  
 
-Bick, Rachel, Erika Halsey, and Christine C. Ekenga. "The global environmental injustice of fast fashion." _Environmental Health_ 17 (2018): 1-4.
+Holzberg, B. (2023). Vertical and horizontal diffusion of labour standards in global garment supply chains. *The International Journal of Human Resource Management*. Advance online publication. https://doi.org/10.1080/09585192.2022.2150980  
 
-Speed, Alexandra Grace. "Impact of fast fashion and international law on workers and the environment." (2021).
+Velluti, S. (2024). Labour standards in global garment supply chains and the proposed EU corporate sustainability due diligence directive. *European Labour Law Journal*. Advance online publication. https://doi.org/10.1177/20319525241239283  

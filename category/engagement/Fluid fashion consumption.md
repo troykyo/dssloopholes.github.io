@@ -1,4 +1,4 @@
-﻿## Fluid fashion consumption
+## Fluid fashion consumption
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Ecard.png" alt="Ecard" style="width: 75%;" class="responsive-image">
 	
@@ -89,46 +89,35 @@ Overall, fluid fashion consumption represents a departure from the traditional l
 
 ### Case studies
 
-#### Nuuly
+#### Nuuly – Subscription clothing rental service  
+Nuuly, owned by URBN (Urban Outfitters, Anthropologie, Free People), offers a monthly subscription where users rent six items from hundreds of brands for a fixed fee. The service normalises renting instead of owning, enabling experimentation with style while extending garment lifetimes through repeated circulation.  
+[Project link](https://www.nuuly.com/rent/how-it-works)
 
-Nuuly is a clothing rental subscription service launched by URBN, the parent company of brands like Urban Outfitters and Anthropologie. Subscribers can rent up to six items per month from a curated selection of clothing, including trendy and vintage pieces.
+#### HURR – Rental and resale fashion marketplace  
+HURR is a UK-based platform that combines designer fashion rental with resale of pre-loved items. By enabling users to rent occasion-wear and shop second-hand within one shared inventory, HURR supports access-based consumption, higher utilisation rates of garments, and reduced demand for new production.  
+[Project link](https://www.hurrcollective.com)
 
-#### HURR Collective
+#### By Rotation – Peer-to-peer fashion rental app  
+By Rotation is a peer-to-peer fashion rental app that positions itself as a “shared wardrobe” where users lend and rent garments directly from each other. The platform links community interaction, income generation for lenders, and reduced environmental impact by keeping high-value fashion items in active circulation for longer.  
+[Project link](https://byrotation.com/our-app)
 
-HURR Collective is a UK-based peer-to-peer fashion rental platform. It enables individuals to rent out their own clothing and accessories to others, fostering a sense of community and sustainable fashion sharing.
+#### The RealReal – Luxury consignment and resale platform  
+The RealReal operates a large-scale authenticated luxury consignment model where users sell high-end garments, shoes, and accessories into a managed resale marketplace. By professionalising resale and making second-hand luxury mainstream, it extends product lifecycles and demonstrates how re-commerce can displace primary purchases in premium fashion segments.  
+[Project link](https://www.therealreal.com/sell-trr)
 
-#### The RealReal
-
-The RealReal is a luxury consignment and resale platform. It allows individuals to sell and buy pre-owned designer clothing, shoes, and accessories, giving these items a second life and reducing the environmental impact of fashion consumption.
-
-#### Swapping events and platforms
-
-Various organizations and communities host clothing swap events where individuals can exchange their garments with others. Examples include Swap.com, Swap Society, and local community-based swap events.
-
-#### Gwynnie Bee
-
-Gwynnie Bee is a clothing rental subscription service focused on plus-size fashion. It offers a rotating selection of trendy and stylish clothing options, allowing subscribers to constantly update their wardrobe with new looks.
-
-#### Le Tote
-
-Le Tote is a fashion rental service that offers monthly subscriptions. Customers can rent and wear a selection of clothing and accessories, with the option to purchase items they love.
-
-#### By Rotation
-
-By Rotation is a peer-to-peer fashion rental app based in the UK. It connects fashion enthusiasts, allowing them to lend and borrow clothing from each other's closets, fostering a sense of sustainability and community.
-
-##### Reference
-
-Team, B., & Company, M. &. (2022, December 16). _The year ahead: Gender-fluid fashion hits the high street_. The Business of Fashion. https://www.businessoffashion.com/articles/retail/the-state-of-fashion-2023-report-gender-neutral-fluid-fashion-gen-z-consumers/
-
-Cavusoglu, Lena, and Deniz Atik. "Extending the diversity conversation: Fashion consumption experiences of underrepresented and underserved women." _Journal of Consumer Affairs_ 57.1 (2023): 387-417.
+#### The Clothing Loop – Neighborhood clothes swapping network  
+The Clothing Loop is a grassroots initiative that organises local “loops” where bags of clothing circulate through neighbourhood routes and participants swap garments for free. It exemplifies community-based, non-monetary fluid fashion consumption, using sharing and swapping to reduce new purchases while building local social ties around clothing circulation.  
+[Project link](https://www.clothingloop.org/en/about)
 
 
-Liu, Younan, and Ye Hei. "Exploring Generation Z Consumers' Attitudes towards Sustainable Fashion and Marketing Activities regarding Sustainable Fashion." (2021).
+### References
 
-Kim, Hyojung, Inho Cho, and Minjung Park. "Analyzing genderless fashion trends of consumers’ perceptions on social media: using unstructured big data analysis through Latent Dirichlet Allocation-based topic modeling." _Fashion and Textiles_ 9.1 (2022): 1-21.
+Amasawa, E., Brydges, T., Henninger, C. E., & Kimita, K. (2023). Can rental platforms contribute to more sustainable fashion consumption? Evidence from a mixed-method study. *Cleaner and Responsible Consumption, 8*, 100103. https://doi.org/10.1016/j.clrc.2023.100103  
 
-Gazzola, Patrizia, et al. "Trends in the fashion industry. The perception of sustainability and circular economy: A gender/generation quantitative approach." _Sustainability_ 12.7 (2020): 2809.
+Lang, C., Seo, S., & Liu, S. (2025). Unlocking a pathway to fashion circularity: Insights into fashion rental consumption and business practices. *Administrative Sciences, 15*(8), 288. https://doi.org/10.3390/admsci15080288  
 
-Hickman, Mary-Kate, Wilson Ozuem, and Jummy Okoya. "Gender fluidity in the age of technologically mediated environments: implications for fashion industry." _Gender Economics: Breakthroughs in Research and Practice_. IGI Global, 2019. 135-174.
+Lee, S. E., Jung, H. J., & Lee, K.-H. (2021). Motivating collaborative consumption in fashion: Consumer benefits, perceived risks, service trust, and usage intention of online fashion rental services. *Sustainability, 13*(4), 1804. https://doi.org/10.3390/su13041804  
 
+Muylaert, C., Tunn, V. S. C., & Maréchal, K. (2024). On the attractiveness of clothing libraries for women: Investigating the adoption of product-service systems from a practice-based perspective. *Sustainable Production and Consumption, 45*, 359–370. https://doi.org/10.1016/j.spc.2024.01.012  
+
+Savelli, E., Francioni, B., Curina, I., & Cioppi, M. (2024). Promoting access-based consumption practices through fashion renting: Evidence from Italy. *Journal of Consumer Marketing, 41*(1), 61–77. https://doi.org/10.1108/JCM-02-2023-5843  

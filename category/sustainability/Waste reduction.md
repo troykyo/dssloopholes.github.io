@@ -1,4 +1,4 @@
-﻿## Waste reduction
+## Waste reduction
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Scard.png" alt="Scard" style="width: 75%;" class="responsive-image">
 	
@@ -104,30 +104,35 @@ Encouraging users to make conscious purchasing decisions and adopt sustainable f
 
 ### Case studies
 
-#### Reformation
+#### tonlé – Zero-waste production and Conscious Assembly  
+tonlé is a Cambodia-based fashion brand built around zero-waste design, using pre-consumer remnants, cutting-room scraps, and post-use textiles as primary inputs. Patterns are engineered to eliminate cutting waste, and any remaining offcuts are down-cycled into yarns or smaller products, drastically reducing landfill-bound textile waste while supporting small-scale local production.  
+[Project link](https://tonle.com/pages/about-tonle)
 
-Reformation is a sustainable fashion brand known for its commitment to waste reduction. They prioritize sustainable materials, minimize fabric waste through efficient pattern-making, and focus on local manufacturing to reduce transportation emissions. They also offer a "Clothes the Loop" program where customers can return old garments for recycling. [Learn more about Reformation](https://www.thereformation.com/pages/sustainability)
+#### Mud Jeans – Lease A Jeans and circular denim  
+Mud Jeans operates a “Lease A Jeans” model in which users lease jeans, return them at end-of-use, and the company then remanufactures, remends, or recycles the denim fiber into new products. By designing jeans for disassembly and fibre-to-fibre recycling, Mud Jeans reduces both pre-consumer production waste and post-use landfill, demonstrating a circular, waste-minimising denim system.  
+[Project link](https://mudjeans.eu/pages/our-story)
 
-#### TALA
+#### Reformation – Material efficiency and deadstock utilisation  
+Reformation integrates waste reduction throughout its value chain by prioritising deadstock fabrics, recycled materials, and resource-efficient cutting and production practices. Through its RefScale impact tracking and design guidelines, the brand actively measures and reduces cutting waste and overproduction, aligning product development with quantified waste and impact reduction targets.  
+[Project link](https://www.thereformation.com/pages/sustainability)
 
-TALA is a UK-based activewear brand that incorporates recycled materials into their products. They use fabrics made from recycled plastic bottles and engage in waste reduction by designing for circularity, ensuring their products can be easily recycled at the end of their life. [Learn more about TALA](https://www.wearetala.com/pages/sustainability)
+#### Patagonia – Worn Wear repair and reuse program  
+Patagonia’s Worn Wear program enables users to repair, resell, and buy used Patagonia garments, extending product lifetimes and diverting textiles from landfill. Centralised repair services and authenticated resale reduce post-use waste while feeding empirical insights about failure points back into design, supporting more durable and repairable future products.  
+[Project link](https://wornwear.patagonia.com)
 
-#### Tonlé
+#### Nudie Jeans – Repair, Reuse and Recycle  
+Nudie Jeans runs an extensive network of “Repair Shops” and mobile repair services that mend jeans for free, encouraging users to keep garments in circulation longer. Returned or unrepairable jeans are either resold as Re-use or down-cycled into new products, forming an integrated repair–reuse–recycle system that significantly reduces denim waste across the value chain.  
+[Project link](https://www.nudiejeans.com/repair)
 
-Tonlé is a zero-waste fashion brand that upcycles textile scraps and discarded garments into new clothing. They employ a zero-waste production process where even the smallest fabric remnants are transformed into accessories or other products, minimizing waste and maximizing resource utilization. [Learn more about Tonlé](https://www.tonle.com/pages/our-story)
 
-#### Mud Jeans
+### References
 
-Mud Jeans is a denim brand that focuses on circular economy principles. They offer a lease model where customers can lease jeans instead of buying them outright. At the end of the lease, the jeans are either recycled or upcycled, reducing textile waste and promoting a circular fashion system. [Learn more about Mud Jeans](https://mudjeans.eu/pages/our-story)
+Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9  
 
-##### References
-1. **Three Principles of Sustainability by Casciani et al. (2022)**: This article discusses the core principles of sustainability: environmental, social, and economic, and how they impact corporate strategies and practices. [Three Principles of Sustainability](https://theimpactinvestor.com/three-principles-of-sustainability/)
+Rotimi, J. O. B., Heywood, C. A., & Verbitsky, J. (2021). Towards a conceptual framework of sustainable practices of post-consumer textile waste at garment end of lifecycle. *Sustainability, 13*(5), 2965. https://doi.org/10.3390/su13052965  
 
-2. **The perception of circular economy in the framework of fashion industry by Papamichael, Iliana, et al. (2023)**: This paper explores how the circular economy is perceived within the fashion industry, addressing challenges and opportunities for sustainable practices. [DOI: 10.1177/0734242X221145919](https://doi.org/10.1177/0734242X221145919)
+Lee, J.-Y. (2023). A dual strategy for textile and fashion production using clothing waste: Combining creative design and sustainable practice. *Sustainability, 15*(15), 11509. https://doi.org/10.3390/su151511509  
 
-3. **Slowing the fast fashion industry: an all-round perspective by Centobelli, Piera, et al. (2022)**: This article provides a comprehensive view on strategies to slow down the fast fashion industry, focusing on sustainable practices and their impacts. [DOI: 10.1016/j.cogsc.2022.100684](https://doi.org/10.1016/j.cogsc.2022.100684)
+McQueen, R. H., Moran, L. J., & Diddi, S. (2022). Frugality, style longevity and garment repair: Environmental attitudes and consumption behaviour. *International Journal of Fashion Design, Technology and Education, 15*(3), 353–365. https://doi.org/10.1080/17543266.2022.2072958  
 
-4. **Circular economy and waste in the fashion industry by Jacometti, Valentina (2019)**: This paper examines the role of the circular economy in reducing waste within the fashion industry and proposes legislative and practical solutions. [DOI: 10.3390/laws8040027](https://doi.org/10.3390/laws8040027)
-
-5. **Sustainable waste management strategies in the fashion industry sector by Dissanayake, D. G. K., and Pammi Sinha (2012)**: This article outlines various sustainable waste management strategies that can be applied in the fashion industry to reduce environmental impact. [DOI: 10.18848/1832-2077/CGP/v08i01/59429](https://doi.org/10.18848/1832-2077/CGP/v08i01/59429)
-
+Sandin, G., & Peters, G. M. (2018). Environmental impact of textile reuse and recycling – A review. *Journal of Cleaner Production, 184*, 353–365. https://doi.org/10.1016/j.jclepro.2018.02.266

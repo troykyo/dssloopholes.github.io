@@ -95,38 +95,35 @@ Furthermore, collaborative consumption can involve co-creation platforms where u
 
 ### Case studies
 
-#### Depop
+#### Rent the Runway – Subscription-based fashion rental
+Rent the Runway operates a subscription and one-off rental model that allows users to access designer clothing and accessories without owning them. By rotating garments through multiple users and offering repair and cleaning in-house, the platform extends product lifetimes and reduces demand for new production, embodying collaborative, access-based fashion consumption.  
+[Project link](https://www.renttherunway.com)
 
-Depop is a peer-to-peer fashion marketplace where users can buy and sell pre-owned clothing and accessories. It creates a community-driven platform where individuals can discover unique, vintage, and fashion-forward items while promoting sustainable fashion practices.
+#### HURR – Peer-to-peer and B2B rental platform
+HURR is a UK-based fashion rental platform that combines peer-to-peer lending with brand and retailer partnerships. Users list, rent, and borrow occasionwear and everyday garments, while HURR provides logistics, insurance, and cleaning infrastructure, turning individual wardrobes into a shared resource and supporting circular, collaborative fashion use.  
+[Project link](https://www.hurrcollective.com)
 
-#### Swap.com
+#### ThredUp – Online consignment and resale
+ThredUp is a large-scale online consignment and thrift platform that enables users to send in unwanted garments for resale via a managed marketplace. By aggregating supply from many households and redistributing it to new wearers, ThredUp operationalises collaborative consumption at scale and provides value-chain data on second-hand fashion flows.  
+[Project link](https://www.thredup.com)
 
-Swap.com is an online clothing swap platform that allows users to trade their gently used clothing items with others. Users can list their items for swapping and browse the available inventory to find items they want. It encourages a culture of sharing and reduces clothing waste.
+#### Vestiaire Collective – Luxury resale community
+Vestiaire Collective is a global resale marketplace focused on pre-owned luxury and premium fashion. Its community-based model encourages users to sell, buy, and authenticate second-hand items, extending the life of high-value garments and accessories while framing resale as a mainstream, collaborative mode of fashion consumption.  
+[Project link](https://www.vestiairecollective.com)
 
-#### Share Wardrobe
-
-Share Wardrobe is a fashion-sharing platform that enables users to lend and borrow clothing from their community. It aims to reduce overconsumption and promote sustainable fashion choices by encouraging users to share their wardrobe items with others.
-
-#### Vestiaire Collective
-
-Vestiaire Collective is a luxury fashion resale platform that enables individuals to buy and sell pre-owned designer clothing, shoes, and accessories. It provides a trusted marketplace for fashion enthusiasts to access luxury items at more affordable prices, contributing to a more sustainable and circular fashion economy.
-
-#### Yerdle
-
-Yerdle is an online marketplace that focuses on facilitating the exchange of used clothing and other items between individuals. It promotes a collaborative and sharing approach to consumption, encouraging users to give away items they no longer need and find items they desire.
-
-#### Hurr Collective
-
-Hurr Collective is a peer-to-peer fashion rental platform that allows users to rent designer clothing and accessories from each other. It enables individuals to monetize their wardrobe by listing their items for rent and provides a sustainable alternative to buying new garments for special occasions.
+#### Vinted – Everyday peer-to-peer second-hand fashion
+Vinted is a peer-to-peer platform where users list, buy, and swap second-hand clothing, shoes, and accessories across multiple European markets. The service lowers transaction friction for casual wardrobe circulation and normalises collaborative, user-to-user redistribution as an everyday alternative to purchasing new fashion.  
+[Project link](https://www.vinted.com)
 
 
-##### Reference
-Arrigo, E. (2021). Collaborative consumption in the fashion industry: A Systematic Literature Review and conceptual framework. _Journal of Cleaner Production_, _325_, 129261. https://doi.org/10.1016/j.jclepro.2021.129261
+### References
 
-Henninger, C. E., Brydges, T., Iran, S., & Vladimirova, K. (2021). Collaborative fashion consumption – a synthesis and future research agenda. _Journal of Cleaner Production_, _319_, 128648. https://doi.org/10.1016/j.jclepro.2021.128648
+Arrigo, E. (2021). Collaborative consumption in the fashion industry: A systematic literature review and conceptual framework. *Journal of Cleaner Production, 325*, 129261. https://doi.org/10.1016/j.jclepro.2021.129261  
 
-Lee, S. E., Jung, H. J., & Lee, K.-H. (2021). Motivating collaborative consumption in fashion: Consumer benefits, perceived risks, service trust, and usage intention of online fashion rental services. _Sustainability_, _13_(4), 1804. https://doi.org/10.3390/su13041804
+Gopalakrishnan, S., & Matthews, D. (2018). Collaborative consumption: A business model analysis of second-hand fashion. *Journal of Fashion Marketing and Management: An International Journal, 22*(3), 354–368. https://doi.org/10.1108/JFMM-05-2017-0049  
 
-Gopalakrishnan, S., & Matthews, D. (2018). Collaborative consumption: A business model analysis of second-hand fashion. _Journal of Fashion Marketing and Management: An International Journal_, _22_(3), 354–368. https://doi.org/10.1108/jfmm-05-2017-0049
+Henninger, C. E., Brydges, T., Iran, S., & Vladimirova, K. (2021). Collaborative fashion consumption – A synthesis and future research agenda. *Journal of Cleaner Production, 319*, 128648. https://doi.org/10.1016/j.jclepro.2021.128648  
 
-Michalak, S., Bartkowiak, P., Ankiel, M., Olejniczak, T., & Stachowiak-Krzyżan, M. (2022). Motives for the usage of collaborative fashion consumption online platforms. _Marketing of Scientific and Research Organizations_, _44_(2), 41–66. https://doi.org/10.2478/minib-2022-0008
+Lee, S. E., Jung, H. J., & Lee, K.-H. (2021). Motivating collaborative consumption in fashion: Consumer benefits, perceived risks, service trust, and usage intention of online fashion rental services. *Sustainability, 13*(4), 1804. https://doi.org/10.3390/su13041804  
+
+Michalak, S., Bartkowiak, P., Ankiel, M., Olejniczak, T., & Stachowiak-Krzyżan, M. (2022). Motives for the usage of collaborative fashion consumption online platforms. *Marketing of Scientific and Research Organizations, 44*(2), 41–66. https://doi.org/10.2478/minib-2022-0008  

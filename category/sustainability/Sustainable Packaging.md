@@ -78,48 +78,38 @@ How can you change your logistics in terms of procurement or packaging processes
 </style>
 <br>
 
-### Case Studies
+### Case studies
 
-**Adidas**  
-Adidas has integrated biobased materials into its footwear packaging, using plant-based plastics and paper derived from agricultural waste. These materials are designed to be biodegradable, allowing them to decompose naturally and return to the earth without leaving harmful residues. This initiative is part of Adidas' broader "End Plastic Waste" campaign, aiming to reduce reliance on fossil fuels and contribute to a circular economy. Through these sustainable practices, Adidas demonstrates how the fashion and footwear industries can reduce their environmental impact.  
-[Read more about Adidas' sustainability efforts](https://www.adidas-group.com/en/sustainability/focus-on-sustainability/our-targets)
+#### PUMA – Clever Little Bag
+PUMA collaborated with design firm fuseproject to replace traditional cardboard shoeboxes with the Clever Little Bag, a minimalist cardboard tray combined with a reusable fabric bag. This packaging concept reduces cardboard use, lowers transport emissions through volume reduction, and encourages reuse of the fabric bag, demonstrating how apparel brands can redesign packaging systems to cut material use and waste.  
+[Project link](https://fuseproject.com/work/puma-clever-little-bag/)
 
-**Lush Cosmetics**  
-Lush Cosmetics is known for its commitment to sustainable packaging. The brand uses recycled materials for its packaging and offers a "naked" line of products that are sold without packaging. Lush’s approach minimizes waste and reduces the brand’s overall environmental footprint.  
-[Read more about Lush's "naked" packaging](https://weare.lush.com/lush-life/our-values/naked/)
+#### Lush – Naked and Low-Packaging Formats
+Lush has systematically reduced primary and secondary packaging by developing “naked” products (such as solid shampoos and conditioners) and offering refill schemes for selected lines. Their naked strategy illustrates how a brand can shift entire product portfolios to formats that eliminate or radically reduce packaging while using recycled or reusable containers where packaging is still needed.  
+[Project link](https://weare.lush.com/lush-life/our-values/naked/)
 
-**Puma**  
-PUMA introduced the Clever Little Bag as a multi-functional and reusable packaging solution, replacing traditional shoeboxes. The design features a minimal cardboard tray and a reusable fabric bag made from recycled materials. This innovative approach reduces cardboard use by 65% and encourages consumers to reuse the fabric bag, significantly lowering the environmental impact of packaging. PUMA's Clever Little Bag showcases how packaging can be both practical and sustainable, adding value while promoting environmental responsibility.  
-[Read more about Puma's Clever Little Bag](https://fuseproject.com/work/puma-clever-little-bag/)
+#### Patagonia – Polybag Reduction and Packaging Redesign
+Patagonia has analysed the life cycle impacts of its polybags and experimented with folding, recycled content, and alternative materials to reduce plastic use in apparel packaging. Case analysis of Patagonia’s packaging initiatives shows how changing folding methods, increasing recycled content, and exploring reusable/biodegradable options can significantly lower packaging-related impacts for garments.  
+[Project link](https://cases.haas.berkeley.edu/assets/documents/2020-best-case-award-patagonia.pdf)
+
+#### Nudie Jeans – Recycled and Recyclable Packaging
+Nudie Jeans integrates circular principles into its packaging by prioritising recycled paper, eliminating unnecessary plastics, and aligning packaging formats with recyclability in local waste systems. Sectoral reporting on fashion packaging highlights Nudie’s use of FSC-certified and high-recycled-content packaging as part of a broader circular denim strategy that also includes repair and reuse.  
+[Project link](https://www.researchgate.net/publication/365185068_SUSTAINABLE_INNOVATIVE_PACKAGING_SOLUTIONS_IN_THE_FASHION_INDUSTRY_Global_Report)
+
+#### Picture Organic Clothing – Paper-Based and Reusable Solutions
+Picture Organic Clothing has shifted from conventional plastic mailers and boxes towards recycled cardboard and paper-based solutions, supported by reusable bags and minimised material weights. Documented as a case in global overviews of sustainable fashion packaging, Picture’s approach demonstrates how outdoor and board-sports apparel brands can align packaging with wider commitments to low-impact materials and circular design.  
+[Project link](https://www.researchgate.net/publication/365185068_SUSTAINABLE_INNOVATIVE_PACKAGING_SOLUTIONS_IN_THE_FASHION_INDUSTRY_Global_Report)
+
+---
 
 ### References
 
-- Arenhart, J., Assis, L. N., & Dias, A. G. (2021). Sustainable Packaging in the Fashion Industry: A Review of Design and Environmental Considerations. Sustainability, 13(8), 4251.
+Jia, F., Yin, S., Chen, L., & Chen, X. (2020). The circular economy in the textile and apparel industry: A systematic literature review. *Journal of Cleaner Production, 259*, 120728. https://doi.org/10.1016/j.jclepro.2020.120728
 
-- Béhar, Y., & PUMA. (2020). Reimagining the shoebox: The Clever Little Bag. Journal of Sustainable Design, 14(3), 215-223.
+Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9
 
-- Brodin, M., Norén, C., Nordqvist, J., & Jönsson, C. (2021). Biobased Packaging: A Review of Environmental Impact and Policy Considerations. Packaging Technology and Science, 34(6), 317-328.
+Koszewska, M. (2018). Circular economy—Challenges for the textile and clothing industry. *Autex Research Journal, 18*(4), 337–347. https://doi.org/10.1515/aut-2018-0023
 
-- Chai, Y., Zhang, L., & Liu, X. (2022). The Environmental Impact of Biobased Packaging: A Comparative Life Cycle Assessment. Journal of Cleaner Production, 350, 131522.
+Zamani, B., Sandin, G., & Peters, G. M. (2017). Life cycle assessment of clothing libraries: Can collaborative consumption reduce the environmental impact of fast fashion? *Journal of Cleaner Production, 162*, 1368–1375. https://doi.org/10.1016/j.jclepro.2017.06.002
 
-- Faraca, G., & Astrup, T. (2022). Recycling of Post-Consumer Plastics: Current State and Perspectives. Waste Management, 127, 3-18.
-
-- Gupta, S., & Sharma, S. (2020). Sustainable packaging: A step towards environmental conservation. Journal of Sustainable Development, 13(5), 112-119.
-
-- Hopewell, J., Dvorak, R., & Kosior, E. (2021). Reducing Plastic Packaging Waste in the Fashion Industry. Resources, Conservation & Recycling, 173, 105664.
-
-- Lindh, H., & Olsson, L. (2021). Circular packaging in the fashion industry: Trends and practices. Fashion Studies Journal, 21(3), 45-61.
-
-- Pauer, E., Wohner, B., Heinrich, V., & Tacker, M. (2021). Sustainable Packaging Design in the Circular Economy: A Comprehensive Framework. Sustainability, 13(8), 4349.
-
-- Ritch, E., & Brindley, L. (2022). Fashion, Packaging, and Sustainability: Creating Value and Reducing Environmental Impact. Journal of Fashion Marketing and Management.
-
-- Shen, L., Worrell, E., & Patel, M. K. (2022). Sustainable Plastics for Packaging: Opportunities and Challenges in a Circular Economy. Polymer Degradation and Stability, 196, 109877.
-
-- Siracusa, V., Ingrao, C., Lo Giudice, A., Mistretta, M., & Rimini, S. (2021). Environmental Impact of Sustainable Packaging in the Food Industry. Sustainability, 13(11), 6343.
-
-- Smith, A., & Jones, P. (2021). Biobased materials in the footwear industry: A case study of Adidas' sustainable packaging. Journal of Sustainable Product Design, 15(4), 321-337.
-
-- Verghese, K., Lewis, H., & Fitzpatrick, L. (2022). Packaging for Sustainability: Reimagining the Fashion Industry’s Packaging. Journal of Packaging Technology and Research.
-
-
+Kirchherr, J., Reike, D., & Hekkert, M. (2017). Conceptualizing the circular economy: An analysis of 114 definitions. *Resources, Conservation and Recycling, 127*, 221–232. https://doi.org/10.1016/j.resconrec.2017.09.005
