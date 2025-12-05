@@ -8,7 +8,7 @@ Strategic partners are the stakeholdes that impact your value proposition and va
     <br><br><strong> VET: </strong>
 Who are your strategic partners and why do you choose them? Are your users strategic partners?
     <br><br><strong> HEI: </strong>
-What new partners would you need in your organization to make enable circularity? (e.g. textile recycling)
+What new partners would you need in your organization to enable circularity? (e.g. textile recycling)
   </div>
 </div>
 
