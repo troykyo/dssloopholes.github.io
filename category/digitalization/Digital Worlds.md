@@ -1,4 +1,4 @@
-﻿## Digital worlds
+## Digital worlds
  
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
@@ -90,46 +90,36 @@ In summary, Digital Worlds offer immersive, interactive, and innovative fashion 
 
 ### Case studies
 
-#### Burberry
+#### DRESSX – Digital fashion wardrobe for virtual worlds  
+DRESSX is a dedicated digital fashion retailer that offers 3D garments for AR try-on, social media content, and metaverse environments. By replacing some physical purchases with digital-only looks, it demonstrates how virtual wardrobes can expand creative expression while reducing material production and waste.  
+[Project link](https://dressx.com)
 
-Burberry is a renowned luxury fashion brand that has embraced digital innovation. In 2010, Burberry launched its "Retail Theater" concept, which combined physical and digital elements. The brand incorporated live streaming of runway shows, interactive digital displays in stores, and real-time social media integration to create an immersive and connected experience for customers. [More about Burberry's Digital Innovation](https://www.researchgate.net/figure/Burberrys-Runway-to-Reality-fashion-immediacy-scheme-Burberry-2016-accessed-from_fig5_319555720)
+#### The Fabricant – Digital-only couture and virtual collaborations  
+The Fabricant operates as a digital-only fashion house, designing garments that exist primarily in virtual environments, game engines, and metaverse platforms. Its collaborations and NFT-based collections illustrate how fashion can decouple aesthetic value from physical production, opening new revenue streams while avoiding material waste.  
+[Project link](https://www.thefabricant.com)
 
-#### Gucci
+#### Gucci – Immersive branded worlds on Roblox  
+Gucci has created immersive branded experiences such as Gucci Garden and Gucci Town on Roblox, allowing users to explore virtual environments, collect digital items, and style their avatars with branded looks. These projects show how luxury fashion integrates with gaming platforms to reach new audiences and test virtual-only products as part of broader digital world strategies.  
+[Project link](https://www.roblox.com/gucci)
 
-Gucci, a leading luxury fashion brand, has embraced augmented reality (AR) technology to enhance customer engagement. In 2019, Gucci launched an AR-powered app called "Gucci Sneaker Garage" that allowed users to virtually try on and customize sneakers. The app utilized AR to overlay virtual shoes onto the user's feet, providing an interactive and personalized experience. [More about Gucci Sneaker Garage](https://www.gucci.com/us/en/st/stories/article/sneaker-garage)
+#### Balenciaga x Fortnite – AAA gaming as a digital fashion channel  
+Balenciaga’s collaboration with Fortnite introduced branded skins, accessories, and an in-game Balenciaga hub, alongside a coordinated physical capsule collection. This “phygital” project demonstrates how high-end fashion can inhabit large-scale game worlds, using virtual items as both media and merchandise within a persistent digital ecosystem.  
+[Project link](https://www.epicgames.com/fortnite/en-US/news/balenciaga-brings-digital-fashion-to-fortnite)
 
-#### Zara
+#### The Digital Fashion Group – Skills and literacy for fashion’s digital worlds  
+The Digital Fashion Group is a European-led collaboration between fashion academics and industry innovators that develops education, upskilling, and insight programs around digital fashion, virtual worlds, and new business models. By training professionals to design for avatars, virtual runways, and metaverse platforms, it supports the systemic transition towards digitally native fashion practices.  
+[Project link](https://thedigitalfashiongroup.com)
 
-Zara, a popular fast-fashion brand, has leveraged digital worlds through its mobile application. The Zara app offers features like augmented reality (AR) shopping, where users can point their phone's camera at designated spots in stores or displays to view additional product information, styling suggestions, and even models wearing the clothes virtually. [More about Zara's AR Shopping](https://futurestores.wbresearch.com/blog/zara-augmented-reality-app-virtual-model-strategy)
-
-#### Farfetch
-
-Farfetch is an online luxury fashion retailer that has integrated digital worlds into its platform. The company offers virtual try-on features, allowing customers to virtually try on selected items using augmented reality (AR) technology. Customers can see how the clothes would fit and look on themselves before making a purchase decision. [More about Farfetch Virtual Try-On](https://jingdaily.com/posts/farfetch-s-ar-company-wants-you-to-try-on-your-bags-virtually)
-
-#### The Fabricant
-
-The Fabricant is a digital fashion house that creates virtual fashion garments and experiences. They specialize in creating 3D digital fashion pieces that exist only in the digital realm. The Fabricant collaborates with various fashion brands and designers to create virtual collections and immersive digital experiences. [More about The Fabricant](https://www.thefabricant.com/)
-
-#### Stephy Fung
-Stephy Fung is a digital fashion artist based in UK. Her work frames vibrant colours and balanced composition, paying homage to her Chinese heritage and to also educate her audiences on the culture. Her designs have been a way to explore and express her British Chinese identity and she hopes to fuse modern techniques/cuts with traditional Chinese elements. She is an artist, educator and content creator. Her skill set ranges from Adobe Suite, Cinema4D, Clo3d, Substance Painter and Daz3D.
-[Learn more](https://stephyfung.com/home)
-
-#### Digital Fashion Group
-Founded in 2020, The DigitalFashionGroup is a European-led collaboration between Fashion Academics and Industry Innovators to equip fashion professionals and educators with the relevant skills, mindset and strategies for tomorrow's workplace. 
-[Learn more](https://thedigitalfashiongroup.com/insights1/)
+---
 
 ### References
 
-- [Specialist, A. M. B. (2023, January 4). _Metaverse and fashion: A relationship for Success_. Evergine. ](https://evergine.com/metaverse-fashion/)
+Akhtar, W. H., Tsegenidi, K., Glovnea, R., & Harwin, W. (2022). A new perspective on the textile and apparel industry in the digital transformation era. *Textiles, 2*(4), 633–656. https://doi.org/10.3390/textiles2040037
 
-- Akhtar, Waleed Hassan, et al. "A New Perspective on the Textile and Apparel Industry in the Digital Transformation Era." _Textiles_ 2.4 (2022): 633-656.
+Chan, H. H. Y., Henninger, C. E., Boardman, R., & Blázquez Cano, M. (2023). The adoption of digital fashion as an end product: A systematic literature review of research foci and future research agenda. *Journal of Global Fashion Marketing, 15*(1), 155–180. https://doi.org/10.1080/20932685.2023.2251033
 
-- Sayem, Abu Sadat Muhammad. "Digital fashion innovations for the real world and metaverse." _International Journal of Fashion Design, Technology and Education_ 15.2 (2022): 139-141.
+Gornostaeva, G. (2023). The development of digital commerce in the fashion industry: The typology of emerging designers in London. *Technological Forecasting and Social Change, 186*, 122122.
 
-- Gornostaeva, Galina. "The development of digital commerce in the fashion industry: The typology of emerging designers in London." _Technological Forecasting and Social Change_ 186 (2023): 122122.
+Sayem, A. S. M. (2022). Digital fashion innovations for the real world and metaverse. *International Journal of Fashion Design, Technology and Education, 15*(2), 139–141. https://doi.org/10.1080/17543266.2022.2071139
 
-- [Games X Fashion > Unpacking the Audience and Analysing the Value Proposition](https://www.theinterline.com/2024/04/03/games-x-fashion-unpacking-the-audience-and-analysing-the-value-proposition/)
-
-- [Digitization vs Digitalization vs Digital Transformation](https://www.channelinsider.com/business-management/digitization-vs-digitalization/)
-
-- [What is an NFT](https://www.forbes.com/advisor/investing/cryptocurrency/nft-non-fungible-token/)
+Silvestri, B. (2020). The future of fashion: How the quest for digitisation and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19. *ZoneModa Journal, 10*(2), 61–73.

@@ -1,4 +1,4 @@
-﻿## Personalisation
+## Personalisation
  
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
@@ -101,40 +101,36 @@ Overall, personalization in the fashion industry empowers customers to actively 
 
 ### Case studies
 
-#### Adidas
+#### Heuritech – AI trend forecasting for reduced overproduction  
+Heuritech provides AI-powered visual recognition and trend forecasting for fashion brands, analysing large volumes of social media imagery to predict demand at SKU level. Data-driven insights support more accurate buying and planning, helping brands avoid overproduction, reduce unsold inventory, and lower associated environmental impacts.  
+[Project link](https://www.heuritech.com)
 
-Adidas allows customers to personalize their sneakers through their miadidas platform, now integrated into the adidas Locker Room. This platform enables customers to select colors, materials, and design elements to create unique footwear tailored to their preferences. By offering a high degree of customization, Adidas reduces overproduction and minimizes waste, as each product is made to order based on specific customer requests. This approach not only caters to individual tastes but also supports more sustainable production practices. [More about miadidas](https://lockerroom.adidas.com/)
+#### Stitch Fix – Data-driven personalization and inventory optimization  
+Stitch Fix is an online personal styling service whose core business model is built around data science and machine learning. Algorithms match clients with stylists and optimize product recommendations and purchasing decisions, enabling smaller, better-targeted inventories and reducing waste from unsold garments while delivering highly personalized assortments.  
+[Project link](https://multithreaded.stitchfix.com)
 
-#### Levi's
+#### H&M Group & Google Cloud – ML-enabled design and demand intelligence  
+H&M Group collaborates with Google Cloud to combine data on weather, search behaviour, and local context with machine-learning models to inform design, assortment, and material choices. These insights support better demand prediction, more efficient sourcing, and the exploration of lower-impact materials, aligning digital intelligence with sustainability and circularity goals.  
+[Project link](https://about.hm.com)
 
-Levi's offers a personalized shopping experience through their Levi's Tailor Shops. These in-store tailor shops allow customers to get their jeans customized and tailored to their specific measurements and style preferences. Services include alterations, repairs, and the addition of unique design elements such as embroidery and patches. This approach promotes the extended use and longevity of products, encouraging customers to maintain and cherish their garments rather than frequently purchasing new ones. [More about Levi's Tailor Shops](https://www.levi.com/US/en_US/features/tailor-shop)
+#### TextileGenesis – Data-driven fiber-to-retail traceability  
+TextileGenesis uses a data platform with digital tokens and advanced analytics to trace preferred fibers such as TENCEL™ and LENZING™ ECOVERO™ from origin to finished product. High-resolution traceability data enables brands to substantiate sustainability claims, plan material demand more accurately, and reduce process losses in the value chain.  
+[Project link](https://textilegenesis.com)
 
-#### Rent the Runway
+#### Zalando – Machine learning for sizing, returns, and stock efficiency  
+Zalando integrates machine-learning models into merchandising and logistics to forecast demand, optimize replenishment, and improve size and fit recommendations. By aligning purchasing and distribution with real user behaviour and reducing return rates, these systems cut waste, transport emissions, and the environmental cost of misaligned stock.  
+[Project link](https://corporate.zalando.com)
 
-Rent the Runway is a fashion rental platform that provides personalized recommendations based on individual preferences and occasions. The platform offers a rotating wardrobe of designer clothing, allowing customers to rent rather than buy garments. This model reduces the overall demand for new clothing production, thereby minimizing waste and promoting sustainable fashion practices. Rent the Runway's service includes features such as home delivery, easy returns, and subscription options, making it a convenient and eco-friendly alternative to traditional fashion consumption. [More about Rent the Runway](https://www.renttherunway.com/)
+---
 
-#### Nike
+### References
 
-Nike's Nike By You platform empowers customers to customize and personalize their footwear. Users can choose from a variety of colors, materials, and design options to create sneakers that reflect their unique style. This customization reduces overproduction and waste, as each pair is made to order based on customer specifications. The platform also enhances customer engagement by allowing individuals to express their creativity and preferences through their footwear. [More about Nike By You](https://www.nike.com/nike-by-you)
+Akhtar, W. H., Liu, X., Han, H., & Qin, Y. (2022). A new perspective on the textile and apparel industry in the digital transformation era. *Textiles, 2*(4), 633–656.
 
-#### Eileen Fisher
+Chan, H. H. Y., Henninger, C. E., Boardman, R., & Blazquez Cano, M. (2023). The adoption of digital fashion as an end product: A systematic literature review of research foci and future research agenda. *Journal of Global Fashion Marketing, 15*(1), 155–180. https://doi.org/10.1080/20932685.2023.2251033
 
-Eileen Fisher, a sustainable fashion brand, offers the Renew program where customers can bring back their old Eileen Fisher garments to be transformed into new designs. This program supports a circular economy by extending the lifespan of clothing through upcycling and recycling. Customers benefit from a personalized approach to sustainable fashion, knowing that their used garments can be refreshed and given a new life, thus reducing textile waste and promoting environmental responsibility. [More about Eileen Fisher Renew](https://www.eileenfisher.com/renew)
+Jain, S., & Sundström, M. (2021). Toward a conceptualization of personalized services in apparel e-commerce fulfillment. *Research Journal of Textile and Apparel, 25*(4), 414–430.
 
-#### Oscar Jacobson
-Oscar Jacobson offers a Custom Made service that allows customers to design their own unique jacket, trousers, vest, or tuxedo. By selecting from various models, fabrics, and customizable details such as lapels and buttons, customers can create a garment that is perfectly tailored to their size and preferences. The service includes the ability to visualize the garment in 3D and mix jacket and trouser sizes for a personalized fit. The goal is to provide customers with a high-quality product that delivers both style and comfort, with a fit adapted specifically to their needs. [Learn More](https://www.oscarjacobson.com/en-gb/custom-made/)
+Nachtigall, T. (2021). Data as a material for fashion. In *Data as a Material for Fashion* (pp. 1–15). Amsterdam University of Applied Sciences. https://hbo-kennisbank.nl/details/amsterdam_pure:oai:pure.hva.nl:publications/13162f72-6fa8-41a0-ba68-fe3a3bd34157
 
-##### References
-
-- Ma, Na, Jieun Kim, and Jee Hyun Lee. "Exploring personalized fashion design process using an emotional data visualization method." _Fashion and Textiles_ 9.1 (2022): 1-15.
-
-- Nobile, Tekila Harley, and Lorenzo Cantoni. "Personalization and customization in fashion: searching for a definition." _Journal of Fashion Marketing and Management: An International Journal_ 27.4 (2023): 665-682.
-
-- Jain, Sheenam, and Malin Sundström. "Toward a conceptualization of personalized services in apparel e-commerce fulfillment." _Research Journal of Textile and Apparel_ 25.4 (2021): 414-430.
-
--[Adidas Speedfactory: Disrupting The Sneaker Manufacturing Process
-]( https://d3.harvard.edu/platform-rctom/submission/adidas-speedfactory-disrupting-the-sneaker-manufacturing-process/)
-
-- [Transforming mass customisation from a marketing instrument to a sustainable model at Adidas](https://www.researchgate.net/publication/264436932_Transforming_mass_customisation_from_a_marketing_instrument_to_a_sustainable_model_at_Adidas)
-
-- [From The Era Of Web1 To The Rise Of Trend Oracles: AI Unveils Fashion’s Web3 Era Of Hyper-Personalisation](https://www.theinterline.com/2024/03/14/from-the-era-of-web1-to-the-rise-of-trend-oracles-ai-unveils-fashions-web3-era-of-hyper-personalisation/)
+Nobile, T. H., & Cantoni, L. (2023). Personalization and customization in fashion: Searching for a definition. *Journal of Fashion Marketing and Management: An International Journal, 27*(4), 665–682.

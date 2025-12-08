@@ -76,55 +76,61 @@ How can DS, AI and ML predict demand for sustainable fashion, cut waste in produ
 
 Data science, artificial intelligence (AI), and machine learning (ML) increasingly play crucial roles in the fashion industry, revolutionizing various aspects of the business, from design and production to marketing and customer experience. Traditionally, every sound business utilizes historical sales data, market trends, and other relevant information to predict future demand and optimize inventory levels. Nowadays, Machine Learning algorithms allow for more accurate demand forecasting, further potentially reducing overstock and stockouts. Blockchain technologies also help by enhancing transparency and traceability in the supply chain, allowing for richer information, and using data analytics helps optimize production schedules, logistics, and supply chain efficiency. These technologies will largely aid the post-use sorting process. That information is also used in marketing, using data to understand customer preferences and behavior, enabling targeted marketing campaigns. Still, from a demand perspective, implementing AI-driven recommendation engines can help suggest personalized products based on individual customer preferences and browsing history. Natural language processing (NLP) and sentiment analysis connect that data to public opinion and trends on social media platforms, making these methods even more effective. Once a product of choice is determined, implementing AR and computer vision technologies for virtual try-on experiences allows customers to visualize how garments will look on them before making a purchase. Employing AI algorithms also aids in generating design ideas, helping designers explore a broader range of possibilities. By integrating computer vision to analyze trends and provide insights during the creative process, original designs can be made that have a higher chance to appeal to a larger public.
 
+### Case studies
 
-### Case Studies
+#### Heuritech – AI trend forecasting for reduced overproduction  
+Heuritech provides AI-powered visual recognition and trend forecasting for fashion brands, analysing billions of social media images to predict demand at SKU level. By aligning design and buying decisions with data-driven forecasts, brands can reduce overproduction, optimize assortments, and lower the environmental impact of surplus stock.  
+[Project link](https://www.heuritech.com)
 
-#### Sorabel (formerly Sale Stock)
-**Sorabel** uses **AI** to predict fashion trends and minimize waste by producing only what consumers are likely to buy. Their predictive analytics help lower inventory risk while offering fashionable and affordable items. This lean production model contributes to sustainability by reducing unsold stock, aligning with consumer demands for ethical fashion. [Read more here](https://www.pixyle.ai).
-<br>
+#### Stitch Fix – Data-driven personalization and inventory optimization  
+Stitch Fix is an online personal styling service whose core business model is built around data science and machine learning. Algorithms match clients with stylists, optimize product recommendations, and inform buying decisions, enabling smaller, better-targeted inventories and reducing waste from unsold garments.  
+[Project link](https://multithreaded.stitchfix.com)
 
-**Moncler Genius** <br>
-Moncler Genius leverages data insights, AI-driven trend analysis, and machine learning to identify and anticipate customer preferences, informing their annual collaborations with diverse designers. This approach allows Moncler to maintain relevance and exclusivity through data-backed capsule collections, aligning luxury heritage with evolving consumer tastes. [More details](https://www.moncler.com/en-it/genius.html).
+#### H&M Group & Google Cloud – Data intelligence for circular fashion  
+H&M Group has collaborated with Google Cloud to use big data and machine learning on weather, search, and store data to understand material performance and local demand patterns. These insights are used to inform design and sourcing decisions, supporting more efficient production planning and enabling circularity-oriented choices in materials and assortments.  
+[Project link](https://about.hm.com)
+
+#### TextileGenesis – Fiber-to-retail traceability using data and AI  
+TextileGenesis uses a data-driven platform and digital tokens to trace preferred fibers such as TENCEL™ and LENZING™ ECOVERO™ across the value chain. By combining unique identifiers, analytics, and verification workflows, the system gives brands granular visibility over material flows, enabling better demand planning, reduced material losses, and more credible sustainability claims.  
+[Project link](https://textilegenesis.com)
+
+#### Zalando – AI-enabled demand forecasting and size services  
+Zalando integrates machine-learning models in its merchandising and logistics systems to forecast demand, optimize replenishment, and improve size and fit recommendations. These tools help lower return rates and avoid overstocking by aligning purchasing and distribution more closely with real user behaviour, thus reducing associated emissions and waste.  
+[Project link](https://corporate.zalando.com)
 
 
-#### TextileGenesis
-TextileGenesis uses blockchain technology to track sustainable materials like TENCEL™ and LENZING™ ECOVERO™, ensuring each step of the production process is transparent. This system addresses consumer demand for traceable, ethically sourced products and boosts transparency in supply chains. Listen to a few insights as Blockchain & the Environmental Footprint of Garments. New link: Meet the innovator TextileGenesisTM [Meet the Innovator: TextileGenesis™](https://fashionforgood.com/our_news/meet-the-innovator-textilegenesis/) and [News and Insights](https://textilegenesis.com/news-and-insights). [Find out more about TextileGenesis](https://textilegenesis.com/news-and-insights)
+### Case studies
 
-#### Heuritech
-**Heuritech** leverages **AI** for fashion trend detection, reducing forecasting errors by 50%. By accurately predicting trends and optimizing production, they help fashion brands avoid overproduction and reduce waste. Their AI-backed approach supports sustainable inventory management, creating a more eco-friendly fashion ecosystem. [Read more about Heuritech](https://www.heuritech.com).
+#### Heuritech – AI trend forecasting for reduced overproduction  
+Heuritech provides AI-powered visual recognition and trend forecasting for fashion brands, analysing large volumes of social media images to predict demand at SKU level. By aligning design and buying decisions with data-driven forecasts, brands can reduce overproduction, optimize assortments, and lower the environmental impact of surplus stock.  
+[Project link](https://www.heuritech.com)
 
-#### Patagonia & DEPT Product education
-This experience needed to be personalised and always relevant to the consumer. Our goal was to ultimately guide users to the best product for their needs in one simple flow. By implementing an in-line Q&A and product comparison overlay, BASIC/DEPT® was able to help customers decide which product is right for them, saving them the hassle of toggling between product detail pages. As a result, users are directly routed through the sales funnel in one seamless UX flow. [Learn more](https://www.deptagency.com/case/a-branded-commerce-experience/)
+#### Stitch Fix – Data-driven personalization and inventory optimization  
+Stitch Fix is an online personal styling service whose core business model relies on data science and machine learning. Algorithms match clients with stylists, optimize product recommendations, and inform buying decisions, enabling smaller, better-targeted inventories and reducing waste from unsold garments.  
+[Project link](https://www.stitchfix.com)
+
+#### H&M Group x Google Cloud – Data intelligence for circular fashion  
+H&M Group has collaborated with Google Cloud to use big data and machine learning on weather, search, and store data to understand material performance and local demand patterns. These insights inform design and sourcing decisions, supporting more efficient production planning and enabling circularity-oriented choices in materials and assortments.  
+[Project link](https://hmgroup.com)
+
+#### TextileGenesis – Fiber-to-retail traceability using data and AI  
+TextileGenesis uses a data-driven platform and digital tokens to trace preferred fibers such as TENCEL™ and LENZING™ ECOVERO™ across the value chain. By combining unique identifiers, analytics, and verification workflows, the system gives brands granular visibility over material flows, enabling better demand planning, reduced material losses, and more credible sustainability claims.  
+[Project link](https://textilegenesis.com)
+
+#### Zalando – AI-enabled demand forecasting and size intelligence  
+Zalando integrates machine-learning models in its merchandising and logistics systems to forecast demand, optimize replenishment, and improve size and fit recommendations. These tools help lower return rates and avoid overstocking by aligning purchasing and distribution more closely with real user behaviour, thus reducing associated emissions and waste.  
+[Project link](https://corporate.zalando.com)
+
+---
 
 ### References
 
-- Chamodi, J., et al. (2021). The use of augmented reality to deliver enhanced user experiences in fashion industry. *Lecture Notes in Computer Science*, 12936.
-  
-- Harreis, H. et al. (2023). [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion). McKinsey & Company.
+Akhtar, W. H., Liu, X., Han, H., & Qin, Y. (2022). A new perspective on the textile and apparel industry in the digital transformation era. *Textiles, 2*(4), 633–656.
 
-- Hsu, C.-H., et al. (2021). Deploying resilience enablers to mitigate risks in sustainable fashion supply chains. *Sustainability*, 13(5), 2943.
-  
-- Marlene, Z. (2020). Augmented reality try-on adoption in the Online Clothing Industry: Understanding key challenges and critical success factors. (Master's thesis). University of Twente.
-  
-- Plotkina, D., & Saurel, H. (2019). Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing. *Journal of Retailing and Consumer Services*, 51, 362-377.
-  
-- Silvestri, B. (2020). The future of fashion: How the quest for digitisation and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19. *ZoneModa Journal*, 10(2), 61-73.
-  
-- Reporter, G.S. (2023). ['You've got to be data-driven': the fashion forecasters using AI to predict the next trend](https://www.theguardian.com/technology/2023/oct/01/ai-artificial-intelligence-fashion-trend-forecasting-style). *The Guardian*, October 3.
-  
-- Stower, H. (2020, June 4). [Transparency and resilience in fashion](https://www.cleantech.com/transparency-and-resilience-in-fashion/). Cleantech Group.
-  
-- [Can luxury use AI without losing its luster?](https://jingdaily.com/posts/generative-ai-luxury-brands-moncler-valentino-ai-generated-campaigns)
-  
-- [From Kering to Zegna: How brands can use AI to supercharge luxury shopping](https://jingdaily.com/posts/luxury-brand-shopping-ai-kering-zegna)
-  
-- [SURREAIISM: BETWEEN AI AND 1920S SURREALISMS](https://glitchmagazine.xyz/surreaiism-between-ai-and-1920s-surrealisms/)
-  
-- [The Interline -the fashion technology magazine and social community for industry professional](https://www.theinterline.com/)
-  
-- [Is Fashion Education Ready for AI? By Emma Feldner-Busztin,AUGUST 20, 2024](https://www.theinterline.com/2024/08/20/is-fashion-education-ready-for-ai/)
+Chan, H. H. Y., Henninger, C. E., Boardman, R., & Blazquez Cano, M. (2023). The adoption of digital fashion as an end product: A systematic literature review of research foci and future research agenda. *Journal of Global Fashion Marketing, 15*(1), 155–180. https://doi.org/10.1080/20932685.2023.2251033
 
-- [A visit to the 3D NXT LEVEL 3.0 event at AMFI: Innovations and data driving digital fashion](https://fashionunited.uk/news/fashion/a-visit-to-the-3d-nxt-level-3-0-event-at-amfi-innovations-and-data-driving-digital-fashion/2024120378921)
-  
-- [Fashion Starts To Clean Up Its Energy Act, But Muddies The Waters Around AI](https://www.theinterline.com/2023/10/27/fashion-starts-to-clean-up-its-energy-act-but-muddies-the-waters-around-ai/)
+Harreis, H., Kilcourse, A., & Ponce, D. (2023). *Generative AI: Unlocking the future of fashion*. McKinsey & Company. https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion
 
+Hsu, C.-H., Lee, Y.-C., Chiu, C.-F., & Wang, M.-C. (2021). Deploying resilience enablers to mitigate risks in sustainable fashion supply chains. *Sustainability, 13*(5), 2943.
+
+Silvestri, B. (2020). The future of fashion: How the quest for digitisation and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19. *ZoneModa Journal, 10*(2), 61–73.

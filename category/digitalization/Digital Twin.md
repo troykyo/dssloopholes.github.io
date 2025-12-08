@@ -1,4 +1,4 @@
-﻿## Digital twin
+## Digital twin
 
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
@@ -101,36 +101,35 @@ Overall, digital twins offer immense potential for the fashion industry by enabl
 
 ### Case studies
 
-#### Tommy Hilfiger's digital showroom
+#### Tommy Hilfiger – Digital showroom as collection twin  
+Tommy Hilfiger replaced most physical sample collections with a 3D-enabled digital showroom that acts as a living twin of each season’s range. Buyers and designers work on synchronized virtual samples instead of physical ones, reducing lead times, sample waste, and travel while enabling rapid scenario testing across colours, materials, and assortments.  
+[Project link](https://fashioncloud.com/insights/tommy-hilfiger-digital-showroom/)
 
-Tommy Hilfiger implemented a digital twin-based virtual showroom that revolutionized their design and development process. Using 3D digital models and virtual simulations, designers and buyers could visualize and evaluate collections without the need for physical samples. This streamlined the design process, reduced costs, and accelerated time-to-market. [More about Tommy Hilfiger's Digital Showroom](https://newsroom.tommy.com)
+#### Adidas – SPEEDFACTORY footwear production twin  
+Adidas’ SPEEDFACTORY concept used highly sensorised, automated micro-factories whose processes were modelled in parallel digital environments. These factory twins allowed Adidas to simulate throughput, customise designs locally, and test changes to materials and process parameters before implementation, shortening development cycles and reducing overproduction.  
+[Project link](https://d3.harvard.edu/platform-rctom/submission/adidas-speedfactory-disrupting-the-sneaker-manufacturing-process/)
 
-#### Zara's smart retail system
+#### TextileGenesis – Fiber-to-retail digital twins for materials  
+TextileGenesis builds digital twins of fibre streams (e.g. TENCEL™, wool) by assigning secure digital tokens to each physical batch and tracking them through spinning, weaving, dyeing, and garment-making. Brands use these product-level twins to verify origin, map scope-3 impacts, and demonstrate material integrity to regulators and users, linking physical items to their verified digital records.  
+[Project link](https://textilegenesis.com/)
 
-Zara, a global fashion retailer, utilizes digital twins and RFID technology to optimize inventory management and enhance the in-store shopping experience. Digital twins of garments are created and linked to RFID tags, enabling real-time tracking and monitoring of stock levels. This helps Zara to efficiently manage inventory, restock popular items, and provide customers with accurate information on product availability. [More about Zara's Smart Retail System](https://www.inditex.com/about-us/our-priorities/technology)
+#### unspun – Body and garment twins for on-demand jeans  
+unspun creates a high-resolution digital twin of each wearer’s body via 3D scanning and uses it to generate parametric jean patterns that are produced on-demand in local micro-factories. The combination of body-twin and pattern-twin eliminates size grading, cuts unsold inventory, and provides a data backbone for iterating fit and durability over the lifecycle of the garment.  
+[Project link](https://www.unspun.io/)
 
-#### Levi's virtual stylist
+#### INDG – Product-level fashion twins for visualization and CX  
+INDG develops photorealistic digital twins of fashion products—shoes, apparel, accessories—that stay consistent across e-commerce, configurators, and XR experiences. These twins substitute for physical samples in sell-in and sell-out, allow real-time visual A/B testing of colourways and trims, and provide a shared digital reference for design, merchandising, and marketing teams.  
+[Project link](https://industries.indg.com/fashion)
 
-Levi's introduced a virtual stylist powered by digital twins to enhance the online shopping experience. Customers can create a virtual avatar, input body measurements, and visualize how different Levi's products would fit and look on them. This personalized experience helps customers make informed purchasing decisions, reducing returns and improving customer satisfaction. [More about Levi's Virtual Stylist](https://etailwest.wbresearch.com/blog/levis-strauss-cos-ai-strategy-the-virtual-stylist)
-
-#### Adidas speedfactory
-
-Adidas developed a digital twin-driven manufacturing process in their Speedfactory initiative. By creating digital twins of shoe designs, they were able to optimize production efficiency and customize footwear based on individual customer preferences. The digital twins enabled real-time monitoring and adjustments, resulting in faster production cycles and increased product personalization. [More about Adidas Speedfactory](https://www.supplychaindive.com/news/adidas-speedfactory-blunder-distributed-operations/571678/)
-
-#### INDG
-INDG is a technology company specialising in large-scale CGI content creation, brand-aligned automated content generation, and photorealistic digital twin production. Digital twins and product visualization for fashion brands at scale. With 15 years of fashion expertise, we support every stage of your journey, from initial design to immersive experiences, delivering engaging content that captivates across every channel. Scale your content with speed, consistency, and no compromise on quality. [Learn more](https://industries.indg.com/fashion)
 
 ### References
 
-- Botín-Sanabria, Diego M., et al. "Digital twin technology challenges and applications: A comprehensive review." _Remote Sensing_ 14.6 (2022): 1335.
+Akhtar, W. H., Kusiak, A., Kusiak, M., Kim, H. S., & Yang, H. S. (2022). A new perspective on the textile and apparel industry in the digital transformation era. *Textiles, 2*(4), 633–656. https://doi.org/10.3390/textiles2040033  
 
-- Wagner, Ralf, and Agnieszka Kabalska. "Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins." _Sustainable Development_ (2022).
+Alam, M. D., Kabir, G., & Mirmohammadsadeghi, M. (2023). A digital twin framework development for apparel manufacturing industry. *Decision Analytics Journal, 7*, 100252. https://doi.org/10.1016/j.dajour.2023.100252  
 
-- Alam, Mohammed Didarul, Golam Kabir, and Mehdi Mirmohammadsadeghi. "A digital twin framework development for apparel manufacturing industry." _Decision Analytics Journal_ (2023): 100252.
+Botín-Sanabria, D. M., Acevedo-Correa, Y. N., González-Castaño, C., Zambrano-Rey, G., Buendía-Sarmiento, J. C., Zamora-Musa, R., & Rodríguez-Muñoz, L. E. (2022). Digital twin technology challenges and applications: A comprehensive review. *Remote Sensing, 14*(6), 1335. https://doi.org/10.3390/rs14061335  
 
-- Riedelsheimer, Theresa, Lisa Dorfhuber, and Rainer Stark. "User centered development of a Digital Twin concept with focus on sustainability in the clothing industry." _Procedia CIRP_ 90 (2020): 660-665.
+Li, Y., & Liu, Y. (2024). Empowering fashion design and intelligent manufacturing with digital twins in the Metaverse era. *Asian Social Science, 20*(4), 39–51. https://doi.org/10.5539/ass.v20n4p39  
 
-- Casciani, Daria, Olga Chkanikova, and Rudrajeet Pal. "Exploring the nature of digital transformation in the fashion industry: opportunities for supply chains, business models, and sustainability-oriented innovations." _Sustainability: Science, Practice and Policy_ 18.1 (2022): 773-795.
-
-- [Adidas Speedfactory: Disrupting The Sneaker Manufacturing Process
-](https://d3.harvard.edu/platform-rctom/submission/adidas-speedfactory-disrupting-the-sneaker-manufacturing-process/)
+Wagner, R., & Kabalska, A. (2023). Sustainable value in the fashion industry: A case study of value construction/destruction using digital twins. *Sustainable Development, 31*(5), 3258–3273. https://doi.org/10.1002/sd.2480  

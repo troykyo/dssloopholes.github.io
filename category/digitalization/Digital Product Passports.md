@@ -1,4 +1,4 @@
-﻿## Digital product passports
+## Digital product passports
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 	
@@ -102,35 +102,36 @@ The implementation of digital product passports requires collaboration and stand
 
 ### Case studies
 
-#### Levi's and Levi's SecondHand**
-Levi's, a well-known denim brand, has launched a digital product passport initiative called Levi's SecondHand. This program aims to extend the lifecycle of Levi's products by enabling customers to buy and sell used garments through a dedicated online platform. The digital passport provides information about the product's history, including previous ownership, repairs, and customization, enhancing the transparency and value of pre-owned Levi's items. [Learn more](https://www.levi.com/US/en_US/blog/article/levis-secondhand)
+#### Levi Strauss & Co. – Levi’s SecondHand
+Levi’s SecondHand is a branded resale programme that buys back worn Levi’s garments, refurbishes them, and resells them through a dedicated platform. Each item is listed with style, material, and condition data, effectively creating a digital record of the product’s second life that supports traceability, lifetime impact assessment, and circular business models.  
+[Project link](https://www.levi.com/US/en_US/features/secondhand)
 
-#### Eileen Fisher's Renew Takeback Program
-Eileen Fisher, a sustainable fashion brand, operates a Renew Takeback Program that encourages customers to return their worn garments. As part of the program, the company uses a digital product passport to track and document the lifecycle of each returned garment. This passport includes information about the materials, production processes, and subsequent reuse or recycling of the item, promoting a circular economy and reducing textile waste. [Learn more](https://www.eileenfisher.com/a-sustainable-life/journal/sustainability/renew-program-reaches-2-million-garments.html)
+#### Eileen Fisher – Renew Takeback Program
+Eileen Fisher’s Renew programme invites wearers to return used garments, which are then sorted for resale, repair, remanufacture, or recycling. Returned items are tagged and tracked through a digital system that records material composition, condition, and subsequent pathways, functioning as a product-level lifecycle record that underpins circular design and reverse logistics planning.  
+[Project link](https://www.eileenfisher.com/a-sustainable-life/journal/sustainability/renew-program-reaches-2-million-garments.html)
 
-#### Farfetch and Positively Farfetch
-Farfetch, a global luxury fashion platform, has launched a sustainability initiative called Positively Farfetch. As part of this program, the company is developing a digital product passport system to provide customers with information about the sustainability credentials of the products available on their platform. The passport will include details about materials, production methods, and certifications, allowing customers to make more sustainable choices. [Learn more](https://www.farfetch.com/nl/stories/positively-farfetch.aspx)
+#### Farfetch – Positively Farfetch
+Positively Farfetch integrates sustainability metrics and provenance information into product pages on the Farfetch platform. By connecting product-level data on materials, certifications, and brand practices to each listing, the initiative moves towards passport-like digital records that allow users to compare sustainability attributes and supports regulatory-aligned traceability in luxury fashion.  
+[Project link](https://www.farfetch.com/experience/positively-farfetch)
 
-#### Reformation's RefScale
-Reformation, a sustainable fashion brand, has implemented a tool called RefScale that functions as a digital product passport. RefScale provides customers with detailed information about the environmental impact of each garment, including water usage, carbon emissions, and waste generated during production. By quantifying the environmental footprint, RefScale enables users to make informed decisions and supports Reformation's commitment to sustainability. [Learn more](https://www.thereformation.com/sustainability/what-is-refscale.html)
+#### Reformation – RefScale Impact Labelling
+Reformation’s RefScale system publishes per-garment environmental impact metrics (e.g. carbon, water, and waste) alongside product listings. These impact labels are calculated from supply-chain and process data, effectively creating a digital environmental profile for each product that can be reused in future digital product passport schemes and circular reporting.  
+[Project link](https://media.thereformation.com/image/upload/v1642626590/pdfs/RefScale-Methodology-2022.pdf)
 
-#### RUDHOLM GROUP:  Unleashing transparency and traceability
-ShareLabel® offers supply chain transparency and limitless branding potential through unique digital product passports embedded in garments. Our groundbreaking software platform allows brands to share their story and adapt to future regulations with ease.[Learn more](https://www.rudholmgroup.com/digital-solutions/)
+#### Rudholm Group – ShareLabel Digital Product Passports
+Rudholm Group’s ShareLabel solution embeds QR/NFC-enabled labels linked to a cloud platform that stores product-specific data on materials, production sites, certifications, and care/end-of-life guidance. These labels act as digital product passports in garments, enabling brands, retailers, and recyclers to access up-to-date lifecycle information and preparing fashion companies for forthcoming EU DPP requirements.  
+[Project link](https://www.rudholmgroup.com/digital-solutions/sharelabel)
 
-
+---
 
 ### References
 
-- [Impact of international, open standards on circularity in Europe_. GS1 in Europe. (2022, November 18). ](https://gs1.eu/news/impact-of-international-open-standards-on-circularity-in-europe/)
+Ahmed, W., & MacCarthy, B. L. (2021). Blockchain-enabled supply chain traceability in the textile and apparel industry: A case study of the fibre producer Lenzing. *Sustainability, 13*(19), 10496. https://doi.org/10.3390/su131910496
 
-- [Team, B., & Company, M. &. (2022a, March 2). _The year ahead: What product passports will do for brands_. The Business of Fashion. ](https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2022-bof-mckinsey-product-passport-technology-resale-luxury-counterfeit/)
+Bressanelli, G., Saccani, N., & Perona, M. (2022). Towards the smart circular economy paradigm: A definition, conceptualization, and research agenda. *Sustainability, 14*(9), 4960. https://doi.org/10.3390/su14094960
 
-- [Candour.Digital. (n.d.). _Digital product passports, what are they, and why should we care?_. LinkedIn. ](https://www.linkedin.com/pulse/digital-product-passports-what-why-should-we-care-candourdigital/)
+Gligoric, N., Krco, S., Hakola, L., De, S., Moessner, K., Jansson, K., Polenz, I., & Van Kranenburg, R. (2019). SmartTags: IoT product passport for circular economy based on printed sensors and unique item-level identifiers. *Sensors, 19*(3), 586. https://doi.org/10.3390/s19030586
 
-- [This start-up is making digital passports... for clothes. here’s what that means for the fashion industry_. World Economic Forum. (n.d.). ](https://www.weforum.org/agenda/2021/05/tracking-fashion-clothes-sustainable/)
+van Capelleveen, G., Dijkstra, J., Amerongen, S. van, & Bloemhof, J. (2024). The anatomy of a passport for the circular economy: A conceptual definition, vision and structured literature review. *Resources, Conservation and Recycling Advances, 17*, 200264. https://doi.org/10.1016/j.rcradv.2024.200264
 
-- [Remington, W. by C. (n.d.). _Circular.fashion backs push for digital product passports_. Ecotextile News. ](https://www.ecotextile.com/2022101729950/materials-production-news/circular-fashion-backs-push-for-digital-product-passports.html)
-
-- Plociennik, Christiane, et al. "Requirements for a Digital Product Passport to Boost the Circular Economy." _INFORMATIK 2022_ (2022).
-
-- [RefScale methodology](https://media.thereformation.com/image/upload/v1642626590/pdfs/RefScale-Methodology-2022.pdf)
+Halstenberg, F. A., Lauer, M., Thorenz, A., & Tuma, A. (2024). Digital product passports as enablers of digital circular economy: Conceptualization and use cases. *Telecommunication Systems*. Advance online publication. https://doi.org/10.1007/s11235-024-01104-x

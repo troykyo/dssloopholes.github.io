@@ -1,4 +1,4 @@
-﻿## Blockchain and Unique ID technologies
+## Blockchain and Unique ID technologies
  
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
@@ -87,44 +87,34 @@ Note: While the potential of blockchain and Web3 technologies in the fashion ind
 
 ### Case studies
 
-#### On-Demanding A Phygital Reality: 
-[Valaclava](https://valaclava.com/) and PlatformE
-Fashion has run headlong towards the vision for all-digital fashion, but could a blended digital-physical strategy be a safer and more sustainable bet? Through 2022 and 2023, The Digital Fashion Group is authoring a series of exclusive articles for The Interline, designed to help brand and retail businesses make sense of the possibilities in the space of Metaverse and Web3 fashion. In this instalment, Leslie Holden, Co-Founder, examines the blurring of the lines between physical and digital processes and considers the role that phygital fashion could play in circularity and sustainability. [Learn more](https://www.theinterline.com/2023/01/05/phygital-fashion-on-demand/)
+#### Aura Blockchain Consortium – Luxury product traceability platform  
+Aura Blockchain Consortium brings together luxury groups such as LVMH, Prada Group, and Cartier (Richemont) to provide a shared blockchain infrastructure for product authentication and traceability. Each item receives a unique digital record, allowing brands and wearers to verify origin, ownership history, and repair events across the full product life cycle.  
+[Project link](https://auraluxuryblockchain.com)
 
-**VeChain** <br>
-VeChain is a blockchain platform that focuses on supply chain management and product authentication. It has collaborated with fashion brands like H&M, Babyghost, and BYBORRE to provide blockchain-based solutions for product traceability and anti-counterfeiting. Loomia: Loomia is a technology company that integrates flexible circuitry into textiles, enabling the creation of smart fabrics. They leverage blockchain to store and secure data collected by their smart textiles, allowing brands and users to track and verify the authenticity and history of the products. [More about VeChain](https://www.vechain.org/)
+#### TextileGenesis – Fiber-to-retail textile traceability  
+TextileGenesis is a blockchain-based traceability platform that issues digital “fibercoins” to track certified fibers such as TENCEL, wool, and recycled polyester from raw material through spinning, weaving, and garment production. By assigning unique digital identities to material lots, the system enables brands and manufacturers to evidence chain-of-custody data and support credible sustainability claims.  
+[Project link](https://textilegenesis.com)
 
-**Arianee** <br>
-Arianee is a decentralized platform that uses blockchain to create digital certificates for luxury goods, including fashion items. It enables brands to provide digital passports for their products, allowing customers to access product information, ownership history, and proof of authenticity. [More about Arianee](https://www.arianee.org/)
+#### Arianee – Digital product passports for luxury goods  
+Arianee provides a decentralized protocol for digital product passports and ownership certificates for luxury fashion, watches, and accessories. Each physical product can be associated with a unique, NFT-based “digital passport” that records authenticity, ownership transfers, and service events, enabling new models for resale, repair, and clienteling.  
+[Project link](https://www.arianee.org)
 
-**Provenance** <br
-Provenance is a blockchain-based platform that focuses on transparency and traceability in supply chains. They have collaborated with sustainable fashion brands like Martine Jarlgaard and Bottletop to provide transparency and accountability in their supply chains, allowing users to verify the ethical and sustainable practices of the brands. [More about Provenance](https://www.provenance.org/)
+#### VeChain – Blockchain traceability solutions for fashion and lifestyle brands  
+VeChain offers blockchain-as-a-service tools used by fashion and lifestyle brands to build traceability and anti-counterfeiting systems, linking unique QR/NFC/RFID identifiers on products to immutable supply chain records. By scanning a product, wearers can access verified information on raw materials, manufacturing, logistics, and authenticity, which supports both compliance and brand storytelling.  
+[Project link](https://www.vechain.org)
 
-**Luxury goods consortium** <br>
-In 2019, a consortium of luxury goods companies, including LVMH, Prada, and Cartier, joined forces to create the Aura Blockchain Consortium. The consortium aims to establish a shared blockchain platform to provide product traceability and authentication across multiple luxury brands. [More about Aura Blockchain Consortium](https://auraluxuryblockchain.com/)
-
-**FashTech**<br>
-FashTech is a fashion and technology company that utilizes blockchain and Web3 technologies to create a decentralized marketplace for fashion designers and users. Their platform allows designers to showcase and sell their creations directly to users, eliminating the need for traditional intermediaries. [More about FashTech](https://www.fashtech.io/)
-
-#### Web3 and Digital Fashion
-Redefining How We Experience Clothing In recent years, the fashion industry has begun to experience a dramatic shift, moving from the physical world into the digital realm, thanks to the transformative power of Web3 technologies. The fusion of fashion and Web3 is giving birth to an entirely new concept — digital fashion — where garments no longer need to exist in the real world to make an impact. Designers are now creating and selling virtual clothing that can be worn in immersive, decentralized environments like the metaverse. [LINK](https://medium.com/liveplexmetaverseecosystem/web3-and-digital-fashion-redefining-how-we-experience-clothing-46eff3ad2f4c)
+#### EON – Digital IDs and Circular Product Passports for fashion  
+EON’s Circular Product Data Protocol and digital ID platform assign persistent identities to fashion products so that information on materials, care, ownership, resale, rental, and recycling can be shared across the ecosystem. The system underpins circular business models and future digital product passport requirements by making item-level data machine-readable and interoperable across brands, retailers, and recyclers.  
+[Project link](https://www.eon.xyz)
 
 ### References
 
-- [Person. (2021, October 1). _How the fashion industry uses Blockchain_. Blue Bite.](https://www.bluebite.com/brand-strategy/how-the-fashion-industry-uses-blockchain)
+Wang, Y., Luo, W., Zhang, X., Tian, Z., & Li, Z. (2020). Blockchain-enabled circular supply chain management: A system architecture for fast fashion. *Computers in Industry, 123*, 103324. https://doi.org/10.1016/j.compind.2020.103324
 
-- [Project Provenance Ltd. (2015, November 21). _Blockchain: The Solution for Supply Chain Transparency_. Provenance.](https://www.provenance.org/news-insights/blockchain-the-solution-for-transparency-in-product-supply-chains)
+Shou, M., & Domenech, T. (2022). Integrating LCA and blockchain technology to promote circular fashion – A case study of leather handbags. *Journal of Cleaner Production, 373*, 133557. https://doi.org/10.1016/j.jclepro.2022.133557
 
-- [_How walmart Canada uses blockchain to solve supply-chain challenges_. Harvard Business Review. (2022, January 5). ](https://hbr.org/2022/01/how-walmart-canada-uses-blockchain-to-solve-supply-chain-challenges)
+de Boissieu, M., Kondrateva, G., Baudier, P., & Ammi, C. (2021). Blockchain in the luxury industry: A systematized literature review. *Journal of Enterprise Information Management, 34*(5), 1307–1338. https://doi.org/10.1108/JEIM-11-2020-0471
 
+Akhtar, W. H., Watanabe, C., Tou, Y., & Neittaanmäki, P. (2022). A new perspective on the textile and apparel industry in the digital transformation era. *Textiles, 2*(4), 633–656. https://doi.org/10.3390/textiles2040037
 
-- Crosby, Michael, et al. "Blockchain technology: Beyond bitcoin." _Applied Innovation_ 2.6-10 (2016): 71.
-
-- [Blockchain: Unlocking Transparency And Traceability In The Fashion Supply Chain](https://www.theinterline.com/2022/02/28/blockchain-unlocking-transparency-and-traceability-in-the-fashion-supply-chain/)
-
-- ["The Digital Narrative for lifelong learning informed by the latest innovation and Technology in the Fashion Value Chain"](https://thedigitalfashiongroup.com/updates/)
-
-- [The Future of Fashion: Building a Decentralized Web3 Wardrobe Styling App Using AI to Create Personalized Digital Fashion NFT Looks](https://www.linkedin.com/pulse/future-fashion-building-decentralized-web3-wardrobe-styling-k40cf/)
-
-- [Web3 and Digital Fashion: Redefining How We Experience Clothing](https://medium.com/liveplexmetaverseecosystem/web3-and-digital-fashion-redefining-how-we-experience-clothing-46eff3ad2f4c)
-
+Bertola, P., & Teunissen, J. (2018). Fashion 4.0. Innovating fashion industry through digital transformation. *Research Journal of Textile and Apparel, 22*(4), 352–369. https://doi.org/10.1108/RJTA-03-2018-0023
