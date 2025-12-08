@@ -1,4 +1,4 @@
-﻿## Re-Positioning
+## Re-Positioning
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
   <div class="overlay-text">
@@ -106,35 +106,36 @@ How do you work with governments, society, academia and companies to re-position
 
 ### Case studies
 
-#### Burberry
+#### Patagonia – Worn Wear & “Don’t Buy This Jacket” campaign  
+Patagonia has strategically repositioned itself from a performance outdoor brand to a benchmark for anti-consumption and circularity. The Worn Wear program and the famous “Don’t Buy This Jacket” campaign reframe value around repair, resale, and longevity rather than volume sales, accepting higher up-front prices while building loyalty around durability and environmental responsibility.  
+[Project link – Worn Wear](https://wornwear.patagonia.com/)
 
-Burberry, a luxury fashion brand, underwent a successful (re)positioning in the early 2000s. The brand redefined its target audience, shifting from its traditional image to a more modern and youthful positioning. Burberry revamped its product offerings, introduced iconic designs like the Burberry trench coat, and leveraged digital platforms to engage with a younger demographic. The (re)positioning strategy helped rejuvenate the brand and increase its appeal, leading to significant growth in sales and brand value.
+#### Levi Strauss & Co. – Water<Less® jeans  
+Levi’s Water<Less® initiative repositions denim around resource efficiency by radically reducing water use in finishing processes. The program allows Levi’s to maintain its premium price positioning while differentiating on measurable environmental impact, integrating sustainability into core brand equity rather than treating it as a niche capsule.  
+[Project link](https://www.levistrauss.com/2011/04/20/waterless-the-road-weve-travelled/)
 
-#### Adidas
+#### adidas – End Plastic Waste & circular product lines  
+adidas has repositioned segments of its portfolio around the “End Plastic Waste” ambition, linking brand identity to circular materials and product take-back. Through circularity pilots and materials made for disassembly and recycling, the company reframes performance sportswear as a platform for systems change, justifying price points through durability, recyclability, and lower footprint.  
+[Project link](https://www.adidas-group.com/en/sustainability/products/circularity/)
 
-Adidas, a renowned sportswear brand, underwent a (re)positioning in the 2010s to strengthen its market position against competitors like Nike. The brand focused on creating a more lifestyle-oriented image, expanding beyond athletic performance products. Adidas collaborated with fashion designers and celebrities, launched innovative products like the Adidas Originals line, and embraced digital marketing to connect with a wider audience. This (re)positioning strategy helped Adidas attract a broader customer base and achieve substantial growth in sales and brand recognition.
+#### H&M – Conscious Exclusive collections  
+H&M’s Conscious Exclusive collections use limited, design-led drops built from recycled and bio-based materials to reposition parts of the fast-fashion offer as premium, sustainable experimentation. By introducing higher-priced, material-innovative capsules and framing them as aspirational, the brand tests users’ willingness to pay for sustainability while seeding circular practices into the wider assortment.  
+[Project link](https://www.vogue.com/article/hm-2018-conscious-exclusive-collection-inspirations-christy-turlington-burns-karin-larsson-carl-larsson)
 
-#### Patagonia
+#### MUD Jeans – Lease A Jeans circular denim model  
+MUD Jeans has repositioned jeans from one-off purchases to a service-based, circular product through its Lease A Jeans model. Users pay a monthly fee for organic or recycled-content denim and return worn pairs for repair, resale, or fibre-to-fibre recycling, aligning a higher perceived price with lifetime service, transparency, and material recovery.  
+[Project link](https://mudjeans.eu/pages/our-story)
 
-Patagonia, an outdoor clothing company, has long been known for its commitment to environmental sustainability. In the 2010s, the brand reinforced its (re)positioning as a leader in sustainable fashion. Patagonia communicated its eco-friendly practices, such as using recycled materials and promoting fair trade, through various marketing campaigns. The brand's (re)positioning strategy resonated with environmentally conscious users and helped drive brand loyalty and sales growth.
 
-#### H&M Conscious Collection
+### References
 
-H&M, a global fast-fashion retailer, launched its Conscious Collection as part of its (re)positioning towards sustainability. The collection features clothing made from organic and recycled materials, promoting ethical and eco-friendly fashion. H&M's (re)positioning strategy aimed to attract conscious users and address concerns regarding the environmental impact of fast fashion. The Conscious Collection helped H&M enhance its sustainability credentials and differentiate itself from other fast-fashion brands.
+Bandyopadhyay, S., & Ray, S. (2020). Sustainable fashion brand (juxta)positioning: An exploratory study. *Journal of Global Marketing, 33*(5), 307–327. https://doi.org/10.1080/08911762.2020.1772935
 
-#### Levi's Water<Less Jeans:
+Jiménez-Fernández, A., Verdú-Jover, A. J., & Gómez-Gras, J. M. (2023). Consumers’ awareness and attitudes in circular fashion. *Cleaner Logistics and Supply Chain, 7*, 100144. https://doi.org/10.1016/j.clrc.2023.100144
 
-Levi's, a renowned denim brand, implemented a (re)positioning strategy centered around sustainability. The company introduced its Water<Less Jeans line, which significantly reduces water consumption in the denim manufacturing process. Levi's communicated its commitment to sustainable practices and engaged users through marketing campaigns highlighting the eco-friendly features of their products. This (re)positioning strategy allowed Levi's to tap into the growing demand for sustainable fashion and strengthen its brand reputation.
+Kim, H., Jung, H. J., & Lee, Y. (2021). Consumers’ value and risk perceptions of circular fashion: Comparison between secondhand, upcycled, and recycled clothing. *Sustainability, 13*(3), 1208. https://doi.org/10.3390/su13031208
 
-##### References
+Mim, N. J., Firdaus, M., & Fakhri, M. (2022). The role of green brand positioning, green brand knowledge, and green brand image on green brand love and green purchase intention in the fashion industry. *Sustainability, 14*(19), 12461. https://doi.org/10.3390/su141912461
 
-Shivashankar, S. C., and T. G. Uma. "Brand Positioning and Customer Perception towards Apparels—A Study in Bangalore." _International Journal of Applied Research_ 3.2 (2017): 213-218.
-
-Moore, Christopher M., and Grete Birtwistle. "The Burberry business model: creating an international luxury fashion brand." _International Journal of Retail & Distribution Management_ (2004).
-
-Rashid, Arooj. "The River Island case study: implications for differentiation and re-positioning." _Journal of Textile Science and Fashion Technology_ 9.4 (2022).
-
-Zenk, Julia. "Successfully positioning & extending a young luxury fashion brand: Case: Kaviar Gauche." (2017).
-
-Viggers, Domanique. _​ An exploration into how established South African Fashion Brand David Tlale are positioning their Brand within the market, compared to the South African Contemporary Fashion Brand Rich Mnisi_. Diss. The IIE, 2019.
+Ostermann, C. M., Nascimento, L. S., & Zen, A. C. (2021). Business model innovation for circular economy in fashion industry: A startups’ perspective. *Frontiers in Sustainability, 2*, 766614. https://doi.org/10.3389/frsus.2021.766614
 

@@ -79,37 +79,37 @@ How can you communicate the importance of circularity to encourage user loyalty 
 
 Circular Marketing is more than just convincing people to buy; it involves building a continuous relationship with consumers by supporting life-cycle activities such as repair, reuse, and information exchange. The concept of Circular Loyalty Loops aims to create long-term engagement by encouraging consumers to actively participate in the circular economy. Marketing efforts in this space focus on community building, where repair events, upcycling workshops, and information-sharing platforms create a shared experience for consumers, reinforcing both brand loyalty and sustainability. This unit explores how businesses can foster deeper consumer relationships by integrating circular marketing strategies that promote reuse, repair, and shared responsibility for fashion products.
 
+### Case studies
 
+#### Mud Jeans – Lease A Jeans circular subscription
+Mud Jeans, a Dutch denim brand, runs a “Lease A Jeans” subscription model in which users pay a monthly fee to wear jeans and return them after use. Returned garments are refurbished for resale or recycled into new denim, rewarding repeat participation and creating a long-term loyalty loop around circular behaviors rather than one-off purchases.  
+[Project link](https://mudjeans.eu/pages/lease-jeans)
 
-### Case Studies
+#### Patagonia – Worn Wear repair and trade-in program
+Patagonia’s Worn Wear program offers repairs, trade-ins, and resale of used Patagonia products, combined with storytelling about long-term use. By rewarding users with credits for trade-ins and celebrating repair as a badge of honor, Worn Wear builds an ongoing relationship where loyalty is tied to care, repair, and reuse instead of newness.  
+[Project link](https://wornwear.patagonia.com)
 
-**Mud Jeans**  
-Mud Jeans is a Dutch sustainable denim brand that has developed a "Lease a Jeans" model, allowing customers to lease their jeans for a monthly fee. This initiative encourages long-term engagement by integrating circularity into its business model. Consumers can return their worn-out jeans, which Mud Jeans recycles into new denim. This circular system not only builds customer loyalty but also minimizes waste, promoting sustainability through leasing and recycling loops.  
-[Read more](https://www.mudjeans.eu/pages/lease-a-jeans)
+#### Nudie Jeans – Repair, Reuse & Recycle ecosystem
+Nudie Jeans operates a global network of Repair Shops that provide free repairs for life, along with Reuse (second-hand) and Recycle streams for worn-out jeans. Users are encouraged to keep garments in circulation through repair and trade-in, and receive store credit for returning old jeans, forming a circular loyalty loop around care, return, and repurchase.  
+[Project link](https://www.nudiejeans.com/repair-reuse-recycle)
 
-**Ace & Tate**  
-Ace & Tate, an eyewear brand, promotes sustainability and customer engagement through its “Ace & Tate Revive” initiative. This project invites customers to return their old eyewear frames, which are then upcycled or donated. By fostering a community-focused recycling effort, Ace & Tate builds consumer loyalty while reinforcing its commitment to the circular economy and sustainability.  
-[Read more](https://www.aceandtate.com)
+#### Levi’s – Levi’s SecondHand buy-back and resale
+Levi’s SecondHand is a branded recommerce program where users sell back worn Levi’s garments in exchange for gift cards, which are then resold as authenticated second-hand pieces. The scheme ties economic incentives and brand loyalty directly to circular actions—returning, reselling, and buying used—rather than only buying new stock.  
+[Project link](https://secondhand.levi.com)
 
-**Birdsong London**  
-Birdsong London, a women’s fashion brand, runs workshops and events that focus on ethical fashion and repair. Their initiative encourages consumers to engage in the sustainable lifecycle of their clothing by offering repair kits and workshops. By creating a space for repair, reuse, and recycling, Birdsong builds brand loyalty through active consumer participation in sustainable practices.  
-[Read more](https://birdsong.london)
-
-**RAEBURN**  
-RAEBURN, a British fashion brand, focuses on transforming surplus and unwanted materials into high-quality garments through upcycling and redesign workshops. The brand actively involves its community in the circular process, promoting long-term consumer loyalty by highlighting the importance of sustainable fashion. Through various workshops and repair events, RAEBURN engages consumers in circular practices.  
-[Read more](https://www.raeburndesign.co.uk)
-
-**Baukjen**  
-Baukjen, a British women's fashion brand, has introduced a "Circular Fashion" initiative where customers can send back old garments for recycling or resale. Baukjen’s loyalty loop is reinforced through incentives such as discounts on future purchases, creating a circular cycle where both sustainability and customer loyalty thrive.  
-[Read more](https://www.baukjen.com/pages/circular-fashion)
+#### Baukjen – Circular Fashion take-back and pre-loved shop
+Baukjen, a British womenswear brand, runs a Circular Fashion initiative that includes take-back of used garments, resale of pre-loved items, and recycling of non-resellable pieces. Customers are rewarded with discounts when they return garments, reinforcing loyalty while creating a circular loop of purchase, use, return, and repurchase within the same ecosystem.  
+[Project link](https://www.baukjen.com/pages/circular-fashion)
 
 
 ### References
 
-- Fletcher, K. (2014). *Sustainable Fashion and Textiles: Design Journeys*. Routledge.
-- Cramer, J. M. (2020). *The Functionality of Circular Business Models: A Review of Circular Business Model Experimentation and Implementation in the Fashion Industry*. Journal of Cleaner Production, 258, 120-198.
-- Richards, H. (2021). *The Power of Circular Economy: Creating Customer Engagement Through Circular Strategies*. Sustainability, 13(5), 2021.
-- Laitala, K., & Klepp, I. G. (2015). *Making Clothing Last: A Design Approach for Reducing the Environmental Impacts*. International Journal of Design, 9(2), 93-107.
-- Tukker, A., & Jansen, B. (2006). *Environmental Impacts of Products: A Detailed Review of Studies*. Journal of Industrial Ecology, 10(3), 159-182.
+Armstrong, C. M., Niinimäki, K., Kujala, S., Karell, E., & Lang, C. (2015). Sustainable product-service systems for clothing: Exploring consumer perceptions of clothing repair services. *Journal of Cleaner Production, 97*, 311–321.
 
+Camacho-Otero, J., Boks, C., & Pettersen, I. N. (2019). Consumption in the circular economy: A literature review. *Sustainability, 11*(19), 1–24.
 
+Henninger, C. E., Bürklin, N., & Niinimäki, K. (2019). The clothes swapping phenomenon: When consumers become suppliers. *Journal of Consumer Behaviour, 18*(5), 392–403.
+
+Pal, R., & Gander, J. (2018). Modelling environmental value: A conceptual framework for sustainable business models in fashion. *Journal of Cleaner Production, 184*, 251–263.
+
+Todeschini, B. V., Cortimiglia, M. N., Callegaro-de-Menezes, D., & Ghezzi, A. (2017). Innovative and sustainable business models in the fashion industry: Entrepreneurial drivers, opportunities, and challenges. *Business Horizons, 60*(6), 759–770.

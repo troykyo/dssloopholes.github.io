@@ -80,32 +80,38 @@ On which technologies (Tools, Materials, Software, Machines) do you depend on?
 
 Technological dependency in the fashion industry refers to the reliance on specific tools, materials, machines, or software that are critical for the production and delivery of fashion products and services. Some technologies are more integral to the production process than others, and a company may face significant disruptions if these become inaccessible. This unit explores how fashion companies assess their technological dependencies and the potential risks associated with them. Participants will analyze the impact of these dependencies on the product-service lifecycle and explore sustainable alternatives to reduce reliance on technologies that may pose risks or be unsustainable in the long term.
 
-### Case Studies
+### Case studies
 
-**Appalatch Clothing**
-Appalatch, a small sustainable apparel company, faced significant challenges with their technological dependency on a specific knitting machine used to produce their wool garments. When the machine broke down, they had to rely on skilled labor to maintain production, which increased costs. The company realized that diversifying its machine suppliers and investing in maintenance training was essential to reduce its reliance on a single technology.
-[More Information](https://www.forbes.com/sites/devinthorpe/2015/06/26/small-but-mighty-this-sustainable-clothing-startup-thrives/?sh=6a8f242d24b7)
+#### BYBORRE – Digitally-driven 3D knitting ecosystem  
+BYBORRE is an Amsterdam-based textile innovation studio whose practice depends on industrial circular knitting machines tightly coupled with a proprietary digital workflow (BYBORRE Create) for parameterized fabric design. The company’s model illustrates technological dependency on specific hardware–software stacks, while its work on more open, modular collaborations with machine builders and software partners shows how this dependency can be managed to increase resilience and flexibility in the textile value chain.  
+[Project link](https://www.byborre.com)
 
-**Pinatex**
-Pinatex is a material company that produces an alternative to leather using pineapple leaves. Their production process relies heavily on specific extraction machines designed to pull fibers from the leaves. Technological disruptions in the supply of these machines could slow down production or halt their sustainable material output. To mitigate this risk, Pinatex explores partnerships with machinery producers and is developing manual extraction techniques that could serve as a backup.
-[More Information](https://www.ananas-anam.com)
+#### Ananas Anam – Piñatex® pineapple-leaf textile  
+Ananas Anam produces Piñatex®, a leather alternative made from pineapple leaf fibre, relying on specialized fibre extraction and finishing technologies to convert agricultural waste into a scalable textile material. This creates a strong technological dependency on patented processing methods and dedicated equipment, while demonstrating how process innovation can turn vulnerable raw-material chains into resilient, higher-value textile ecosystems.  
+[Project link](https://www.ananas-anam.com)
 
-**ByBorre**
-ByBorre, an Amsterdam-based textile innovation studio, relies heavily on 3D knitting technology to create their bespoke fabrics. This reliance makes them vulnerable to disruptions if the knitting machines or the software controlling them become unavailable. ByBorre mitigates this risk by collaborating with multiple machine providers and investing in open-source software alternatives, which enhances resilience and flexibility in their production processes.
-[More Information](https://www.byborre.com)
+#### Ecovative – Forager™ mycelium-based hides  
+Ecovative’s Forager™ platform develops mycelium-based hides for fashion, using its proprietary AirMycelium™ growth technology and controlled-environment bioreactors to produce leather-like sheets for footwear, bags, and accessories. The case shows deep dependency on bioprocess engineering, AI-supported growth control, and dedicated fermentation infrastructure, and how modular, distributed production systems can reduce systemic risk while enabling new sustainable materials for fashion.  
+[Project link](https://www.forager.bio)
 
-**Ecovative**
-Ecovative, a small biomaterials company, produces sustainable alternatives to plastic using mushroom mycelium. Their production process depends on highly specific bioreactors and environmental control systems. A failure or disruption in access to these systems could dramatically affect production. To mitigate dependency risks, Ecovative has worked on optimizing small-scale, modular bioreactor units that allow for easier maintenance and reduced reliance on external providers.
-[More Information](https://www.ecovative.com)
+#### SHIMA SEIKI – WHOLEGARMENT® 3D knit systems  
+SHIMA SEIKI’s WHOLEGARMENT® technology provides fully fashioned 3D knitwear on single machines, making many brands and micro-factories dependent on a closed hardware, software, and file-format ecosystem for seamless knit production. This case exemplifies how reliance on a single machinery vendor and proprietary design tools can increase technological lock-in, while also enabling local, on-demand production and material efficiency in knit-based fashion systems.  
+[Project link](https://www.shimaseiki.com)
+
+#### CLO Virtual Fashion – CLO 3D garment simulation  
+CLO Virtual Fashion’s CLO 3D software has become core infrastructure for many apparel brands, OEMs, and studios, who depend on its physics-based simulation engine, file formats, and plug-ins for digital sampling and virtual prototyping. The case highlights a growing dependency on specialized design software and cloud services, raising questions of interoperability, data ownership, and long-term access, while also enabling major reductions in physical sampling, lead times, and material waste.  
+[Project link](https://www.clo3d.com)
+
+---
 
 ### References
 
-- Gwilt, A. (2015). *Fashion Design for Living: Design for Sustainability*. Routledge.
-- Bocken, N. M. P., & Ciarapica, F. E. (2016). *The Effect of Business Model Innovation for Resource Efficiency on Competitive Advantage: A Case Study in the Fashion Industry*. Journal of Cleaner Production, 135, 1069-1083.
-- Shen, L., & Li, X. (2016). *Life Cycle Assessment of Clothing: Sensitivity Analysis of Recycled Polyester and Wool Blends*. International Journal of Clothing Science and Technology, 28(6), 842-860.
-- Villa, T. B., et al. (2017). *Innovative and Sustainable Business Models in the Fashion Industry: Entrepreneurial Drivers, Opportunities, and Challenges*. Business Horizons, 60(6), 759-770.
-- Todeschini, B. V., et al. (2021). *Business Model Innovation for Circular Economy in Fashion Industry: A Start-ups' Perspective*. Frontiers in Sustainability, 2, 766614.
-- Fan, X. (2014). *The Profit Model of the Fashion Industry*. International Journal of Business and Social Science, 5(1), 113-117.
-- Silvestri, B. (2020). *The Future of Fashion: How the Quest for Digitisation and the Use of Artificial Intelligence and Extended Reality Will Reshape the Fashion Industry After COVID-19*. ZoneModa Journal, 10(2), 61-73.
+Silvestri, B. (2020). The future of fashion: How the quest for digitisation and the use of artificial intelligence and extended reality will reshape the fashion industry after COVID-19. *ZoneModa Journal, 10*(2), 61–73. https://doi.org/10.6092/issn.2611-0563/11803
 
+Bolesnikov, M., Tsoy, D., Madatyan, A., & Mammadova, G. (2022). Innovative use of new technologies in fashion industry: Evidence from Chinese Generation Z consumers. *Sustainability, 14*(16), 10082. https://doi.org/10.3390/su141610082
 
+Remme, J., Venkatachalapathy, K., Foeken, M., Dijkstra, D., & van Hillegersberg, J. (2022). Blockchain-enabled sustainability labeling in the fashion industry. *Procedia Computer Science, 196*, 280–287. https://doi.org/10.1016/j.procs.2021.12.108
+
+Qiao, P., Fujita, H., Majeed, N., & Aydin, H. (2025). Blockchain-driven innovation in fashion supply chain contractual party evaluations as an emerging collaboration model. *Blockchain: Research and Applications, 100266*. https://doi.org/10.1016/j.bcra.2024.100266
+
+Oliveira, M., Santos, M., & Pereira, D. (2022). Fashion Industry 4.0: A bibliometric review in the fashion industry. *Research, Society and Development, 11*(12), e34211234203. https://doi.org/10.33448/rsd-v11i12.34203

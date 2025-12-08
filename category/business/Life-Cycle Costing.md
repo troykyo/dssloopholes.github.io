@@ -80,31 +80,43 @@ How can life cycle costing support sustainability initiatives and improve decisi
 
 **Life-Cycle Costing (LCC)** is an accounting method that assesses the total cost of a product throughout its entire life cycle, from the extraction of raw materials to its end-of-life disposal. In the context of the fashion industry, LCC provides businesses with a comprehensive view of the financial and environmental impacts of a product over time. This enables better decision-making around **production, pricing, and sustainability**. By understanding the full cost implications of a product, businesses are able to create durable, high-quality garments that align with **sustainability goals** and meet the growing demand for **responsibly sourced** products. LCC promotes transparency, helping businesses to consider both economic and environmental factors, guiding them toward more sustainable practices.
 
-### Case Studies
+### Case studies
 
-**Rapanui Clothing**  
-Rapanui Clothing is a small UK-based fashion brand focused on sustainability and transparency in its entire supply chain. They utilize Life-Cycle Costing (LCC) to calculate the environmental impact of their garments from the sourcing of organic cotton to recycling programs for used products. Their unique “traceability map” allows consumers to follow the production journey, promoting transparency and sustainability at every stage.  
-[More information](https://rapanuiclothing.com/)
+#### Patagonia – Worn Wear
 
-**Thought Clothing**  
-Thought Clothing is a small fashion brand that applies Life-Cycle Costing (LCC) by using eco-friendly materials like organic cotton, bamboo, and recycled polyester. Their LCC approach focuses on creating long-lasting, high-quality garments with minimal environmental impact. Thought Clothing actively promotes transparency, allowing consumers to understand the complete lifecycle of the products they purchase.  
-[More information](https://www.wearethought.com/)
+Patagonia’s Worn Wear program extends the life of garments by buying back, repairing, and reselling used Patagonia products through a dedicated platform. By monetising repair and resale instead of only first-time sales, Patagonia effectively spreads the total life-cycle cost of each item over many years of use, reducing waste and improving the cost-per-wear for users.  
+[Project link](https://wornwear.patagonia.com)
 
-**Organic Basics**  
-Organic Basics, a Danish fashion company, integrates LCC principles by designing durable, long-lasting clothing from organic materials. Their commitment to sustainability goes beyond production, as they encourage customers to purchase fewer, better products to extend the lifecycle of garments. The brand’s Life-Cycle Costing system also includes carbon offset programs and water-saving initiatives to ensure minimal environmental impact.  
-[More information](https://organicbasics.com/)
+#### Mud Jeans – Lease A Jeans
 
-**Elvis & Kresse**  
-Elvis & Kresse is a sustainable accessories brand that uses Life-Cycle Costing (LCC) principles by repurposing waste materials into luxury products. Their primary material is decommissioned fire hoses, which are diverted from landfills. By tracking the environmental and financial costs throughout their product’s lifecycle, Elvis & Kresse ensures that each product maintains a minimal carbon footprint while creating social value through various charitable contributions.  
-[More information](https://www.elvisandkresse.com/)
+Mud Jeans operates a lease model in which users pay a monthly fee to wear jeans and return them at end of use so the cotton can be mechanically recycled into new denim. This model internalises end-of-life and material recovery costs into the business model, making life-cycle costs visible while reducing raw material demand and landfill waste.  
+[Project link](https://mudjeans.eu/pages/our-story)
+
+#### Eileen Fisher – Renew
+
+Eileen Fisher Renew is a take-back and resale program that collects worn Eileen Fisher garments, refurbishes them, and resells them through a dedicated channel. By capturing value at multiple stages of the product’s life, the company spreads design and production costs across first and subsequent users, supporting better life-cycle costing decisions and lower impacts per wear.  
+[Project link](https://www.eileenfisherrenew.com)
+
+#### Elvis & Kresse – Fire-Hose Accessories
+
+Elvis & Kresse transforms decommissioned fire hoses and other industrial wastes into luxury bags and accessories, often with long repair guarantees and charitable donations. Their model explicitly accounts for avoided disposal costs and extended product lifetimes, illustrating how life-cycle costs and benefits can be reshaped through upcycling and durable design.  
+[Project link](https://www.elvisandkresse.com)
+
+#### For Days – Take-Back and Closed-Loop Basics
+
+For Days offers circular basics with a take-back system in which customers return worn garments in exchange for credit, after which items are sorted for reuse or recycling. This closed-loop setup integrates collection, sorting, and fibre-to-fibre recycling into the revenue model, making end-of-life handling a core cost component rather than an externality.  
+[Project link](https://www.fordays.com)
+
+---
 
 ### References
 
-- Bocken, N. M. P., & Ciarapica, F. E. (2016). *The effect of business model innovation for resource efficiency on competitive advantage: A case study in the fashion industry*. Journal of Cleaner Production, 135, 1069-1083.
-- De Brito, M. P., & Dekker, R. (2003). *A framework for sustainable supply chain management: Moving toward new theory*. International Journal of Physical Distribution & Logistics Management, 33(5), 427-442.
-- Fletcher, K. (2014). *Sustainable fashion and textiles: Design journeys*. Routledge.
-- Hutton, R. B., & Wilkie, W. L. (1980). *Life cycle cost: A new form of consumer information*. Journal of Consumer Research, 6(4), 349-360.
-- Laitala, K., Boks, C., & Klepp, I. G. (2015). *Making clothing last: A design approach for reducing the environmental impacts*. International Journal of Design, 9(2), 93-107.
-- Shen, L., & Li, X. (2016). *Life cycle assessment of clothing: Sensitivity analysis of recycled polyester and wool blends*. International Journal of Clothing Science and Technology, 28(6), 842-860.
-- Tukker, A., & Jansen, B. (2006). *Environmental impacts of products: A detailed review of studies*. Journal of Industrial Ecology, 10(3), 159-182.
+Fonseca, J. P. H., et al. (2023). Life cycle assessment in textile and apparel manufacturing: A review of current practices and data gaps. *Sustainability, 15*(21), 15267. https://doi.org/10.3390/su152115267
 
+Moazzem, S., et al. (2021). Life cycle assessment of apparel consumption in Australia. *Environmental and Climate Technologies, 25*(1), 71–111. https://doi.org/10.2478/rtuect-2021-0006
+
+Wiedemann, S. G., et al. (2020). Environmental impacts associated with the production, use, and end-of-life of a woollen garment. *International Journal of Life Cycle Assessment, 25*(8), 1486–1499. https://doi.org/10.1007/s11367-020-01780-9
+
+Braun, M. W., et al. (2021). Environmental consequences of closing the textile loop: Life cycle assessment of a circular polyester jacket. *Applied Sciences, 11*(7), 2964. https://doi.org/10.3390/app11072964
+
+D’Adamo, I., & Lupi, G. (2021). Sustainability and resilience after COVID-19: A circular premium in the fashion industry. *Sustainability, 13*(4), 1861. https://doi.org/10.3390/su13041861

@@ -1,4 +1,4 @@
-﻿## Person to Person (P2P)
+## Person to Person (P2P)
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
 	
@@ -106,32 +106,34 @@ P2P platforms empower individuals to participate in the fashion ecosystem beyond
 
 ### Case studies
 
-#### Rent the Runway
+#### Depop – Social resale marketplace
+Depop is a peer-to-peer social shopping app where users, primarily Gen Z, buy and sell second-hand fashion directly to one another. The platform’s feed-based interface and in-app messaging foreground social interaction while extending garment lifetimes, making resale and reuse a culturally desirable norm rather than a niche practice.  
+[Project link](https://www.depop.com)
 
-Rent the Runway is a popular P2P platform that allows individuals to rent designer clothing and accessories for specific occasions. Users can browse a wide selection of items, rent them for a short period, and return them after use. This platform promotes access to high-end fashion while reducing the need for individuals to purchase expensive items that may only be worn once or infrequently.
+#### Vinted – Second-hand fashion marketplace
+Vinted is a community-driven marketplace where individuals list, buy, and swap second-hand clothing and accessories directly with each other. By focusing on everyday garments and low-friction listing and shipping tools, Vinted scales P2P circulation of garments, reducing textile waste and normalising second-hand as a primary mode of fashion consumption.  
+[Project link](https://www.vinted.com)
 
-#### Depop
+#### Vestiaire Collective – Luxury peer-to-peer resale platform
+Vestiaire Collective operates a curated peer-to-peer marketplace for pre-owned luxury fashion, connecting individual sellers and buyers while providing authentication and quality control. By extending the use-phase of high-value garments and accessories, it embeds circular practices into luxury consumption and demonstrates how platform governance can support trust in P2P fashion ecosystems.  
+[Project link](https://www.vestiairecollective.com)
 
-Depop is a P2P marketplace that combines social media and e-commerce, primarily targeting younger users. Users can create their own online shops to sell both new and pre-owned clothing, shoes, and accessories. Depop fosters a community-driven experience, where users can connect, follow, and purchase items from other individuals, promoting a more sustainable and unique shopping experience.
+#### ThredUp – Online consignment and thrift marketplace
+ThredUp is a large-scale online consignment marketplace where individuals send in used garments that are then listed and sold to new wearers via the platform. Although inventory is processed centrally, the economic model is fundamentally peer-to-peer, enabling large volumes of clothing to move from first to subsequent users and documenting the environmental savings from second-hand purchases.  
+[Project link](https://www.thredup.com)
 
-#### Poshmark
+#### Poshmark – Social peer-to-peer fashion marketplace
+Poshmark is a social commerce platform where users create “closets” to sell new and second-hand fashion directly to others, with social features such as shares, likes, and virtual “posh parties.” The platform turns resale into an ongoing social activity, supporting circular flows of garments between individuals while providing income opportunities for small-scale sellers.  
+[Project link](https://poshmark.com)
 
-Poshmark is a P2P platform that allows individuals to buy and sell fashion items, including clothing, shoes, and accessories. Users can create their own virtual closets, list items for sale, and negotiate prices with potential buyers. Poshmark also incorporates social features, such as sharing, liking, and commenting on listings, creating an interactive and engaging shopping environment.
+### References
 
-#### Vestiaire Collective
+Abbate, S., Centobelli, P., Cerchione, R., Oropallo, E., & Ricciardi, F. (2023). Sustainability trends and gaps in the textile, apparel and fashion industries. *Environment, Development and Sustainability, 25*, 16933–16963. https://doi.org/10.1007/s10668-022-02887-2
 
-Vestiaire Collective is a luxury P2P platform that specializes in the sale of pre-owned designer fashion. It offers a curated selection of authenticated items, ensuring quality and authenticity for buyers. The platform facilitates direct transactions between individuals, promoting the circular economy and reducing the environmental impact of luxury fashion consumption.
+Chen, X., Li, Y., Wu, Y., & Chen, Y. (2021). Circular economy and sustainability of the clothing and textile industry. *Materials Circular Economy, 3*, 1–10. https://doi.org/10.1007/s42824-021-00022-9
 
-#### ThredUp
+Jiang, L., Dimitrov, S., & Mantin, B. (2017). P2P marketplaces and retailing in the presence of consumers’ valuation uncertainty. *Production and Operations Management, 26*(3), 509–524. https://doi.org/10.1111/poms.12653
 
-ThredUp is a P2P marketplace focused on secondhand fashion, offering a wide range of clothing and accessories for women, men, and children. Users can buy and sell gently used items, contributing to the circular economy and reducing textile waste. ThredUp also offers convenient services like cleanout kits, allowing users to sell their unwanted clothing with ease.
+Kim, I., Jung, H. J., & Lee, Y. (2021). Consumers’ value and risk perceptions of circular fashion: Comparison between secondhand, upcycled, and recycled clothing. *Sustainability, 13*(3), 1208. https://doi.org/10.3390/su13031208
 
-##### References
-
-Botta, V., and I. Cabral. "Durable, Repairable and Mainstream: How Ecodesign Can Make Our Textiles Circular." _ECOS: Brussels, Belgium_ (2021).
-
-Niessen, BERTRAM MARIA. "Open Source, p2p, social innovation and clothing." (2010).
-
-Lomas, N. (2023, January 19). _By rotation’s P2P fashion rental app is headed to the US_. TechCrunch. https://techcrunch.com/2022/04/01/by-rotation-seed/
-
-Jiang, Lifei, Stanko Dimitrov, and Benny Mantin. "P2P marketplaces and retailing in the presence of consumers' valuation uncertainty." _Production and Operations Management_ 26.3 (2017): 509-524.
+Papamichael, I., Karachaliou, E., & Lasaridi, K. (2023). The perception of circular economy in the framework of fashion industry. *Waste Management & Research, 41*(3), 493–503. https://doi.org/10.1177/0734242X221145919

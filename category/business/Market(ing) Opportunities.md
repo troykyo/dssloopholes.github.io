@@ -1,4 +1,4 @@
-﻿## Market(ing) Opportunities
+## Market(ing) Opportunities
 
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
@@ -112,58 +112,36 @@ It's important for fashion businesses to carefully consider their revenue models
 
 ### Case studies
 
-#### Money-Over-the-Counter
+#### Mud Jeans – Lease A Jeans circular denim model  
+Mud Jeans, a Dutch denim brand, uses a “Lease A Jeans” model where users pay a monthly fee to use jeans and can return them for repair, reuse, or recycling. This shifts value creation from one-off sales to ongoing service-based relationships, opening new market segments around access, durability, and circular storytelling rather than volume-driven fast fashion.  
+[Project link](https://mudjeans.eu)
 
-####  Zara (Inditex Group):
+#### Rent the Runway – Subscription fashion rental platform  
+Rent the Runway operates a subscription-based designer fashion rental service, allowing users to access rotating wardrobes instead of owning garments. By marketing “access over ownership” and leveraging data-driven personalization, the company opens new markets for designer fashion among users who value variety and sustainability, while monetizing garments multiple times across their lifecycle.  
+[Project link](https://www.renttherunway.com)
 
-Zara is known for its fast-fashion business model, where customers make purchases in-store or online and pay for the products at the time of transaction.
+#### Patagonia – Worn Wear circular storytelling and resale  
+Patagonia’s Worn Wear program invites users to trade in, repair, and buy used Patagonia garments, integrating repair events, storytelling, and resale into its core brand narrative. This creates new revenue from pre-owned products while deepening loyalty through community events and narratives about product longevity and environmental impact.  
+[Project link](https://www.patagonia.com/our-footprint/)
 
-####  Subscription-Based Model:
+#### Vinted – Peer-to-peer second-hand marketplace  
+Vinted is a peer-to-peer digital marketplace dedicated to second-hand fashion, enabling users across multiple European markets and North America to buy, sell, and swap garments. Its platform-centric model turns existing wardrobes into inventory, creating new cross-border markets for pre-owned fashion and normalising resale as a mainstream shopping channel.  
+[Project link](https://www.vinted.com)
 
-####  Rent the Runway
+#### Vestiaire Collective – Global pre-owned luxury platform  
+Vestiaire Collective operates a curated marketplace for authenticated pre-owned luxury fashion, combining consignment, expert authentication, and global logistics. By positioning resale as aspirational and safe, the platform opens new markets for luxury access, extends product lifetimes, and provides brands and users with a monetizable secondary market aligned with circular-economy goals.  
+[Project link](https://www.vestiairecollective.com)
 
-Rent the Runway offers a subscription-based model where customers pay a monthly fee to rent designer clothing and accessories. Subscribers can choose from a rotating wardrobe and have access to a variety of fashionable items.
+---
 
-#### Membership Model
+### References
 
-####  Amazon Prime Wardrobe
+Ostermann, C. M., Nascimento, L. S., & Zen, A. C. (2021). Business model innovation for circular economy in fashion industry: A startups’ perspective. *Frontiers in Sustainability, 2*, 766614. https://doi.org/10.3389/frsus.2021.766614  
 
-Amazon Prime Wardrobe is a membership-based service that allows members to try on clothing and accessories before purchasing. It offers exclusive benefits such as free shipping, discounts, and access to a curated selection of fashion items.
+Wu, K.-S., & Lee, Y.-L. (2025). The effects of consumption value and greenwashing perception on purchase intention of sustainable fashion products. *Sustainability, 17*(10), 4278. https://doi.org/10.3390/su17104278  
 
-#### Licensing Model
+Theocharis, D., & Tsekouropoulos, G. (2025). Selling sustainability: How branding drives sustainable consumption. *Sustainability, 17*(8), 3459. https://doi.org/10.3390/su17083459  
 
-####  Tommy Hilfiger
+Amed, I., & Berg, A. (2021). *The state of fashion 2021: Finding promise in perilous times*. McKinsey & Company & The Business of Fashion. https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion  
 
-Tommy Hilfiger has employed a licensing revenue model by partnering with other companies to license its brand for various fashion-related products such as footwear, eyewear, fragrances, and watches.
-
-#### Rental or Lease Constructions
-
-####  StyleLend
-
-StyleLend is a peer-to-peer fashion rental marketplace that enables individuals to rent and lend designer clothing and accessories. It facilitates rental transactions between users, allowing them to monetize their wardrobe or access high-end fashion at a fraction of the retail cost.
-
-#### E-commerce and Online Marketplaces
-
-#### ASOS
-
-ASOS is an online fashion retailer that generates revenue through its e-commerce platform. Customers can browse and purchase a wide range of clothing, accessories, and beauty products directly from the website.
-
-#### Advertising and Sponsorship
-
-####  H&M
-
-H&M has collaborated with renowned fashion designers and celebrities to create limited-edition collections. These collaborations generate buzz, drive sales, and create sponsorship opportunities for both the brand and the partner.
-
-##### Reference
-
-Amed, Imran, and Achim Berg. “The State of Fashion 2021 Report: Finding Promise in Perilous Times.” _The Business of Fashion_, 10 Dec. 2021, www.businessoffashion.com/reports/news-analysis/the-state-of-fashion-2021-industry-report-bof-mckinsey/.
-
-Lee, Chung‐Shing. "An analytical framework for evaluating e‐commerce business models and strategies." _Internet Research_ (2001).
-
-Ostermann, Cristina M., Leandro da Silva Nascimento, and Aurora Carneiro Zen. "Business Model Innovation for Circular Economy in Fashion Industry: A Startups' Perspective." _Frontiers in Sustainability_ 2 (2021): 766614.
-
-Todeschini, Bruna Villa, et al. "Innovative and sustainable business models in the fashion industry: Entrepreneurial drivers, opportunities, and challenges." _Business horizons_ 60.6 (2017): 759-770.
-
-Fan, Xuan. The Profit Model of the Fashion Industry. International Journal of Business and
-Social Science, 5(1),  (2014) 113-117.
-
+Ellen MacArthur Foundation. (2017). *A new textiles economy: Redesigning fashion’s future*. Ellen MacArthur Foundation. https://ellenmacarthurfoundation.org/a-new-textiles-economy

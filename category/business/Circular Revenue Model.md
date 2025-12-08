@@ -102,9 +102,38 @@ The Upcycle Project is a brand that focuses on transforming waste materials into
 
 ### References
 
-- [Amed, Imran, and Achim Berg. (2021). The State of Fashion 2021 Report: Finding Promise in Perilous Times. The Business of Fashion.](https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion)
-- [Ostermann, C. M., Nascimento, L. S., & Zen, A. C. (2021). Business Model Innovation for Circular Economy in Fashion Industry: A Start-ups' Perspective. Frontiers in Sustainability, 2(766614).](https://www.frontiersin.org/articles/10.3389/frsus.2021.766614/full)
-- Todeschini, B. V., et al. (2017). Innovative and Sustainable Business Models in the Fashion Industry: Entrepreneurial Drivers, Opportunities, and Challenges. Business Horizons, 60(6), 759-770.
-- Fan, X. (2014). The Profit Model of the Fashion Industry. International Journal of Business and Social Science, 5(1), 113-117.
-- Lee, Chung‐Shing. (2001). An Analytical Framework for Evaluating E‐Commerce Business Models and Strategies. Internet Research.
+### Case studies
 
+#### Mud Jeans – Lease A Jeans  
+Mud Jeans, a Dutch denim company, operates a “Lease A Jeans” model in which users pay a monthly fee to wear jeans and return them at end-of-use. The returned garments are repaired for resale, or shredded and recycled into new denim, generating recurring revenue while keeping cotton fibers in a technical loop.  
+[Project link](https://www.abnamro.nl/nl/zakelijk/insights/sectoren-en-trends/ondernemersverhalen/retail/lease-a-jeans-circulaire-broeken-als-een-service.html)
+
+#### For Days – Closed-Loop Membership & Take-Back  
+For Days is a U.S.-based circular apparel brand built around a membership and swap model in which users can send back worn items in exchange for credit toward new products. Returned textiles are sorted and recycled into new materials, so revenue is generated both from new garments and from ongoing participation in the take-back system rather than one-off sales.  
+[Project link](https://fordays.com)
+
+#### Eileen Fisher – Renew Take-Back and Resale  
+Eileen Fisher Renew is a long-running take-back program in which customers return used Eileen Fisher garments in exchange for store credit. Collected pieces are cleaned, repaired, and resold, or remade into new designs, creating an additional revenue stream from existing products while extending garment lifetimes and reducing waste.  
+[Project link](https://www.eileenfisherrenew.com)
+
+#### Patagonia – Worn Wear Repair and Recommerce  
+Patagonia’s Worn Wear program invites users to trade in used Patagonia garments for credit, which are then repaired and resold or recycled. The initiative monetizes repair and recommerce services alongside new product sales, strengthening user loyalty through repair events and storytelling while embedding circular practices directly into revenue generation.  
+[Project link](https://wornwear.patagonia.com)
+
+#### Levi Strauss & Co. – Levi’s SecondHand  
+Levi Strauss & Co. operates Levi’s SecondHand, a buy-back and resale model where customers trade in worn jeans and jackets for gift cards. Items suitable for reuse are cleaned and sold on a dedicated recommerce platform, while others are recycled, allowing Levi’s to earn revenue from multiple lifecycles of the same product and reducing reliance on virgin-material-based sales.  
+[Project link](https://www.levistrauss.com/2020/10/06/levis-secondhand/)
+
+---
+
+### References
+
+Johnson, E., & Plepys, A. (2021). Product-service systems and sustainability: Analysing the environmental impacts of rental clothing. *Sustainability, 13*(4), 2118. https://doi.org/10.3390/su13042118  
+
+Ostermann, C. M., Nascimento, L. S., & Zen, A. C. (2021). Business model innovation for circular economy in fashion industry: A start-ups’ perspective. *Frontiers in Sustainability, 2*, 766614. https://doi.org/10.3389/frsus.2021.766614  
+
+D’Itria, L., & Aus, R. (2023). Circular fashion: Evolving practices in a changing industry. *Sustainability: Science, Practice and Policy, 19*(1), 2220592. https://doi.org/10.1080/15487733.2023.2220592  
+
+Chen, X., et al. (2021). Circular economy and sustainability of the clothing and textile industry. *Materials Circular Economy, 3*, 1–9. https://doi.org/10.1007/s42824-021-00026-2  
+
+Todeschini, B. V., Cortimiglia, M. N., Callegaro-de-Menezes, D., & Ghezzi, A. (2017). Innovative and sustainable business models in the fashion industry: Entrepreneurial drivers, opportunities, and challenges. *Business Horizons, 60*(6), 759–770. https://doi.org/10.1016/j.bushor.2017.07.003  

@@ -1,4 +1,4 @@
-﻿## Economic Resilience
+## Economic Resilience
 <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
 	
@@ -102,29 +102,37 @@ Economic resilience also involves embracing innovation and leveraging technology
 
 ### Case studies
 
-#### H&M (Hennes & Mauritz)
+#### MUD Jeans – Lease A Jeans circular denim model  
+MUD Jeans, a Dutch denim brand and certified B Corporation, has built economic resilience around its “Lease A Jeans” model, where customers pay a monthly fee to use jeans and return them for repair, resale, or fiber-to-fiber recycling. This shifts revenue from one-off sales to recurring cash flow and secures a steady stream of secondary raw material, reducing exposure to cotton price volatility and unsold stock.  
+[Project link](https://mudjeans.com)
 
-H&M is a globally recognized fashion retailer that has implemented various strategies to enhance economic resilience. The company focuses on diversifying its product offerings, targeting different market segments with brands like COS and & Other Stories. H&M also emphasizes sustainability and ethical practices by promoting garment recycling and offering conscious collections made from sustainable materials.
+#### Community Clothing – Local manufacturing and factory downtime buffering  
+Community Clothing is a UK social enterprise that places orders with regional factories during their low-season periods, smoothing highly seasonal demand and keeping skilled workers employed year-round. By combining direct-to-user sales of durable basics with this “downtime-filling” model, the initiative increases the financial resilience of both its own brand and the wider local manufacturing network against macro-economic shocks.  
+[Project link](https://communityclothing.co.uk)
 
-#### Nike
+#### EILEEN FISHER – Renew take-back and resale program  
+EILEEN FISHER Renew is a take-back and resale program where the brand buys back used garments, cleans and repairs them, and resells them through a dedicated channel. This circular service layer generates additional revenue from existing products, reduces dependence on virgin production, and builds a more resilient business model by diversifying income streams and deepening long-term relationships with wearers.  
+[Project link](https://www.eileenfisherrenew.com)
 
-Nike, a leading sportswear brand, has demonstrated economic resilience by adopting innovative technologies and leveraging digital platforms. The company invests in research and development to introduce performance-enhancing materials and manufacturing processes. Nike's direct-to-user strategy, supported by e-commerce platforms and personalized experiences, enables the company to adapt to changing user behaviors and market trends.
+#### For Days – Closed-loop subscription and take-back system  
+For Days operates a membership and swap model in which wearers can return used garments for credit and purchase new items made from recycled fibers, supported by products like the “Take Back Bag.” By tying revenue to continuous circulation of materials rather than linear throughput, the brand reduces inventory risk, stabilizes demand through subscription-like behavior, and strengthens economic resilience via material and customer lock-in.  
+[Project link](https://fordays.com)
 
-#### Levi Strauss & Co.
+#### Vestiaire Collective – Resale marketplace for luxury fashion  
+Vestiaire Collective is a global resale platform for pre-owned fashion that enables wearers to monetize existing wardrobes and brands to benefit indirectly from extended product lifetimes and higher asset liquidity. As a service infrastructure for resale, it creates new revenue opportunities for sellers, mitigates economic risk tied to primary market downturns, and supports a more resilient fashion ecosystem by distributing value across multiple use cycles.  
+[Project link](https://www.vestiairecollective.com)
 
-Levi's, a renowned denim brand, showcases economic resilience through its supply chain optimization efforts. The company collaborates with suppliers to ensure responsible sourcing of raw materials and implements efficient inventory management systems. Levi's also invests in sustainable practices, such as reducing water usage and promoting worker well-being, aligning with its commitment to social and environmental responsibility.
 
-#### Inditex Group
+### References
 
-Inditex, the parent company of Zara, implements economic resilience strategies through its agile supply chain and quick response to market demands. The company's vertically integrated business model enables efficient production and distribution, allowing Zara to adapt its product offerings in response to emerging trends rapidly. Inditex also emphasizes sustainability initiatives, such as its "Closing the Loop" program, which promotes garment recycling and circularity.
+D’Adamo, I., & Lupi, G. (2021). Sustainability and resilience after COVID-19: A circular premium in the fashion industry. *Sustainability, 13*(4), 1861. https://doi.org/10.3390/su13041861  
 
-##### References
+Hileman, J., Flanigan, L., Griffith, S., Lane, A., McGregor, A., & Watson, D. (2021). *A sustainable and resilient circular fashion and textiles industry: Towards a circular economy that respects and responds to planetary priorities*. Zenodo. https://doi.org/10.5281/zenodo.4561848  
 
-D’Adamo, Idiano, and Gianluca Lupi. "Sustainability and resilience after COVID-19: A circular premium in the fashion industry." _Sustainability_ 13.4 (2021): 1861.
+Ostermann, C. M., Nascimento, L. S., & Zen, A. C. (2021). Business model innovation for circular economy in fashion industry: A start-ups’ perspective. *Frontiers in Sustainability, 2*, 766614. https://doi.org/10.3389/frsus.2021.766614  
 
-Martinez-de-Albeniz, Victor and Aparicio, Diego and Balsach, Jordi, The Resilience of Fashion Retail Stores (November 1, 2022). 
+Todeschini, B. V., Cortimiglia, M. N., Callegaro-de-Menezes, D., & Ghezzi, A. (2017). Innovative and sustainable business models in the fashion industry: Entrepreneurial drivers, opportunities, and challenges. *Business Horizons, 60*(6), 759–770. https://doi.org/10.1016/j.bushor.2017.05.009  
 
-Hileman, Jacob, et al. “A Sustainable and Resilient Circular Fashion and Textiles Industry: Towards a Circular Economy That Respects and Responds to Planetary Priorities.” _Zenodo_, 25 Feb. 2021, zenodo.org/record/4561848.
-
+Amed, I., & Berg, A. (2021). *The State of Fashion 2021*. McKinsey & Company & The Business of Fashion. Retrieved from https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion  
 
 

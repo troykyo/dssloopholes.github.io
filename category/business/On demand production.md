@@ -1,4 +1,4 @@
-﻿## On-Demand Production
+## On-Demand Production
  
  <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
@@ -105,26 +105,35 @@ On-demand production can enhance the efficiency of the fashion supply chain. By 
 
 ### Case studies
 
-#### Unmade
+#### Unmade – UnmadeOS demand-driven knitwear production  
+Unmade is a London-based fashion technology company that developed UnmadeOS, a software platform that links online customization interfaces directly to industrial knitting machines. Brands use UnmadeOS to produce knitwear and apparel only after an order is placed, enabling individualized products while avoiding overproduction and excess inventory.  
+[Project link](https://www.unmade.com)
 
-Unmade is a London-based fashion technology company that specializes in on-demand production and customization. They have developed a platform that allows brands to offer customizable products to their users. Unmade's technology enables the customization of various design elements, such as color, pattern, and placement, providing a unique and personalized experience for users. The company has collaborated with several fashion brands, including Farfetch and Rapha, to implement on-demand production and offer customizable products.
+#### Ministry of Supply – In-store 3D Print-Knit on demand  
+Ministry of Supply piloted in-store on-demand production using a Shima Seiki 3D knitting machine in its Boston flagship. Customers could order a blazer that was knit to specification in-store within hours, demonstrating how near-user micro-factories and on-demand knitting can reduce inventory risk, shorten lead times, and align production volumes with actual demand.  
+[Project link](https://www.ministryofsupply.com)
 
-#### Ministry of Supply
+#### Rapanui / Teemill – Print-on-demand circular T-shirts  
+Rapanui, a UK-based fashion brand, operates a print-on-demand system through its Teemill platform. Garments are only produced when an order is placed, using organic cotton and renewable energy, and each product carries a take-back code so worn-out items can be returned, recycled, and reprinted. This on-demand, circular model reduces unsold stock and ties revenue directly to realized demand rather than forecasts.  
+[Project link](https://rapanuiclothing.com)
 
-Ministry of Supply is a clothing brand that utilizes on-demand production to offer personalized and technologically advanced apparel. They use data-driven insights to understand user preferences and create garments that cater to individual needs. Through their online platform, customers can customize aspects such as fit, size, and style. Ministry of Supply's on-demand production approach allows them to reduce waste and deliver high-quality, tailored garments to their customers.
+#### Nike – Nike By You made-to-order customization  
+Nike By You (formerly NIKEiD) allows users to configure colours, materials, and performance features for footwear and apparel online. These customized items are made to order, shifting part of Nike’s business towards demand-driven production while capturing a price premium for personalization and reducing deadstock risk.  
+[Project link](https://www.nike.com/nike-by-you)
 
-#### Shoes of Prey
-
-Shoes of Prey, a footwear brand, implemented an on-demand production model that allowed users to design their own shoes. Through their online platform, users could choose from a wide range of styles, materials, and colors to create their custom footwear. Shoes of Prey manufactured the shoes based on individual orders, reducing waste and ensuring each pair was uniquely tailored to user specifications. Although the company closed in 2018, it serves as an early example of successful on-demand production in the fashion industry.
-
-#### Print All Over Me (PAOM)
-
-PAOM is a platform that enables artists and designers to create and sell custom-designed apparel and accessories. Users can select a product and then choose from a library of artist-created designs or upload their own artwork to be printed on the item. Once an order is placed, PAOM produces the product on-demand, ensuring that each item is unique and personalized. This on-demand production model allows artists and designers to showcase their creativity while minimizing waste and inventory costs.
-
-##### References
-Fletcher, Kate. "Exploring demand reduction through design, durability and ‘usership’of fashion clothes." _Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences_ 375.2095 (2017): 20160366.
-
-“The Role of Technology for On-Demand Fashion.” _The Role of Technology for On-Demand Fashion_, www.platforme.com/blog/the-role-of-technology-for-on-demand-fashion. Accessed 3 June 2023.
-
+#### Printful – On-demand print and fulfilment infrastructure for fashion brands  
+Printful is an on-demand print and fulfilment service that produces apparel, accessories, and home textiles only after end-users place orders through client webshops. By combining just-in-time digital printing and distributed fulfilment centres, Printful enables brands to offer extensive product catalogues with zero finished-goods inventory, turning fixed manufacturing and warehousing costs into variable per-order costs.  
+[Project link](https://www.printful.com)
 
 
+### References
+
+Nachtigall, T. R., Tomico, O., Wakkary, R., Wensveen, S., van Dongen, P., & Tentoff van Norten, L. (2018). Towards ultra personalized 4D printed shoes. *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ’18)*, 1–9. https://doi.org/10.1145/3170427.3174369
+
+Pal, R., & Gander, J. (2018). Modelling environmental value: An examination of sustainable business models within the fashion industry. *Journal of Cleaner Production, 184*, 251–263.
+
+Shen, B., Li, Q., Dong, C., & Perry, P. (2017). Sustainability issues in textile and apparel supply chains. *Sustainability, 9*(9), 1592.
+
+Zhang, X., & Zhang, Y. (2020). Mass customization in the apparel industry: A review of operations, technologies and business models. *International Journal of Clothing Science and Technology, 32*(5), 701–719.
+
+Jin, B., Jung, S., & Matthews, D. (2012). Retailing sustainability: On-demand production and emerging business models in fashion. *Journal of Fashion Marketing and Management, 16*(2), 140–156.

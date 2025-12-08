@@ -95,38 +95,35 @@ Overall, building product-service ecosystems represents a paradigm shift from tr
 
 ### Case studies
 
-#### Thread
+#### Patagonia – Worn Wear & Repair Services  
+Patagonia’s Worn Wear ecosystem combines product design, repair services, resale, and storytelling into a single platform. Wearers can repair garments in-store or via mail-in, trade in used items, and buy refurbished products, creating an integrated product-service ecosystem that keeps products in use and tightens feedback between design, use, and aftercare.  
+[Project link](https://wornwear.patagonia.com)
 
-Thread is an online fashion platform that leverages technology and personal stylists to create personalized recommendations for users. By collecting data on customers' style preferences, body measurements, and budget, Thread curates a selection of clothing items from various brands that match their individual taste. The ecosystem combines personalization, convenience, and access to a wide range of fashion products.
+#### EILEEN FISHER – Renew & Waste No More  
+EILEEN FISHER Renew invites wearers to return used garments in exchange for credit; items are then cleaned, repaired, resold or transformed in the Waste No More studio. This creates a branded ecosystem spanning design, collection, remanufacturing, and resale, with dedicated physical spaces and digital channels that operationalize circular product-service relationships.  
+[Project link](https://www.eileenfisher.com/renew)
 
-#### Farfetch
+#### Mud Jeans – Lease A Jeans Circular Ecosystem  
+Mud Jeans operates an ecosystem in which wearers can lease jeans, return them at end-of-use, and have the fibres mechanically recycled into new denim. The model links subscription-style access, repair, take-back, and fibre-to-fibre recycling, demonstrating how a tightly coupled product-service system can align revenue with material circularity.  
+[Project link](https://mudjeans.eu/pages/circular-denim)
 
-Farfetch is a global luxury fashion platform that connects users with a curated selection of boutiques and designers worldwide. Through its platform, users can discover and purchase unique fashion items from different sellers. Farfetch's ecosystem offers a seamless shopping experience, including worldwide shipping, personalized recommendations, and access to exclusive collections and collaborations.
+#### Levi Strauss & Co. – Levi’s SecondHand & Tailor Shops  
+Levi’s combines its SecondHand buy-back and resale platform with in-store Tailor Shops offering customization and repair. Together, these services extend garment lifetimes, create new touchpoints around care and modification, and link physical retail, digital resale, and craft services into a coherent product-service ecosystem around denim.  
+[Project link](https://www.levi.com/US/en_US/features/secondhand)
 
-#### Vestiaire Collective
+#### Nudie Jeans – Repair, Reuse, Recycle Ecosystem  
+Nudie Jeans’ ecosystem integrates free lifetime repairs, reuse through resale of repaired jeans, and fibre recycling of unrepairable items. Repair shops, mobile repair events, and clear take-back channels form a service layer around the core denim products, aligning business value with prolonged use and circular material flows.  
+[Project link](https://www.nudiejeans.com/repair-reuse-recycle)
 
-Vestiaire Collective is a leading online marketplace for pre-owned luxury fashion. The platform allows individuals to buy and sell authenticated, second-hand designer items. The ecosystem promotes sustainability by extending the lifecycle of fashion products and provides a trusted platform for buyers and sellers to engage in the circular economy.
 
-#### Lululemon
+### References
 
-Lululemon, a popular athleisure brand, has developed an ecosystem that goes beyond selling activewear. They offer complimentary yoga classes, workshops, and community events in their stores to create a holistic brand experience. Lululemon's ecosystem combines product sales with wellness services, fostering a sense of community and promoting an active lifestyle.
+Armstrong, C. M., & Lang, C. (2013). Sustainable product-service systems: The new frontier in apparel retailing? *Research Journal of Textile and Apparel, 17*(1), 1–12. https://doi.org/10.1108/RJTA-17-1-2013-B001  
 
-#### Levi's SecondHand
+Bocken, N. M. P., de Pauw, I., Bakker, C., & van der Grinten, B. (2016). Product design and business model strategies for a circular economy. *Journal of Industrial and Production Engineering, 33*(5), 308–320. https://doi.org/10.1080/21681015.2016.1172124  
 
-Levi's, a renowned denim brand, launched Levi's SecondHand, a buyback and resale program. Customers can sell their used Levi's clothing back to the company, which then refurbishes and resells them through their online platform. This ecosystem promotes sustainability by encouraging the reuse of denim products and provides users with an alternative to traditional retail.
+Geissdoerfer, M., Savaget, P., Bocken, N. M. P., & Hultink, E. J. (2017). The Circular Economy – A new sustainability paradigm? *Journal of Cleaner Production, 143*, 757–768. https://doi.org/10.1016/j.jclepro.2016.12.048  
 
-#### Poshmark
+Lüdeke-Freund, F., Gold, S., & Bocken, N. M. P. (2019). A review and typology of circular economy business model patterns. *Journal of Industrial Ecology, 23*(1), 36–61. https://doi.org/10.1111/jiec.12763  
 
-Poshmark is a social marketplace where individuals can buy and sell new and used fashion items. The platform enables users to create their own virtual closets, engage with a community of buyers and sellers, and participate in themed shopping parties. Poshmark's ecosystem combines social networking, personalized shopping, and the circular economy.
-
-##### Reference
-
-[Baker, K. (2023, March 16). _How to build a product ecosystem buyers will want to be in_. HubSpot Blog. https://blog.hubspot.com/marketing/product-ecosystem](https://blog.hubspot.com/marketing/product-ecosystem)
-
-[Armstrong, Cosette M., and Chunmin Lang. "Sustainable product service systems: the new frontier in apparel retailing?." _Research Journal of Textile and Apparel_ (2013).](https://www.researchgate.net/publication/261870225_Sustainable_Product_Service_Systems_The_New_Frontier_in_Apparel_Retailing)
-
-[Yang, Shuai, Yiping Song, and Siliang Tong. "Sustainable retailing in the fashion industry: A systematic literature review." _Sustainability_ 9.7 (2017): 1266.](https://www.mdpi.com/2071-1050/9/7/1266)
-
-[Gockeln, Lisa. _Fashion industry analysis from the perspective of business model dynamics_. BS thesis. University of Twente, 2014.](https://essay.utwente.nl/66183/1/Gockeln_BA_MB.pdf)
-
-[Lundgreen, Mathilde, and Nanna Flensberg. "Use-oriented product service systems in the fashion industry: Understanding consumers’ perception-an exploratory study." (2020).](https://projekter.aau.dk/projekter/files/334882749/Master_s_Thesis_by_Lundgreen_and_Flensberg.pdf)
+Tukker, A. (2004). Eight types of product–service system: Eight ways to sustainability? Experiences from SusProNet. *Business Strategy and the Environment, 13*(4), 246–260. https://doi.org/10.1002/bse.414  

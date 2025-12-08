@@ -1,4 +1,4 @@
-﻿## Developing Competencies
+## Developing Competencies
 
  <div class="image-container">
   <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Bcard.png" alt="Bcard" style="width: 75%;" class="responsive-image">
@@ -108,36 +108,38 @@ To sustain the development of competencies, organizations should foster a cultur
 Effective performance management systems and regular feedback mechanisms contribute to the development of competencies. Providing constructive feedback, setting performance goals, and aligning individual development plans with organizational objectives creates a framework for individuals to track their progress and work towards improving their competencies.
 
 By focusing on developing competencies in the fashion domain, organizations can ensure they have the necessary skills, knowledge, and expertise to create a compelling value proposition. This enables them to stay competitive, adapt to changing industry dynamics, and meet the evolving needs and expectations of customers in the fashion industry.
-
 ### Case studies
 
-#### LVMH
+#### LVMH – Institut des Métiers d’Excellence (IME)
+LVMH’s Institut des Métiers d’Excellence (IME) is a vocational training programme that develops craftsmanship, retail, and creative skills across its fashion and luxury houses. It combines formal education with paid apprenticeships in ateliers and boutiques, ensuring transmission of métier-specific competencies and employability in the fashion ecosystem.  
+[Project link](https://www.lvmh.com)
 
-LVMH, a luxury goods conglomerate, has established the LVMH Institut des Métiers d'Excellence (IME) to develop competencies within the fashion and luxury industry. IME offers training programs in collaboration with prestigious schools and institutions to nurture talent and develop skills in areas such as craftsmanship, design, retail, and digital marketing. The program provides participants with hands-on experience, mentoring, and industry exposure, ensuring a strong pipeline of skilled professionals for the fashion industry.
+#### Inditex – People development and training programmes
+Inditex, the parent company of brands such as Zara and Massimo Dutti, runs extensive internal training and talent development programmes for store staff, designers, buyers, and logistics teams. These programmes focus on fast trend response, digital capabilities, sustainability and circularity, and end-to-end value-chain understanding, systematically building competencies needed for its agile fashion system.  
+[Project link](https://www.inditex.com)
 
-#### PVH Corp
+#### Global Fashion Agenda – Circular Design Training
+Global Fashion Agenda’s Circular Design Training supports brands and designers in developing competencies for circular product and system design. Through structured learning modules, case work, and tools, the programme builds skills in circular business models, material choices, design for longevity, and end-of-life strategies, directly targeting capability gaps around circular fashion.  
+[Project link](https://globalfashionagenda.org/programmes/circular-design-training)
 
-PVH Corp., the parent company of fashion brands like Calvin Klein and Tommy Hilfiger, has implemented a comprehensive competency development program called PVH University. The program offers a wide range of training and development opportunities, including online learning modules, classroom training, leadership development programs, and cross-functional assignments. PVH University focuses on developing competencies in areas such as design, merchandising, marketing, sustainability, and supply chain management to support the growth and success of its fashion brands.
+#### Fashion for Good – Educational and innovation programmes
+Fashion for Good operates an innovation platform and museum in Amsterdam that offers guided programmes, exhibitions, and toolkits focused on sustainable and circular fashion. Its activities support competency development among students, professionals, and start-ups by translating emerging technologies and business models into accessible learning experiences and experimentation.  
+[Project link](https://fashionforgood.com)
 
-#### Inditex
+#### Fashion Revolution – Education and citizen competency building
+Fashion Revolution develops open educational resources, curricula, and campaigns (such as “Who Made My Clothes?”) that build competencies in critical thinking, transparency, and responsible fashion engagement among students and citizens. By linking activism, pedagogy, and industry critique, it helps learners develop knowledge and skills for more accountable and sustainable fashion systems.  
+[Project link](https://www.fashionrevolution.org)
 
-Inditex, the parent company of Zara and other fashion brands, emphasizes competency development through its talent management programs. The company provides various learning and development initiatives, including on-the-job training, cross-functional rotations, and leadership development programs. Inditex focuses on developing competencies related to trend analysis, product development, supply chain management, and sustainability to maintain its position as a fast-fashion leader.
+---
 
-#### Nike
+### References
 
-Nike has established the Nike School of Sustainable Materials and Manufacturing Innovation to develop competencies in sustainable practices within the fashion and sportswear industry. The school provides training programs, workshops, and collaborative projects to educate and empower employees and industry professionals on sustainable material sourcing, manufacturing processes, and circular economy principles. By developing competencies in sustainability, Nike aims to drive innovation and reduce its environmental footprint.
+Nachtigall, T. R., Tomico, O., Wakkary, R., Wensveen, S., van Dongen, P., & Tentoff van Norten, L. (2018). Towards ultra personalized 4D printed shoes. In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1–9). ACM. https://doi.org/10.1145/3170427.3174369
 
-#### Fashion Revolution
+Osman, A. (2022). Effectiveness of proposed competencies in fashion design based on the aesthetic approach in developing the concepts and skills of fashion design and clothing taste for female students specializing in ready-made garments in industrial secondary schools. *المجلة التربوية لكلية التربية بسوهاج, 94*(94), 451–507.
 
-Fashion Revolution is a global movement advocating for transparency and sustainability in the fashion industry. Through its educational programs, campaigns, and resources, Fashion Revolution aims to develop competencies among consumers, students, and professionals related to ethical fashion, supply chain transparency, and responsible consumption. The movement encourages individuals to question and engage with the fashion industry, fostering a more informed and responsible approach to fashion.
+Kamis, A., Ismail, N., Bakar, N. A., & Talib, R. (2014). Technical skills, knowledge competencies and expected changes in the clothing industry. *Journal of Technical Education and Training, 6*(2), 16–30.
 
+Mohanraj, P. (2018). An industry view on process competencies of apparel designers: A study. *International Journal of Textile and Fashion Technology, 8*(4), 1–10.
 
-##### References
-OSMAN, ABEER. "Effectiveness Of Proposed Competencies in Fashion Design Based on The Aesthetic Approach in Developing the Concepts and Skills of Fashion Design and Clothing Taste for Female Students Specializing in Ready-Made Garments in Industrial Secondary Schools." _المجلة التربوية لکلية التربية بسوهاج_ 94.94 (2022): 451-507.‎
-
-Kamis, Arasinah et al. “Technical skills, knowledge competencies and expected changes in the clothing industry.” (2014).
-
-Mohanraj.PMohanraj., P and Tjprc. “An Industry View on Process Competencies of Apparel Designers, A Study.” (2018).
-
-Da Silva, Luiz Henrique, et al. “Leader’s Role in the Development of Collective Competencies of Fashion Work Teams.” _Journal of Fashion Marketing and Management: An International Journal_, (2023),
-
+Da Silva, L. H., de Oliveira, E. A. A. Q., de Sousa, B. L., & da Silva, T. N. (2023). Leader’s role in the development of collective competencies of fashion work teams. *Journal of Fashion Marketing and Management: An International Journal*. Advance online publication.
