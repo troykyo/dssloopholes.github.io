@@ -142,16 +142,37 @@ Clearbit is a data enrichment platform that offers technographic data as part of
 
 ### References
 
+### Case studies
 
-- Gilbert, J. (2020, March 19). _Council post: How B2B and B2C businesses can boost sales with smart intent marketing_. Forbes. https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/19/how-b2b-and-b2c-businesses-can-boost-sales-with-smart-intent-marketing/
+#### BESTSELLER – Digital fashion & traceability
+BESTSELLER’s “Digital Fashion & Traceability” programme uses product- and value-chain data to map fibre origins, production sites, and logistics, integrating this into digital fashion workflows and reporting dashboards. By linking web-based traceability tools with internal ERP and sustainability systems, the initiative supports CSRD-aligned disclosures and enables scenario analysis on materials, suppliers, and circular strategies.  
+[Project link](https://bestseller.com/sustainability/preparing-for-a-circular-future/digital-fashion-traceability)
 
-- Van Heerde, Harald J., Isaac M. Dinner, and Scott A. Neslin. "Engaging the unengaged customer: The value of a retailer mobile app." _International Journal of Research in Marketing_ 36.3 (2019): 420-438.
+#### LAYBL – Tracking clothes to make fashion more sustainable
+LAYBL provides a digital ID and tracking solution that connects garments to a cloud-based data layer via QR/NFC, capturing how, where, and how often items are used and resold. This technographic data on wardrobe behaviour and circulation enables brands and platforms to quantify use-phase impacts, design take-back models, and communicate evidence-based sustainability claims.  
+[Project link](https://www.laybl.app/blog/tracking-clothes-to-make-fashion-more-sustainable)
 
-- [Digital fashion & traceability](https://bestseller.com/sustainability/preparing-for-a-circular-future/digital-fashion-traceability)
+#### Textile Exchange – Trackit / E-Trackit
+Textile Exchange’s Trackit (formerly E-Trackit) platform offers a traceability and data infrastructure that links transaction and certification data across complex textile value chains. By digitising chain-of-custody events and providing dashboards for brand, supplier and fibre-level performance, it supports science-based targets, CSRD-relevant indicators, and scenario modelling for preferred fibre uptake and circular interventions.  
+[Project link](https://textileexchange.org/trackit/)
 
-- [McKinsey Technology Trends Outlook 2024](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech#new-and-notable)
+#### TextileGenesis – Fiber-to-retail traceability and impact data
+TextileGenesis combines unique fibre tokens with a data platform to create a “fiber-to-retail” digital trail for materials such as TENCEL™ and LENZING™ ECOVERO™. Brands access granular chain-of-custody histories, transaction logs, and impact data through web-based interfaces and APIs, enabling credible claims, anti-greenwashing audits, and integration with digital product passports and ESG reporting pipelines.  
+[Project link](https://fashionforgood.com/our_news/meet-the-innovator-textilegenesis/)
 
-- [Download State of Fashion 2025](https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion#/)
+#### Zalando – Data-driven sustainability and customer insight
+Zalando uses web- and app-based behavioural data together with product and supplier data to inform assortment curation, “sustainability flagging,” and reporting aligned with EU sustainability regulation. By analysing clickstreams, search terms, return behaviour, and sustainability filter use, Zalando can steer buyers toward lower-impact assortments, test circular services, and generate CSRD-relevant indicators on user engagement with sustainable options.  
+[Project link](https://corporate.zalando.com/en/sustainability)
 
-- Berg, Martin. "Digital Technography: A Methodology for Interrogating Emerging Digital Technologies and Their Futures." _Qualitative Inquiry_ 28.7 (2022): 827-836.
 
+### References
+
+Akhtar, W. H., Liu, X., Han, H., & Qin, Y. (2022). A new perspective on the textile and apparel industry in the digital transformation era. *Textiles, 2*(4), 633–656.
+
+Berg, M. (2022). Digital technography: A methodology for interrogating emerging digital technologies and their futures. *Qualitative Inquiry, 28*(7), 827–836.
+
+Casciani, D., Chkanikova, O., & Pal, R. (2022). Exploring the nature of digital transformation in the fashion industry: Opportunities for supply chains, business models, and sustainability-oriented innovations. *Sustainability: Science, Practice and Policy, 18*(1), 773–795.
+
+Stocchi, L., Michaelidou, N., Pourazad, N., Micevski, M., & Harrigan, P. (2021). Marketing research on mobile apps: Past, present and future. *European Journal of Marketing, 55*(6), 1513–1552.
+
+van Heerde, H. J., Dinner, I. M., & Neslin, S. A. (2019). Engaging the unengaged customer: The value of a retailer mobile app. *International Journal of Research in Marketing, 36*(3), 420–438.

@@ -97,40 +97,35 @@ By harnessing knowledge and data about wear and tear, the fashion industry can m
 
 ### Case studies
 
-#### Patagonia's worn wear program
+#### Patagonia – Worn Wear repair and reuse program  
+Patagonia’s Worn Wear program collects, repairs, and resells used garments, generating detailed insights into how products age in real conditions. Repair histories and common failure points feed back into design and material choices, extending product lifetimes and anchoring a business model around durability and circularity rather than volume growth.  
+[Project link](https://wornwear.patagonia.com)
 
-Patagonia collects data on the wear and tear of their products through their Worn Wear program. Users can bring back their worn-out garments to Patagonia stores, where the items are assessed for repairability. The data gathered from this program helps Patagonia understand the durability of their products, identify common areas of wear and tear, and inform their design and production processes. [More about Patagonia's Worn Wear Program](https://wornwear.patagonia.com/)
+#### Mud Jeans – Lease A Jeans circular denim system  
+Mud Jeans’ Lease A Jeans model encourages users to lease denim and return it at end-of-use, allowing the brand to inspect wear patterns, repair garments, and recycle fibres. Systematic feedback from leased and returned jeans informs fabric development, seam construction, and design for recyclability, directly linking real-world wear and tear to product and system improvements.  
+[Project link](https://www.mudjeans.eu/pages/lease-a-jeans)
 
-#### Mud Jeans' lease a jeans model
+#### Levi Strauss & Co. – Care Tag for Our Planet and LCA-guided care  
+Levi Strauss & Co. combined lifecycle assessment with the “Care Tag for Our Planet” initiative to show how washing, drying, and wearing practices drive environmental impact over a garment’s life. By translating wear and care data into user-facing guidance printed on labels and reports, Levi’s promotes repair, reduced washing, and prolonged use as core strategies for lowering total impact.  
+[Project link](https://www.levistrauss.com/wp-content/uploads/2015/03/Full-LCA-Results-Deck-FINAL.pdf)
 
-Mud Jeans, a Dutch denim brand, offers a lease model where users can lease a pair of jeans instead of buying them outright. The company collects data on the wear and tear of leased jeans, which helps them analyze usage patterns and optimize their product design and manufacturing processes. The insights gained from wear and tear data contribute to producing more durable and longer-lasting denim products. [More about Mud Jeans' Lease a Jeans Model](https://www.mudjeans.eu/pages/lease-a-jeans)
+#### EON Group – CircularID™ product identity and lifecycle data  
+EON’s CircularID™ protocol assigns digital identities to individual fashion products, allowing brands to log production, use, repair, and resale events over time. Capturing wear and tear data as part of the digital record supports design-for-durability, repair services, and more accurate sorting and routing at end-of-life, enabling scalable circular business models.  
+[Project link](https://eongroup.co/circularid)
 
-#### Levi's care tag for our planet
+#### Eileen Fisher – Waste No More remanufacturing from damaged garments  
+Eileen Fisher’s Waste No More initiative transforms damaged take-back garments into new textile artworks, panels, and products. Close reading of wear, damage, and fabric failures in returned pieces informs both future design decisions and new forms of remanufacturing, demonstrating how visible traces of wear can become a design input rather than a reason for disposal.  
+[Project link](https://www.wastenomore.com)
 
-Levi's launched their Care Tag for Our Planet initiative, which provides users with information on sustainable care practices for their garments. By understanding the wear and tear patterns of their products, Levi's provides care instructions that enable customers to prolong the lifespan of their clothing, reducing unnecessary waste and promoting responsible consumption. [More about Levi's Care Tag for Our Planet](https://www.levistrauss.com/wp-content/uploads/2015/03/Full-LCA-Results-Deck-FINAL.pdf)
 
-#### EON Group's circularID™ protocol
+### References
 
-EON Group developed the CircularID™ protocol, which uses digital identifiers to track and monitor the lifecycle of fashion products. By incorporating wear and tear data into the digital identity of each product, brands and consumers can make informed decisions about repairs, maintenance, and end-of-life options. This data-driven approach promotes circularity by enabling more efficient product management and reducing waste. [More about EON Group's CircularID™ Protocol](https://eongroup.co/circularid/)
+- Aakko, M., & Niinimäki, K. (2022). Quality matters: Reviewing the connections between perceived quality and clothing use time. *Journal of Fashion Marketing and Management: An International Journal, 26*(1), 107–125. https://doi.org/10.1108/JFMM-04-2021-0070  
 
-#### WASTE NO MORE. A new expression from EILEEN FISHER
-Waste No More embodies the art and design of conscious consumption. Using both traditional and custom techniques, our team repurposes material from the damaged clothes we’ve taken back to create one-of-a-kind artworks, wall hangings, acoustic panels and decorative objects. It’s how we’re designing without waste. [Learn more](https://www.wastenomore.com/)
+- Feijs, L., Nachtigall, T., & Tomico, O. (2016). Sole maker: Towards ultra-personalised shoe design using Voronoi diagrams and 3D printing. In *Proceedings of SMI 2016 Fabrication and Sculpting Event (FASE)* (pp. 31–40). https://doi.org/10.1109/SMI.2016.24  
 
-### References 
+- Klepp, I. G., Laitala, K., & Wiedemann, S. (2020). Clothing lifespans: What should be measured and how. *Sustainability, 12*(15), 6219. https://doi.org/10.3390/su12156219  
 
-**Feijs, Loe, Troy Nachtigall, and Oscar Tomico. "Sole maker: towards ultra-personalised shoe design using voronoi diagrams and 3D printing."**  
-_Proceedings of SMI'2016 Fabrication and Sculpting Event (FASE)_ (2016): 31-40.  
-This paper explores the use of Voronoi diagrams and 3D printing technology in creating highly personalized shoe designs, offering a novel approach to footwear customization.  
-[https://doi.org/10.1109/SMI.2016.24](https://doi.org/10.1109/SMI.2016.24)
+- Laitala, K., Klepp, I. G., & Henry, B. (2018). Does use matter? Comparison of environmental impacts of clothing based on fibre type. *Sustainability, 10*(7), 2524. https://doi.org/10.3390/su10072524  
 
-**Klepp, Ingun Grimstad, Kirsi Laitala, and Stephen Wiedemann. "Clothing lifespans: what should be measured and how."**  
-_Sustainability_ 12.15 (2020): 6219.  
-This study investigates the key factors influencing the lifespan of clothing and provides recommendations on what should be measured and the methodologies to use for assessing clothing durability.  
-[https://doi.org/10.3390/su12156219](https://doi.org/10.3390/su12156219)
-
-**Aakko, Maarit, and Kirsi Niinimäki. "Quality matters: reviewing the connections between perceived quality and clothing use time."**  
-_Journal of Fashion Marketing and Management: An International Journal_ 26.1 (2022): 107-125.  
-This paper reviews the relationship between perceived quality and the duration of clothing use, highlighting the importance of quality in extending the lifecycle of garments.  
-[https://doi.org/10.1108/JFMM-04-2021-0070](https://doi.org/10.1108/JFMM-04-2021-0070)
-
-#### [Madh](https://www.madhstore.com/)
+- Niinimäki, K., Peters, G., Rissanen, T., Gwilt, A., Karell, E., & Laitala, K., et al. (2020). The environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200. https://doi.org/10.1038/s43017-020-0039-9
